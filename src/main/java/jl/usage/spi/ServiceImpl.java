@@ -1,4 +1,4 @@
-package jl.usage;
+package jl.usage.spi;
 
 public class ServiceImpl implements IService {
     @Override

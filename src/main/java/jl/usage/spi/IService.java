@@ -1,4 +1,4 @@
-package jl.usage;
+package jl.usage.spi;
 
 public interface IService {
     void print();

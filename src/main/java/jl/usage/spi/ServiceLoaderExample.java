@@ -1,4 +1,4 @@
-package jl.usage;
+package jl.usage.spi;
 
 import java.util.ServiceLoader;
 
