@@ -19,6 +19,8 @@ import java.util.Map;
 public class GcExample {
 
     private static final String JVM_ARGS = "-Xms64M\n" +
+            "-XX:NewSize\n" +
+            "-XX:MaxNewSize\n" +
             "-Xmx64M\n" +
             "-XX:+PrintGCDetails\n" +
             "-verbose:gc\n" +
@@ -59,7 +61,7 @@ public class GcExample {
      */
     private static Map<Integer, WeakReference<BigArray>> demoWithWeakReferenced() {
         Map<Integer, WeakReference<BigArray>> bigArrayWeakReferenceMap = new HashMap<>();
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 10; i++) {
             bigArrayWeakReferenceMap.put(i, new WeakReference<>(new BigArray(i)));
         }
         return bigArrayWeakReferenceMap;
