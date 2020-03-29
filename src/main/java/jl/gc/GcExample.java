@@ -13,7 +13,8 @@ import java.util.Map;
 
 
 /**
- * https://www.jianshu.com/p/74d126dd5544
+ * gc参数详解  https://www.jianshu.com/p/74d126dd5544
+ * 垃圾回收器 https://www.cnblogs.com/chenpt/p/9803298.html
  */
 public class GcExample {
 
