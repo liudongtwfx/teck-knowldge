@@ -2,4 +2,5 @@ out
 .idea
 interview.iml
 target
-*.log
+*.log*
+d:
