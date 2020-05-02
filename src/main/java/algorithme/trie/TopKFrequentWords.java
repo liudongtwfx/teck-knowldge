@@ -68,31 +68,32 @@ public class TopKFrequentWords {
             if (node == null) {
                 node = new TrieNode();
             }
-            appendCharToTrie(node, word, 0);
+            node.appendCharToTrie(word, 0);
             return node;
         }
 
-        private void appendCharToTrie(TrieNode node, String word, int i) {
-            if (i > word.length()) {
-                return;
-            }
-            if (i == word.length()) {
-                node.value = word;
-                return;
-            }
-            char c = word.charAt(i);
-            if (node.children == null) {
-                node.children = new TrieNode[26];
-            }
-            if (node.children[c - 'a'] == null) {
-                node.children[c - 'a'] = new TrieNode();
-            }
-            appendCharToTrie(node.children[c - 'a'], word, i + 1);
-        }
     }
 
     private static class TrieNode {
         String value;
         TrieNode[] children;
+
+        private void appendCharToTrie(String word, int i) {
+            if (i > word.length()) {
+                return;
+            }
+            if (i == word.length()) {
+                value = word;
+                return;
+            }
+            char c = word.charAt(i);
+            if (children == null) {
+                children = new TrieNode[26];
+            }
+            if (children[c - 'a'] == null) {
+                children[c - 'a'] = new TrieNode();
+            }
+            children[c - 'a'].appendCharToTrie(word, i + 1);
+        }
     }
 }
