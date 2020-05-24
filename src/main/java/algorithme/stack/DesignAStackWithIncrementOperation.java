@@ -6,6 +6,8 @@ import java.util.List;
 /**
  * 1381. Design a Stack With Increment Operation
  * https://leetcode.com/problems/design-a-stack-with-increment-operation/
+ *
+ * @author liudong
  */
 public class DesignAStackWithIncrementOperation {
     public static void main(String[] args) {

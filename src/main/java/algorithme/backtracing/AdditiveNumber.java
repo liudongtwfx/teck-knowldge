@@ -29,12 +29,12 @@ public class AdditiveNumber {
                     addedNumber.add(str.substring(0, i + 1));
                     addedNumber.add(str.substring(i + 1, j + 1));
 
-                    String value = trimZero(addedNumber.get(0)) + trimZero(addedNumber.get(1));
+                    StringBuilder value = new StringBuilder(trimZero(addedNumber.get(0)) + trimZero(addedNumber.get(1)));
                     while (value.length() < str.length()) {
                         addedNumber.add(addTwoStr(addedNumber.get(addedNumber.size() - 2), addedNumber.get(addedNumber.size() - 1)));
-                        value += trimZero(addedNumber.get(addedNumber.size() - 1));
+                        value.append(trimZero(addedNumber.get(addedNumber.size() - 1)));
                     }
-                    if (value.equals(str)) {
+                    if (value.toString().equals(str)) {
                         return true;
                     }
                 }
