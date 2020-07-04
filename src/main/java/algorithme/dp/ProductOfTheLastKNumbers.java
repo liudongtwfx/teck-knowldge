@@ -15,7 +15,9 @@ public class ProductOfTheLastKNumbers {
         productOfNumbers.getProduct(3); // return 40. The product of the last 3 numbers is 2 * 5 * 4 = 40
         productOfNumbers.getProduct(4); // return 0. The product of the last 4 numbers is 0 * 2 * 5 * 4 = 0
         productOfNumbers.add(8);        // [3,0,2,5,4,8]
-        productOfNumbers.getProduct(2); // return 32. The product of the last 2 numbers is 4 * 8 = 32 
+        productOfNumbers.getProduct(2); //// return 32. The product of the last 2 numbers is 4 * 8 = 32
+        System.out.println("I ams doing the sam");
+        System.out.println("what is your nam");
     }
 
     static class ProductOfNumbers {

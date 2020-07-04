@@ -1,5 +1,7 @@
 package net.nio.netty;
 
+import io.github.benas.randombeans.EnhancedRandomBuilder;
+import io.github.benas.randombeans.api.EnhancedRandom;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.*;
@@ -16,7 +18,8 @@ import lombok.extern.slf4j.Slf4j;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.concurrent.ThreadLocalRandom;
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * @author liudong
@@ -39,8 +42,8 @@ public class NettyServer {
 
 
         // Configure the server.
-        EventLoopGroup bossGroup = new NioEventLoopGroup(100);
-        EventLoopGroup workerGroup = new NioEventLoopGroup();
+        EventLoopGroup bossGroup = new NioEventLoopGroup(1);
+        EventLoopGroup workerGroup = new NioEventLoopGroup(100);
         final EchoServerHandler serverHandler = new EchoServerHandler();
         try {
             ServerBootstrap b = new ServerBootstrap();
@@ -55,7 +58,7 @@ public class NettyServer {
                             if (sslCtx != null) {
                                 p.addLast(sslCtx.newHandler(ch.alloc()));
                             }
-                            p.addLast(new LoggingHandler(LogLevel.INFO));
+                            //p.addLast(new LoggingHandler(LogLevel.INFO));
                             p.addLast(serverHandler);
                         }
                     });
@@ -74,6 +77,10 @@ public class NettyServer {
 
     @Sharable
     private static class EchoServerHandler extends ChannelInboundHandlerAdapter {
+        private static final Map<String, String> CHANNEL_ID_MAP = new ConcurrentHashMap<>();
+
+        EnhancedRandom random = new EnhancedRandomBuilder().stringLengthRange(10000, 20000).build();
+
         @Override
         public void channelRead(ChannelHandlerContext ctx, Object msg) throws Exception {
             Channel channel = ctx.channel();
@@ -85,23 +92,25 @@ public class NettyServer {
             String resultStr = new String(bytesMsg);
 
             System.out.println(resultStr);
+            String clientId = resultStr.substring("hello world".length());
+            CHANNEL_ID_MAP.put(channel.id().toString(), clientId);
             // 向客户端发送消息
-            String response = "hello client!" + resultStr.substring("hello world".length());
+            String response = "hello client!" + clientId + getRandomStr();
             // 在当前场景下，发送的数据必须转换成ByteBuf数组
             ByteBuf encoded = ctx.alloc().buffer(4 * response.length());
             encoded.writeBytes(response.getBytes());
-            Thread.sleep(ThreadLocalRandom.current().nextInt(5000));
             ctx.writeAndFlush(encoded);
+            printMap();
         }
 
         @Override
         public void handlerAdded(ChannelHandlerContext ctx) throws Exception {
-            System.out.println("handler added");
+            //System.out.println("handler added");
         }
 
         @Override
         public void handlerRemoved(ChannelHandlerContext ctx) throws Exception {
-            System.out.println("handler removed");
+            //System.out.println("handler removed");
         }
 
         @Override
@@ -115,5 +124,14 @@ public class NettyServer {
             ctx.flush();
         }
 
+
+        public void printMap() {
+            System.out.println(CHANNEL_ID_MAP.size());
+            //CHANNEL_ID_MAP.forEach((channelId, clientId) -> System.out.println(channelId + " " + clientId));
+        }
+
+        private String getRandomStr() {
+            return random.nextObject(String.class);
+        }
     }
 }
