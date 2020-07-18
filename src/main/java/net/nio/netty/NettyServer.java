@@ -79,7 +79,7 @@ public class NettyServer {
     private static class EchoServerHandler extends ChannelInboundHandlerAdapter {
         private static final Map<String, String> CHANNEL_ID_MAP = new ConcurrentHashMap<>();
 
-        EnhancedRandom random = new EnhancedRandomBuilder().stringLengthRange(10000, 20000).build();
+        EnhancedRandom random = new EnhancedRandomBuilder().stringLengthRange(1, 2).build();
 
         @Override
         public void channelRead(ChannelHandlerContext ctx, Object msg) throws Exception {

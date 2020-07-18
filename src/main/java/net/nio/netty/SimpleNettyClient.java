@@ -9,6 +9,8 @@ import io.netty.channel.socket.nio.NioSocketChannel;
 import io.netty.handler.logging.LogLevel;
 import io.netty.handler.logging.LoggingHandler;
 
+import java.util.concurrent.atomic.AtomicInteger;
+
 public class SimpleNettyClient {
 
     public static void main(String[] args) throws Exception {
@@ -54,7 +56,9 @@ public class SimpleNettyClient {
         }
     }
 
-    public class SimpleNettyClientHandler extends ChannelInboundHandlerAdapter {
+    public static class SimpleNettyClientHandler extends ChannelInboundHandlerAdapter {
+        private static final AtomicInteger INDEX = new AtomicInteger();
+
         /**
          * 本方法用于接收服务端发送过来的消息
          *
@@ -70,7 +74,6 @@ public class SimpleNettyClient {
             result.readBytes(result1);
             System.out.println("Server said:" + new String(result1));
             result.release();
-            throw new RuntimeException("test");
         }
 
         /**
@@ -95,12 +98,11 @@ public class SimpleNettyClient {
          */
         @Override
         public void channelActive(ChannelHandlerContext ctx) throws Exception {
-            String msg = "hello Server!";
+            String msg = "hello world" + INDEX.getAndIncrement();
             ByteBuf encoded = ctx.alloc().buffer(4 * msg.length());
             encoded.writeBytes(msg.getBytes());
             ctx.write(encoded);
             ctx.flush();
         }
-
     }
 }

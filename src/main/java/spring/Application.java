@@ -8,8 +8,6 @@ import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
-import java.util.Map;
-
 @SpringBootApplication(scanBasePackages = {"spring"})
 @Slf4j
 @EnableScheduling
@@ -19,8 +17,6 @@ public class Application {
         for (String beanDefinitionName : context.getBeanDefinitionNames()) {
             log.info("{}", beanDefinitionName);
         }
-        Map<String, Long> beansOfType = context.getBeansOfType(Long.class);
-        beansOfType.forEach((k, v) -> log.info("key:{},value:{}", k, v));
     }
 
     @Bean
