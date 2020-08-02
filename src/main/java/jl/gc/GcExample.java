@@ -19,8 +19,8 @@ import java.util.Map;
 public class GcExample {
 
     private static final String JVM_ARGS = "-Xms64M\n" +
-            "-XX:NewSize\n" +
-            "-XX:MaxNewSize\n" +
+            "-XX:NewSize=16M\n" +
+            "-XX:MaxNewSize=32M\n" +
             "-Xmx64M\n" +
             "-XX:+PrintGCDetails\n" +
             "-verbose:gc\n" +
@@ -30,9 +30,10 @@ public class GcExample {
             "-XX:+PrintTenuringDistribution";//对象晋升的日志
 
     public static void main(String[] args) {
+        System.out.println(JVM_ARGS);
         for (int i = 0; i < 100; i++) {
             //functionWithStack();
-            // List<LargeExample> largeExamples = functionWithReturn();
+            List<LargeExample> largeExamples = functionWithReturn();
         }
         Map<Integer, WeakReference<BigArray>> integerWeakReferenceMap = demoWithWeakReferenced();
         integerWeakReferenceMap.forEach((k, v) -> System.out.println(k + " " + v.get()));
