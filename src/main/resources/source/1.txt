@@ -1,0 +1,14 @@
+ip段起始地址 ip段结束地址 ip省市区地址  300w行
+上亿ip
+
+// 区间树(段数)
+// 二分查找
+
+class IpArea {
+    String ipFrom;
+    String ipTo;
+   
+}
+
+
+

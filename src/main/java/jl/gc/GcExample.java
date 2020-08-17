@@ -15,6 +15,8 @@ import java.util.Map;
 /**
  * gc参数详解  https://www.jianshu.com/p/74d126dd5544
  * 垃圾回收器 https://www.cnblogs.com/chenpt/p/9803298.html
+ * <p></p>
+ * https://docs.oracle.com/javase/9/gctuning/concurrent-mark-sweep-cms-collector.htm#JSGCT-GUID-FF8150AC-73D9-4780-91DD-148E63FA1BFF
  */
 public class GcExample {
 
@@ -26,11 +28,11 @@ public class GcExample {
             "-verbose:gc\n" +
             "-XX:+PrintHeapAtGC\n" +
             "-XX:SurvivorRatio=8\n" +
-            "-XX:+UseConcMarkSweepGC\n" +
+            "-XX:+UseG1GC\n" + //-XX:+UseConcMarkSweepGC
             "-XX:+PrintTenuringDistribution";//对象晋升的日志
 
     public static void main(String[] args) {
-        System.out.println(JVM_ARGS);
+        // System.out.println(JVM_ARGS);
         for (int i = 0; i < 100; i++) {
             //functionWithStack();
             List<LargeExample> largeExamples = functionWithReturn();
@@ -98,7 +100,7 @@ public class GcExample {
 
     private static class BigArray {
         private final int[] nums = new int[1024 * 1024 * 10];
-        private int index;
+        private final int index;
 
         BigArray(int index) {
             this.index = index;
