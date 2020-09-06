@@ -31,6 +31,7 @@ public class NettyServer {
 
     public static void main(String[] args) throws Exception {
         // Configure SSL.
+        System.out.println(System.getProperty("ssl"));
         List<String> strs = new ArrayList<>();
         final SslContext sslCtx;
         if (SSL) {

@@ -6,8 +6,8 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
 
 public class ConditionDemo {
-    private ReentrantLock lock;
-    private Condition printCondition;
+    private final ReentrantLock lock;
+    private final Condition printCondition;
 
     ConditionDemo() {
         lock = new ReentrantLock();

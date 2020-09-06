@@ -9,12 +9,14 @@ public class VolatileDemo {
             new Thread(new Demo()).start();
         }
 
-        Thread.sleep(1000);
-        System.out.println(Demo.count.sum());
+        Thread.sleep(5000);
+        System.out.println(Demo.count);
     }
 
     private static class Demo implements Runnable {
-        private static final LongAdder count = new LongAdder();
+        private static volatile Integer count = 0;
+
+        private static final Object LOCK = new Object();
 
         @Override
         public void run() {
@@ -23,7 +25,9 @@ public class VolatileDemo {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            count.increment();
+            synchronized (LOCK) {
+                count++;
+            }
         }
     }
 }
