@@ -6,7 +6,7 @@ import java.util.Arrays;
 import static javax.swing.SwingConstants.CENTER;
 
 public class Main {
-    private static final String name = "";
+    private static final String NAME = "Main";
 
     public static void main(String[] args) {
         test();

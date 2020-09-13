@@ -27,7 +27,7 @@ public class RangeSumOfSortedSubarraySums1508 {
             }
             res.sort(Integer::compareTo);
             long ans = 0;
-            return (int) res.subList(left - 1, right).stream().mapToLong(Long::valueOf).reduce(Long::sum).getAsLong();
+            return (int) res.subList(left - 1, right).stream().mapToLong(Long::valueOf).reduce(Long::sum).orElse(0);
         }
     }
 }
