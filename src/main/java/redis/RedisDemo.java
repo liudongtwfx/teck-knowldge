@@ -15,7 +15,6 @@ public class RedisDemo {
         JEDIS = new JedisPool(config, "localhost", 6379);
     }
 
-
     public static void main(String[] args) {
         for (int i = 0; i < 1000; i++) {
             new Thread(new SetKeyRunner(String.valueOf(i), String.valueOf(i))).start();

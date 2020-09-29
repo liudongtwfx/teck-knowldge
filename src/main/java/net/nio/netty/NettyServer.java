@@ -14,6 +14,7 @@ import io.netty.handler.logging.LoggingHandler;
 import io.netty.handler.ssl.SslContext;
 import io.netty.handler.ssl.SslContextBuilder;
 import io.netty.handler.ssl.util.SelfSignedCertificate;
+import lombok.extern.log4j.Log4j2;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.ArrayList;
@@ -24,7 +25,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * @author liudong
  */
-@Slf4j
+@Log4j2
 public class NettyServer {
     static final boolean SSL = System.getProperty("ssl") != null;
     static final int PORT = Integer.parseInt(System.getProperty("port", "8007"));
@@ -85,7 +86,7 @@ public class NettyServer {
         @Override
         public void channelRead(ChannelHandlerContext ctx, Object msg) throws Exception {
             Channel channel = ctx.channel();
-            System.out.println("id is :" + channel.id());
+            log.info("id is :{}", channel.id());
             ByteBuf result = (ByteBuf) msg;
             byte[] bytesMsg = new byte[result.readableBytes()];
             // msg中存储的是ByteBuf类型的数据，把数据读取到byte[]中

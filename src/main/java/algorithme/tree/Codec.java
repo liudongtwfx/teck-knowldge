@@ -46,6 +46,9 @@ public class Codec {
                 buildQueue.offer(left);
             }
             i++;
+            if (i >= numStrs.length) {
+                break;
+            }
             if (numStrs[i].equals("null")) {
                 head.right = null;
             } else {

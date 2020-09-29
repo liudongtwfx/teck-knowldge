@@ -15,6 +15,7 @@ public class RangeSumOfSortedSubarraySums1508 {
     }
 
     class Solution {
+
         public int rangeSum(int[] nums, int n, int left, int right) {
             List<Integer> cur = new LinkedList<>();
             List<Integer> res = new LinkedList<>();

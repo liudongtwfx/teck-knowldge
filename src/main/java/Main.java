@@ -1,21 +1,18 @@
-import javax.swing.*;
-import java.awt.*;
+import lombok.extern.slf4j.Slf4j;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import static javax.swing.SwingConstants.CENTER;
-
+@Slf4j
 public class Main {
     private static final String NAME = "Main";
 
     public static void main(String[] args) {
         test();
-        JButton button = new JButton();
-        button.setLayout(new GridLayout(0, 1));
-        button.add(new JLabel("Delete All Files", CENTER));
-        button.add(new JCheckBox("Are you sure?"));
-        button.setVisible(true);
-        button.show();
+        for (int i = 0; i < 100; i++) {
+            System.out.println("args = " + Arrays.deepToString(args));
+            log.info("test");
+        }
     }
 
     private static void test() {
