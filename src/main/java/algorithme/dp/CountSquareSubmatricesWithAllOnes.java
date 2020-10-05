@@ -8,7 +8,7 @@ package algorithme.dp;
  */
 public class CountSquareSubmatricesWithAllOnes {
     public static void main(String[] args) {
-        String s1 = new String("abd");
+        String s1 = "abd";
         s1.intern();
         String s2 = "abd";
         System.out.println(s1 == s2);

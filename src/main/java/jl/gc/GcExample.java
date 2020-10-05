@@ -113,11 +113,6 @@ public class GcExample {
          *
          * @throws Throwable
          */
-//        @Override
-//        protected void finalize() throws Throwable {
-//            // System.out.println(index + " is being finalized by gc");
-//            super.finalize();
-//        }
         @Override
         public String toString() {
             return null;

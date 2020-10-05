@@ -7,8 +7,8 @@ import java.io.InputStream;
 
 //继承ClassLoader类，重写findclass方法。
 public class MyClassloader extends ClassLoader {
-    private String path;
-    private String classloaderName;
+    private final String path;
+    private final String classloaderName;
 
     public MyClassloader(String path, String classloaderName) {
         this.path = path;

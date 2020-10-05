@@ -23,7 +23,7 @@ public class CheapestFlightsWithinKStops {
     }
 
     class Solution {
-        private int ans = Integer.MAX_VALUE;
+        private final int ans = Integer.MAX_VALUE;
 
         public int findCheapestPrice(int n, int[][] flights, int src, int dst, int K) {
             int[] dist = new int[n];

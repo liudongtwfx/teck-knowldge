@@ -1,13 +1,15 @@
 package design.pattern.behaviour.strategy;
 
-import lombok.extern.slf4j.Slf4j;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.util.Collections;
 import java.util.List;
 
-@Slf4j
 public class ReadingStrategy implements LearningStrategy {
     private final List<String> books;
+
+    private static final Logger log = LoggerFactory.getLogger(ReadingStrategy.class);
 
     public ReadingStrategy(String book) {
         this.books = Collections.singletonList(book);
@@ -15,6 +17,6 @@ public class ReadingStrategy implements LearningStrategy {
 
     @Override
     public void learn() {
-        log.info("leaning with book:{}", String.join(",", books));
+        log.info("learning with book:{}", String.join(",", books));
     }
 }

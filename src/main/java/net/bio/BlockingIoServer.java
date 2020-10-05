@@ -52,7 +52,7 @@ public class BlockingIoServer {
     }
 
     static class RequestHandler extends Thread {
-        private Socket socket;
+        private final Socket socket;
 
         public RequestHandler(Socket socket) {
             this.socket = socket;

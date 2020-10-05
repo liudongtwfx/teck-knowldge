@@ -1,9 +1,11 @@
 package design.pattern.behaviour.strategy;
 
-import lombok.extern.slf4j.Slf4j;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
-@Slf4j
 public class WebLeaningStrategy implements LearningStrategy {
+
+    private static final Logger log = LoggerFactory.getLogger(WebLeaningStrategy.class);
 
     private final String website;
 

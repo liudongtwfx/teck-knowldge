@@ -59,7 +59,7 @@ public class DistantBarcodes1054 {
 
         class NumCount implements Comparable<NumCount> {
             private int count;
-            private int num;
+            private final int num;
 
             public NumCount(int count, int num) {
                 this.count = count;

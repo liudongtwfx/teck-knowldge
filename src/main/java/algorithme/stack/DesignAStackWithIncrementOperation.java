@@ -15,8 +15,8 @@ public class DesignAStackWithIncrementOperation {
     }
 
     class CustomStack {
-        private List<Integer> nums = new ArrayList<>();
-        private int maxSize;
+        private final List<Integer> nums = new ArrayList<>();
+        private final int maxSize;
 
         public CustomStack(int maxSize) {
             this.maxSize = maxSize;

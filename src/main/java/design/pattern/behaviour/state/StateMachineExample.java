@@ -51,10 +51,10 @@ public class StateMachineExample {
 
 
     enum State {
-        OffHook, Connected, OnHold, Ringing;
+        OffHook, Connected, OnHold, Ringing
     }
 
     enum Trigger {
-        HungUp, CallDialed, CallConnected, LeftMessage, PlacedOnHold;
+        HungUp, CallDialed, CallConnected, LeftMessage, PlacedOnHold
     }
 }

@@ -64,8 +64,6 @@ public class FormLargestIntegerWithDigitsThatAddUpToTarget {
             if (a.length() < b.length()) {
                 return b;
             }
-//            System.out.println("a is " + a);
-//            System.out.println("b is " + b);
             for (int i = 0; i < a.length(); i++) {
                 if (a.charAt(i) < b.charAt(i)) {
                     return b;

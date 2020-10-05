@@ -1,6 +1,7 @@
 package design.pattern.create.builder;
 
 import lombok.AllArgsConstructor;
+import lombok.ToString;
 
 public class Builder {
     public static void main(String[] args) {
@@ -10,11 +11,12 @@ public class Builder {
 
     @AllArgsConstructor
     public static class Parent {
-        private String a;
+        private final String a;
     }
 
+    @ToString(callSuper = true)
     public static class Child extends Parent {
-        private String b;
+        private final String b;
 
         @lombok.Builder
         private Child(String a, String b) {

@@ -5,7 +5,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.ReentrantLock;
 
 public class FairLockExample {
-    private static CountDownLatch downLatch = new CountDownLatch(20);
+    private static final CountDownLatch downLatch = new CountDownLatch(20);
 
     public static void main(String[] args) throws Exception {
         Thread[] threads = new Thread[20];

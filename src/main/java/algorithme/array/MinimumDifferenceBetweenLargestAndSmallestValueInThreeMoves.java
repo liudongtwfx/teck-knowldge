@@ -12,7 +12,7 @@ public class MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves {
         System.out.println(new Solution().minDifference(nums));
     }
 
-    class Solution {
+    static class Solution {
         public int minDifference(int[] nums) {
             if (nums.length <= 4) {
                 return 0;
