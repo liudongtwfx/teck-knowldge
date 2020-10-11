@@ -1,14 +1,8 @@
 package algorithme.dp;
 
-import com.google.common.collect.Lists;
-
-import java.io.Serializable;
-import java.util.List;
 
 public class LongestSubarrayOf1sAfterDeletingOneElement1493 {
     public static void main(String[] args) {
-        List<? extends Serializable> serializables = Lists.newArrayList(1, "2", 1.2);
-        Runtime.getRuntime().addShutdownHook(new Thread(() -> System.out.println(Thread.currentThread().getName() + " shut down")));
     }
 
 
