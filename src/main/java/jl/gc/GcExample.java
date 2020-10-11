@@ -32,26 +32,33 @@ public class GcExample {
             "-XX:+PrintTenuringDistribution";//对象晋升的日志
 
     public static void main(String[] args) {
-        // System.out.println(JVM_ARGS);
-        for (int i = 0; i < 100; i++) {
+        System.out.println(JVM_ARGS);
+        System.out.println(16 * 1024 * 1024);
+        System.out.println(1024 * 1024);
+        alloc();
+        Map<Integer, WeakReference<BigArray>> integerWeakReferenceMap = demoWithWeakReferenced();
+        for (int i = 0; i < 10; i++) {
             //functionWithStack();
             List<LargeExample> largeExamples = functionWithReturn();
         }
-        Map<Integer, WeakReference<BigArray>> integerWeakReferenceMap = demoWithWeakReferenced();
-        integerWeakReferenceMap.forEach((k, v) -> System.out.println(k + " " + v.get()));
         //demoWithSoftReferenced();
     }
 
+    private static void alloc() {
+        int[] nums = new int[1024 * 1024];
+
+    }
+
     private static void functionWithStack() {
-        List<LargeExample> largeExamplee = new ArrayList<>();
+        List<LargeExample> largeExample = new ArrayList<>();
         for (int i = 0; i < 100000; i++) {
-            largeExamplee.add(new LargeExample(i, String.valueOf(i)));
+            largeExample.add(new LargeExample(i, String.valueOf(i)));
         }
     }
 
     private static List<LargeExample> functionWithReturn() {
         List<LargeExample> largeExample = new ArrayList<>();
-        for (int i = 0; i < 100000; i++) {
+        for (int i = 0; i < 100; i++) {
             largeExample.add(new LargeExample(i, String.valueOf(i)));
         }
         return largeExample;
@@ -63,11 +70,11 @@ public class GcExample {
      * @return
      */
     private static Map<Integer, WeakReference<BigArray>> demoWithWeakReferenced() {
-        Map<Integer, WeakReference<BigArray>> bigArrayWeakReferenceMap = new HashMap<>();
+        Map<Integer, WeakReference<BigArray>> map = new HashMap<>();
         for (int i = 0; i < 10; i++) {
-            bigArrayWeakReferenceMap.put(i, new WeakReference<>(new BigArray(i)));
+            map.put(i, new WeakReference<>(new BigArray(i)));
         }
-        return bigArrayWeakReferenceMap;
+        return map;
     }
 
     /**
@@ -89,17 +96,11 @@ public class GcExample {
     private static class LargeExample {
         private Integer a;
         private String name;
-
-        @Override
-        protected void finalize() throws Throwable {
-            super.finalize();
-//            System.out.println(name + " is being finalized by gc");
-        }
     }
 
 
     private static class BigArray {
-        private final int[] nums = new int[1024 * 1024 * 10];
+        private static final int[] nums = new int[1024 * 1024];
         private final int index;
 
         BigArray(int index) {
@@ -115,7 +116,7 @@ public class GcExample {
          */
         @Override
         public String toString() {
-            return null;
+            return String.valueOf(index);
         }
     }
 }
