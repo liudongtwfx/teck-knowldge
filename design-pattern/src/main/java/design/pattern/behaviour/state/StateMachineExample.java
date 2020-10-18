@@ -50,11 +50,11 @@ public class StateMachineExample {
     }
 
 
-    enum State {
+    private enum State {
         OffHook, Connected, OnHold, Ringing
     }
 
-    enum Trigger {
+    private enum Trigger {
         HungUp, CallDialed, CallConnected, LeftMessage, PlacedOnHold
     }
 }

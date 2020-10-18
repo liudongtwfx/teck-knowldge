@@ -2,7 +2,6 @@ package jl.multithread;
 
 import lombok.SneakyThrows;
 
-import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.CountDownLatch;

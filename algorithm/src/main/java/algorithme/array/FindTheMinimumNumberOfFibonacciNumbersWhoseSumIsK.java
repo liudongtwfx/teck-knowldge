@@ -1,14 +1,35 @@
 package algorithme.array;
 
+import lombok.extern.slf4j.Slf4j;
+
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.*;
 
 /**
  *
  */
+@Slf4j
 public class FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
+        ExecutorService executorService = new ThreadPoolExecutor(2, 50, 5000, TimeUnit.MILLISECONDS, new ArrayBlockingQueue<>(50), r -> {
+            Thread thread = new Thread(r);
+            System.out.println(thread.getName());
+            return thread;
+        });
 
+        for (int i = 0; i < 100; i++) {
+            final String s = String.valueOf(i);
+            executorService.submit(() -> {
+                log.info("hello world" + s);
+                try {
+                    Thread.sleep(1000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            });
+            Thread.sleep(100);
+        }
     }
 
     class Solution {

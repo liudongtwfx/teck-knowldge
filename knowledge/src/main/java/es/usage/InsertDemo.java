@@ -4,21 +4,21 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import es.Constants;
 import es.entity.EsEntity;
 import es.entity.Teacher;
-import lombok.extern.slf4j.Slf4j;
 import org.elasticsearch.action.bulk.BulkRequest;
 import org.elasticsearch.action.index.IndexRequest;
 import org.elasticsearch.client.RequestOptions;
 import org.elasticsearch.common.xcontent.XContentType;
+import org.slf4j.Logger;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-@Slf4j
 public class InsertDemo {
 
     private static final ObjectMapper OBJECT_MAPPER = new ObjectMapper();
 
     private static final ExecutorService EXECUTOR_SERVICE = Executors.newFixedThreadPool(100);
+    private static final Logger log = org.slf4j.LoggerFactory.getLogger(InsertDemo.class);
 
     public static void main(String[] args) throws Exception {
         BulkRequest bulk = new BulkRequest();

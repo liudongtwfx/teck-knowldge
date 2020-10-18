@@ -2,7 +2,6 @@ package es.usage;
 
 import es.Constants;
 import es.entity.Student;
-import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.tuple.Pair;
 import org.elasticsearch.action.search.SearchRequest;
 import org.elasticsearch.action.search.SearchResponse;
@@ -12,15 +11,16 @@ import org.elasticsearch.common.unit.TimeValue;
 import org.elasticsearch.search.SearchHit;
 import org.elasticsearch.search.builder.SearchSourceBuilder;
 import org.elasticsearch.search.sort.SortOrder;
+import org.slf4j.Logger;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.*;
 
-@Slf4j
 public class ScrollSearch {
 
     private static final ExecutorService EXECUTOR_SERVICE = Executors.newFixedThreadPool(10);
+    private static final Logger log = org.slf4j.LoggerFactory.getLogger(ScrollSearch.class);
 
 
     public static void main(String[] args) throws ExecutionException, InterruptedException {

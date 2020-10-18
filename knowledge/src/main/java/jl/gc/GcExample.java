@@ -2,7 +2,6 @@ package jl.gc;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.NoArgsConstructor;
 
 import java.lang.ref.SoftReference;
 import java.lang.ref.WeakReference;
@@ -58,7 +57,7 @@ public class GcExample {
 
     private static List<LargeExample> functionWithReturn() {
         List<LargeExample> largeExample = new ArrayList<>();
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 10000; i++) {
             largeExample.add(new LargeExample(i, String.valueOf(i)));
         }
         return largeExample;
@@ -71,7 +70,7 @@ public class GcExample {
      */
     private static Map<Integer, WeakReference<BigArray>> demoWithWeakReferenced() {
         Map<Integer, WeakReference<BigArray>> map = new HashMap<>();
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 100000; i++) {
             map.put(i, new WeakReference<>(new BigArray(i)));
         }
         return map;
@@ -92,7 +91,6 @@ public class GcExample {
 
     @Data
     @AllArgsConstructor
-    @NoArgsConstructor
     private static class LargeExample {
         private Integer a;
         private String name;
