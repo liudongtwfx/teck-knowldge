@@ -33,7 +33,7 @@ public class CheckIfArrayPairsAreDivisibleByK {
                     continue;
                 }
                 Integer integer = dividedNumMap.get(k - key);
-                if (integer == null || integer.equals(integerIntegerEntry.getValue())) {
+                if (integer == null || !integer.equals(integerIntegerEntry.getValue())) {
                     return false;
                 }
             }
