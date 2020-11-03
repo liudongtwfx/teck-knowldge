@@ -6,19 +6,43 @@ import io.netty.channel.*;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioSocketChannel;
-import io.netty.handler.logging.LogLevel;
-import io.netty.handler.logging.LoggingHandler;
+import lombok.extern.slf4j.Slf4j;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
+@Slf4j
 public class SimpleNettyClient {
 
     public static void main(String[] args) throws Exception {
-        SimpleNettyClient client = new SimpleNettyClient();
-        client.connect("127.0.0.1", 8007);
+        for (int i = 0; i < 100; i++) {
+            new Thread(new ClientRequest("localhost", 8007, i)).start();
+        }
     }
 
-    public void connect(String host, int port) throws Exception {
+
+    private static class ClientRequest implements Runnable {
+        private final String host;
+        private final int port;
+        private int count;
+
+        ClientRequest(String host, int port, int index) {
+            this.host = host;
+            this.port = port;
+            this.count = index;
+        }
+
+        @Override
+        public void run() {
+            try {
+                connect(host, port);
+
+            } catch (Exception e) {
+                log.error("exception", e);
+            }
+        }
+    }
+
+    public static void connect(String host, int port) throws Exception {
         EventLoopGroup worker = new NioEventLoopGroup();
         try {
             // 客户端启动类程序
@@ -42,7 +66,7 @@ public class SimpleNettyClient {
             bootstrap.handler(new ChannelInitializer<SocketChannel>() {
                 @Override
                 public void initChannel(SocketChannel ch) throws Exception {
-                    ch.pipeline().addLast(new LoggingHandler(LogLevel.INFO));
+                    // ch.pipeline().addLast(new LoggingHandler(LogLevel.INFO));
                     ch.pipeline().addLast(new SimpleNettyClientHandler());
                 }
             });

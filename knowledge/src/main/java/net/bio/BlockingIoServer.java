@@ -30,7 +30,7 @@ public class BlockingIoServer {
             try {
                 serverSocket = new ServerSocket(8080);
                 //使用多线程实现
-                Executor executor = new ThreadPoolExecutor(4, 10, 5, TimeUnit.SECONDS, new ArrayBlockingQueue<>(1024));
+                Executor executor = new ThreadPoolExecutor(1, 10, 5, TimeUnit.SECONDS, new ArrayBlockingQueue<>(1024));
                 while (true) {
                     Socket socket = serverSocket.accept();
                     RequestHandler requestHandler = new RequestHandler(socket);
