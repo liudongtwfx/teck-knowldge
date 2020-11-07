@@ -43,9 +43,9 @@ public class GcExample {
     }
 
     private static void functionWithStack() {
-        List<LargeExample> largeExamplee = new ArrayList<>();
+        List<LargeExample> largeExamples = new ArrayList<>();
         for (int i = 0; i < 100000; i++) {
-            largeExamplee.add(new LargeExample(i, String.valueOf(i)));
+            largeExamples.add(new LargeExample(i, String.valueOf(i)));
         }
     }
 
