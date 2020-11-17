@@ -49,9 +49,15 @@ public class GcExample {
     }
 
     private static void functionWithStack() {
+<<<<<<< HEAD:src/main/java/jl/gc/GcExample.java
+        List<LargeExample> largeExamples = new ArrayList<>();
+        for (int i = 0; i < 100000; i++) {
+            largeExamples.add(new LargeExample(i, String.valueOf(i)));
+=======
         List<LargeExample> largeExample = new ArrayList<>();
         for (int i = 0; i < 100000; i++) {
             largeExample.add(new LargeExample(i, String.valueOf(i)));
+>>>>>>> cf79303af46a6a5dfe21bd7c70cba05c162ba1b1:knowledge/src/main/java/jl/gc/GcExample.java
         }
     }
 
