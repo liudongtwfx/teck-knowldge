@@ -1,23 +1,16 @@
 package jl.multithread;
 
-import com.google.common.base.Objects;
-
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.ForkJoinTask;
+import java.util.concurrent.RecursiveTask;
 
 public class ForkJoinDemo {
 
-    static List<Structure> config = new ArrayList<>();
-
-    static {
-        config.add(new Structure());
-    }
-
-    public static void main(String[] args) {
-        
+    public static void main(String[] args) throws Exception {
+        ForkJoinPool forkJoinPool = new ForkJoinPool();
+        CountTask countTask = new CountTask(1, 200);
+        ForkJoinTask<Integer> forkJoinTask = forkJoinPool.submit(countTask);
+        System.out.println(forkJoinTask.get());
         test();
     }
 
@@ -27,26 +20,42 @@ public class ForkJoinDemo {
             final int a = i;
             ForkJoinTask<?> submit = pool.submit(() -> System.out.println("index:" + a));
             ForkJoinTask<?> fork = submit.fork();
-            ForkJoinTask<?> fork1 = fork.fork();
+            fork.join();
         }
     }
 
-    private List<Integer> get(String a, String b) {
-        for (Structure structure : config) {
-            if (Objects.equal(a, structure.a) && Objects.equal(b, structure.b)) {
-                return structure.c;
+    private static class CountTask extends RecursiveTask<Integer> {
+        private static final int THRESHOLD = 2; //阀值
+        private final int start;
+        private final int end;
+
+        public CountTask(int start, int end) {
+            this.start = start;
+            this.end = end;
+        }
+
+        @Override
+        protected Integer compute() {
+            int sum = 0;
+            boolean canCompute = (end - start) <= THRESHOLD;
+            if (canCompute) {
+                for (int i = start; i <= end; i++) {
+                    sum += i;
+                }
+            } else {
+                int middle = (start + end) / 2;
+                CountTask leftTask = new CountTask(start, middle);
+                CountTask rightTask = new CountTask(middle + 1, end);
+                //执行子任务
+                leftTask.fork();
+                rightTask.fork();
+                //等待子任务执行完，并得到其结果
+                Integer rightResult = rightTask.join();
+                Integer leftResult = leftTask.join();
+                //合并子任务
+                sum = leftResult + rightResult;
             }
+            return sum;
         }
-        return Collections.emptyList();
-    }
-
-    enum A {
-        T
-    }
-
-    static class Structure {
-        private String a;
-        private String b;
-        private List<Integer> c;
     }
 }
