@@ -23,7 +23,7 @@ public class SimpleNettyClient {
     private static class ClientRequest implements Runnable {
         private final String host;
         private final int port;
-        private int count;
+        private final int count;
 
         ClientRequest(String host, int port, int index) {
             this.host = host;
