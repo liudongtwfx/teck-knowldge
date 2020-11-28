@@ -5,7 +5,9 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStream;
 
-//继承ClassLoader类，重写findclass方法。
+/**
+ * 继承ClassLoader类，重写findclass方法。
+ */
 public class MyClassloader extends ClassLoader {
     private final String path;
     private final String classloaderName;
