@@ -32,12 +32,15 @@ public class ConditionDemo {
         @Override
         public void run() {
             while (true) {
-                lock.lock();
-                System.out.println(num++);
-                System.out.println(num++);
-                printCondition.signal();
-                printCondition.await();
-                lock.unlock();
+                try {
+                    lock.lock();
+                    System.out.println(num++);
+                    System.out.println(num++);
+                    printCondition.signal();
+                    printCondition.await();
+                } finally {
+                    lock.unlock();
+                }
             }
         }
     }
@@ -50,15 +53,18 @@ public class ConditionDemo {
         @SneakyThrows
         public void run() {
             while (true) {
-                lock.lock();
-                char c = (char) ('a' + num++);
-                System.out.println(c);
-                if (c == 'z') {
-                    System.exit(0);
+                try {
+                    lock.lock();
+                    char c = (char) ('a' + num++);
+                    System.out.println(c);
+                    if (c == 'z') {
+                        System.exit(0);
+                    }
+                    printCondition.signal();
+                    printCondition.await();
+                } finally {
+                    lock.unlock();
                 }
-                printCondition.signal();
-                printCondition.await();
-                lock.unlock();
             }
         }
     }

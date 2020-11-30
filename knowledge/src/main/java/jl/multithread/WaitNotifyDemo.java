@@ -22,8 +22,8 @@ public class WaitNotifyDemo {
         @SneakyThrows
         @Override
         public void run() {
-            while (true) {
-                synchronized (CHAR_LOCK) {
+            synchronized (CHAR_LOCK) {
+                while (true) {
                     // CHAR_LOCK.wait();
                     System.out.println(num++);
                     System.out.println(num++);
@@ -40,8 +40,8 @@ public class WaitNotifyDemo {
         @Override
         @SneakyThrows
         public void run() {
-            while (true) {
-                synchronized (CHAR_LOCK) {
+            synchronized (CHAR_LOCK) {
+                while (true) {
                     char c = (char) ('a' + num);
                     System.out.println(c);
                     if (c == 'z') {
