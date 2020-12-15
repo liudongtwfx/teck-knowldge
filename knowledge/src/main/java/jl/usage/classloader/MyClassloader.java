@@ -27,7 +27,9 @@ public class MyClassloader extends ClassLoader {
         c.newInstance();
     }
 
-    //用于寻找类文件
+    /**
+     * 用于寻找类文件
+     */
     @Override
     public Class<?> findClass(String name) {
         byte[] b = loadClassData(name);
