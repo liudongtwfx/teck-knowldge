@@ -16,10 +16,15 @@ public class CompletableFutureDemo {
             sleep(t * 1000L);
             return String.valueOf(t);
         });
-        CompletableFuture<String> f3 = CompletableFuture.supplyAsync(() -> String.valueOf(new Random().nextInt(100)))
-                .applyToEither(f1, t -> t + 1);
+        CompletableFuture<String> f3 = CompletableFuture.supplyAsync(() -> {
+            String s = String.valueOf(new Random().nextInt(100));
+            System.out.println(s);
+            sleep(3000);
+            return s;
+        }).thenCompose(s -> f1);
         f3.join();
         System.out.println("main end");
+        System.out.println(f3.get());
     }
 
     private static void sleep(long ms) {
