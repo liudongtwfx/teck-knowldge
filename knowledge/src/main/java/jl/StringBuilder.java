@@ -1,26 +1,29 @@
 package jl;
 
-import jl.usage.classloader.MyClassloader;
-
 public class StringBuilder {
-    public static void main(String[] args) throws ClassNotFoundException {
-        ClassLoader my = new MyClassloader("/", "");
-        Class<?> aClass = my.loadClass("java.lang.MyString");
-        concatStr();
-        concatStrWithSb();
-    }
-
-    private static void concatStr() {
-        String s = "";
-        for (int i = 0; i < 100000; i++) {
-            s += 'a';
+    public static void main(String[] args) throws Exception {
+        for (int i = 0; i < 20; i++) {
+            new Thread(new A()).start();
         }
     }
 
-    private static void concatStrWithSb() {
-        java.lang.StringBuilder s = new java.lang.StringBuilder();
-        for (int i = 0; i < 100000; i++) {
-            s.append('a');
+    private static class A implements Runnable {
+
+        private volatile static int count;
+
+        @Override
+        public void run() {
+            int ans = incrementAndGet();
+            System.out.println(ans);
+        }
+
+        private int incrementAndGet() {
+            for (int i = 0; i < 10000000; i++) {
+                synchronized (A.class) {
+                    count++;
+                }
+            }
+            return count;
         }
     }
 }
