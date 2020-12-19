@@ -4,10 +4,7 @@ import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 
 import java.lang.reflect.Type;
-import java.util.Comparator;
-import java.util.List;
-import java.util.PriorityQueue;
-import java.util.Queue;
+import java.util.*;
 
 /**
  * @author liudong17
@@ -18,7 +15,7 @@ public class SmallestRangeCoveringElementsFromKLists632 {
     }
 
     private void bridge() {
-        String json = "[[4,10,12,24,26],[0,9,12,20],[5,18,22,30]]";
+        String json = "[[4,10,12,24,26],[0,9,12,20],[58,18,22,30]]";
         Type type = new TypeToken<List<List<Integer>>>() {
         }.getType();
         List<List<Integer>> nums = new Gson().fromJson(json, type);
@@ -28,6 +25,9 @@ public class SmallestRangeCoveringElementsFromKLists632 {
 
     class Solution {
         public int[] smallestRange(List<List<Integer>> nums) {
+            if (nums.isEmpty()) {
+                return new int[]{};
+            }
             Queue<Point> queue = new PriorityQueue<>(Comparator.comparingInt(a -> a.currentValue));
             int max = 0;
             for (int i = 0; i < nums.size(); i++) {
@@ -40,7 +40,7 @@ public class SmallestRangeCoveringElementsFromKLists632 {
             int[] idxArr = new int[nums.size()];
             while (queue.size() == nums.size()) {
                 Point head = queue.poll();
-                int currentGap = max - head.currentValue;
+                int currentGap = max - Objects.requireNonNull(head).currentValue;
                 if (currentGap < gap) {
                     start = head.currentValue;
                     end = max;
