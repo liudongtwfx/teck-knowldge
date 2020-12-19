@@ -1,6 +1,6 @@
 package jl.multithread;
 
-import lombok.extern.slf4j.Slf4j;
+import lombok.Data;
 
 import java.util.Random;
 import java.util.concurrent.CompletableFuture;
@@ -11,11 +11,12 @@ import java.util.concurrent.CompletableFuture;
 
 public class CompletableFutureDemo {
     public static void main(String[] args) throws Exception {
-        CompletableFuture<String> f1 = CompletableFuture.supplyAsync(() -> {
+        CompletableFuture<Integer> f1 = CompletableFuture.supplyAsync(() -> {
             int t = new Random().nextInt(5) + 5;
-            sleep(t * 1000L);
-            return String.valueOf(t);
+            sleep(1000L);
+            return t;
         });
+<<<<<<< HEAD
         CompletableFuture<String> f3 = CompletableFuture.supplyAsync(() -> {
             String s = String.valueOf(new Random().nextInt(100));
             System.out.println(s);
@@ -24,6 +25,27 @@ public class CompletableFutureDemo {
         }).thenCompose(s -> f1);
         f3.join();
         System.out.println("main end");
+=======
+
+        CompletableFuture<Integer> f2 = CompletableFuture.supplyAsync(() -> {
+            int t = new Random().nextInt(5);
+            sleep(1000);
+            return t;
+        });
+
+
+        CompletableFuture<Integer> f3 = f1.thenCombine(f2, (a, b) -> {
+            System.out.println(a.getClass().getName());
+            System.out.println(b.getClass().getName());
+            return a + b;
+        });
+
+        f3.join();
+        System.out.println("main end");
+
+        System.out.println(f1.get());
+        System.out.println(f2.get());
+>>>>>>> f85f4028d624e2b70f11c8030aadd4b06a30494e
         System.out.println(f3.get());
     }
 
@@ -36,19 +58,10 @@ public class CompletableFutureDemo {
         }
     }
 
-    @Slf4j
-    private static class EatRunner implements Runnable {
-        @Override
-        public void run() {
-            System.out.println(Thread.currentThread().getName());
-            System.out.println("eat beginning");
-            try {
-                Thread.sleep(2000);
-            } catch (Exception e) {
-                log.info("eat interrupted");
-                Thread.currentThread().interrupt();
-            }
-            System.out.println("eat ending");
-        }
+
+    @Data
+    private static class A {
+        private int age;
+
     }
 }
