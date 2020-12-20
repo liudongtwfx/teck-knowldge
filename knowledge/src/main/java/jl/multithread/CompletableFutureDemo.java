@@ -16,16 +16,14 @@ public class CompletableFutureDemo {
             sleep(1000L);
             return t;
         });
-<<<<<<< HEAD
         CompletableFuture<String> f3 = CompletableFuture.supplyAsync(() -> {
             String s = String.valueOf(new Random().nextInt(100));
             System.out.println(s);
             sleep(3000);
             return s;
-        }).thenCompose(s -> f1);
+        });
         f3.join();
         System.out.println("main end");
-=======
 
         CompletableFuture<Integer> f2 = CompletableFuture.supplyAsync(() -> {
             int t = new Random().nextInt(5);
@@ -34,18 +32,11 @@ public class CompletableFutureDemo {
         });
 
 
-        CompletableFuture<Integer> f3 = f1.thenCombine(f2, (a, b) -> {
-            System.out.println(a.getClass().getName());
-            System.out.println(b.getClass().getName());
-            return a + b;
-        });
-
         f3.join();
         System.out.println("main end");
 
         System.out.println(f1.get());
         System.out.println(f2.get());
->>>>>>> f85f4028d624e2b70f11c8030aadd4b06a30494e
         System.out.println(f3.get());
     }
 
