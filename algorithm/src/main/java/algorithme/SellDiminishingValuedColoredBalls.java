@@ -1,7 +1,7 @@
 package algorithme;
 
+import java.util.Arrays;
 import java.util.PriorityQueue;
-import java.util.Queue;
 
 public class SellDiminishingValuedColoredBalls {
     public static void main(String[] args) {
@@ -16,27 +16,37 @@ public class SellDiminishingValuedColoredBalls {
     }
 
     class Solution {
-        public int maxProfit(int[] inventory, int orders) {
-            final int MOD = 1_000_000_007;
-            Queue<Integer> inventoryQueue = new PriorityQueue<>((o1, o2) -> o2 - o1);
-            for (int i : inventory) {
-                inventoryQueue.offer(i);
-            }
-            long ans = 0;
+        public int maxProfit(int[] stock, int orders) {
+            final int mod = 1_000_000_007;
+            long profit = 0;
+            PriorityQueue<Integer> maxHeap = new PriorityQueue<>((a, b) -> (b - a));
+            Arrays.stream(stock).forEach(maxHeap::add);
+            long prevMaxCount = 0L;
             while (orders > 0) {
-                Integer first = inventoryQueue.poll();
-                if (first == null) {
-                    return (int) ans;
+                long top = maxHeap.isEmpty() ? 0 : maxHeap.poll();
+                long maxCount = 1 + prevMaxCount;
+                while (!maxHeap.isEmpty() && maxHeap.peek() == top) {
+                    maxHeap.poll();
+                    maxCount++;
                 }
-                Integer second = inventoryQueue.peek() != null ? inventoryQueue.peek() : 0;
-                int count = Math.min(orders, first - second + 1);
-                long a = (long) (first - count + first + 1) * count / 2;
-                ans = (ans + a) % MOD;
-                System.out.println(count);
-                orders -= count;
-                inventoryQueue.offer(first - count);
+                long second = maxHeap.isEmpty() ? 0L : maxHeap.peek();
+                long diff = top - second;
+                if (diff * maxCount >= orders) {
+                    long toTake = orders / maxCount;
+                    long left = orders - toTake * maxCount;
+                    profit += ((((top + top - (toTake - 1)) * toTake) / 2) * maxCount) % mod;
+                    profit %= mod;
+                    profit += left * (top - toTake) % mod;
+                    profit %= mod;
+                    break;
+                } else {
+                    profit += ((((top + top - (diff - 1)) * diff) / 2) * maxCount) % mod;
+                    profit %= mod;
+                    prevMaxCount = maxCount;
+                    orders -= diff * maxCount;
+                }
             }
-            return (int) ans;
+            return (int) profit;
         }
     }
 }
