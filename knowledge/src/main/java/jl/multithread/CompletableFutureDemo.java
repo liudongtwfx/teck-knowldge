@@ -30,7 +30,6 @@ public class CompletableFutureDemo {
             sleep(1000);
             return t;
         });
-
         f3.join();
         System.out.println("main end");
 
