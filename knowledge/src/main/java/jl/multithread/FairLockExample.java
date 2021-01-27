@@ -25,7 +25,6 @@ public class FairLockExample {
         for (int i = 0; i < 20; i++) {
             threads[i].start();
         }
-        System.out.println("hello world");
     }
 
 
@@ -63,9 +62,9 @@ public class FairLockExample {
 
         @Override
         public void run() {
+            LOCK.lock();
             try {
-                LOCK.lock();
-                System.out.println("non_index:" + index);
+                System.out.println("non_fair index:" + index);
             } catch (Exception e) {
             } finally {
                 LOCK.unlock();

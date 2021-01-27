@@ -2,7 +2,6 @@ package jl.multithread;
 
 import lombok.Data;
 
-import java.util.Random;
 import java.util.concurrent.CompletableFuture;
 
 /**
@@ -11,31 +10,14 @@ import java.util.concurrent.CompletableFuture;
 
 public class CompletableFutureDemo {
     public static void main(String[] args) throws Exception {
-        CompletableFuture<Integer> f1 = CompletableFuture.supplyAsync(() -> {
-            int t = new Random().nextInt(5) + 5;
-            sleep(1000L);
-            return t;
+        CompletableFuture<String> cf1 = CompletableFuture.supplyAsync(() -> {
+            System.out.println("invoking...");
+            interruptWithoutException();
+            return "hello";
         });
-        CompletableFuture<String> f3 = CompletableFuture.supplyAsync(() -> {
-            String s = String.valueOf(new Random().nextInt(100));
-            System.out.println(s);
-            sleep(3000);
-            return s;
-        });
-        f3.join();
-        System.out.println("main end");
 
-        CompletableFuture<Integer> f2 = CompletableFuture.supplyAsync(() -> {
-            int t = new Random().nextInt(5);
-            sleep(1000);
-            return t;
-        });
-        f3.join();
-        System.out.println("main end");
 
-        System.out.println(f1.get());
-        System.out.println(f2.get());
-        System.out.println(f3.get());
+        Thread.sleep(1000);
     }
 
     private static void sleep(long ms) {
@@ -51,6 +33,14 @@ public class CompletableFutureDemo {
     @Data
     private static class A {
         private int age;
+    }
 
+    private static void interruptWithoutException() {
+        try {
+            Thread.sleep(1000);
+        } catch (Exception e) {
+            e.printStackTrace();
+            Thread.currentThread().interrupt();
+        }
     }
 }
