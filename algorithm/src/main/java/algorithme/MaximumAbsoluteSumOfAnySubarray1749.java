@@ -8,6 +8,7 @@ public class MaximumAbsoluteSumOfAnySubarray1749 {
     private void bridge() {
         int[] nums = {1, -3, 2, 3, -4};
         System.out.println(new Solution().maxAbsoluteSum(nums));
+
         int[] nums1 = {2, -5, 1, -4, 3, -2};
         System.out.println(new Solution().maxAbsoluteSum(nums1));
 

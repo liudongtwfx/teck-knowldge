@@ -5,6 +5,7 @@ import java.util.concurrent.locks.ReentrantLock;
 public class AQSAnalysis {
     public static void main(String[] args) {
         for (int i = 0; i < 5; i++) {
+            System.out.println(i);
             new Thread(new Task()).start();
         }
     }
@@ -15,12 +16,6 @@ public class AQSAnalysis {
 
         @Override
         public void run() {
-            try {
-                LOCK.lockInterruptibly();
-                LOCK.unlock();
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
         }
     }
 }
