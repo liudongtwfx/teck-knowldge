@@ -3,10 +3,13 @@ package design.pattern.create.builder;
 import lombok.AllArgsConstructor;
 import lombok.ToString;
 
+import java.util.Calendar;
+
 public class Builder {
     public static void main(String[] args) {
         Child child = Child.builder().a("testA").b("testB").build();
         System.out.println(child);
+        a();
     }
 
     @AllArgsConstructor
@@ -23,5 +26,10 @@ public class Builder {
             super(a);
             this.b = b;
         }
+    }
+
+    private static void a() {
+        Calendar calendar = Calendar.getInstance();
+        System.out.println(calendar.getTime());
     }
 }

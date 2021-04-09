@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: Flink : Examples : Batch
+Implementation-Version: 1.12.1
+Archiver-Version: Plexus Archiver
+Built-By: xtsong
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Flink : Examples : Batch
+Implementation-Vendor-Id: org.apache.flink
+program-class: org.apache.flink.examples.java.wordcount.WordCount
+Implementation-Vendor: The Apache Software Foundation
+Created-By: Apache Maven 3.2.5
+Build-Jdk: 1.8.0_252
+Specification-Version: 1.12.1
+

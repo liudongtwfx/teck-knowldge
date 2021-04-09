@@ -14,16 +14,14 @@ public class RateLimiterUtils {
 
     private static void create() {
         RateLimiter rateLimiter = RateLimiter.create(2.0);
-        ExecutorService executorService = new ThreadPoolExecutor(1, 20, 10, TimeUnit.DAYS, new ArrayBlockingQueue<>(1024));
+        ExecutorService executorService = new ThreadPoolExecutor(10, 20, 10, TimeUnit.DAYS, new ArrayBlockingQueue<>(1024));
         final long start = System.currentTimeMillis();
         for (int i = 0; i < 100; i++) {
-            executorService.submit(new Runnable() {
-                @Override
-                public void run() {
-                    rateLimiter.acquire();
-                    System.out.println(System.currentTimeMillis() - start);
-                }
+            executorService.submit(() -> {
+                rateLimiter.acquire();
+                System.out.println(System.currentTimeMillis() - start);
             });
         }
+        executorService.shutdownNow();
     }
 }

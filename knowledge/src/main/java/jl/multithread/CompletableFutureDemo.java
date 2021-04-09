@@ -13,6 +13,14 @@ public class CompletableFutureDemo {
         CompletableFuture<String> future = CompletableFuture.supplyAsync(() -> "first")
                 .thenCompose(unused -> CompletableFuture.supplyAsync(() -> unused + "second"));
         System.out.println(future.get());
+        CompletableFuture<String> cf1 = CompletableFuture.supplyAsync(() -> {
+            System.out.println("invoking...");
+            interruptWithoutException();
+            return "hello";
+        });
+
+
+        Thread.sleep(1000);
     }
 
     private static void sleep(long ms) {
@@ -27,6 +35,14 @@ public class CompletableFutureDemo {
     @Data
     private static class A {
         private int age;
+    }
 
+    private static void interruptWithoutException() {
+        try {
+            Thread.sleep(1000);
+        } catch (Exception e) {
+            e.printStackTrace();
+            Thread.currentThread().interrupt();
+        }
     }
 }

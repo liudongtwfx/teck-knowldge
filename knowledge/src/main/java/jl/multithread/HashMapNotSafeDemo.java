@@ -2,6 +2,7 @@ package jl.multithread;
 
 import lombok.SneakyThrows;
 
+import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.CountDownLatch;
@@ -20,7 +21,7 @@ public class HashMapNotSafeDemo {
 
 
     private static class MapPutRunner implements Runnable {
-        private static final Map<Count, Integer> NUM_MAP = new ConcurrentHashMap<>();
+        private static final Map<Count, Integer> NUM_MAP = new HashMap<>();
         private final int start;
         private final int end;
         private final CountDownLatch countDownLatch;
