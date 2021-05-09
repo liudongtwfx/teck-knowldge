@@ -2,6 +2,7 @@ package algorithme;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;
+import java.util.Queue;
 
 public class SellDiminishingValuedColoredBalls {
     public static void main(String[] args) {
@@ -15,11 +16,11 @@ public class SellDiminishingValuedColoredBalls {
         System.out.println(i);
     }
 
-    class Solution {
+    static class Solution {
         public int maxProfit(int[] stock, int orders) {
             final int mod = 1_000_000_007;
             long profit = 0;
-            PriorityQueue<Integer> maxHeap = new PriorityQueue<>((a, b) -> (b - a));
+            Queue<Integer> maxHeap = new PriorityQueue<>((a, b) -> (b - a));
             Arrays.stream(stock).forEach(maxHeap::add);
             long prevMaxCount = 0L;
             while (orders > 0) {

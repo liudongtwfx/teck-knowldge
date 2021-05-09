@@ -1,6 +1,10 @@
 package es.entity;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class Student implements EsEntity {
+    public static final String INDEX = "student";
     private int age;
     private String name;
     private String studentNo;

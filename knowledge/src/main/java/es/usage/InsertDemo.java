@@ -3,9 +3,11 @@ package es.usage;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import es.Constants;
 import es.entity.EsEntity;
+import es.entity.Student;
 import es.entity.Teacher;
 import org.elasticsearch.action.bulk.BulkRequest;
 import org.elasticsearch.action.index.IndexRequest;
+import org.elasticsearch.action.index.IndexResponse;
 import org.elasticsearch.client.RequestOptions;
 import org.elasticsearch.common.xcontent.XContentType;
 import org.slf4j.Logger;
@@ -24,8 +26,11 @@ public class InsertDemo {
         BulkRequest bulk = new BulkRequest();
         for (int i = 0; i < 100; i++) {
             EXECUTOR_SERVICE.submit(new RequestThread(new Teacher(i, "liudong" + i, "liudong" + i), Teacher.INDEX));
+            EXECUTOR_SERVICE.submit(new RequestThread(new Student(i, "liudong" + i, "liudong" + i), Student.INDEX));
         }
-        Constants.LOCALHOST_CLIENT.bulk(bulk, RequestOptions.DEFAULT);
+        // Constants.LOCALHOST_CLIENT.bulk(bulk, RequestOptions.DEFAULT);
+        Thread.sleep(5000);
+        EXECUTOR_SERVICE.shutdownNow();
     }
 
 
@@ -44,7 +49,8 @@ public class InsertDemo {
                 IndexRequest indexRequest = new IndexRequest(index);
                 indexRequest.id(entity.getId());
                 indexRequest.source(OBJECT_MAPPER.writeValueAsString(entity), XContentType.JSON);
-                Constants.LOCALHOST_CLIENT.index(indexRequest, RequestOptions.DEFAULT);
+                System.out.println(indexRequest);
+                IndexResponse index = Constants.LOCALHOST_CLIENT.index(indexRequest, RequestOptions.DEFAULT);
             } catch (Exception e) {
                 log.error("exception", e);
             }

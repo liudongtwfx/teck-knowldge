@@ -37,12 +37,13 @@ public class ScrollSearch {
 
         for (int i = 0; i < 10; i++) {
             log.info("scrollId:{}", scrollId);
-            Future<List<Student>> result = EXECUTOR_SERVICE.submit(new ScrollSearchThread<>(scrollId, Student.class));
+            Future<Pair<String, List<Student>>> result = EXECUTOR_SERVICE.submit(new ScrollSearchThread<>(scrollId, Student.class));
             //futures.add(result);
-            result.get().forEach(s -> log.info("student:{}", s));
+            result.get().getRight().forEach(s -> log.info("student:{}", s));
             log.info("-------------");
-            //scrollId = result.get().getLeft();
+            scrollId = result.get().getLeft();
         }
+        EXECUTOR_SERVICE.shutdownNow();
     }
 
     private static class SearchThread<T> implements Callable<Pair<String, List<T>>> {
@@ -68,7 +69,7 @@ public class ScrollSearch {
         }
     }
 
-    private static final class ScrollSearchThread<T> implements Callable<List<T>> {
+    private static final class ScrollSearchThread<T> implements Callable<Pair<String, List<T>>> {
         private final Class<T> type;
         private final String scrollId;
 
@@ -78,7 +79,7 @@ public class ScrollSearch {
         }
 
         @Override
-        public List<T> call() throws Exception {
+        public Pair<String, List<T>> call() throws Exception {
             SearchScrollRequest searchRequest = new SearchScrollRequest(scrollId).scroll(TimeValue.timeValueMinutes(5));
             SearchResponse response = Constants.LOCALHOST_CLIENT.scroll(searchRequest, RequestOptions.DEFAULT);
             List<T> results = new ArrayList<>();
@@ -86,7 +87,7 @@ public class ScrollSearch {
                 log.info("info:{}", hit.getSourceAsMap());
                 results.add(Constants.OBJECT_MAPPER.readValue(hit.getSourceAsString(), type));
             }
-            return results;
+            return Pair.of(response.getScrollId(), results);
         }
     }
 }

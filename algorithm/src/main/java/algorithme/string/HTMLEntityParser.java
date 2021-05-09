@@ -61,7 +61,7 @@ public class HTMLEntityParser {
         }
 
         public String entityParser(String text) {
-            String result = "";
+            StringBuilder result = new StringBuilder();
             int start = 0;
             while (start < text.length()) {
                 int minStart = text.length();
@@ -77,10 +77,10 @@ public class HTMLEntityParser {
                 if (minStart == text.length()) {
                     return result + text.substring(start, minStart);
                 }
-                result += text.substring(start, minStart) + replaceConfig.get(key);
+                result.append(text, start, minStart).append(replaceConfig.get(key));
                 start = minStart + key.length();
             }
-            return result;
+            return result.toString();
         }
     }
 }
