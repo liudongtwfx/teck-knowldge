@@ -10,6 +10,9 @@ import java.util.concurrent.CompletableFuture;
 
 public class CompletableFutureDemo {
     public static void main(String[] args) throws Exception {
+        CompletableFuture<String> future = CompletableFuture.supplyAsync(() -> "first")
+                .thenCompose(unused -> CompletableFuture.supplyAsync(() -> unused + "second"));
+        System.out.println(future.get());
         CompletableFuture<String> cf1 = CompletableFuture.supplyAsync(() -> {
             System.out.println("invoking...");
             interruptWithoutException();
@@ -28,7 +31,6 @@ public class CompletableFutureDemo {
             Thread.currentThread().interrupt();
         }
     }
-
 
     @Data
     private static class A {

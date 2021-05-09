@@ -1,25 +1,19 @@
 package jl;
 
+import com.google.common.util.concurrent.RateLimiter;
+
 public class StringBuilder {
     public static void main(String[] args) throws Exception {
-    }
+        RateLimiter rateLimiter = RateLimiter.create(1);
+        double acquire = rateLimiter.acquire(1);
+        System.out.println("acquire:" + acquire + "s");
 
-    private static class Task implements Runnable {
-        private static final ThreadLocal<BigMemory> threadLocal = new ThreadLocal<BigMemory>();
-
-        @Override
-        public void run() {
-            threadLocal.set(new BigMemory());
-        }
-    }
-
-    private static class BigMemory {
-        private int[] a = new int[1024 * 1024 * 400];
-
-        @Override
-        protected void finalize() throws Throwable {
-            System.out.println("finalizing...");
-            super.finalize();
+        System.out.println("acquire:" + rateLimiter.acquire(1) + "s");
+        System.out.println("acquire:" + rateLimiter.acquire(1) + "s");
+        System.out.println("acquire:" + rateLimiter.acquire(1) + "s");
+        System.out.println("acquire:" + rateLimiter.acquire(1) + "s");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("acquire:" + rateLimiter.acquire(1) + "s");
         }
     }
 }
