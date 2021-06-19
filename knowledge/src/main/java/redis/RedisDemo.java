@@ -17,7 +17,7 @@ public class RedisDemo {
 
     public static void main(String[] args) {
         for (int i = 0; i < 1000; i++) {
-            new Thread(new SetKeyRunner(String.valueOf(i), String.valueOf(i))).start();
+            new Thread(new SortedSetRunner(String.valueOf(i), i)).start();
         }
 
         ScanResult<String> scan = JEDIS.getResource().scan("1");
@@ -39,6 +39,24 @@ public class RedisDemo {
         public void run() {
             Jedis resource = JEDIS.getResource();
             resource.set(key, value);
+            resource.close();
+        }
+    }
+
+    private static final class SortedSetRunner implements Runnable {
+        private static final String KEY = "sorted_set";
+        private String member;
+        private long score;
+
+        public SortedSetRunner(String member, long score) {
+            this.member = member;
+            this.score = score;
+        }
+
+        @Override
+        public void run() {
+            Jedis resource = JEDIS.getResource();
+            resource.zadd(KEY, score, member);
             resource.close();
         }
     }

@@ -5,26 +5,52 @@ import org.springframework.util.StopWatch;
 public class LongestSubstringOfAllVowelsInOrder {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder();
-        for (int i = 0; i < 50000; i++) {
+        for (int i = 0; i < 500000; i++) {
             sb.append('a');
         }
         sb.append("eiou");
         StopWatch stopWatch = new StopWatch();
         stopWatch.start();
-        int ans = new Solution().longestBeautifulSubstring(sb.toString());
+        int ans = new MySolution().longestBeautifulSubstring(sb.toString());
         stopWatch.stop();
         System.out.println(stopWatch.prettyPrint());
         System.out.println(ans);
     }
 
     static class Solution {
-
-        private static final char[] VOWS = {'a', 'e', 'i', 'o', 'u'};
-
         public int longestBeautifulSubstring(String word) {
+            int maxCount = 0;
+            int letterChanged = 0;
+            int count = 1;
+            char[] arr = word.toCharArray();
+            for (int i = 1; i < arr.length; i++) {
+                System.out.println(i);
+                if (arr[i] >= arr[i - 1]) {
+                    count++;
+                    if (arr[i] != arr[i - 1]) {
+                        letterChanged++;
+                    }
+                } else {
+                    if (arr[i] < arr[i - 1] && letterChanged == 4) {
+                        maxCount = Math.max(maxCount, count);
+                    }
+                    letterChanged = 0;
+                    count = 1;
+                }
+
+            }
+            return letterChanged == 4 ? Math.max(maxCount, count) : maxCount;
+        }
+    }
+
+    static class MySolution {
+        public int longestBeautifulSubstring(String word) {
+            long startC = System.currentTimeMillis();
             int currentVowelIndex = -1;
             int start = 0, ans = 0;
-            for (int i = 0; i < word.toCharArray().length; i++) {
+            long totalMs = 0;
+            char[] arr = word.toCharArray();
+            for (int i = 0; i < arr.length; i++) {
                 char c = word.charAt(i);
                 int index = indexOfVowel(c);
                 if (index - currentVowelIndex == 0) {
@@ -47,10 +73,12 @@ public class LongestSubstringOfAllVowelsInOrder {
                 }
                 currentVowelIndex = -1;
             }
+            System.out.println(totalMs);
+            System.out.println(System.currentTimeMillis() - startC);
             return ans;
         }
 
-        private static int indexOfVowel(char vowel) {
+        private int indexOfVowel(char vowel) {
             if (vowel == 'a') {
                 return 0;
             }
