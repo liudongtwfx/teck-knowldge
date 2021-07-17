@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
+    public static void main(String[] args) {
+        System.getProperties().forEach((k, v) -> {
+            System.out.println("key:" + k + ",value:" + v);
+        });
+    }
+
     private List<Node> mergeSort(List<Node> nodes) {
         return dfs(nodes, 0, nodes.size());
     }
