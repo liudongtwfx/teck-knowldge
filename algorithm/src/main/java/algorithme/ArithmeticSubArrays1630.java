@@ -1,13 +1,21 @@
 package algorithme;
 
+import org.springframework.scripting.groovy.GroovyScriptFactory;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class ArithmeticSubarrays1630 {
+public class ArithmeticSubArrays1630 {
 
-    public static void main(String[] args) {
-
+    public static void main(String[] args) throws Exception {
+        String jsonTest = "class A {\n" +
+                "    public static void main(String[] args) {\n" +
+                "        System.out.println(\"hello world\");\n" +
+                "    }\n" +
+                "}";
+        GroovyScriptFactory factory = new GroovyScriptFactory(jsonTest);
+        Class<?> hello = factory.getGroovyClassLoader().loadClass("Hello");
     }
 
     class Solution {
