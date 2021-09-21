@@ -45,8 +45,8 @@ public class RedisDemo {
 
     private static final class SortedSetRunner implements Runnable {
         private static final String KEY = "sorted_set";
-        private String member;
-        private long score;
+        private final String member;
+        private final long score;
 
         public SortedSetRunner(String member, long score) {
             this.member = member;
@@ -55,9 +55,9 @@ public class RedisDemo {
 
         @Override
         public void run() {
-            Jedis resource = JEDIS.getResource();
-            resource.zadd(KEY, score, member);
-            resource.close();
+            try (Jedis resource = JEDIS.getResource()) {
+                resource.zadd(KEY, score, member);
+            }
         }
     }
 }

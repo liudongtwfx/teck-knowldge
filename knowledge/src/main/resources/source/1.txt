@@ -1,14 +1,19 @@
-ip段起始地址 ip段结束地址 ip省市区地址  300w行
-上亿ip
-
-// 区间树(段数)
-// 二分查找
-
-class IpArea {
-    String ipFrom;
-    String ipTo;
-   
-}
-
-
-
+-XX:ReservedCodeCacheSize=256m
+-XX:InitialCodeCacheSize=256m
+-XX:+UnlockExperimentalVMOptions
+-XX:+UseZGC
+-XX:ConcGCThreads=2
+-XX:ParallelGCThreads=6
+-XX:ZCollectionInterval=120
+-XX:ZAllocationSpikeTolerance=5
+-XX:+UnlockDiagnosticVMOptions
+-XX:-ZProactive
+-ea
+-Dsun.io.useCanonCaches=false
+-Dsun.awt.keepWorkingSetOnMinimize=true
+-Djava.net.preferIPv4Stack=true
+-Djdk.http.auth.tunneling.disabledSchemes=""
+-Djsse.enablesSNIExtension=false
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:-OmitStackTraceInFastThrow
+-Dfile.encoding=UTF-8

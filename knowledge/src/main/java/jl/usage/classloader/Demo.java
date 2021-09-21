@@ -15,7 +15,6 @@ import java.util.ArrayList;
  */
 public class Demo {
     public static void main(String[] args) {
-
         System.out.println(ArrayList.class.getClassLoader());
         System.out.println(MirroredTypesException.class.getClassLoader());
         System.out.println(Demo.class.getClassLoader());

@@ -1,7 +1,5 @@
 package algorithme;
 
-import algorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments;
-
 public class CheckIfNumberIsASumOfPowersOfThree1780 {
     public static void main(String[] args) {
         new CheckIfNumberIsASumOfPowersOfThree1780().bridge();
