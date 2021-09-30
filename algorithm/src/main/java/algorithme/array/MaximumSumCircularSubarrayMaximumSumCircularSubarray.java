@@ -32,9 +32,11 @@ public class MaximumSumCircularSubarrayMaximumSumCircularSubarray {
             return min == sum ? max : Math.max(max, sum - min);
         }
 
+
         // a helper function to get the non-circular maximum or minimum
         public int globalValue(int[] A, boolean max) {
             int global = A[0], local = A[0];
+
             for (int i = 1; i < A.length; i++) {
                 if ((max && local < 0) || (!max && local > 0)) {
                     local = A[i];
