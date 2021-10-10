@@ -1,7 +1,6 @@
 package algorithme.sort;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -19,44 +18,37 @@ public class PancakeSorting969 {
     }
 
     private void bridge() {
-        int[] A = {3, 2, 4, 1};
+        int[] A = {2, 1, 3};
         new Solution().pancakeSort(A).forEach(System.out::println);
     }
 
     class Solution {
-        public List<Integer> pancakeSort(int[] A) {
-            List<Integer> ans = new ArrayList<>();
-            int end = A.length;
-            int[] copy = Arrays.copyOf(A, end);
-            while (end > 0) {
-                int maxIndex = getMaxIndex(copy, end);
-                ans.add(maxIndex);
-                copy = reverse(copy, maxIndex);
-                ans.add(end);
-                copy = reverse(copy, end);
-                end--;
-            }
-            System.out.println(Arrays.toString(copy));
-            return ans;
+        public List<Integer> pancakeSort(int[] arr) {
+            List<Integer> nums = new ArrayList<>();
+            dfs(arr, arr.length - 1, nums);
+            return nums;
         }
 
-        private int getMaxIndex(int[] A, int end) {
-            int maxIndex = 0, max = A[0];
-            for (int i = 0; i < end; i++) {
-                if (A[i] > max) {
-                    max = A[i];
-                    maxIndex = i;
-                }
+        private void dfs(int[] arr, int end, List<Integer> nums) {
+            if (end < 0) return;
+            int maxIndex = 0;
+            for (int i = 0; i <= end; i++) {
+                if (arr[i] > arr[maxIndex]) maxIndex = i;
             }
-            return maxIndex + 1;
-        }
-
-        private int[] reverse(int[] A, int to) {
-            int[] afterReverse = Arrays.copyOf(A, A.length);
-            for (int i = 0; i < to; i++) {
-                afterReverse[i] = A[to - 1 - i];
+            nums.add(maxIndex + 1);
+            for (int i = 0; i * 2 <= maxIndex; i++) {
+                int tmp = arr[i];
+                arr[i] = arr[maxIndex - i];
+                arr[maxIndex - i] = tmp;
             }
-            return afterReverse;
+            int next = arr[0];
+            nums.add(next);
+            for (int i = 0; i * 2 <= end; i++) {
+                int tmp = arr[i];
+                arr[i] = arr[end - i];
+                arr[end - i] = tmp;
+            }
+            dfs(arr, end - 1, nums);
         }
     }
 }
