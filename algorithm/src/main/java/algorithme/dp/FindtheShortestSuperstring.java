@@ -30,7 +30,7 @@ public class FindtheShortestSuperstring {
                     // dp[i][j], i->j 的 最短字符串 ;
                     dp[j][i] = dp[j][i - 1] + A[i];
                     for (int k = j; k < i; k++) {
-                        //A[i] + dp[0][k] + dp[k][j] 三部分 ;
+                        //KClosestPointsToOrigin973[i] + dp[0][k] + dp[k][j] 三部分 ;
                         String tmp1 = min(min(A[i], dp[j][k]), dp[k + 1][i - 1]);
                         dp[j][i] = minLen(tmp1, dp[j][i]);
                     }

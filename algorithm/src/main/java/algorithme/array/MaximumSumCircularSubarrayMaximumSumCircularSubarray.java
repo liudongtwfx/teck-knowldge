@@ -19,7 +19,7 @@ public class MaximumSumCircularSubarrayMaximumSumCircularSubarray {
 
     /**
      * max_circular_sum = Max(max_non_circular_sum, sum - min_non_circular_sum);
-     * A special case is sum == min_non_circular_sum.
+     * KClosestPointsToOrigin973 special case is sum == min_non_circular_sum.
      */
     class Solution {
         public int maxSubarraySumCircular(int[] A) {

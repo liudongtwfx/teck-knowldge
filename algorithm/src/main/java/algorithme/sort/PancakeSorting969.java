@@ -8,9 +8,9 @@ import java.util.List;
  * <p>
  *
  * </p>
- * Given an array A, we can perform a pancake flip: We choose some positive integer k <= A.length, then reverse the order of the first k elements of A.  We want to perform zero or more pancake flips (doing them one after another in succession) to sort the array A.
+ * Given an array KClosestPointsToOrigin973, we can perform a pancake flip: We choose some positive integer k <= KClosestPointsToOrigin973.length, then reverse the order of the first k elements of KClosestPointsToOrigin973.  We want to perform zero or more pancake flips (doing them one after another in succession) to sort the array KClosestPointsToOrigin973.
  * <p>
- * Return the k-values corresponding to a sequence of pancake flips that sort A.  Any valid answer that sorts the array within 10 * A.length flips will be judged as correct.
+ * Return the k-values corresponding to a sequence of pancake flips that sort KClosestPointsToOrigin973.  Any valid answer that sorts the array within 10 * KClosestPointsToOrigin973.length flips will be judged as correct.
  */
 public class PancakeSorting969 {
     public static void main(String[] args) {
