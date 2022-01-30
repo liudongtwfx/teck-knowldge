@@ -1,0 +1,176 @@
+
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.javaè
+-algorithme.dp.MaximumLengthOfRepeatedSubarrayCLASST
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (,"
+inner classfalse*MaximumLengthOfRepeatedSubarray2´
+Falgorithme.dp.MaximumLengthOfRepeatedSubarray.main(java.lang.String[])DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java	 	(2õ
+6algorithme.dp.MaximumLengthOfRepeatedSubarray.SolutionDECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java
+ (í
+Falgorithme.dp.MaximumLengthOfRepeatedSubarray.main(java.lang.String[])METHODT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java	 	("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2Æ
+Kalgorithme.dp.MaximumLengthOfRepeatedSubarray.main(java.lang.String[])!args	PARAMETERT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java	% 	()2i
+voidRETURN_TYPET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java	 	(¶
+Kalgorithme.dp.MaximumLengthOfRepeatedSubarray.main(java.lang.String[])!args	PARAMETERT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java	% 	()*args2p
+java.lang.String[]TYPET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java	 	($Î
+6algorithme.dp.MaximumLengthOfRepeatedSubarray.SolutionCLASST
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java
+ ("
+inner classtrue*Solution2¥
+Oalgorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (–>
+Oalgorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])METHODT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*
+findLength2Å
+#java.util.Arrays.copyOf(int[], int)CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java$ (*2z
+java.lang.Math.max(int, int)CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java ("2Ø
+Qalgorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])!ACALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2Ø
+Qalgorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])!BCALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2ª
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?n@16.16:16.17CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java ( 2ª
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?i@19.21:19.22CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2ª
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?m@15.16:15.17CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java  (!2ª
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?i@19.21:19.22CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java# ($2º
+^algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?dp@18.18:18.20CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java+ (-2ª
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?n@16.16:16.17CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java/ (02º
+^algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?dp@18.18:18.20CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2ª
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?n@16.16:16.17CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2Ø
+Qalgorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])!ACALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2ª
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?i@19.21:19.22CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2Ø
+Qalgorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])!BCALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2º
+^algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?dp@18.18:18.20CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2ª
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?j@25.25:25.26CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java  (!2ª
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?n@16.16:16.17CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java$ (%2ª
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?j@25.25:25.26CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java' ((2Ø
+Qalgorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])!ACALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2ª
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?i@19.21:19.22CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2Ø
+Qalgorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])!BCALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java  (!2ª
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?j@25.25:25.26CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java" (#2º
+^algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?dp@18.18:18.20CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2ª
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?j@25.25:25.26CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2æ
+`algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?last@20.22:20.26CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java  ($2ª
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?j@25.25:25.26CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java% (&2Ω
+_algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?ans@17.16:17.19CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2Ω
+_algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?ans@17.16:17.19CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java# (&2º
+^algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?dp@18.18:18.20CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java( (*2ª
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?j@25.25:25.26CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java+ (,2Ω
+_algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?ans@17.16:17.19CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java   (2¥
+Qalgorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])!A	PARAMETERT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java$ (%2¥
+Qalgorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])!B	PARAMETERT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java- (.2¬
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?m@15.16:15.17DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2¬
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?n@16.16:16.17DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2ƒ
+_algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?ans@17.16:17.19DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2√
+^algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?dp@18.18:18.20DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2¬
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?i@19.21:19.22DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2≈
+`algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?last@20.22:20.26DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2¬
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?j@25.25:25.26DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2h
+intRETURN_TYPET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (Â
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?m@15.16:15.17VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java ("
+type int*m2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2Ø
+Qalgorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])!ACALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (Â
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?n@16.16:16.17VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java ("
+type int*n2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2Ø
+Qalgorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])!BCALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (∑
+_algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?ans@17.16:17.19VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java ("
+type int*ans2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (˜
+^algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?dp@18.18:18.20VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java ("
+type int[]*dp2c
+int[]TYPET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2ª
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?n@16.16:16.17CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java ( ≥
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?i@19.21:19.22VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java ("
+type int*i2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (æ
+`algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?last@20.22:20.26VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java ("
+type int[]*last2c
+int[]TYPET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (2Å
+#java.util.Arrays.copyOf(int[], int)CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java$ (*2º
+^algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?dp@18.18:18.20CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java+ (-2ª
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?n@16.16:16.17CALLT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java/ (0≥
+]algorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])?j@25.25:25.26VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java ("
+type int*j2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (ú
+Qalgorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])!A	PARAMETERT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java$ (%*A2c
+int[]TYPET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java (#ú
+Qalgorithme.dp.MaximumLengthOfRepeatedSubarray.Solution.findLength(int[], int[])!B	PARAMETERT
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java- (.*B2c
+int[]TYPET
+Jalgorithm/src/main/java/algorithme/dp/MaximumLengthOfRepeatedSubarray.java' (,

@@ -1,0 +1,38 @@
+
+>knowledge/src/main/java/jl/usage/spi/ServiceLoaderExample.java¶
+!jl.usage.spi.ServiceLoaderExampleCLASSH
+>knowledge/src/main/java/jl/usage/spi/ServiceLoaderExample.java (!"
+inner classfalse*ServiceLoaderExample2“
+:jl.usage.spi.ServiceLoaderExample.main(java.lang.String[])DECLARATIONH
+>knowledge/src/main/java/jl/usage/spi/ServiceLoaderExample.java (µ
+:jl.usage.spi.ServiceLoaderExample.main(java.lang.String[])METHODH
+>knowledge/src/main/java/jl/usage/spi/ServiceLoaderExample.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2‚
+0java.util.ServiceLoader.load(java.lang.Class<S>)CALLH
+>knowledge/src/main/java/jl/usage/spi/ServiceLoaderExample.java5 (92”
+Bjava.lang.Iterable.forEach(java.util.function.Consumer<? super T>)CALLH
+>knowledge/src/main/java/jl/usage/spi/ServiceLoaderExample.java (2›
+Ijl.usage.spi.ServiceLoaderExample.main(java.lang.String[])?load@6.32:6.36CALLH
+>knowledge/src/main/java/jl/usage/spi/ServiceLoaderExample.java (2–
+?jl.usage.spi.ServiceLoaderExample.main(java.lang.String[])!args	PARAMETERH
+>knowledge/src/main/java/jl/usage/spi/ServiceLoaderExample.java% ()2¢
+Ijl.usage.spi.ServiceLoaderExample.main(java.lang.String[])?load@6.32:6.36DECLARATIONH
+>knowledge/src/main/java/jl/usage/spi/ServiceLoaderExample.java  ($2]
+voidRETURN_TYPEH
+>knowledge/src/main/java/jl/usage/spi/ServiceLoaderExample.java (©
+Ijl.usage.spi.ServiceLoaderExample.main(java.lang.String[])?load@6.32:6.36VARIABLEH
+>knowledge/src/main/java/jl/usage/spi/ServiceLoaderExample.java  ($" 
+type ServiceLoader<IService>*load2i
+java.util.ServiceLoaderTYPEH
+>knowledge/src/main/java/jl/usage/spi/ServiceLoaderExample.java (2p
+jl.usage.spi.IServiceTYPE_ARGUMENTH
+>knowledge/src/main/java/jl/usage/spi/ServiceLoaderExample.java (2‚
+0java.util.ServiceLoader.load(java.lang.Class<S>)CALLH
+>knowledge/src/main/java/jl/usage/spi/ServiceLoaderExample.java5 (9‚
+?jl.usage.spi.ServiceLoaderExample.main(java.lang.String[])!args	PARAMETERH
+>knowledge/src/main/java/jl/usage/spi/ServiceLoaderExample.java% ()*args2d
+java.lang.String[]TYPEH
+>knowledge/src/main/java/jl/usage/spi/ServiceLoaderExample.java ($

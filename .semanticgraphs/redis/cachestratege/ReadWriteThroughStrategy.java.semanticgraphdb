@@ -1,0 +1,105 @@
+
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.javaõ
+,redis.cachestratege.ReadWriteThroughStrategyCLASSS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java (%"
+inner classfalse*ReadWriteThroughStrategy2π
+Uredis.cachestratege.ReadWriteThroughStrategy.save(java.lang.String, java.lang.String)DECLARATIONS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java (2ª
+Wredis.cachestratege.ReadWriteThroughStrategy.update(java.lang.String, java.lang.String)DECLARATIONS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java (2®
+Dredis.cachestratege.ReadWriteThroughStrategy.query(java.lang.String)DECLARATIONS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java& &(2©
+Eredis.cachestratege.ReadWriteThroughStrategy.delete(java.lang.String)DECLARATIONS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java1 1(2ç
+.redis.cachestratege.AbstractCacheAsideStrategyEXTENDS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java. (Hï
+
+Uredis.cachestratege.ReadWriteThroughStrategy.save(java.lang.String, java.lang.String)METHODS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*save2±
+Tredis.cachestratege.RedisStorageOperation.update(java.lang.String, java.lang.String)CALLS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java ($2∂
+Yredis.cachestratege.ReadWriteThroughStrategy.save(java.lang.String, java.lang.String)!keyCALLS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java% ((2∏
+[redis.cachestratege.ReadWriteThroughStrategy.save(java.lang.String, java.lang.String)!valueCALLS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java* (/2ª
+Yredis.cachestratege.ReadWriteThroughStrategy.save(java.lang.String, java.lang.String)!key	PARAMETERS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java (2Ω
+[redis.cachestratege.ReadWriteThroughStrategy.save(java.lang.String, java.lang.String)!value	PARAMETERS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java( (-2h
+voidRETURN_TYPES
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java (Ø
+Yredis.cachestratege.ReadWriteThroughStrategy.save(java.lang.String, java.lang.String)!key	PARAMETERS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java (*key2m
+java.lang.StringTYPES
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java (≥
+[redis.cachestratege.ReadWriteThroughStrategy.save(java.lang.String, java.lang.String)!value	PARAMETERS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java( (-*value2m
+java.lang.StringTYPES
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java! ('°
+
+Wredis.cachestratege.ReadWriteThroughStrategy.update(java.lang.String, java.lang.String)METHODS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*update2±
+Tredis.cachestratege.RedisStorageOperation.update(java.lang.String, java.lang.String)CALLS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java ($2∏
+[redis.cachestratege.ReadWriteThroughStrategy.update(java.lang.String, java.lang.String)!keyCALLS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java% ((2∫
+]redis.cachestratege.ReadWriteThroughStrategy.update(java.lang.String, java.lang.String)!valueCALLS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java* (/2Ω
+[redis.cachestratege.ReadWriteThroughStrategy.update(java.lang.String, java.lang.String)!key	PARAMETERS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java (!2ø
+]redis.cachestratege.ReadWriteThroughStrategy.update(java.lang.String, java.lang.String)!value	PARAMETERS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java* (/2h
+voidRETURN_TYPES
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java (±
+[redis.cachestratege.ReadWriteThroughStrategy.update(java.lang.String, java.lang.String)!key	PARAMETERS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java (!*key2m
+java.lang.StringTYPES
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java (µ
+]redis.cachestratege.ReadWriteThroughStrategy.update(java.lang.String, java.lang.String)!value	PARAMETERS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java* (/*value2m
+java.lang.StringTYPES
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java# ()„
+Dredis.cachestratege.ReadWriteThroughStrategy.query(java.lang.String)METHODS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java& &("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*query2û
+Aredis.cachestratege.RedisStorageOperation.query(java.lang.String)CALLS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java'% '(*2•
+Hredis.cachestratege.ReadWriteThroughStrategy.query(java.lang.String)!keyCALLS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java'+ '(.2™
+Hredis.cachestratege.ReadWriteThroughStrategy.query(java.lang.String)!key	PARAMETERS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java& &("2t
+java.lang.StringRETURN_TYPES
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java& &(û
+Hredis.cachestratege.ReadWriteThroughStrategy.query(java.lang.String)!key	PARAMETERS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java& &("*key2m
+java.lang.StringTYPES
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java& &(⁄
+Eredis.cachestratege.ReadWriteThroughStrategy.delete(java.lang.String)METHODS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java1 1("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*delete2ü
+Bredis.cachestratege.RedisStorageOperation.delete(java.lang.String)CALLS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java2 2($2¶
+Iredis.cachestratege.ReadWriteThroughStrategy.delete(java.lang.String)!keyCALLS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java2% 2((2´
+Iredis.cachestratege.ReadWriteThroughStrategy.delete(java.lang.String)!key	PARAMETERS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java1 1(!2h
+voidRETURN_TYPES
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java1 1(ü
+Iredis.cachestratege.ReadWriteThroughStrategy.delete(java.lang.String)!key	PARAMETERS
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java1 1(!*key2m
+java.lang.StringTYPES
+Iknowledge/src/main/java/redis/cachestratege/ReadWriteThroughStrategy.java1 1(

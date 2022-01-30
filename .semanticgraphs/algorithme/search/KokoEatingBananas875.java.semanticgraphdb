@@ -1,0 +1,384 @@
+
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.javaÑ
+&algorithme.search.KokoEatingBananas875CLASSM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (!"
+inner classfalse*KokoEatingBananas8752ù
+?algorithme.search.KokoEatingBananas875.main(java.lang.String[])DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2ç
+/algorithme.search.KokoEatingBananas875.bridge()DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2ó
+9algorithme.search.KokoEatingBananas875.getInputFromFile()DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java ("2ç
+/algorithme.search.KokoEatingBananas875.SolutionDECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java"
+ "(è
+?algorithme.search.KokoEatingBananas875.main(java.lang.String[])METHODM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2Ü
+/algorithme.search.KokoEatingBananas875.bridge()CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java# ()2î
+=algorithme.search.KokoEatingBananas875.KokoEatingBananas875()CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java ( 2†
+Dalgorithme.search.KokoEatingBananas875.main(java.lang.String[])!args	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java% ()2b
+voidRETURN_TYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (ë
+Dalgorithme.search.KokoEatingBananas875.main(java.lang.String[])!args	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java% ()*args2i
+java.lang.String[]TYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java ($ƒ
+/algorithme.search.KokoEatingBananas875.bridge()METHODM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2ê
+9algorithme.search.KokoEatingBananas875.getInputFromFile()CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java ($2|
+%java.lang.Throwable.printStackTrace()CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2w
+ java.io.PrintStream.println(int)CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2°
+Jalgorithme.search.KokoEatingBananas875.Solution.minEatingSpeed(int[], int)CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java* (82ë
+:algorithme.search.KokoEatingBananas875.Solution.Solution()CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java ('2ò
+Aalgorithme.search.KokoEatingBananas875.bridge()?piles@12.14:12.19CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2î
+=algorithme.search.KokoEatingBananas875.bridge()?e@15.27:15.28CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2ò
+Aalgorithme.search.KokoEatingBananas875.bridge()?piles@12.14:12.19CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java9 (>2î
+=algorithme.search.KokoEatingBananas875.bridge()?h@18.12:18.13CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java@ (A2ü
+Aalgorithme.search.KokoEatingBananas875.bridge()?piles@12.14:12.19DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2õ
+=algorithme.search.KokoEatingBananas875.bridge()?h@18.12:18.13DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2õ
+=algorithme.search.KokoEatingBananas875.bridge()?e@15.27:15.28DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2b
+voidRETURN_TYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (ë
+Aalgorithme.search.KokoEatingBananas875.bridge()?piles@12.14:12.19VARIABLEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java ("
+type int[]*piles2\
+int[]TYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (Ö
+=algorithme.search.KokoEatingBananas875.bridge()?h@18.12:18.13VARIABLEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java ("
+type int*h2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (á
+=algorithme.search.KokoEatingBananas875.bridge()?e@15.27:15.28VARIABLEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (*e2j
+java.lang.ExceptionTYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (µ
+9algorithme.search.KokoEatingBananas875.getInputFromFile()METHODM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (""
+staticfalse"
+finalfalse"
+access modifierprivate"
+type int[]*getInputFromFile2{
+$java.io.FileInputStream.read(byte[])CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2á
+0java.lang.StringBuilder.append(java.lang.String)CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2Ñ
+-java.io.PrintStream.println(java.lang.Object)CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2y
+"java.lang.StringBuilder.toString()CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java& (.2ê
+9java.io.FileInputStream.FileInputStream(java.lang.String)CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java! (02~
+'java.lang.StringBuilder.StringBuilder()CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (,2Ä
+)java.lang.String.String(byte[], int, int)CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java ( 2†
+Ialgorithme.search.KokoEatingBananas875.getInputFromFile()?len@26.12:26.15CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2ü
+Halgorithme.search.KokoEatingBananas875.getInputFromFile()?fi@23.24:23.26CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2¢
+Kalgorithme.search.KokoEatingBananas875.getInputFromFile()?bytes@24.15:24.20CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (#2ü
+Halgorithme.search.KokoEatingBananas875.getInputFromFile()?sb@25.22:25.24CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2¢
+Kalgorithme.search.KokoEatingBananas875.getInputFromFile()?bytes@24.15:24.20CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java! (&2†
+Ialgorithme.search.KokoEatingBananas875.getInputFromFile()?len@26.12:26.15CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java+ (.2ü
+Halgorithme.search.KokoEatingBananas875.getInputFromFile()?sb@25.22:25.24CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2ü
+Halgorithme.search.KokoEatingBananas875.getInputFromFile()?sb@25.22:25.24CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java# (%2¶
+Halgorithme.search.KokoEatingBananas875.getInputFromFile()?fi@23.24:23.26DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2©
+Kalgorithme.search.KokoEatingBananas875.getInputFromFile()?bytes@24.15:24.20DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2¶
+Halgorithme.search.KokoEatingBananas875.getInputFromFile()?sb@25.22:25.24DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2ß
+Ialgorithme.search.KokoEatingBananas875.getInputFromFile()?len@26.12:26.15DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2c
+int[]RETURN_TYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (ƒ
+Halgorithme.search.KokoEatingBananas875.getInputFromFile()?fi@23.24:23.26VARIABLEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java ("
+type FileInputStream*fi2n
+java.io.FileInputStreamTYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2ê
+9java.io.FileInputStream.FileInputStream(java.lang.String)CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java! (0ù
+Kalgorithme.search.KokoEatingBananas875.getInputFromFile()?bytes@24.15:24.20VARIABLEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java ("
+type byte[]*bytes2]
+byte[]TYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (Ø
+Halgorithme.search.KokoEatingBananas875.getInputFromFile()?sb@25.22:25.24VARIABLEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java ("
+type StringBuilder*sb2n
+java.lang.StringBuilderTYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (2~
+'java.lang.StringBuilder.StringBuilder()CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (,ì
+Ialgorithme.search.KokoEatingBananas875.getInputFromFile()?len@26.12:26.15VARIABLEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java ("
+type int*len2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java (œ
+/algorithme.search.KokoEatingBananas875.SolutionCLASSM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java"
+ "("
+inner classtrue*Solution2®
+Jalgorithme.search.KokoEatingBananas875.Solution.minEatingSpeed(int[], int)DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java% %(!2∞
+Ralgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java+ +( 2¶
+Halgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java> >(2ü
+Aalgorithme.search.KokoEatingBananas875.Solution?count@35.20:35.25DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java# #(ø
+Jalgorithme.search.KokoEatingBananas875.Solution.minEatingSpeed(int[], int)METHODM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java% %(!"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minEatingSpeed2©
+Ralgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java& &(%2w
+ java.io.PrintStream.println(int)CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java' '(2ß
+Palgorithme.search.KokoEatingBananas875.Solution.minEatingSpeed(int[], int)!pilesCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java&& &(+2£
+Lalgorithme.search.KokoEatingBananas875.Solution.minEatingSpeed(int[], int)!hCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java&- &(.2ò
+Aalgorithme.search.KokoEatingBananas875.Solution?count@35.20:35.25CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java' '($2¥
+]algorithme.search.KokoEatingBananas875.Solution.minEatingSpeed(int[], int)?result@38.16:38.22CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java( ((2¨
+Palgorithme.search.KokoEatingBananas875.Solution.minEatingSpeed(int[], int)!piles	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java%( %(-2®
+Lalgorithme.search.KokoEatingBananas875.Solution.minEatingSpeed(int[], int)!h	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java%3 %(42ª
+]algorithme.search.KokoEatingBananas875.Solution.minEatingSpeed(int[], int)?result@38.16:38.22DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java& &(2a
+intRETURN_TYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java% %(¶
+]algorithme.search.KokoEatingBananas875.Solution.minEatingSpeed(int[], int)?result@38.16:38.22VARIABLEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java& &("
+type int*result2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java& &(2©
+Ralgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java& &(%2ß
+Palgorithme.search.KokoEatingBananas875.Solution.minEatingSpeed(int[], int)!pilesCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java&& &(+2£
+Lalgorithme.search.KokoEatingBananas875.Solution.minEatingSpeed(int[], int)!hCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java&- &(.ë
+Palgorithme.search.KokoEatingBananas875.Solution.minEatingSpeed(int[], int)!piles	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java%( %(-*piles2\
+int[]TYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java%" %('á
+Lalgorithme.search.KokoEatingBananas875.Solution.minEatingSpeed(int[], int)!h	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java%3 %(4*h2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java%/ %(2„3
+Ralgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)METHODM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java+ +( "
+staticfalse"
+finalfalse"
+access modifierprivate"
+type int*binarySearch2ü
+Halgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java1 1(2ü
+Halgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java8 8(2©
+Ralgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java9 9(#2©
+Ralgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java; ;(2Ø
+Xalgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!startCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java, ,(2≠
+Valgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!endCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java, ,(2≠
+Valgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!endCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java/ /(2Ø
+Xalgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!startCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java/ /(2Ø
+Xalgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!startCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java0 0("2∑
+`algorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)?i@48.25:48.26CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java0$ 0(%2≠
+Valgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!endCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java0) 0(,2∑
+`algorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)?i@48.25:48.26CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java0. 0(/2Ø
+Xalgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!pilesCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java1  1(%2´
+Talgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!hCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java1' 1((2∑
+`algorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)?i@48.25:48.26CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java1* 1(+2∑
+`algorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)?i@48.25:48.26CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java2 2( 2Ø
+Xalgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!startCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java7 7(2≠
+Valgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!endCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java7 7("2Ø
+Xalgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!pilesCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java8 8(2´
+Talgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!hCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java8 8( 2π
+balgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)?mid@55.16:55.19CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java8" 8(%2Ø
+Xalgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!pilesCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java9$ 9()2´
+Talgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!hCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java9+ 9(,2Ø
+Xalgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!startCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java9. 9(32π
+balgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)?mid@55.16:55.19CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java95 9(82Ø
+Xalgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!pilesCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java;  ;(%2´
+Talgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!hCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java;' ;((2π
+balgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)?mid@55.16:55.19CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java;* ;(-2≠
+Valgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!endCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java;3 ;(62¥
+Xalgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!piles	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java+' +(,2∞
+Talgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!h	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java+2 +(32¥
+Xalgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!start	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java+9 +(>2≤
+Valgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!end	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java+D +(G2æ
+`algorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)?i@48.25:48.26DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java0 0(2¿
+balgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)?mid@55.16:55.19DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java7 7(2a
+intRETURN_TYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java+ +(⁄
+`algorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)?i@48.25:48.26VARIABLEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java0 0("
+type int*i2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java0 0(2Ø
+Xalgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!startCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java0 0("é
+balgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)?mid@55.16:55.19VARIABLEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java7 7("
+type int*mid2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java7 7(2Ø
+Xalgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!startCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java7 7(2≠
+Valgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!endCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java7 7("ô
+Xalgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!piles	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java+' +(,*piles2\
+int[]TYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java+! +(&è
+Talgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!h	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java+2 +(3*h2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java+. +(1ó
+Xalgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!start	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java+9 +(>*start2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java+5 +(8ì
+Valgorithme.search.KokoEatingBananas875.Solution.binarySearch(int[], int, int, int)!end	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java+D +(G*end2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java+@ +(CÃ
+Halgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)METHODM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java> >("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type boolean*satisfy2ò
+Aalgorithme.search.KokoEatingBananas875.Solution?count@35.20:35.25CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java? ?(2°
+Jalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)!kCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java@ @(2•
+Nalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)!pilesCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.javaD D(!2±
+Zalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)?total@67.16:67.21CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.javaE E(2∞
+Yalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)?pile@68.21:68.25CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.javaE E(2°
+Jalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)!kCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.javaE! E("2∞
+Yalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)?pile@68.21:68.25CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.javaE* E(.2°
+Jalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)!kCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.javaE1 E(22∞
+Yalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)?pile@68.21:68.25CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.javaE5 E(92°
+Jalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)!kCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.javaE< E(=2±
+Zalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)?total@67.16:67.21CALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.javaF F(2°
+Jalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)!hCALLM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.javaF F(2™
+Nalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)!piles	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java>& >(+2¶
+Jalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)!h	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java>1 >(22¶
+Jalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)!k	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java>8 >(92∏
+Zalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)?total@67.16:67.21DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.javaC C(2∑
+Yalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)?pile@68.21:68.25DECLARATIONM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.javaD D(2e
+booleanRETURN_TYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java> >(¶
+Zalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)?total@67.16:67.21VARIABLEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.javaC C("
+type int*total2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.javaC C(§
+Yalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)?pile@68.21:68.25VARIABLEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.javaD D("
+type int*pile2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.javaD D(è
+Nalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)!piles	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java>& >(+*piles2\
+int[]TYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java>  >(%Ö
+Jalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)!h	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java>1 >(2*h2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java>- >(0Ö
+Jalgorithme.search.KokoEatingBananas875.Solution.satisfy(int[], int, int)!k	PARAMETERM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java>8 >(9*k2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java>4 >(7ç
+Aalgorithme.search.KokoEatingBananas875.Solution?count@35.20:35.25VARIABLEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java# #("
+type int*count2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/search/KokoEatingBananas875.java# #(

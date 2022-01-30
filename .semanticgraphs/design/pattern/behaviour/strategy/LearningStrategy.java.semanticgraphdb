@@ -1,0 +1,25 @@
+
+Tdesign-pattern/src/main/java/design/pattern/behaviour/strategy/LearningStrategy.javaž
+2design.pattern.behaviour.strategy.LearningStrategyTRAIT^
+Tdesign-pattern/src/main/java/design/pattern/behaviour/strategy/LearningStrategy.java (!"
+inner classfalse*LearningStrategy2©
+:design.pattern.behaviour.strategy.LearningStrategy.learn()DECLARATION^
+Tdesign-pattern/src/main/java/design/pattern/behaviour/strategy/LearningStrategy.java	 (2¬
+=design.pattern.behaviour.strategy.LearningStrategy.canLearn()DECLARATION^
+Tdesign-pattern/src/main/java/design/pattern/behaviour/strategy/LearningStrategy.java (ô
+:design.pattern.behaviour.strategy.LearningStrategy.learn()METHOD^
+Tdesign-pattern/src/main/java/design/pattern/behaviour/strategy/LearningStrategy.java	 ("
+staticfalse"
+finalfalse""
+access modifierpackage_private"
+type void*learn2s
+voidRETURN_TYPE^
+Tdesign-pattern/src/main/java/design/pattern/behaviour/strategy/LearningStrategy.java (€
+=design.pattern.behaviour.strategy.LearningStrategy.canLearn()METHOD^
+Tdesign-pattern/src/main/java/design/pattern/behaviour/strategy/LearningStrategy.java ("
+staticfalse"
+finalfalse""
+access modifierpackage_private"
+type boolean*canLearn2v
+booleanRETURN_TYPE^
+Tdesign-pattern/src/main/java/design/pattern/behaviour/strategy/LearningStrategy.java (

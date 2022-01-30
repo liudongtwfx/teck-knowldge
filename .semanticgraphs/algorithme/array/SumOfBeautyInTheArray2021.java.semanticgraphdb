@@ -1,0 +1,199 @@
+
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.javaè
+*algorithme.array.SumOfBeautyInTheArray2021CLASSQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (&"
+inner classfalse*SumOfBeautyInTheArray20212•
+Calgorithme.array.SumOfBeautyInTheArray2021.main(java.lang.String[])DECLARATIONQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2ï
+3algorithme.array.SumOfBeautyInTheArray2021.bridge()DECLARATIONQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2ï
+3algorithme.array.SumOfBeautyInTheArray2021.SolutionDECLARATIONQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java
+ (∏
+Calgorithme.array.SumOfBeautyInTheArray2021.main(java.lang.String[])METHODQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2é
+3algorithme.array.SumOfBeautyInTheArray2021.bridge()CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java( (.2°
+Falgorithme.array.SumOfBeautyInTheArray2021.SumOfBeautyInTheArray2021()CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (%2®
+Halgorithme.array.SumOfBeautyInTheArray2021.main(java.lang.String[])!args	PARAMETERQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java% ()2f
+voidRETURN_TYPEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (ù
+Halgorithme.array.SumOfBeautyInTheArray2021.main(java.lang.String[])!args	PARAMETERQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java% ()*args2m
+java.lang.String[]TYPEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java ($“
+3algorithme.array.SumOfBeautyInTheArray2021.bridge()METHODQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2{
+ java.io.PrintStream.println(int)CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java	 	(2£
+Halgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java	* 	(72ô
+>algorithme.array.SumOfBeautyInTheArray2021.Solution.Solution()CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java	 	('2ù
+Balgorithme.array.SumOfBeautyInTheArray2021.bridge()?nums@8.14:8.18CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java	8 	(<2§
+Balgorithme.array.SumOfBeautyInTheArray2021.bridge()?nums@8.14:8.18DECLARATIONQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2f
+voidRETURN_TYPEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (ô
+Balgorithme.array.SumOfBeautyInTheArray2021.bridge()?nums@8.14:8.18VARIABLEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java ("
+type int[]*nums2`
+int[]TYPEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (€
+3algorithme.array.SumOfBeautyInTheArray2021.SolutionCLASSQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java
+ ("
+inner classtrue*Solution2™
+Halgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])DECLARATIONQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java ( ÆB
+Halgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])METHODQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java ( "
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*sumOfBeauties2w
+java.lang.Math.min(int, int)CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2w
+java.lang.Math.max(int, int)CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2®
+Malgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])!numsCALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java% ()2®
+Malgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])!numsCALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2±
+Valgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?i@16.21:16.22CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java* (+2±
+Valgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?i@16.21:16.22CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java2 (32≥
+Xalgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?min@15.16:15.19CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2≥
+Xalgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?min@15.16:15.19CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java ("2®
+Malgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])!numsCALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java$ ((2±
+Valgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?i@16.21:16.22CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java) (*2∏
+]algorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?minIndex@14.18:14.26CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2±
+Valgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?i@16.21:16.22CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2≥
+Xalgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?min@15.16:15.19CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (!2®
+Malgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])!numsCALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2±
+Valgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?i@22.21:22.22CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2®
+Malgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])!numsCALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java  ($2±
+Valgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?i@22.21:22.22CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java1 (22®
+Malgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])!numsCALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2±
+Valgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?i@22.21:22.22CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2≥
+Xalgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?max@21.16:21.19CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (!2®
+Malgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])!numsCALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java% ()2±
+Valgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?i@22.21:22.22CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java* (+2∏
+]algorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?minIndex@14.18:14.26CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java/ (72±
+Valgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?i@22.21:22.22CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java8 (92≥
+Xalgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?sum@20.16:20.19CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2®
+Malgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])!numsCALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2±
+Valgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?i@22.21:22.22CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java  (!2®
+Malgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])!numsCALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java) (-2±
+Valgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?i@22.21:22.22CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java. (/2®
+Malgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])!numsCALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java4 (82±
+Valgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?i@22.21:22.22CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java9 (:2®
+Malgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])!numsCALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java> (B2±
+Valgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?i@22.21:22.22CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.javaC (D2≥
+Xalgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?sum@20.16:20.19CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2≥
+Xalgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?max@21.16:21.19CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2≥
+Xalgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?max@21.16:21.19CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java ("2®
+Malgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])!numsCALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java$ ((2±
+Valgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?i@22.21:22.22CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java) (*2≥
+Xalgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?sum@20.16:20.19CALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2≠
+Malgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])!nums	PARAMETERQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java' (+2ø
+]algorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?minIndex@14.18:14.26DECLARATIONQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2∫
+Xalgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?min@15.16:15.19DECLARATIONQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2∏
+Valgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?i@16.21:16.22DECLARATIONQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2∫
+Xalgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?sum@20.16:20.19DECLARATIONQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2∫
+Xalgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?max@21.16:21.19DECLARATIONQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2∏
+Valgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?i@22.21:22.22DECLARATIONQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2e
+intRETURN_TYPEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java („
+]algorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?minIndex@14.18:14.26VARIABLEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java ("
+type int[]*minIndex2`
+int[]TYPEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2®
+Malgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])!numsCALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java% ()™
+Xalgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?min@15.16:15.19VARIABLEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java ("
+type int*min2^
+intTYPEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (—
+Valgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?i@16.21:16.22VARIABLEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java ("
+type int*i2^
+intTYPEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2®
+Malgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])!numsCALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (™
+Xalgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?sum@20.16:20.19VARIABLEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java ("
+type int*sum2^
+intTYPEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (’
+Xalgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?max@21.16:21.19VARIABLEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java ("
+type int*max2^
+intTYPEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (2®
+Malgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])!numsCALLQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (¶
+Valgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])?i@22.21:22.22VARIABLEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java ("
+type int*i2^
+intTYPEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java (ï
+Malgorithme.array.SumOfBeautyInTheArray2021.Solution.sumOfBeauties(int[])!nums	PARAMETERQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java' (+*nums2`
+int[]TYPEQ
+Galgorithm/src/main/java/algorithme/array/SumOfBeautyInTheArray2021.java! (&

@@ -1,0 +1,191 @@
+
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java²
+2algorithme.dp.MinimumOperationsToReduceXToZero1658CLASSY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (1"
+inner classfalse*$MinimumOperationsToReduceXToZero16582µ
+Kalgorithme.dp.MinimumOperationsToReduceXToZero1658.main(java.lang.String[])DECLARATIONY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2¥
+;algorithme.dp.MinimumOperationsToReduceXToZero1658.SolutionDECLARATIONY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java
+
+ 
+(«
+Kalgorithme.dp.MinimumOperationsToReduceXToZero1658.main(java.lang.String[])METHODY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2¸
+Palgorithme.dp.MinimumOperationsToReduceXToZero1658.main(java.lang.String[])!args	PARAMETERY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java% ()2n
+voidRETURN_TYPEY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (µ
+Palgorithme.dp.MinimumOperationsToReduceXToZero1658.main(java.lang.String[])!args	PARAMETERY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java% ()*args2u
+java.lang.String[]TYPEY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java ($€
+;algorithme.dp.MinimumOperationsToReduceXToZero1658.SolutionCLASSY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java
+
+ 
+("
+inner classtrue*Solution2¿
+Ualgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)DECLARATIONY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java ( ÞN
+Ualgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)METHODY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java ( "
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minOperations2z
+java.util.Map.put(K, V)CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2z
+java.util.Map.put(K, V)CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2’
+/java.util.Map.getOrDefault(java.lang.Object, V)CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java ((2Ž
++java.util.Map.containsKey(java.lang.Object)CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (%2†
+#java.util.Map.get(java.lang.Object)CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java8 (;2
+java.lang.Math.min(int, int)CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java ("2†
+#java.util.Map.get(java.lang.Object)CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java. (12~
+java.util.HashMap.HashMap()CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java. (72Ê
+galgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?right@12.34:12.39CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2½
+Zalgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)!numsCALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2Æ
+calgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?i@15.21:15.22CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java* (+2Æ
+calgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?i@15.21:15.22CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java2 (32È
+ealgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?sum@14.16:14.19CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2½
+Zalgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)!numsCALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2Æ
+calgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?i@15.21:15.22CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2Ê
+galgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?right@12.34:12.39CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2È
+ealgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?sum@14.16:14.19CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2½
+Zalgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)!numsCALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (#2Æ
+calgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?i@15.21:15.22CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java- (.2Ê
+galgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?right@12.34:12.39CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2º
+Walgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)!xCALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java) (*2È
+ealgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?sum@14.16:14.19CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2Æ
+calgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?i@21.21:21.22CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2½
+Zalgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)!numsCALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java  ($2Æ
+calgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?i@21.21:21.22CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java- (.2È
+ealgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?sum@14.16:14.19CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2½
+Zalgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)!numsCALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2Æ
+calgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?i@21.21:21.22CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2Ê
+galgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?right@12.34:12.39CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2º
+Walgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)!xCALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java& ('2È
+ealgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?sum@14.16:14.19CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java* (-2Ê
+galgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?right@12.34:12.39CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java2 (72º
+Walgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)!xCALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java< (=2È
+ealgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?sum@14.16:14.19CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java@ (C2Æ
+calgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?i@21.21:21.22CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.javaG (H2½
+Zalgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)!numsCALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.javaO (S2È
+ealgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?res@19.16:19.19CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2È
+ealgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?res@19.16:19.19CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java# (&2Ê
+galgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?right@12.34:12.39CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java( (-2º
+Walgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)!xCALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java2 (32È
+ealgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?sum@14.16:14.19CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java6 (92Æ
+calgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?i@21.21:21.22CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java= (>2È
+ealgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?res@19.16:19.19CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2È
+ealgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?res@19.16:19.19CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java3 (62Â
+Zalgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)!nums	PARAMETERY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java' (+2¿
+Walgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)!x	PARAMETERY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java1 (22Ñ
+galgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?right@12.34:12.39DECLARATIONY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java" ('2Ï
+ealgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?sum@14.16:14.19DECLARATIONY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2Í
+calgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?i@15.21:15.22DECLARATIONY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2Ï
+ealgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?res@19.16:19.19DECLARATIONY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2Í
+calgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?i@21.21:21.22DECLARATIONY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2m
+intRETURN_TYPEY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (ä
+galgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?right@12.34:12.39VARIABLEY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java" ('"
+type Map<Integer,Integer>*right2p
+java.util.MapTYPEY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2}
+java.lang.IntegerTYPE_ARGUMENTY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2}
+java.lang.IntegerTYPE_ARGUMENTY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java ( 2~
+java.util.HashMap.HashMap()CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java. (7Ç
+ealgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?sum@14.16:14.19VARIABLEY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java ("
+type int*sum2f
+intTYPEY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (ƒ
+calgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?i@15.21:15.22VARIABLEY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java ("
+type int*i2f
+intTYPEY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2½
+Zalgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)!numsCALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (æ
+ealgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?res@19.16:19.19VARIABLEY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java ("
+type int*res2f
+intTYPEY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2’
+/java.util.Map.getOrDefault(java.lang.Object, V)CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java ((2Ê
+galgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?right@12.34:12.39CALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (2º
+Walgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)!xCALLY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java) (*Ã
+calgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)?i@21.21:21.22VARIABLEY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java ("
+type int*i2f
+intTYPEY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java (²
+Zalgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)!nums	PARAMETERY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java' (+*nums2h
+int[]TYPEY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java! (&ª
+Walgorithme.dp.MinimumOperationsToReduceXToZero1658.Solution.minOperations(int[], int)!x	PARAMETERY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java1 (2*x2f
+intTYPEY
+Oalgorithm/src/main/java/algorithme/dp/MinimumOperationsToReduceXToZero1658.java- (0

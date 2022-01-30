@@ -1,0 +1,107 @@
+
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java‹
+
+)redis.cachestratege.RedisStorageOperationCLASSP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (""
+inner classfalse*RedisStorageOperation2³
+Rredis.cachestratege.RedisStorageOperation.save(java.lang.String, java.lang.String)DECLARATIONP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (2µ
+Tredis.cachestratege.RedisStorageOperation.update(java.lang.String, java.lang.String)DECLARATIONP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (2¢
+Aredis.cachestratege.RedisStorageOperation.query(java.lang.String)DECLARATIONP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (2£
+Bredis.cachestratege.RedisStorageOperation.delete(java.lang.String)DECLARATIONP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (2§
+Fredis.cachestratege.RedisStorageOperation.invalidate(java.lang.String)DECLARATIONP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (2y
+redis.cachestratege.CacheableEXTENDP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java. (72z
+java.lang.StringEXTEND_TYPE_ARGUMENTP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java8 (>Ø
+Rredis.cachestratege.RedisStorageOperation.save(java.lang.String, java.lang.String)METHODP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*save2µ
+Vredis.cachestratege.RedisStorageOperation.save(java.lang.String, java.lang.String)!key	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (2·
+Xredis.cachestratege.RedisStorageOperation.save(java.lang.String, java.lang.String)!value	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java( (-2e
+voidRETURN_TYPEP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (¦
+Vredis.cachestratege.RedisStorageOperation.save(java.lang.String, java.lang.String)!key	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (*key2j
+java.lang.StringTYPEP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (ª
+Xredis.cachestratege.RedisStorageOperation.save(java.lang.String, java.lang.String)!value	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java( (-*value2j
+java.lang.StringTYPEP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java! ('à
+Tredis.cachestratege.RedisStorageOperation.update(java.lang.String, java.lang.String)METHODP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*update2·
+Xredis.cachestratege.RedisStorageOperation.update(java.lang.String, java.lang.String)!key	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (!2¹
+Zredis.cachestratege.RedisStorageOperation.update(java.lang.String, java.lang.String)!value	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java* (/2e
+voidRETURN_TYPEP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (¨
+Xredis.cachestratege.RedisStorageOperation.update(java.lang.String, java.lang.String)!key	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (!*key2j
+java.lang.StringTYPEP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (¬
+Zredis.cachestratege.RedisStorageOperation.update(java.lang.String, java.lang.String)!value	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java* (/*value2j
+java.lang.StringTYPEP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java# ()‹
+Aredis.cachestratege.RedisStorageOperation.query(java.lang.String)METHODP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*query2¤
+Eredis.cachestratege.RedisStorageOperation.query(java.lang.String)!key	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java ("2q
+java.lang.StringRETURN_TYPEP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (•
+Eredis.cachestratege.RedisStorageOperation.query(java.lang.String)!key	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java ("*key2j
+java.lang.StringTYPEP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (€
+Bredis.cachestratege.RedisStorageOperation.delete(java.lang.String)METHODP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*delete2¥
+Fredis.cachestratege.RedisStorageOperation.delete(java.lang.String)!key	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (!2e
+voidRETURN_TYPEP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (–
+Fredis.cachestratege.RedisStorageOperation.delete(java.lang.String)!key	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (!*key2j
+java.lang.StringTYPEP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (Ò
+Fredis.cachestratege.RedisStorageOperation.invalidate(java.lang.String)METHODP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*
+invalidate2œ
+Bredis.cachestratege.RedisStorageOperation.delete(java.lang.String)CALLP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (2¤
+Jredis.cachestratege.RedisStorageOperation.invalidate(java.lang.String)!keyCALLP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (2©
+Jredis.cachestratege.RedisStorageOperation.invalidate(java.lang.String)!key	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java" (%2e
+voidRETURN_TYPEP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (š
+Jredis.cachestratege.RedisStorageOperation.invalidate(java.lang.String)!key	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java" (%*key2j
+java.lang.StringTYPEP
+Fknowledge/src/main/java/redis/cachestratege/RedisStorageOperation.java (!

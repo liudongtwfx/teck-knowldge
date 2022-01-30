@@ -1,0 +1,22 @@
+
+4knowledge/src/main/java/spring/cache/CacheUsage.java‰
+spring.cache.CacheUsageCLASS>
+4knowledge/src/main/java/spring/cache/CacheUsage.java ("
+inner classfalse*
+CacheUsage2„
+5spring.cache.CacheUsage.getUserName(java.lang.String)DECLARATION>
+4knowledge/src/main/java/spring/cache/CacheUsage.java (Æ
+5spring.cache.CacheUsage.getUserName(java.lang.String)METHOD>
+4knowledge/src/main/java/spring/cache/CacheUsage.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*getUserName2‰
+<spring.cache.CacheUsage.getUserName(java.lang.String)!userId	PARAMETER>
+4knowledge/src/main/java/spring/cache/CacheUsage.java% (+2_
+java.lang.StringRETURN_TYPE>
+4knowledge/src/main/java/spring/cache/CacheUsage.java (ë
+<spring.cache.CacheUsage.getUserName(java.lang.String)!userId	PARAMETER>
+4knowledge/src/main/java/spring/cache/CacheUsage.java% (+*userId2X
+java.lang.StringTYPE>
+4knowledge/src/main/java/spring/cache/CacheUsage.java ($

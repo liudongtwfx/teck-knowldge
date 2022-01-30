@@ -1,0 +1,256 @@
+
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java¿
+!algorithme.list.OddEvenLinkedListCLASSH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java ("
+inner classfalse*OddEvenLinkedList2“
+:algorithme.list.OddEvenLinkedList.main(java.lang.String[])DECLARATIONH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2ƒ
+*algorithme.list.OddEvenLinkedList.ListNodeDECLARATIONH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2ƒ
+*algorithme.list.OddEvenLinkedList.SolutionDECLARATIONH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java
+ (Ö
+:algorithme.list.OddEvenLinkedList.main(java.lang.String[])METHODH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2–
+?algorithme.list.OddEvenLinkedList.main(java.lang.String[])!args	PARAMETERH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java% ()2]
+voidRETURN_TYPEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (‚
+?algorithme.list.OddEvenLinkedList.main(java.lang.String[])!args	PARAMETERH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java% ()*args2d
+java.lang.String[]TYPEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java ($¬
+*algorithme.list.OddEvenLinkedList.ListNodeCLASSH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java ("
+inner classtrue*ListNode2Ž
+5algorithme.list.OddEvenLinkedList.ListNode.ListNode()DECLARATIONH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2‘
+8algorithme.list.OddEvenLinkedList.ListNode.ListNode(int)DECLARATIONH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2½
+dalgorithme.list.OddEvenLinkedList.ListNode.ListNode(int, algorithme.list.OddEvenLinkedList.ListNode)DECLARATIONH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2‘
+8algorithme.list.OddEvenLinkedList.ListNode?val@9.12:9.15DECLARATIONH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java	 	(2”
+;algorithme.list.OddEvenLinkedList.ListNode?next@10.17:10.21DECLARATIONH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java
+ 
+(ž
+5algorithme.list.OddEvenLinkedList.ListNode.ListNode()CONSTRUCTORH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (*ListNode2ƒ
+*algorithme.list.OddEvenLinkedList.ListNodeRETURN_TYPEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (Õ
+8algorithme.list.OddEvenLinkedList.ListNode.ListNode(int)CONSTRUCTORH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (*ListNode2Ž
+<algorithme.list.OddEvenLinkedList.ListNode.ListNode(int)!valCALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2Š
+8algorithme.list.OddEvenLinkedList.ListNode?val@9.12:9.15CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2“
+<algorithme.list.OddEvenLinkedList.ListNode.ListNode(int)!val	PARAMETERH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2ƒ
+*algorithme.list.OddEvenLinkedList.ListNodeRETURN_TYPEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (ï
+<algorithme.list.OddEvenLinkedList.ListNode.ListNode(int)!val	PARAMETERH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (*val2U
+intTYPEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (ê
+
+dalgorithme.list.OddEvenLinkedList.ListNode.ListNode(int, algorithme.list.OddEvenLinkedList.ListNode)CONSTRUCTORH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (*ListNode2º
+halgorithme.list.OddEvenLinkedList.ListNode.ListNode(int, algorithme.list.OddEvenLinkedList.ListNode)!valCALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2»
+ialgorithme.list.OddEvenLinkedList.ListNode.ListNode(int, algorithme.list.OddEvenLinkedList.ListNode)!nextCALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2Š
+8algorithme.list.OddEvenLinkedList.ListNode?val@9.12:9.15CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2
+;algorithme.list.OddEvenLinkedList.ListNode?next@10.17:10.21CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2¿
+halgorithme.list.OddEvenLinkedList.ListNode.ListNode(int, algorithme.list.OddEvenLinkedList.ListNode)!val	PARAMETERH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2À
+ialgorithme.list.OddEvenLinkedList.ListNode.ListNode(int, algorithme.list.OddEvenLinkedList.ListNode)!next	PARAMETERH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java# ('2ƒ
+*algorithme.list.OddEvenLinkedList.ListNodeRETURN_TYPEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (›
+halgorithme.list.OddEvenLinkedList.ListNode.ListNode(int, algorithme.list.OddEvenLinkedList.ListNode)!val	PARAMETERH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (*val2U
+intTYPEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (Ä
+ialgorithme.list.OddEvenLinkedList.ListNode.ListNode(int, algorithme.list.OddEvenLinkedList.ListNode)!next	PARAMETERH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java# ('*next2|
+*algorithme.list.OddEvenLinkedList.ListNodeTYPEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java ("ø
+8algorithme.list.OddEvenLinkedList.ListNode?val@9.12:9.15VARIABLEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java	 	("
+type int*val2U
+intTYPEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java	 	(¨
+;algorithme.list.OddEvenLinkedList.ListNode?next@10.17:10.21VARIABLEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java
+ 
+("
+type ListNode*next2|
+*algorithme.list.OddEvenLinkedList.ListNodeTYPEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java
+ 
+(Ú
+*algorithme.list.OddEvenLinkedList.SolutionCLASSH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java
+ ("
+inner classtrue*Solution2»
+balgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)DECLARATIONH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (#ÊF
+balgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)METHODH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (#"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type ListNode*oddEvenList2
+-java.io.PrintStream.println(java.lang.String)CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java# #("2¹
+galgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)!headCALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2¹
+galgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)!headCALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java  ($2¹
+galgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)!headCALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2¹
+galgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)!headCALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (#2¹
+galgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)!headCALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java  ($2¹
+galgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)!headCALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java! !(2È
+valgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?oddHead@30.21:30.28CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java!0 !(72É
+walgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?evenHead@31.21:31.29CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java!A !(I2Â
+palgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?p@33.21:33.22CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java" "(2Æ
+talgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?index@32.16:32.21CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java## #((2Â
+palgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?p@33.21:33.22CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java#1 #(22Æ
+talgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?index@32.16:32.21CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java$ $(2Æ
+talgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?evenP@33.57:33.62CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java% %(2Â
+palgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?p@33.21:33.22CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java%! %("2Æ
+talgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?evenP@33.57:33.62CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java& &(2Æ
+talgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?evenP@33.57:33.62CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java& &(!2Å
+salgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?oddP@33.41:33.45CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java( ((2Â
+palgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?p@33.21:33.22CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java(  ((!2Å
+salgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?oddP@33.41:33.45CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java) )(2Å
+salgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?oddP@33.41:33.45CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java) )(2Â
+palgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?p@33.21:33.22CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java+ +(2Â
+palgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?p@33.21:33.22CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java+ +(2Æ
+talgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?index@32.16:32.21CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java, ,(2Å
+salgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?oddP@33.41:33.45CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java. .(2É
+walgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?evenHead@31.21:31.29CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java. .( 2Æ
+talgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?evenP@33.57:33.62CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java/ /(2È
+valgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?oddHead@30.21:30.28CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java0 0(2
+;algorithme.list.OddEvenLinkedList.ListNode?next@10.17:10.21CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java% ()2
+;algorithme.list.OddEvenLinkedList.ListNode?next@10.17:10.21CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java% ()2
+;algorithme.list.OddEvenLinkedList.ListNode?next@10.17:10.21CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java!# !('2
+;algorithme.list.OddEvenLinkedList.ListNode?next@10.17:10.21CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java! !("2Š
+8algorithme.list.OddEvenLinkedList.ListNode?val@9.12:9.15CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java#3 #(62
+;algorithme.list.OddEvenLinkedList.ListNode?next@10.17:10.21CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java% %(2
+;algorithme.list.OddEvenLinkedList.ListNode?next@10.17:10.21CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java&" &(&2
+;algorithme.list.OddEvenLinkedList.ListNode?next@10.17:10.21CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java( ((2
+;algorithme.list.OddEvenLinkedList.ListNode?next@10.17:10.21CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java)  )($2
+;algorithme.list.OddEvenLinkedList.ListNode?next@10.17:10.21CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java+ +(2
+;algorithme.list.OddEvenLinkedList.ListNode?next@10.17:10.21CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java. .(2
+;algorithme.list.OddEvenLinkedList.ListNode?next@10.17:10.21CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java/ /(2¾
+galgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)!head	PARAMETERH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java- (12Ï
+valgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?oddHead@30.21:30.28DECLARATIONH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2Ð
+walgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?evenHead@31.21:31.29DECLARATIONH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2Í
+talgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?index@32.16:32.21DECLARATIONH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java   (2É
+palgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?p@33.21:33.22DECLARATIONH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java! !(2Ì
+salgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?oddP@33.41:33.45DECLARATIONH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java!) !(-2Í
+talgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?evenP@33.57:33.62DECLARATIONH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java!9 !(>2ƒ
+*algorithme.list.OddEvenLinkedList.ListNodeRETURN_TYPEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (¢
+valgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?oddHead@30.21:30.28VARIABLEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java ("
+type ListNode*oddHead2|
+*algorithme.list.OddEvenLinkedList.ListNodeTYPEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2¹
+galgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)!headCALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (#´
+walgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?evenHead@31.21:31.29VARIABLEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java ("
+type ListNode*evenHead2|
+*algorithme.list.OddEvenLinkedList.ListNodeTYPEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java (2¹
+galgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)!headCALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java  ($2
+;algorithme.list.OddEvenLinkedList.ListNode?next@10.17:10.21CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java% ()¶
+talgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?index@32.16:32.21VARIABLEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java   ("
+type int*index2U
+intTYPEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java   (¶
+palgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?p@33.21:33.22VARIABLEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java! !("
+type ListNode*p2|
+*algorithme.list.OddEvenLinkedList.ListNodeTYPEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java! !(2¹
+galgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)!headCALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java! !(2
+;algorithme.list.OddEvenLinkedList.ListNode?next@10.17:10.21CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java!# !('2
+;algorithme.list.OddEvenLinkedList.ListNode?next@10.17:10.21CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java! !("«
+salgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?oddP@33.41:33.45VARIABLEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java!) !(-"
+type ListNode*oddP2|
+*algorithme.list.OddEvenLinkedList.ListNodeTYPEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java! !(2È
+valgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?oddHead@30.21:30.28CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java!0 !(7®
+talgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?evenP@33.57:33.62VARIABLEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java!9 !(>"
+type ListNode*evenP2|
+*algorithme.list.OddEvenLinkedList.ListNodeTYPEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java! !(2É
+walgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)?evenHead@31.21:31.29CALLH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java!A !(IÂ
+galgorithme.list.OddEvenLinkedList.Solution.oddEvenList(algorithme.list.OddEvenLinkedList.ListNode)!head	PARAMETERH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java- (1*head2|
+*algorithme.list.OddEvenLinkedList.ListNodeTYPEH
+>algorithm/src/main/java/algorithme/list/OddEvenLinkedList.java$ (,

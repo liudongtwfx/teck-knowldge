@@ -1,0 +1,50 @@
+
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java¹
+3algorithme.dp.MinimumSwapsToMakeSequencesIncreasingCLASSZ
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java (2"
+inner classfalse*%MinimumSwapsToMakeSequencesIncreasing2·
+Lalgorithme.dp.MinimumSwapsToMakeSequencesIncreasing.main(java.lang.String[])DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java	 	(2§
+<algorithme.dp.MinimumSwapsToMakeSequencesIncreasing.SolutionDECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java
+ (°
+Lalgorithme.dp.MinimumSwapsToMakeSequencesIncreasing.main(java.lang.String[])METHODZ
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java	 	("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2º
+Qalgorithme.dp.MinimumSwapsToMakeSequencesIncreasing.main(java.lang.String[])!args	PARAMETERZ
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java	% 	()2o
+voidRETURN_TYPEZ
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java	 	(¸
+Qalgorithme.dp.MinimumSwapsToMakeSequencesIncreasing.main(java.lang.String[])!args	PARAMETERZ
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java	% 	()*args2v
+java.lang.String[]TYPEZ
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java	 	($€
+<algorithme.dp.MinimumSwapsToMakeSequencesIncreasing.SolutionCLASSZ
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java
+ ("
+inner classtrue*Solution2½
+Ralgorithme.dp.MinimumSwapsToMakeSequencesIncreasing.Solution.minSwap(int[], int[])DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java (û
+Ralgorithme.dp.MinimumSwapsToMakeSequencesIncreasing.Solution.minSwap(int[], int[])METHODZ
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minSwap2½
+Talgorithme.dp.MinimumSwapsToMakeSequencesIncreasing.Solution.minSwap(int[], int[])!A	PARAMETERZ
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java! ("2½
+Talgorithme.dp.MinimumSwapsToMakeSequencesIncreasing.Solution.minSwap(int[], int[])!B	PARAMETERZ
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java* (+2n
+intRETURN_TYPEZ
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java («
+Talgorithme.dp.MinimumSwapsToMakeSequencesIncreasing.Solution.minSwap(int[], int[])!A	PARAMETERZ
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java! ("*A2i
+int[]TYPEZ
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java ( «
+Talgorithme.dp.MinimumSwapsToMakeSequencesIncreasing.Solution.minSwap(int[], int[])!B	PARAMETERZ
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java* (+*B2i
+int[]TYPEZ
+Palgorithm/src/main/java/algorithme/dp/MinimumSwapsToMakeSequencesIncreasing.java$ ()

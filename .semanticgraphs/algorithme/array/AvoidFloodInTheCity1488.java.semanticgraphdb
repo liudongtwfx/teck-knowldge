@@ -1,0 +1,193 @@
+
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.javaÈ
+(algorithme.array.AvoidFloodInTheCity1488CLASSO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java ($"
+inner classfalse*AvoidFloodInTheCity14882°
+Aalgorithme.array.AvoidFloodInTheCity1488.main(java.lang.String[])DECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2ë
+1algorithme.array.AvoidFloodInTheCity1488.SolutionDECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java
+ (˘
+Aalgorithme.array.AvoidFloodInTheCity1488.main(java.lang.String[])METHODO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2§
+Falgorithme.array.AvoidFloodInTheCity1488.main(java.lang.String[])!args	PARAMETERO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java% ()2d
+voidRETURN_TYPEO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (ó
+Falgorithme.array.AvoidFloodInTheCity1488.main(java.lang.String[])!args	PARAMETERO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java% ()*args2k
+java.lang.String[]TYPEO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java ($–
+1algorithme.array.AvoidFloodInTheCity1488.SolutionCLASSO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java
+ ("
+inner classtrue*Solution2£
+Calgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])DECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (¢?
+Calgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])METHODO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int[]*
+avoidFlood2q
+java.util.TreeSet.add(E)CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2Ñ
++java.util.Map.containsKey(java.lang.Object)CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java ('2|
+#java.util.Map.get(java.lang.Object)CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java' (*2u
+java.util.TreeSet.ceiling(E)CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java* (12É
+*java.util.TreeSet.remove(java.lang.Object)CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java ("2p
+java.util.Map.put(K, V)CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java   (2t
+java.util.HashMap.HashMap()CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java, (52t
+java.util.TreeSet.TreeSet()CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java' (02¢
+Ialgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])!rainsCALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java  (%2™
+Qalgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?i@18.21:18.22CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2¢
+Ialgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])!rainsCALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java  (%2™
+Qalgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?i@18.21:18.22CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java. (/2¢
+Ialgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])!rainsCALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2™
+Qalgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?i@18.21:18.22CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2¨
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?set@16.29:16.32CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2™
+Qalgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?i@18.21:18.22CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2¨
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?res@14.18:14.21CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2™
+Qalgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?i@18.21:18.22CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2¨
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?map@15.34:15.37CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2¢
+Ialgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])!rainsCALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java( (-2™
+Qalgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?i@18.21:18.22CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java. (/2¨
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?map@15.34:15.37CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java# (&2¢
+Ialgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])!rainsCALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java+ (02™
+Qalgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?i@18.21:18.22CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java1 (22¨
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?set@16.29:16.32CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java& ()2≠
+Talgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?last@24.28:24.32CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java2 (62¨
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?dry@25.32:25.35CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2¨
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?res@14.18:14.21CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2¨
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?dry@25.32:25.35CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2¢
+Ialgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])!rainsCALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java# ((2™
+Qalgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?i@18.21:18.22CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java) (*2¨
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?set@16.29:16.32CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2¨
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?dry@25.32:25.35CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java# (&2¨
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?res@14.18:14.21CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2™
+Qalgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?i@18.21:18.22CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2¨
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?map@15.34:15.37CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java   (2¢
+Ialgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])!rainsCALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java   (!2™
+Qalgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?i@18.21:18.22CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java "  (#2™
+Qalgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?i@18.21:18.22CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java &  ('2¨
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?res@14.18:14.21CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java# #(2ß
+Ialgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])!rains	PARAMETERO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java& (+2≥
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?res@14.18:14.21DECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2≥
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?map@15.34:15.37DECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java" (%2≥
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?set@16.29:16.32DECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java ( 2±
+Qalgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?i@18.21:18.22DECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2¥
+Talgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?last@24.28:24.32DECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java ( 2≥
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?dry@25.32:25.35DECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java  (#2e
+int[]RETURN_TYPEO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java ( 
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?res@14.18:14.21VARIABLEO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java ("
+type int[]*res2^
+int[]TYPEO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2¢
+Ialgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])!rainsCALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java  (%ú
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?map@15.34:15.37VARIABLEO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java" (%"
+type Map<Integer,Integer>*map2f
+java.util.MapTYPEO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2s
+java.lang.IntegerTYPE_ARGUMENTO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2s
+java.lang.IntegerTYPE_ARGUMENTO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java ( 2t
+java.util.HashMap.HashMap()CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java, (5ß
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?set@16.29:16.32VARIABLEO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java ( "
+type TreeSet<Integer>*set2j
+java.util.TreeSetTYPEO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2s
+java.lang.IntegerTYPE_ARGUMENTO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2t
+java.util.TreeSet.TreeSet()CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java' (0ù
+Qalgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?i@18.21:18.22VARIABLEO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java ("
+type int*i2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (¢
+Talgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?last@24.28:24.32VARIABLEO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java ( "
+type int*last2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2|
+#java.util.Map.get(java.lang.Object)CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java' (*2¨
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?map@15.34:15.37CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java# (&2¢
+Ialgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])!rainsCALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java+ (02™
+Qalgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?i@18.21:18.22CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java1 (2â
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?dry@25.32:25.35VARIABLEO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java  (#"
+type Integer*dry2j
+java.lang.IntegerTYPEO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java (2u
+java.util.TreeSet.ceiling(E)CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java* (12¨
+Salgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?set@16.29:16.32CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java& ()2≠
+Talgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])?last@24.28:24.32CALLO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java2 (6é
+Ialgorithme.array.AvoidFloodInTheCity1488.Solution.avoidFlood(int[])!rains	PARAMETERO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java& (+*rains2^
+int[]TYPEO
+Ealgorithm/src/main/java/algorithme/array/AvoidFloodInTheCity1488.java  (%

@@ -1,0 +1,444 @@
+
+.knowledge/src/main/java/es/entity/Teacher.java
+es.entity.TeacherCLASS8
+.knowledge/src/main/java/es/entity/Teacher.java ("
+inner classfalse*Teacher2‹
+Bes.entity.Teacher.Teacher(int, java.lang.String, java.lang.String)DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java
+ 
+(2d
+es.entity.Teacher.Teacher()DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java (2b
+es.entity.Teacher.getId()DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java (2c
+es.entity.Teacher.getAge()DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java (2i
+ es.entity.Teacher.getTeacherId()DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java (2k
+"es.entity.Teacher.getTeacherName()DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java   ( 2f
+es.entity.Teacher.setAge(int)DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java$ $(2y
+0es.entity.Teacher.setTeacherId(java.lang.String)DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java( ((2{
+2es.entity.Teacher.setTeacherName(java.lang.String)DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java, ,(2s
+*es.entity.Teacher.equals(java.lang.Object)DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java0 0(2u
+,es.entity.Teacher.canEqual(java.lang.Object)DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java@ @(2e
+es.entity.Teacher.hashCode()DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.javaD D(2e
+es.entity.Teacher.toString()DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.javaO O(2j
+!es.entity.Teacher?INDEX@3.31:3.36DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java ($2i
+ es.entity.Teacher?TYPE@4.31:4.35DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java (#2h
+es.entity.Teacher?age@6.16:6.19DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java (2n
+%es.entity.Teacher?teacherId@7.19:7.28DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java (2p
+'es.entity.Teacher?teacherName@8.19:8.30DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java (2V
+es.entity.EsEntityEXTEND8
+.knowledge/src/main/java/es/entity/Teacher.java  ((”
+Bes.entity.Teacher.Teacher(int, java.lang.String, java.lang.String)CONSTRUCTOR8
+.knowledge/src/main/java/es/entity/Teacher.java
+ 
+(*Teacher2ˆ
+Fes.entity.Teacher.Teacher(int, java.lang.String, java.lang.String)!ageCALL8
+.knowledge/src/main/java/es/entity/Teacher.java (2Ž
+Les.entity.Teacher.Teacher(int, java.lang.String, java.lang.String)!teacherIdCALL8
+.knowledge/src/main/java/es/entity/Teacher.java ("2
+Nes.entity.Teacher.Teacher(int, java.lang.String, java.lang.String)!teacherNameCALL8
+.knowledge/src/main/java/es/entity/Teacher.java (&2a
+es.entity.Teacher?age@6.16:6.19CALL8
+.knowledge/src/main/java/es/entity/Teacher.java (2g
+%es.entity.Teacher?teacherId@7.19:7.28CALL8
+.knowledge/src/main/java/es/entity/Teacher.java (2i
+'es.entity.Teacher?teacherName@8.19:8.30CALL8
+.knowledge/src/main/java/es/entity/Teacher.java (2
+Fes.entity.Teacher.Teacher(int, java.lang.String, java.lang.String)!age	PARAMETER8
+.knowledge/src/main/java/es/entity/Teacher.java
+ 
+(2“
+Les.entity.Teacher.Teacher(int, java.lang.String, java.lang.String)!teacherId	PARAMETER8
+.knowledge/src/main/java/es/entity/Teacher.java
+# 
+(,2•
+Nes.entity.Teacher.Teacher(int, java.lang.String, java.lang.String)!teacherName	PARAMETER8
+.knowledge/src/main/java/es/entity/Teacher.java
+5 
+(@2Z
+es.entity.TeacherRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Teacher.java
+ 
+(Ù
+Fes.entity.Teacher.Teacher(int, java.lang.String, java.lang.String)!age	PARAMETER8
+.knowledge/src/main/java/es/entity/Teacher.java
+ 
+(*age2E
+intTYPE8
+.knowledge/src/main/java/es/entity/Teacher.java
+ 
+(ò
+Les.entity.Teacher.Teacher(int, java.lang.String, java.lang.String)!teacherId	PARAMETER8
+.knowledge/src/main/java/es/entity/Teacher.java
+# 
+(,*	teacherId2R
+java.lang.StringTYPE8
+.knowledge/src/main/java/es/entity/Teacher.java
+ 
+("ö
+Nes.entity.Teacher.Teacher(int, java.lang.String, java.lang.String)!teacherName	PARAMETER8
+.knowledge/src/main/java/es/entity/Teacher.java
+5 
+(@*teacherName2R
+java.lang.StringTYPE8
+.knowledge/src/main/java/es/entity/Teacher.java
+. 
+(4É
+es.entity.Teacher.Teacher()CONSTRUCTOR8
+.knowledge/src/main/java/es/entity/Teacher.java (*Teacher2Z
+es.entity.TeacherRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Teacher.java (õ
+es.entity.Teacher.getId()METHOD8
+.knowledge/src/main/java/es/entity/Teacher.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*getId2g
+%es.entity.Teacher?teacherId@7.19:7.28CALL8
+.knowledge/src/main/java/es/entity/Teacher.java (2Y
+java.lang.StringRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Teacher.java (á
+es.entity.Teacher.getAge()METHOD8
+.knowledge/src/main/java/es/entity/Teacher.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*getAge2a
+es.entity.Teacher?age@6.16:6.19CALL8
+.knowledge/src/main/java/es/entity/Teacher.java (2L
+intRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Teacher.java (ƒ
+ es.entity.Teacher.getTeacherId()METHOD8
+.knowledge/src/main/java/es/entity/Teacher.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*getTeacherId2g
+%es.entity.Teacher?teacherId@7.19:7.28CALL8
+.knowledge/src/main/java/es/entity/Teacher.java (2Y
+java.lang.StringRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Teacher.java (‰
+"es.entity.Teacher.getTeacherName()METHOD8
+.knowledge/src/main/java/es/entity/Teacher.java   ( "
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*getTeacherName2i
+'es.entity.Teacher?teacherName@8.19:8.30CALL8
+.knowledge/src/main/java/es/entity/Teacher.java! !(2Y
+java.lang.StringRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Teacher.java   (µ
+es.entity.Teacher.setAge(int)METHOD8
+.knowledge/src/main/java/es/entity/Teacher.java$ $("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*setAge2c
+!es.entity.Teacher.setAge(int)!ageCALL8
+.knowledge/src/main/java/es/entity/Teacher.java% %(2a
+es.entity.Teacher?age@6.16:6.19CALL8
+.knowledge/src/main/java/es/entity/Teacher.java% %(2h
+!es.entity.Teacher.setAge(int)!age	PARAMETER8
+.knowledge/src/main/java/es/entity/Teacher.java$ $(2M
+voidRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Teacher.java$ $(´
+!es.entity.Teacher.setAge(int)!age	PARAMETER8
+.knowledge/src/main/java/es/entity/Teacher.java$ $(*age2E
+intTYPE8
+.knowledge/src/main/java/es/entity/Teacher.java$ $(‡
+0es.entity.Teacher.setTeacherId(java.lang.String)METHOD8
+.knowledge/src/main/java/es/entity/Teacher.java( (("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*setTeacherId2|
+:es.entity.Teacher.setTeacherId(java.lang.String)!teacherIdCALL8
+.knowledge/src/main/java/es/entity/Teacher.java) )("2g
+%es.entity.Teacher?teacherId@7.19:7.28CALL8
+.knowledge/src/main/java/es/entity/Teacher.java) )(2
+:es.entity.Teacher.setTeacherId(java.lang.String)!teacherId	PARAMETER8
+.knowledge/src/main/java/es/entity/Teacher.java($ ((-2M
+voidRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Teacher.java( ((à
+:es.entity.Teacher.setTeacherId(java.lang.String)!teacherId	PARAMETER8
+.knowledge/src/main/java/es/entity/Teacher.java($ ((-*	teacherId2R
+java.lang.StringTYPE8
+.knowledge/src/main/java/es/entity/Teacher.java( ((#–
+2es.entity.Teacher.setTeacherName(java.lang.String)METHOD8
+.knowledge/src/main/java/es/entity/Teacher.java, ,("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*setTeacherName2€
+>es.entity.Teacher.setTeacherName(java.lang.String)!teacherNameCALL8
+.knowledge/src/main/java/es/entity/Teacher.java- -(&2i
+'es.entity.Teacher?teacherName@8.19:8.30CALL8
+.knowledge/src/main/java/es/entity/Teacher.java- -(2…
+>es.entity.Teacher.setTeacherName(java.lang.String)!teacherName	PARAMETER8
+.knowledge/src/main/java/es/entity/Teacher.java,& ,(12M
+voidRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Teacher.java, ,(æ
+>es.entity.Teacher.setTeacherName(java.lang.String)!teacherName	PARAMETER8
+.knowledge/src/main/java/es/entity/Teacher.java,& ,(1*teacherName2R
+java.lang.StringTYPE8
+.knowledge/src/main/java/es/entity/Teacher.java, ,(%£
+*es.entity.Teacher.equals(java.lang.Object)METHOD8
+.knowledge/src/main/java/es/entity/Teacher.java0 0("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type boolean*equals2n
+,es.entity.Teacher.canEqual(java.lang.Object)CALL8
+.knowledge/src/main/java/es/entity/Teacher.java4 4(2\
+es.entity.Teacher.getAge()CALL8
+.knowledge/src/main/java/es/entity/Teacher.java5 5(2\
+es.entity.Teacher.getAge()CALL8
+.knowledge/src/main/java/es/entity/Teacher.java5# 5()2b
+ es.entity.Teacher.getTeacherId()CALL8
+.knowledge/src/main/java/es/entity/Teacher.java6+ 6(72b
+ es.entity.Teacher.getTeacherId()CALL8
+.knowledge/src/main/java/es/entity/Teacher.java7- 7(92k
+)java.lang.Object.equals(java.lang.Object)CALL8
+.knowledge/src/main/java/es/entity/Teacher.java8O 8(U2d
+"es.entity.Teacher.getTeacherName()CALL8
+.knowledge/src/main/java/es/entity/Teacher.java9- 9(;2d
+"es.entity.Teacher.getTeacherName()CALL8
+.knowledge/src/main/java/es/entity/Teacher.java:/ :(=2k
+)java.lang.Object.equals(java.lang.Object)CALL8
+.knowledge/src/main/java/es/entity/Teacher.java;U ;([2n
+,es.entity.Teacher.equals(java.lang.Object)!oCALL8
+.knowledge/src/main/java/es/entity/Teacher.java1 1(2n
+,es.entity.Teacher.equals(java.lang.Object)!oCALL8
+.knowledge/src/main/java/es/entity/Teacher.java2 2(2n
+,es.entity.Teacher.equals(java.lang.Object)!oCALL8
+.knowledge/src/main/java/es/entity/Teacher.java3( 3()2~
+<es.entity.Teacher.equals(java.lang.Object)?other@51.22:51.27CALL8
+.knowledge/src/main/java/es/entity/Teacher.java4 4(2~
+<es.entity.Teacher.equals(java.lang.Object)?other@51.22:51.27CALL8
+.knowledge/src/main/java/es/entity/Teacher.java5 5("2~
+<es.entity.Teacher.equals(java.lang.Object)?other@51.22:51.27CALL8
+.knowledge/src/main/java/es/entity/Teacher.java7' 7(,2‡
+Ees.entity.Teacher.equals(java.lang.Object)?this$teacherId@54.21:54.35CALL8
+.knowledge/src/main/java/es/entity/Teacher.java8 8(2ˆ
+Fes.entity.Teacher.equals(java.lang.Object)?other$teacherId@55.21:55.36CALL8
+.knowledge/src/main/java/es/entity/Teacher.java8% 8(42‡
+Ees.entity.Teacher.equals(java.lang.Object)?this$teacherId@54.21:54.35CALL8
+.knowledge/src/main/java/es/entity/Teacher.java8@ 8(N2ˆ
+Fes.entity.Teacher.equals(java.lang.Object)?other$teacherId@55.21:55.36CALL8
+.knowledge/src/main/java/es/entity/Teacher.java8V 8(e2~
+<es.entity.Teacher.equals(java.lang.Object)?other@51.22:51.27CALL8
+.knowledge/src/main/java/es/entity/Teacher.java:) :(.2‰
+Ges.entity.Teacher.equals(java.lang.Object)?this$teacherName@57.21:57.37CALL8
+.knowledge/src/main/java/es/entity/Teacher.java; ;(2Š
+Hes.entity.Teacher.equals(java.lang.Object)?other$teacherName@58.21:58.38CALL8
+.knowledge/src/main/java/es/entity/Teacher.java;' ;(82‰
+Ges.entity.Teacher.equals(java.lang.Object)?this$teacherName@57.21:57.37CALL8
+.knowledge/src/main/java/es/entity/Teacher.java;D ;(T2Š
+Hes.entity.Teacher.equals(java.lang.Object)?other$teacherName@58.21:58.38CALL8
+.knowledge/src/main/java/es/entity/Teacher.java;\ ;(m2s
+,es.entity.Teacher.equals(java.lang.Object)!o	PARAMETER8
+.knowledge/src/main/java/es/entity/Teacher.java0' 0((2…
+<es.entity.Teacher.equals(java.lang.Object)?other@51.22:51.27DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java3 3(2Ž
+Ees.entity.Teacher.equals(java.lang.Object)?this$teacherId@54.21:54.35DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java6 6(#2
+Fes.entity.Teacher.equals(java.lang.Object)?other$teacherId@55.21:55.36DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java7 7($2
+Ges.entity.Teacher.equals(java.lang.Object)?this$teacherName@57.21:57.37DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java9 9(%2‘
+Hes.entity.Teacher.equals(java.lang.Object)?other$teacherName@58.21:58.38DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.java: :(&2P
+booleanRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Teacher.java0 0(Ý
+<es.entity.Teacher.equals(java.lang.Object)?other@51.22:51.27VALUE8
+.knowledge/src/main/java/es/entity/Teacher.java3 3("
+type Teacher*other2S
+es.entity.TeacherTYPE8
+.knowledge/src/main/java/es/entity/Teacher.java3 3(2n
+,es.entity.Teacher.equals(java.lang.Object)!oCALL8
+.knowledge/src/main/java/es/entity/Teacher.java3( 3()á
+Ees.entity.Teacher.equals(java.lang.Object)?this$teacherId@54.21:54.35VALUE8
+.knowledge/src/main/java/es/entity/Teacher.java6 6(#"
+type Object*this$teacherId2R
+java.lang.ObjectTYPE8
+.knowledge/src/main/java/es/entity/Teacher.java6 6(2b
+ es.entity.Teacher.getTeacherId()CALL8
+.knowledge/src/main/java/es/entity/Teacher.java6+ 6(7ã
+Fes.entity.Teacher.equals(java.lang.Object)?other$teacherId@55.21:55.36VALUE8
+.knowledge/src/main/java/es/entity/Teacher.java7 7($"
+type Object*other$teacherId2R
+java.lang.ObjectTYPE8
+.knowledge/src/main/java/es/entity/Teacher.java7 7(2b
+ es.entity.Teacher.getTeacherId()CALL8
+.knowledge/src/main/java/es/entity/Teacher.java7- 7(92~
+<es.entity.Teacher.equals(java.lang.Object)?other@51.22:51.27CALL8
+.knowledge/src/main/java/es/entity/Teacher.java7' 7(,ç
+Ges.entity.Teacher.equals(java.lang.Object)?this$teacherName@57.21:57.37VALUE8
+.knowledge/src/main/java/es/entity/Teacher.java9 9(%"
+type Object*this$teacherName2R
+java.lang.ObjectTYPE8
+.knowledge/src/main/java/es/entity/Teacher.java9 9(2d
+"es.entity.Teacher.getTeacherName()CALL8
+.knowledge/src/main/java/es/entity/Teacher.java9- 9(;é
+Hes.entity.Teacher.equals(java.lang.Object)?other$teacherName@58.21:58.38VALUE8
+.knowledge/src/main/java/es/entity/Teacher.java: :(&"
+type Object*other$teacherName2R
+java.lang.ObjectTYPE8
+.knowledge/src/main/java/es/entity/Teacher.java: :(2d
+"es.entity.Teacher.getTeacherName()CALL8
+.knowledge/src/main/java/es/entity/Teacher.java:/ :(=2~
+<es.entity.Teacher.equals(java.lang.Object)?other@51.22:51.27CALL8
+.knowledge/src/main/java/es/entity/Teacher.java:) :(.Ê
+,es.entity.Teacher.equals(java.lang.Object)!o	PARAMETER8
+.knowledge/src/main/java/es/entity/Teacher.java0' 0((*o2R
+java.lang.ObjectTYPE8
+.knowledge/src/main/java/es/entity/Teacher.java0  0(&Ž
+,es.entity.Teacher.canEqual(java.lang.Object)METHOD8
+.knowledge/src/main/java/es/entity/Teacher.java@ @("
+staticfalse"
+finalfalse"
+access modifier	protected"
+type boolean*canEqual2t
+2es.entity.Teacher.canEqual(java.lang.Object)!otherCALL8
+.knowledge/src/main/java/es/entity/Teacher.javaA A(2y
+2es.entity.Teacher.canEqual(java.lang.Object)!other	PARAMETER8
+.knowledge/src/main/java/es/entity/Teacher.java@, @(12P
+booleanRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Teacher.java@ @(Ô
+2es.entity.Teacher.canEqual(java.lang.Object)!other	PARAMETER8
+.knowledge/src/main/java/es/entity/Teacher.java@, @(1*other2R
+java.lang.ObjectTYPE8
+.knowledge/src/main/java/es/entity/Teacher.java@% @(+´
+es.entity.Teacher.hashCode()METHOD8
+.knowledge/src/main/java/es/entity/Teacher.javaD D("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*hashCode2\
+es.entity.Teacher.getAge()CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaG' G(-2b
+ es.entity.Teacher.getTeacherId()CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaH' H(32]
+java.lang.Object.hashCode()CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaIH I(P2d
+"es.entity.Teacher.getTeacherName()CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaJ) J(72]
+java.lang.Object.hashCode()CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaKL K(T2q
+/es.entity.Teacher.hashCode()?result@70.12:70.18CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaG G(2q
+/es.entity.Teacher.hashCode()?result@70.12:70.18CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaG G(2p
+.es.entity.Teacher.hashCode()?PRIME@69.18:69.23CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaG G(2q
+/es.entity.Teacher.hashCode()?result@70.12:70.18CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaI I(2q
+/es.entity.Teacher.hashCode()?result@70.12:70.18CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaI I(2p
+.es.entity.Teacher.hashCode()?PRIME@69.18:69.23CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaI I(2u
+3es.entity.Teacher.hashCode()?$teacherId@72.21:72.31CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaI# I(-2u
+3es.entity.Teacher.hashCode()?$teacherId@72.21:72.31CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaI= I(G2q
+/es.entity.Teacher.hashCode()?result@70.12:70.18CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaK K(2q
+/es.entity.Teacher.hashCode()?result@70.12:70.18CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaK K(2p
+.es.entity.Teacher.hashCode()?PRIME@69.18:69.23CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaK K(2w
+5es.entity.Teacher.hashCode()?$teacherName@74.21:74.33CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaK# K(/2w
+5es.entity.Teacher.hashCode()?$teacherName@74.21:74.33CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaK? K(K2q
+/es.entity.Teacher.hashCode()?result@70.12:70.18CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaL L(2w
+.es.entity.Teacher.hashCode()?PRIME@69.18:69.23DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.javaE E(2x
+/es.entity.Teacher.hashCode()?result@70.12:70.18DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.javaF F(2|
+3es.entity.Teacher.hashCode()?$teacherId@72.21:72.31DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.javaH H(2~
+5es.entity.Teacher.hashCode()?$teacherName@74.21:74.33DECLARATION8
+.knowledge/src/main/java/es/entity/Teacher.javaJ J(!2L
+intRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Teacher.javaD D(Í
+.es.entity.Teacher.hashCode()?PRIME@69.18:69.23VALUE8
+.knowledge/src/main/java/es/entity/Teacher.javaE E("
+type int*PRIME2E
+intTYPE8
+.knowledge/src/main/java/es/entity/Teacher.javaE E(Ò
+/es.entity.Teacher.hashCode()?result@70.12:70.18VARIABLE8
+.knowledge/src/main/java/es/entity/Teacher.javaF F("
+type int*result2E
+intTYPE8
+.knowledge/src/main/java/es/entity/Teacher.javaF F(Ë
+3es.entity.Teacher.hashCode()?$teacherId@72.21:72.31VALUE8
+.knowledge/src/main/java/es/entity/Teacher.javaH H("
+type Object*
+$teacherId2R
+java.lang.ObjectTYPE8
+.knowledge/src/main/java/es/entity/Teacher.javaH H(2b
+ es.entity.Teacher.getTeacherId()CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaH' H(3Ñ
+5es.entity.Teacher.hashCode()?$teacherName@74.21:74.33VALUE8
+.knowledge/src/main/java/es/entity/Teacher.javaJ J(!"
+type Object*$teacherName2R
+java.lang.ObjectTYPE8
+.knowledge/src/main/java/es/entity/Teacher.javaJ J(2d
+"es.entity.Teacher.getTeacherName()CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaJ) J(7º
+es.entity.Teacher.toString()METHOD8
+.knowledge/src/main/java/es/entity/Teacher.javaO O("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*toString2\
+es.entity.Teacher.getAge()CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaP% P(+2b
+ es.entity.Teacher.getTeacherId()CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaPF P(R2d
+"es.entity.Teacher.getTeacherName()CALL8
+.knowledge/src/main/java/es/entity/Teacher.javaPo P(}2Y
+java.lang.StringRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Teacher.javaO O(Ð
+!es.entity.Teacher?INDEX@3.31:3.36VALUE8
+.knowledge/src/main/java/es/entity/Teacher.java ($"
+type String*INDEX2R
+java.lang.StringTYPE8
+.knowledge/src/main/java/es/entity/Teacher.java (Î
+ es.entity.Teacher?TYPE@4.31:4.35VALUE8
+.knowledge/src/main/java/es/entity/Teacher.java (#"
+type String*TYPE2R
+java.lang.StringTYPE8
+.knowledge/src/main/java/es/entity/Teacher.java (¿
+es.entity.Teacher?age@6.16:6.19VARIABLE8
+.knowledge/src/main/java/es/entity/Teacher.java ("
+type int*age2E
+intTYPE8
+.knowledge/src/main/java/es/entity/Teacher.java (Û
+%es.entity.Teacher?teacherId@7.19:7.28VARIABLE8
+.knowledge/src/main/java/es/entity/Teacher.java ("
+type String*	teacherId2R
+java.lang.StringTYPE8
+.knowledge/src/main/java/es/entity/Teacher.java (ß
+'es.entity.Teacher?teacherName@8.19:8.30VARIABLE8
+.knowledge/src/main/java/es/entity/Teacher.java ("
+type String*teacherName2R
+java.lang.StringTYPE8
+.knowledge/src/main/java/es/entity/Teacher.java (

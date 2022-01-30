@@ -1,0 +1,283 @@
+
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java≤
+%algorithme.backtrace.SequentialDigitsCLASSL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java ("
+inner classfalse*SequentialDigits2ã
+.algorithme.backtrace.SequentialDigits.SolutionDECLARATIONL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java
+ (Ï
+.algorithme.backtrace.SequentialDigits.SolutionCLASSL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java
+ ("
+inner classtrue*Solution2ú
+?algorithme.backtrace.SequentialDigits.Solution.generateAll(int)DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java ()2¶
+Ialgorithme.backtrace.SequentialDigits.Solution.sequentialDigits(int, int)DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java+ +(-Ÿ=
+?algorithme.backtrace.SequentialDigits.Solution.generateAll(int)METHODL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java ()"
+staticfalse"
+finalfalse"
+access modifierprivate"
+type List<Integer>*generateAll2s
+java.util.Arrays.asList(T...)CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java& (,2k
+java.util.List.add(E)CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2m
+java.util.List.get(int)CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java) (,2k
+java.util.List.size()CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java2 (62r
+java.lang.String.charAt(int)CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (%2o
+java.lang.String.length()CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java( (.2Å
++java.lang.Integer.valueOf(java.lang.String)CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java, (32k
+java.util.List.add(E)CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java# #(2k
+java.util.List.add(E)CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java$ $(2k
+java.util.List.add(E)CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java& &(2ô
+Cjava.util.Collections.unmodifiableList(java.util.List<? extends T>)CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java( ((/2u
+java.util.ArrayList.ArrayList()CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java' (22u
+java.util.ArrayList.ArrayList()CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java* (52u
+java.util.ArrayList.ArrayList()CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java+ (62¶
+Palgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?list@19.31:19.35CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2•
+Oalgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?one@20.25:20.28CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2£
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?i@22.21:22.22CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2£
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?i@22.21:22.22CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java# ($2¶
+Palgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?list@19.31:19.35CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java$ ((2¶
+Palgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?list@19.31:19.35CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java- (12¶
+Palgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?last@23.29:23.33CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java  ($2£
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?s@25.28:25.29CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2£
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?s@25.28:25.29CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java& ('2£
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?c@26.25:26.26CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2£
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?c@26.25:26.26CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2£
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?s@25.28:25.29CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java4 (52£
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?n@30.24:30.25CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java8 (92ß
+Qalgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?value@31.28:31.33CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java   (2ö
+Dalgorithme.backtrace.SequentialDigits.Solution.generateAll(int)!highCALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java    ($2©
+Salgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?newList@24.29:24.36CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java# #(2£
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?s@25.28:25.29CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java#  #(!2£
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?n@30.24:30.25CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java#$ #(%2®
+Ralgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?result@18.26:18.32CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java$ $(2ß
+Qalgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?value@31.28:31.33CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java$ $($2¶
+Palgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?list@19.31:19.35CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java& &(2©
+Salgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?newList@24.29:24.36CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java& &( 2®
+Ralgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?result@18.26:18.32CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java(0 ((62ü
+Dalgorithme.backtrace.SequentialDigits.Solution.generateAll(int)!high	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java. (22Ø
+Ralgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?result@18.26:18.32DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java ( 2≠
+Palgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?list@19.31:19.35DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (#2¨
+Oalgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?one@20.25:20.28DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2™
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?i@22.21:22.22DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2≠
+Palgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?last@23.29:23.33DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (!2∞
+Salgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?newList@24.29:24.36DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java ($2™
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?s@25.28:25.29DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2™
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?c@26.25:26.26DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2™
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?n@30.24:30.25DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2Æ
+Qalgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?value@31.28:31.33DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (!2k
+java.util.ListRETURN_TYPEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2w
+java.lang.IntegerRETURN_TYPE_ARGUMENTL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (õ
+Ralgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?result@18.26:18.32VARIABLEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java ( "
+type List<Integer>*result2d
+java.util.ListTYPEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2p
+java.lang.IntegerTYPE_ARGUMENTL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2u
+java.util.ArrayList.ArrayList()CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java' (2ä
+Palgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?list@19.31:19.35VARIABLEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (#"
+type List<List<String>>*list2d
+java.util.ListTYPEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2m
+java.util.ListTYPE_ARGUMENTL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2o
+java.lang.StringTYPE_ARGUMENTL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2u
+java.util.ArrayList.ArrayList()CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java* (5ë
+Oalgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?one@20.25:20.28VARIABLEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java ("
+type List<String>*one2d
+java.util.ListTYPEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2o
+java.lang.StringTYPE_ARGUMENTL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2s
+java.util.Arrays.asList(T...)CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java& (,ì
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?i@22.21:22.22VARIABLEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java ("
+type int*i2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (Ã
+Palgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?last@23.29:23.33VARIABLEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (!"
+type List<String>*last2d
+java.util.ListTYPEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2o
+java.lang.StringTYPE_ARGUMENTL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2m
+java.util.List.get(int)CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java) (,2k
+java.util.List.size()CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java2 (62¶
+Palgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?list@19.31:19.35CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java$ ((2¶
+Palgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?list@19.31:19.35CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java- (1õ
+Salgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?newList@24.29:24.36VARIABLEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java ($"
+type List<String>*newList2d
+java.util.ListTYPEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2o
+java.lang.StringTYPE_ARGUMENTL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2u
+java.util.ArrayList.ArrayList()CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java+ (6£
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?s@25.28:25.29VARIABLEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java ("
+type String*s2f
+java.lang.StringTYPEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (∆
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?c@26.25:26.26VARIABLEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java ("
+type char*c2Z
+charTYPEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2r
+java.lang.String.charAt(int)CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (%2o
+java.lang.String.length()CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java( (.2£
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?s@25.28:25.29CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2£
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?s@25.28:25.29CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java& ('π
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?n@30.24:30.25VARIABLEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java ("
+type int*n2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2£
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?c@26.25:26.26CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (˝
+Qalgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?value@31.28:31.33VARIABLEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (!"
+type Integer*value2g
+java.lang.IntegerTYPEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java (2Å
++java.lang.Integer.valueOf(java.lang.String)CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java, (32£
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?s@25.28:25.29CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java4 (52£
+Malgorithme.backtrace.SequentialDigits.Solution.generateAll(int)?n@30.24:30.25CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java8 (9Ä
+Dalgorithme.backtrace.SequentialDigits.Solution.generateAll(int)!high	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java. (2*high2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java* (-Ü
+Ialgorithme.backtrace.SequentialDigits.Solution.sequentialDigits(int, int)METHODL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java+ +(-"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type List<Integer>*sequentialDigits2ï
+?algorithme.backtrace.SequentialDigits.Solution.generateAll(int)CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java,# ,(.2¢
+Ljava.util.stream.Stream.collect(java.util.stream.Collector<? super T, A, R>)CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java-O -(V2v
+ java.util.stream.Stream.sorted()CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java-F -(L2ù
+Gjava.util.stream.Stream.filter(java.util.function.Predicate<? super T>)CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java-# -()2s
+java.util.Collection.stream()CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java- -( 2z
+$java.util.stream.Collectors.toList()CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java-b -(h2§
+Nalgorithme.backtrace.SequentialDigits.Solution.sequentialDigits(int, int)!highCALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java,/ ,(32≤
+\algorithme.backtrace.SequentialDigits.Solution.sequentialDigits(int, int)?result@44.26:44.32CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java- -(2≠
+Walgorithme.backtrace.SequentialDigits.Solution.sequentialDigits(int, int)?i@45.42:45.43CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java-/ -(02£
+Malgorithme.backtrace.SequentialDigits.Solution.sequentialDigits(int, int)!lowCALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java-4 -(72≠
+Walgorithme.backtrace.SequentialDigits.Solution.sequentialDigits(int, int)?i@45.42:45.43CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java-; -(<2§
+Nalgorithme.backtrace.SequentialDigits.Solution.sequentialDigits(int, int)!highCALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java-@ -(D2®
+Malgorithme.backtrace.SequentialDigits.Solution.sequentialDigits(int, int)!low	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java+2 +(52©
+Nalgorithme.backtrace.SequentialDigits.Solution.sequentialDigits(int, int)!high	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java+; +(?2π
+\algorithme.backtrace.SequentialDigits.Solution.sequentialDigits(int, int)?result@44.26:44.32DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java, ,( 2¥
+Walgorithme.backtrace.SequentialDigits.Solution.sequentialDigits(int, int)?i@45.42:45.43DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java-* -(+2k
+java.util.ListRETURN_TYPEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java+ +(2w
+java.lang.IntegerRETURN_TYPE_ARGUMENTL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java+ +(Ì
+\algorithme.backtrace.SequentialDigits.Solution.sequentialDigits(int, int)?result@44.26:44.32VARIABLEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java, ,( "
+type List<Integer>*result2d
+java.util.ListTYPEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java, ,(2p
+java.lang.IntegerTYPE_ARGUMENTL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java, ,(2ï
+?algorithme.backtrace.SequentialDigits.Solution.generateAll(int)CALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java,# ,(.2§
+Nalgorithme.backtrace.SequentialDigits.Solution.sequentialDigits(int, int)!highCALLL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java,/ ,(3à
+Malgorithme.backtrace.SequentialDigits.Solution.sequentialDigits(int, int)!low	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java+2 +(5*low2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java+. +(1ä
+Nalgorithme.backtrace.SequentialDigits.Solution.sequentialDigits(int, int)!high	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java+; +(?*high2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java+7 +(:º
+Walgorithme.backtrace.SequentialDigits.Solution.sequentialDigits(int, int)?i@45.42:45.43VARIABLEL
+Balgorithm/src/main/java/algorithme/backtrace/SequentialDigits.java-* -(+*i2TYPE

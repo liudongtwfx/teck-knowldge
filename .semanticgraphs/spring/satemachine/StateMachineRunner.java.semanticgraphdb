@@ -1,0 +1,40 @@
+
+Bknowledge/src/main/java/spring/satemachine/StateMachineRunner.javaÍ
+%spring.satemachine.StateMachineRunnerCLASSL
+Bknowledge/src/main/java/spring/satemachine/StateMachineRunner.java ("
+inner classfalse*StateMachineRunner2›
+>spring.satemachine.StateMachineRunner.run(java.lang.String...)DECLARATIONL
+Bknowledge/src/main/java/spring/satemachine/StateMachineRunner.java (2›
+>spring.satemachine.StateMachineRunner?stateMachine@10.41:10.53DECLARATIONL
+Bknowledge/src/main/java/spring/satemachine/StateMachineRunner.java
+) 
+(52i
+CommandLineRunnerEXTENDL
+Bknowledge/src/main/java/spring/satemachine/StateMachineRunner.java+ (<˜
+>spring.satemachine.StateMachineRunner.run(java.lang.String...)METHODL
+Bknowledge/src/main/java/spring/satemachine/StateMachineRunner.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*run2”
+>spring.satemachine.StateMachineRunner?stateMachine@10.41:10.53CALLL
+Bknowledge/src/main/java/spring/satemachine/StateMachineRunner.java (2”
+>spring.satemachine.StateMachineRunner?stateMachine@10.41:10.53CALLL
+Bknowledge/src/main/java/spring/satemachine/StateMachineRunner.java (2ž
+Cspring.satemachine.StateMachineRunner.run(java.lang.String...)!args	PARAMETERL
+Bknowledge/src/main/java/spring/satemachine/StateMachineRunner.java ("2a
+voidRETURN_TYPEL
+Bknowledge/src/main/java/spring/satemachine/StateMachineRunner.java (Ž
+Cspring.satemachine.StateMachineRunner.run(java.lang.String...)!args	PARAMETERL
+Bknowledge/src/main/java/spring/satemachine/StateMachineRunner.java ("*args2h
+java.lang.String[]TYPEL
+Bknowledge/src/main/java/spring/satemachine/StateMachineRunner.java (°
+>spring.satemachine.StateMachineRunner?stateMachine@10.41:10.53VARIABLEL
+Bknowledge/src/main/java/spring/satemachine/StateMachineRunner.java
+) 
+(5"$
+type StateMachine<States,Events>*stateMachine2b
+StateMachineTYPEL
+Bknowledge/src/main/java/spring/satemachine/StateMachineRunner.java
+ 
+(

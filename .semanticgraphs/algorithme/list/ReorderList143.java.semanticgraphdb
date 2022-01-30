@@ -1,0 +1,312 @@
+
+;algorithm/src/main/java/algorithme/list/ReorderList143.java°
+algorithme.list.ReorderList143CLASSE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java ("
+inner classfalse*ReorderList1432ç
+7algorithme.list.ReorderList143.main(java.lang.String[])DECLARATIONE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2}
+'algorithme.list.ReorderList143.bridge()DECLARATIONE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java
+ 
+(2}
+'algorithme.list.ReorderList143.ListNodeDECLARATIONE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2}
+'algorithme.list.ReorderList143.SolutionDECLARATIONE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java'
+ '(ø
+7algorithme.list.ReorderList143.main(java.lang.String[])METHODE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2v
+'algorithme.list.ReorderList143.bridge()CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (#2~
+/algorithme.list.ReorderList143.ReorderList143()CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2ê
+<algorithme.list.ReorderList143.main(java.lang.String[])!args	PARAMETERE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java% ()2Z
+voidRETURN_TYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (˘
+<algorithme.list.ReorderList143.main(java.lang.String[])!args	PARAMETERE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java% ()*args2a
+java.lang.String[]TYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java ($Ø
+'algorithme.list.ReorderList143.bridge()METHODE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java
+ 
+("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2´
+\algorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java ("2o
+ java.io.PrintStream.println(int)CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2≠
+^algorithme.list.ReorderList143.ListNode.ListNode(int, algorithme.list.ReorderList143.ListNode)CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (%2≠
+^algorithme.list.ReorderList143.ListNode.ListNode(int, algorithme.list.ReorderList143.ListNode)CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java- (52≠
+^algorithme.list.ReorderList143.ListNode.ListNode(int, algorithme.list.ReorderList143.ListNode)CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (#2≠
+^algorithme.list.ReorderList143.ListNode.ListNode(int, algorithme.list.ReorderList143.ListNode)CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (#2Å
+2algorithme.list.ReorderList143.Solution.Solution()CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2à
+9algorithme.list.ReorderList143.bridge()?three@11.17:11.22CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java' (,2Ü
+7algorithme.list.ReorderList143.bridge()?two@12.17:12.20CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java' (*2Ü
+7algorithme.list.ReorderList143.bridge()?one@13.17:13.20CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java# (&2Ü
+7algorithme.list.ReorderList143.bridge()?one@13.17:13.20CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2á
+8algorithme.list.ReorderList143.bridge()?node@15.17:15.21CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2á
+8algorithme.list.ReorderList143.bridge()?node@15.17:15.21CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (#2á
+8algorithme.list.ReorderList143.bridge()?node@15.17:15.21CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2á
+8algorithme.list.ReorderList143.bridge()?node@15.17:15.21CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2Ü
+7algorithme.list.ReorderList143.ListNode?val@23.12:23.15CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java$ ('2á
+8algorithme.list.ReorderList143.ListNode?next@24.17:24.21CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2è
+9algorithme.list.ReorderList143.bridge()?three@11.17:11.22DECLARATIONE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2ç
+7algorithme.list.ReorderList143.bridge()?two@12.17:12.20DECLARATIONE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2ç
+7algorithme.list.ReorderList143.bridge()?one@13.17:13.20DECLARATIONE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2é
+8algorithme.list.ReorderList143.bridge()?node@15.17:15.21DECLARATIONE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2Z
+voidRETURN_TYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java
+ 
+(˛
+9algorithme.list.ReorderList143.bridge()?three@11.17:11.22VARIABLEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java ("
+type ListNode*three2v
+'algorithme.list.ReorderList143.ListNodeTYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2≠
+^algorithme.list.ReorderList143.ListNode.ListNode(int, algorithme.list.ReorderList143.ListNode)CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (%2≠
+^algorithme.list.ReorderList143.ListNode.ListNode(int, algorithme.list.ReorderList143.ListNode)CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java- (5’
+7algorithme.list.ReorderList143.bridge()?two@12.17:12.20VARIABLEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java ("
+type ListNode*two2v
+'algorithme.list.ReorderList143.ListNodeTYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2≠
+^algorithme.list.ReorderList143.ListNode.ListNode(int, algorithme.list.ReorderList143.ListNode)CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (#2à
+9algorithme.list.ReorderList143.bridge()?three@11.17:11.22CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java' (,”
+7algorithme.list.ReorderList143.bridge()?one@13.17:13.20VARIABLEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java ("
+type ListNode*one2v
+'algorithme.list.ReorderList143.ListNodeTYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2≠
+^algorithme.list.ReorderList143.ListNode.ListNode(int, algorithme.list.ReorderList143.ListNode)CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (#2Ü
+7algorithme.list.ReorderList143.bridge()?two@12.17:12.20CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java' (*•
+8algorithme.list.ReorderList143.bridge()?node@15.17:15.21VARIABLEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java ("
+type ListNode*node2v
+'algorithme.list.ReorderList143.ListNodeTYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2Ü
+7algorithme.list.ReorderList143.bridge()?one@13.17:13.20CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (á
+'algorithme.list.ReorderList143.ListNodeCLASSE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java ("
+inner classtrue*ListNode2à
+2algorithme.list.ReorderList143.ListNode.ListNode()DECLARATIONE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2ã
+5algorithme.list.ReorderList143.ListNode.ListNode(int)DECLARATIONE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2¥
+^algorithme.list.ReorderList143.ListNode.ListNode(int, algorithme.list.ReorderList143.ListNode)DECLARATIONE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java! !(2ç
+7algorithme.list.ReorderList143.ListNode?val@23.12:23.15DECLARATIONE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2é
+8algorithme.list.ReorderList143.ListNode?next@24.17:24.21DECLARATIONE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (ë
+2algorithme.list.ReorderList143.ListNode.ListNode()CONSTRUCTORE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (*ListNode2}
+'algorithme.list.ReorderList143.ListNodeRETURN_TYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (∏
+5algorithme.list.ReorderList143.ListNode.ListNode(int)CONSTRUCTORE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (*ListNode2à
+9algorithme.list.ReorderList143.ListNode.ListNode(int)!valCALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2Ü
+7algorithme.list.ReorderList143.ListNode?val@23.12:23.15CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2ç
+9algorithme.list.ReorderList143.ListNode.ListNode(int)!val	PARAMETERE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (2}
+'algorithme.list.ReorderList143.ListNodeRETURN_TYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (Ê
+9algorithme.list.ReorderList143.ListNode.ListNode(int)!val	PARAMETERE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (*val2R
+intTYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (¨
+
+^algorithme.list.ReorderList143.ListNode.ListNode(int, algorithme.list.ReorderList143.ListNode)CONSTRUCTORE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java! !(*ListNode2±
+balgorithme.list.ReorderList143.ListNode.ListNode(int, algorithme.list.ReorderList143.ListNode)!valCALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java" "(2≤
+calgorithme.list.ReorderList143.ListNode.ListNode(int, algorithme.list.ReorderList143.ListNode)!nextCALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java# #(2Ü
+7algorithme.list.ReorderList143.ListNode?val@23.12:23.15CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java" "(2á
+8algorithme.list.ReorderList143.ListNode?next@24.17:24.21CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java# #(2∂
+balgorithme.list.ReorderList143.ListNode.ListNode(int, algorithme.list.ReorderList143.ListNode)!val	PARAMETERE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java! !(2∑
+calgorithme.list.ReorderList143.ListNode.ListNode(int, algorithme.list.ReorderList143.ListNode)!next	PARAMETERE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java!# !('2}
+'algorithme.list.ReorderList143.ListNodeRETURN_TYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java! !(è
+balgorithme.list.ReorderList143.ListNode.ListNode(int, algorithme.list.ReorderList143.ListNode)!val	PARAMETERE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java! !(*val2R
+intTYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java! !(µ
+calgorithme.list.ReorderList143.ListNode.ListNode(int, algorithme.list.ReorderList143.ListNode)!next	PARAMETERE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java!# !('*next2v
+'algorithme.list.ReorderList143.ListNodeTYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java! !("Ò
+7algorithme.list.ReorderList143.ListNode?val@23.12:23.15VARIABLEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java ("
+type int*val2R
+intTYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (ú
+8algorithme.list.ReorderList143.ListNode?next@24.17:24.21VARIABLEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java ("
+type ListNode*next2v
+'algorithme.list.ReorderList143.ListNodeTYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java (À
+'algorithme.list.ReorderList143.SolutionCLASSE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java'
+ '("
+inner classtrue*Solution2≤
+\algorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)DECLARATIONE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java( ((∫4
+\algorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)METHODE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java( (("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*reorderList2i
+java.util.Deque.addLast(E)CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java, ,(2i
+java.util.Deque.pollLast()CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java0# 0(+2i
+java.util.Deque.pollLast()CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java5 5(&2p
+!java.util.LinkedList.LinkedList()CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java)( )(42∞
+aalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)!headCALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java* *(2π
+jalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?p@42.21:42.22CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java+ +(2Ω
+nalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?queue@41.28:41.33CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java, ,(2π
+jalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?p@42.21:42.22CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java, ,(2π
+jalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?p@42.21:42.22CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java- -(2π
+jalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?p@42.21:42.22CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java- -(2∞
+aalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)!headCALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java/ /( 2Ω
+nalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?queue@41.28:41.33CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java0 0("2º
+malgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?left@47.21:47.25CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java1 1(2Ω
+nalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?right@48.21:48.26CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java1 1( 2º
+malgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?left@47.21:47.25CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java1$ 1((2Ω
+nalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?right@48.21:48.26CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java11 1(62Ω
+nalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?right@48.21:48.26CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java2 2(2º
+malgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?left@47.21:47.25CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java2 2(!2º
+malgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?left@47.21:47.25CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java3 3(2Ω
+nalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?right@48.21:48.26CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java3 3(!2º
+malgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?left@47.21:47.25CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java4 4(2Ω
+nalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?right@48.21:48.26CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java4 4(2Ω
+nalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?right@48.21:48.26CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java5 5(2Ω
+nalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?queue@41.28:41.33CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java5 5(2Ω
+nalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?right@48.21:48.26CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java7 7(2á
+8algorithme.list.ReorderList143.ListNode?next@24.17:24.21CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java- -(2á
+8algorithme.list.ReorderList143.ListNode?next@24.17:24.21CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java1) 1(-2á
+8algorithme.list.ReorderList143.ListNode?next@24.17:24.21CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java2 2(2á
+8algorithme.list.ReorderList143.ListNode?next@24.17:24.21CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java2" 2(&2á
+8algorithme.list.ReorderList143.ListNode?next@24.17:24.21CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java3 3(2á
+8algorithme.list.ReorderList143.ListNode?next@24.17:24.21CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java4 4(!2á
+8algorithme.list.ReorderList143.ListNode?next@24.17:24.21CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java7 7(2µ
+aalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)!head	PARAMETERE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java() ((-2ƒ
+nalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?queue@41.28:41.33DECLARATIONE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java) )(!2¿
+jalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?p@42.21:42.22DECLARATIONE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java* *(2√
+malgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?left@47.21:47.25DECLARATIONE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java/ /(2ƒ
+nalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?right@48.21:48.26DECLARATIONE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java0 0(2Z
+voidRETURN_TYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java( ((µ
+nalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?queue@41.28:41.33VARIABLEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java) )(!"
+type Deque<ListNode>*queue2^
+java.util.DequeTYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java) )(2
+'algorithme.list.ReorderList143.ListNodeTYPE_ARGUMENTE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java) )(2p
+!java.util.LinkedList.LinkedList()CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java)( )(4˛
+jalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?p@42.21:42.22VARIABLEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java* *("
+type ListNode*p2v
+'algorithme.list.ReorderList143.ListNodeTYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java* *(2∞
+aalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)!headCALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java* *(Ñ
+malgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?left@47.21:47.25VARIABLEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java/ /("
+type ListNode*left2v
+'algorithme.list.ReorderList143.ListNodeTYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java/ /(2∞
+aalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)!headCALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java/ /( ˛
+nalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?right@48.21:48.26VARIABLEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java0 0("
+type ListNode*right2v
+'algorithme.list.ReorderList143.ListNodeTYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java0 0(2i
+java.util.Deque.pollLast()CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java0# 0(+2Ω
+nalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)?queue@41.28:41.33CALLE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java0 0("≥
+aalgorithme.list.ReorderList143.Solution.reorderList(algorithme.list.ReorderList143.ListNode)!head	PARAMETERE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java() ((-*head2v
+'algorithme.list.ReorderList143.ListNodeTYPEE
+;algorithm/src/main/java/algorithme/list/ReorderList143.java(  (((

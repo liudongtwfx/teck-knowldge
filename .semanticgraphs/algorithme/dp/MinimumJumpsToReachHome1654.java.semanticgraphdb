@@ -1,0 +1,560 @@
+
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java†
+)algorithme.dp.MinimumJumpsToReachHome1654CLASSP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (("
+inner classfalse*MinimumJumpsToReachHome16542£
+Balgorithme.dp.MinimumJumpsToReachHome1654.main(java.lang.String[])DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (2ì
+2algorithme.dp.MinimumJumpsToReachHome1654.bridge()DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java	 	(2ì
+2algorithme.dp.MinimumJumpsToReachHome1654.SolutionDECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java
+ (2î
+3algorithme.dp.MinimumJumpsToReachHome1654.Solution1DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java:
+ :(±
+Balgorithme.dp.MinimumJumpsToReachHome1654.main(java.lang.String[])METHODP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2å
+2algorithme.dp.MinimumJumpsToReachHome1654.bridge()CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java* (02°
+Galgorithme.dp.MinimumJumpsToReachHome1654.MinimumJumpsToReachHome1654()CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java ('2¶
+Galgorithme.dp.MinimumJumpsToReachHome1654.main(java.lang.String[])!args	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java% ()2e
+voidRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (ö
+Galgorithme.dp.MinimumJumpsToReachHome1654.main(java.lang.String[])!args	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java% ()*args2l
+java.lang.String[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java ($ˆ
+2algorithme.dp.MinimumJumpsToReachHome1654.bridge()METHODP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java	 	("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2z
+ java.io.PrintStream.println(int)CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (2Ø
+Ualgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java% (12ó
+=algorithme.dp.MinimumJumpsToReachHome1654.Solution.Solution()CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java! ()2¢
+Halgorithme.dp.MinimumJumpsToReachHome1654.bridge()?solution1@14.17:14.26CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java ($2¢
+Halgorithme.dp.MinimumJumpsToReachHome1654.bridge()?forbidden@10.14:10.23CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java2 (;2ö
+@algorithme.dp.MinimumJumpsToReachHome1654.bridge()?a@11.12:11.13CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java= (>2ö
+@algorithme.dp.MinimumJumpsToReachHome1654.bridge()?b@12.12:12.13CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java@ (A2ö
+@algorithme.dp.MinimumJumpsToReachHome1654.bridge()?x@13.12:13.13CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaC (D2©
+Halgorithme.dp.MinimumJumpsToReachHome1654.bridge()?forbidden@10.14:10.23DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java
+ 
+(2°
+@algorithme.dp.MinimumJumpsToReachHome1654.bridge()?a@11.12:11.13DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (2°
+@algorithme.dp.MinimumJumpsToReachHome1654.bridge()?b@12.12:12.13DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (2°
+@algorithme.dp.MinimumJumpsToReachHome1654.bridge()?x@13.12:13.13DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (2©
+Halgorithme.dp.MinimumJumpsToReachHome1654.bridge()?solution1@14.17:14.26DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (2e
+voidRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java	 	(¢
+Halgorithme.dp.MinimumJumpsToReachHome1654.bridge()?forbidden@10.14:10.23VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java
+ 
+("
+type int[]*	forbidden2_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java
+ 
+(é
+@algorithme.dp.MinimumJumpsToReachHome1654.bridge()?a@11.12:11.13VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java ("
+type int*a2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (é
+@algorithme.dp.MinimumJumpsToReachHome1654.bridge()?b@12.12:12.13VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java ("
+type int*b2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (é
+@algorithme.dp.MinimumJumpsToReachHome1654.bridge()?x@13.12:13.13VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java ("
+type int*x2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (Ì
+Halgorithme.dp.MinimumJumpsToReachHome1654.bridge()?solution1@14.17:14.26VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java ("
+type Solution*	solution12å
+2algorithme.dp.MinimumJumpsToReachHome1654.SolutionTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (2ó
+=algorithme.dp.MinimumJumpsToReachHome1654.Solution.Solution()CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java! ()Â
+2algorithme.dp.MinimumJumpsToReachHome1654.SolutionCLASSP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java
+ ("
+inner classtrue*Solution2∂
+Ualgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (´e
+Ualgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)METHODP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minimumJumps2ñ
+<java.util.Objects.equals(java.lang.Object, java.lang.Object)CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java$ $("2z
+ java.io.PrintStream.println(int)CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java% %(&2π
+_algorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)!forbiddenCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java ("2…
+oalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?forbiddentSet@23.22:23.35CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (2Ω
+calgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?i@24.21:24.22CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (2À
+qalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?positionStepMap@27.20:27.35CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (2À
+qalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?positionStepMap@27.20:27.35CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (2¿
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?head@22.16:22.20CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (2¿
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?tail@22.26:22.30CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (2¿
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?nums@21.18:21.22CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java   (#2¿
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?head@22.16:22.20CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java $  ((2¡
+galgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?count@30.16:30.21CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java! !(2À
+qalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?positionStepMap@27.20:27.35CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java#) #(82ƒ
+jalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?position@32.20:32.28CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java#9 #(A2ƒ
+jalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?position@32.20:32.28CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java$# $(+2±
+Walgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)!xCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java$- $(.2¡
+galgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?count@30.16:30.21CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java%' %(,2Ã
+ralgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?stepAndDirection@35.22:35.38CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java& &(+2ƒ
+jalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?position@32.20:32.28CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java) )(#2±
+Walgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)!bCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java)& )('2Ã
+ralgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?stepAndDirection@35.22:35.38CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java* *($2¿
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?back@41.20:41.24CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java*0 *(42À
+qalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?positionStepMap@27.20:27.35CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java*= *(L2¿
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?back@41.20:41.24CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java*M *(Q2…
+oalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?forbiddentSet@23.22:23.35CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java*_ *(l2¿
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?back@41.20:41.24CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java*m *(q2¿
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?nums@21.18:21.22CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java+ +(2¿
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?tail@22.26:22.30CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java+ +(2¿
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?back@41.20:41.24CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java+# +('2À
+qalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?positionStepMap@27.20:27.35CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java, ,(#2¿
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?back@41.20:41.24CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java,$ ,((2Ã
+ralgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?stepAndDirection@35.22:35.38CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java,/ ,(?2À
+qalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?positionStepMap@27.20:27.35CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java- -(#2¿
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?back@41.20:41.24CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java-$ -((2ƒ
+jalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?position@32.20:32.28CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java/ /(&2±
+Walgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)!aCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java/) /(*2√
+ialgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?forward@47.20:47.27CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java0 0(2À
+qalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?positionStepMap@27.20:27.35CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java0' 0(62√
+ialgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?forward@47.20:47.27CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java07 0(>2…
+oalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?forbiddentSet@23.22:23.35CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java0L 0(Y2√
+ialgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?forward@47.20:47.27CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java0Z 0(a2¿
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?nums@21.18:21.22CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java1 1(2¿
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?tail@22.26:22.30CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java1 1(2√
+ialgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?forward@47.20:47.27CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java1# 1(*2À
+qalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?positionStepMap@27.20:27.35CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java2 2(#2√
+ialgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?forward@47.20:47.27CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java2$ 2(+2Ã
+ralgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?stepAndDirection@35.22:35.38CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java22 2(B2À
+qalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?positionStepMap@27.20:27.35CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java3 3(#2√
+ialgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?forward@47.20:47.27CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java3$ 3(+2æ
+_algorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)!forbidden	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java& (/2∂
+Walgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)!a	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java5 (62∂
+Walgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)!b	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java< (=2∂
+Walgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)!x	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaC (D2«
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?nums@21.18:21.22DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (2«
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?head@22.16:22.20DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (2«
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?tail@22.26:22.30DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (2–
+oalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?forbiddentSet@23.22:23.35DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (#2ƒ
+calgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?i@24.21:24.22DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (2“
+qalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?positionStepMap@27.20:27.35DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (#2»
+galgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?count@30.16:30.21DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (2À
+jalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?position@32.20:32.28DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java   (2”
+ralgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?stepAndDirection@35.22:35.38DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java# #(&2«
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?back@41.20:41.24DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java) )(2 
+ialgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?forward@47.20:47.27DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java/ /(2d
+intRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (ª
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?nums@21.18:21.22VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java ("
+type int[]*nums2_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (∑
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?head@22.16:22.20VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java ("
+type int*head2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (∑
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?tail@22.26:22.30VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java ("
+type int*tail2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (’
+oalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?forbiddentSet@23.22:23.35VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (#"
+type 	boolean[]*forbiddentSet2c
+	boolean[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (±
+calgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?i@24.21:24.22VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java ("
+type int*i2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (’
+qalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?positionStepMap@27.20:27.35VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (#"
+type int[][]*positionStepMap2a
+int[][]TYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (π
+galgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?count@30.16:30.21VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java ("
+type int*count2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java (≈
+jalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?position@32.20:32.28VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java   ("
+type int*position2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java   (2¿
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?nums@21.18:21.22CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java   (#2¿
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?head@22.16:22.20CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java $  ((Ë
+ralgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?stepAndDirection@35.22:35.38VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java# #(&"
+type int[]*stepAndDirection2_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java# #(2À
+qalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?positionStepMap@27.20:27.35CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java#) #(82ƒ
+jalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?position@32.20:32.28CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java#9 #(A≤
+falgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?back@41.20:41.24VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java) )("
+type int*back2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java) )(2ƒ
+jalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?position@32.20:32.28CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java) )(#2±
+Walgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)!bCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java)& )('∏
+ialgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?forward@47.20:47.27VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java/ /("
+type int*forward2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java/ /(2ƒ
+jalgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)?position@32.20:32.28CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java/ /(&2±
+Walgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)!aCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java/) /(*™
+_algorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)!forbidden	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java& (/*	forbidden2_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java  (%ò
+Walgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)!a	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java5 (6*a2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java1 (4ò
+Walgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)!b	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java< (=*b2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java8 (;ò
+Walgorithme.dp.MinimumJumpsToReachHome1654.Solution.minimumJumps(int[], int, int, int)!x	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaC (D*x2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java? (B·
+
+3algorithme.dp.MinimumJumpsToReachHome1654.Solution1CLASSP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java:
+ :("
+inner classtrue*	Solution12∑
+Valgorithme.dp.MinimumJumpsToReachHome1654.Solution1.minimumJumps(int[], int, int, int)DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaA A(2Ω
+\algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaL L(2ß
+Falgorithme.dp.MinimumJumpsToReachHome1654.Solution1?forbid@59.18:59.24DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java; ;(2¶
+Ealgorithme.dp.MinimumJumpsToReachHome1654.Solution1?visit@60.18:60.23DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java< <(2§
+Calgorithme.dp.MinimumJumpsToReachHome1654.Solution1?res@61.12:61.15DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java= =(2´
+Jalgorithme.dp.MinimumJumpsToReachHome1654.Solution1?visitCount@62.12:62.22DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java> >(2é
+2algorithme.dp.MinimumJumpsToReachHome1654.SolutionEXTENDP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java: :($…
+Valgorithme.dp.MinimumJumpsToReachHome1654.Solution1.minimumJumps(int[], int, int, int)METHODP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaA A("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minimumJumps2∂
+\algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaH H(2†
+Falgorithme.dp.MinimumJumpsToReachHome1654.Solution1?forbid@59.18:59.24CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaB B(2ü
+Ealgorithme.dp.MinimumJumpsToReachHome1654.Solution1?visit@60.18:60.23CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaC C(2∫
+`algorithme.dp.MinimumJumpsToReachHome1654.Solution1.minimumJumps(int[], int, int, int)!forbiddenCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaD D("2†
+Falgorithme.dp.MinimumJumpsToReachHome1654.Solution1?forbid@59.18:59.24CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaE E(2æ
+dalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.minimumJumps(int[], int, int, int)?f@68.21:68.22CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaE E(2†
+Falgorithme.dp.MinimumJumpsToReachHome1654.Solution1?forbid@59.18:59.24CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaF F(2≤
+Xalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.minimumJumps(int[], int, int, int)!aCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaH H(2≤
+Xalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.minimumJumps(int[], int, int, int)!bCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaH H(2≤
+Xalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.minimumJumps(int[], int, int, int)!xCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaH H( 2ù
+Calgorithme.dp.MinimumJumpsToReachHome1654.Solution1?res@61.12:61.15CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaI I(2ù
+Calgorithme.dp.MinimumJumpsToReachHome1654.Solution1?res@61.12:61.15CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaI3 I(62ø
+`algorithme.dp.MinimumJumpsToReachHome1654.Solution1.minimumJumps(int[], int, int, int)!forbidden	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaA& A(/2∑
+Xalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.minimumJumps(int[], int, int, int)!a	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaA5 A(62∑
+Xalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.minimumJumps(int[], int, int, int)!b	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaA< A(=2∑
+Xalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.minimumJumps(int[], int, int, int)!x	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaAC A(D2≈
+dalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.minimumJumps(int[], int, int, int)?f@68.21:68.22DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaD D(2d
+intRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaA A(≤
+dalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.minimumJumps(int[], int, int, int)?f@68.21:68.22VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaD D("
+type int*f2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaD D(´
+`algorithme.dp.MinimumJumpsToReachHome1654.Solution1.minimumJumps(int[], int, int, int)!forbidden	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaA& A(/*	forbidden2_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaA  A(%ô
+Xalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.minimumJumps(int[], int, int, int)!a	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaA5 A(6*a2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaA1 A(4ô
+Xalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.minimumJumps(int[], int, int, int)!b	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaA< A(=*b2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaA8 A(;ô
+Xalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.minimumJumps(int[], int, int, int)!x	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaAC A(D*x2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaA? A(B¸G
+\algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)METHODP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaL L("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*helper2∂
+\algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaW W(2∂
+\algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaY Y(2§
+Jalgorithme.dp.MinimumJumpsToReachHome1654.Solution1?visitCount@62.12:62.22CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaM M(2ª
+aalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!currCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaN N(2∏
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!xCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaN N(2ù
+Calgorithme.dp.MinimumJumpsToReachHome1654.Solution1?res@61.12:61.15CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaO O(2º
+balgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!countCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaO O(2ª
+aalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!backCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaR R(2ü
+Ealgorithme.dp.MinimumJumpsToReachHome1654.Solution1?visit@60.18:60.23CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaS S(2ª
+aalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!currCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaS S(2º
+balgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!countCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaT T(2ù
+Calgorithme.dp.MinimumJumpsToReachHome1654.Solution1?res@61.12:61.15CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaT T(2ª
+aalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!currCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaV V(2∏
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!aCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaV V(2ü
+Ealgorithme.dp.MinimumJumpsToReachHome1654.Solution1?visit@60.18:60.23CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaV V( 2†
+Falgorithme.dp.MinimumJumpsToReachHome1654.Solution1?forbid@59.18:59.24CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaV, V(22ª
+aalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!currCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaV3 V(72∏
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!aCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaV: V(;2ü
+Ealgorithme.dp.MinimumJumpsToReachHome1654.Solution1?visit@60.18:60.23CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaVA V(F2ª
+aalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!currCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaVG V(K2∏
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!aCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaVN V(O2ª
+aalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!currCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaW W(2∏
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!aCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaW W(2º
+balgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!countCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaW! W(&2∏
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!aCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaW, W(-2∏
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!bCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaW/ W(02∏
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!xCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaW2 W(32ª
+aalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!backCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaX X(2ª
+aalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!currCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaX X(2∏
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!bCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaX  X(!2†
+Falgorithme.dp.MinimumJumpsToReachHome1654.Solution1?forbid@59.18:59.24CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaX* X(02ª
+aalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!currCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaX1 X(52∏
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!bCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaX8 X(92ü
+Ealgorithme.dp.MinimumJumpsToReachHome1654.Solution1?visit@60.18:60.23CALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaX? X(D2ª
+aalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!currCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaXE X(I2∏
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!bCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaXL X(M2ª
+aalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!currCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaY Y(2∏
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!bCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaY Y(2º
+balgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!countCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaY! Y(&2∏
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!aCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaY, Y(-2∏
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!bCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaY/ Y(02∏
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!xCALLP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaY2 Y(32¿
+aalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!curr	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaL L(#2¡
+balgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!count	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaL) L(.2Ω
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!a	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaL4 L(52Ω
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!b	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaL; L(<2Ω
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!x	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaLB L(C2¿
+aalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!back	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaLM L(Q2e
+voidRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaL L(•
+aalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!curr	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaL L(#*curr2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaL L(ß
+balgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!count	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaL) L(.*count2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaL% L((ü
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!a	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaL4 L(5*a2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaL0 L(3ü
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!b	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaL; L(<*b2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaL7 L(:ü
+^algorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!x	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaLB L(C*x2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaL> L(A©
+aalgorithme.dp.MinimumJumpsToReachHome1654.Solution1.helper(int, int, int, int, int, boolean)!back	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaLM L(Q*back2a
+booleanTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.javaLE L(L•
+Falgorithme.dp.MinimumJumpsToReachHome1654.Solution1?forbid@59.18:59.24VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java; ;("
+type 	boolean[]*forbid2c
+	boolean[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java; ;(£
+Ealgorithme.dp.MinimumJumpsToReachHome1654.Solution1?visit@60.18:60.23VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java< <("
+type 	boolean[]*visit2c
+	boolean[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java< <(ì
+Calgorithme.dp.MinimumJumpsToReachHome1654.Solution1?res@61.12:61.15VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java= =("
+type int*res2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java= =(°
+Jalgorithme.dp.MinimumJumpsToReachHome1654.Solution1?visitCount@62.12:62.22VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java> >("
+type int*
+visitCount2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/MinimumJumpsToReachHome1654.java> >(

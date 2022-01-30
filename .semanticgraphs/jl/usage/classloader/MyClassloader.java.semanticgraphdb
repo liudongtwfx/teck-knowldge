@@ -1,0 +1,280 @@
+
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.javaµ	
+"jl.usage.classloader.MyClassloaderCLASSI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java ("
+inner classfalse*MyClassloader2®
+Tjl.usage.classloader.MyClassloader.MyClassloader(java.lang.String, java.lang.String)DECLARATIONI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2•
+;jl.usage.classloader.MyClassloader.main(java.lang.String[])DECLARATIONI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2˜
+>jl.usage.classloader.MyClassloader.findClass(java.lang.String)DECLARATIONI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java$ $(2œ
+Bjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)DECLARATIONI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java) )( 2
+3jl.usage.classloader.MyClassloader?path@12.25:12.29DECLARATIONI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2˜
+>jl.usage.classloader.MyClassloader?classloaderName@13.25:13.40DECLARATIONI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java ((2j
+java.lang.ClassLoaderEXTENDI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java# (.´
+
+Tjl.usage.classloader.MyClassloader.MyClassloader(java.lang.String, java.lang.String)CONSTRUCTORI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (*MyClassloader2¬
+Yjl.usage.classloader.MyClassloader.MyClassloader(java.lang.String, java.lang.String)!pathCALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2·
+djl.usage.classloader.MyClassloader.MyClassloader(java.lang.String, java.lang.String)!classloaderNameCALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (.2†
+3jl.usage.classloader.MyClassloader?path@12.25:12.29CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2‘
+>jl.usage.classloader.MyClassloader?classloaderName@13.25:13.40CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2±
+Yjl.usage.classloader.MyClassloader.MyClassloader(java.lang.String, java.lang.String)!path	PARAMETERI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java  ($2¼
+djl.usage.classloader.MyClassloader.MyClassloader(java.lang.String, java.lang.String)!classloaderName	PARAMETERI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java- (<2|
+"jl.usage.classloader.MyClassloaderRETURN_TYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (œ
+Yjl.usage.classloader.MyClassloader.MyClassloader(java.lang.String, java.lang.String)!path	PARAMETERI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java  ($*path2c
+java.lang.StringTYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (²
+djl.usage.classloader.MyClassloader.MyClassloader(java.lang.String, java.lang.String)!classloaderName	PARAMETERI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java- (<*classloaderName2c
+java.lang.StringTYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java& (,Ð"
+;jl.usage.classloader.MyClassloader.main(java.lang.String[])METHODI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2„
+1java.lang.ClassLoader.loadClass(java.lang.String)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java! (*2€
+-java.io.PrintStream.println(java.lang.Object)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2s
+ java.lang.Class.getClassLoader()CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (+2€
+-java.io.PrintStream.println(java.lang.Object)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2t
+!java.lang.ClassLoader.getParent()CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java. (72s
+ java.lang.Class.getClassLoader()CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (+2€
+-java.io.PrintStream.println(java.lang.Object)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2t
+!java.lang.ClassLoader.getParent()CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java: (C2t
+!java.lang.ClassLoader.getParent()CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java. (72s
+ java.lang.Class.getClassLoader()CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (+2p
+java.lang.Class.newInstance()CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java ('2™
+Fjava.lang.reflect.Method.invoke(java.lang.Object, java.lang.Object...)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java. (42®
+[java.lang.Class.getMethod(java.lang.String, java.lang.Class<? extends java.lang.Object>...)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (!2€
+-java.io.PrintStream.println(java.lang.Object)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2§
+Tjl.usage.classloader.MyClassloader.MyClassloader(java.lang.String, java.lang.String)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java( (52¦
+Sjl.usage.classloader.MyClassloader.main(java.lang.String[])?classloader@22.22:22.33CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java ( 2œ
+Ijl.usage.classloader.MyClassloader.main(java.lang.String[])?c@23.17:23.18CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2œ
+Ijl.usage.classloader.MyClassloader.main(java.lang.String[])?c@23.17:23.18CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2œ
+Ijl.usage.classloader.MyClassloader.main(java.lang.String[])?c@23.17:23.18CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2œ
+Ijl.usage.classloader.MyClassloader.main(java.lang.String[])?c@23.17:23.18CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2œ
+Ijl.usage.classloader.MyClassloader.main(java.lang.String[])?c@23.17:23.18CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2£
+Pjl.usage.classloader.MyClassloader.main(java.lang.String[])?instance@27.15:27.23CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java5 (=2Ÿ
+Ljl.usage.classloader.MyClassloader.main(java.lang.String[])?name@28.15:28.19CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2˜
+@jl.usage.classloader.MyClassloader.main(java.lang.String[])!args	PARAMETERI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java% ()2­
+Sjl.usage.classloader.MyClassloader.main(java.lang.String[])?classloader@22.22:22.33DECLARATIONI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (!2£
+Ijl.usage.classloader.MyClassloader.main(java.lang.String[])?c@23.17:23.18DECLARATIONI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2ª
+Pjl.usage.classloader.MyClassloader.main(java.lang.String[])?instance@27.15:27.23DECLARATIONI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2¦
+Ljl.usage.classloader.MyClassloader.main(java.lang.String[])?name@28.15:28.19DECLARATIONI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2^
+voidRETURN_TYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (ð
+Sjl.usage.classloader.MyClassloader.main(java.lang.String[])?classloader@22.22:22.33VARIABLEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (!"
+type MyClassloader*classloader2u
+"jl.usage.classloader.MyClassloaderTYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2§
+Tjl.usage.classloader.MyClassloader.MyClassloader(java.lang.String, java.lang.String)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java( (5Ê
+Ijl.usage.classloader.MyClassloader.main(java.lang.String[])?c@23.17:23.18VARIABLEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java ("
+type Class<?>*c2b
+java.lang.ClassTYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2„
+1java.lang.ClassLoader.loadClass(java.lang.String)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java! (*2¦
+Sjl.usage.classloader.MyClassloader.main(java.lang.String[])?classloader@22.22:22.33CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java ( ¸
+Pjl.usage.classloader.MyClassloader.main(java.lang.String[])?instance@27.15:27.23VARIABLEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java ("
+type Object*instance2c
+java.lang.ObjectTYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2p
+java.lang.Class.newInstance()CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java ('2œ
+Ijl.usage.classloader.MyClassloader.main(java.lang.String[])?c@23.17:23.18CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (±
+Ljl.usage.classloader.MyClassloader.main(java.lang.String[])?name@28.15:28.19VARIABLEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java ("
+type Object*name2c
+java.lang.ObjectTYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2™
+Fjava.lang.reflect.Method.invoke(java.lang.Object, java.lang.Object...)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java. (42®
+[java.lang.Class.getMethod(java.lang.String, java.lang.Class<? extends java.lang.Object>...)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (!2œ
+Ijl.usage.classloader.MyClassloader.main(java.lang.String[])?c@23.17:23.18CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (2£
+Pjl.usage.classloader.MyClassloader.main(java.lang.String[])?instance@27.15:27.23CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java5 (=…
+@jl.usage.classloader.MyClassloader.main(java.lang.String[])!args	PARAMETERI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java% ()*args2e
+java.lang.String[]TYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java ($È
+>jl.usage.classloader.MyClassloader.findClass(java.lang.String)METHODI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java$ $("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type Class<?>*	findClass2•
+Bjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java% %( 2˜
+Ejava.lang.ClassLoader.defineClass(java.lang.String, byte[], int, int)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java& &(2–
+Cjl.usage.classloader.MyClassloader.findClass(java.lang.String)!nameCALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java%! %(%2–
+Cjl.usage.classloader.MyClassloader.findClass(java.lang.String)!nameCALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java& &(2Ÿ
+Ljl.usage.classloader.MyClassloader.findClass(java.lang.String)?b@37.15:37.16CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java&! &("2Ÿ
+Ljl.usage.classloader.MyClassloader.findClass(java.lang.String)?b@37.15:37.16CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java&' &((2›
+Cjl.usage.classloader.MyClassloader.findClass(java.lang.String)!name	PARAMETERI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java$% $()2¦
+Ljl.usage.classloader.MyClassloader.findClass(java.lang.String)?b@37.15:37.16DECLARATIONI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java% %(2i
+java.lang.ClassRETURN_TYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java$ $(Ã
+Ljl.usage.classloader.MyClassloader.findClass(java.lang.String)?b@37.15:37.16VARIABLEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java% %("
+type byte[]*b2Y
+byte[]TYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java% %(2•
+Bjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java% %( 2–
+Cjl.usage.classloader.MyClassloader.findClass(java.lang.String)!nameCALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java%! %(%†
+Cjl.usage.classloader.MyClassloader.findClass(java.lang.String)!name	PARAMETERI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java$% $()*name2c
+java.lang.StringTYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java$ $($ì
+Bjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)METHODI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java) )( "
+staticfalse"
+finalfalse"
+access modifierprivate"
+type byte[]*loadClassData2m
+java.io.InputStream.read()CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java/ /(2{
+(java.io.ByteArrayOutputStream.write(int)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java0 0(2~
++java.io.ByteArrayOutputStream.toByteArray()CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java2 2("2x
+%java.lang.Throwable.printStackTrace()CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java4 4(2ˆ
+5java.io.FileInputStream.FileInputStream(java.io.File)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java," ,(12v
+#java.io.File.File(java.lang.String)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java,6 ,(:2ˆ
+5java.io.ByteArrayOutputStream.ByteArrayOutputStream()CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java-- -(B2š
+Gjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)!nameCALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java* *(2†
+3jl.usage.classloader.MyClassloader?path@12.25:12.29CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java* *(2š
+Gjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)!nameCALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java* *(2š
+Gjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)!nameCALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java,; ,(?2£
+Pjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)?i@46.16:46.17CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java/ /(2¤
+Qjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)?in@44.25:44.27CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java/ /(2¥
+Rjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)?out@45.35:45.38CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java0 0(2£
+Pjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)?i@46.16:46.17CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java0 0(2¥
+Rjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)?out@45.35:45.38CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java2 2(2£
+Pjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)?e@51.27:51.28CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java4 4(2Ÿ
+Gjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)!name	PARAMETERI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java)( )(,2«
+Qjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)?in@44.25:44.27DECLARATIONI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java, ,(2¬
+Rjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)?out@45.35:45.38DECLARATIONI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java-# -(&2ª
+Pjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)?i@46.16:46.17DECLARATIONI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java. .(2ª
+Pjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)?e@51.27:51.28DECLARATIONI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java3 3(2`
+byte[]RETURN_TYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java) )(Ê
+Qjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)?in@44.25:44.27VARIABLEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java, ,("
+type InputStream*in2f
+java.io.InputStreamTYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java, ,(2ˆ
+5java.io.FileInputStream.FileInputStream(java.io.File)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java," ,(12v
+#java.io.File.File(java.lang.String)CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java,6 ,(:2š
+Gjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)!nameCALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java,; ,(?Ë
+Rjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)?out@45.35:45.38VARIABLEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java-# -(&"
+type ByteArrayOutputStream*out2p
+java.io.ByteArrayOutputStreamTYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java- -("2ˆ
+5java.io.ByteArrayOutputStream.ByteArrayOutputStream()CALLI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java-- -(B
+Pjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)?i@46.16:46.17VARIABLEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java. .("
+type int*i2V
+intTYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java. .(Š
+Gjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)!name	PARAMETERI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java)( )(,*name2c
+java.lang.StringTYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java)! )('’
+Pjl.usage.classloader.MyClassloader.loadClassData(java.lang.String)?e@51.27:51.28VARIABLEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java3 3(*e2f
+java.lang.ExceptionTYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java3 3(ƒ
+3jl.usage.classloader.MyClassloader?path@12.25:12.29VALUEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java ("
+type String*path2c
+java.lang.StringTYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (™
+>jl.usage.classloader.MyClassloader?classloaderName@13.25:13.40VALUEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (("
+type String*classloaderName2c
+java.lang.StringTYPEI
+?knowledge/src/main/java/jl/usage/classloader/MyClassloader.java (

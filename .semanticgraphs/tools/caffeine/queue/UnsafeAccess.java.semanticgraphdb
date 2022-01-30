@@ -1,0 +1,166 @@
+
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java„
+!tools.caffeine.queue.UnsafeAccessCLASSH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java ("
+inner classfalse*UnsafeAccess2‰
+0tools.caffeine.queue.UnsafeAccess.UnsafeAccess()DECLARATIONH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java. .(2²
+Ytools.caffeine.queue.UnsafeAccess.objectFieldOffset(java.lang.Class<?>, java.lang.String)DECLARATIONH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java8 8((2£
+Jtools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)DECLARATIONH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java@ @(2
+4tools.caffeine.queue.UnsafeAccess?UNSAFE@34.31:34.37DECLARATIONH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java" "(%2Ž
+5tools.caffeine.queue.UnsafeAccess?ANDROID@35.24:35.31DECLARATIONH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java# #(2
+6tools.caffeine.queue.UnsafeAccess?OPEN_JDK@36.24:36.32DECLARATIONH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java$ $( 2œ
+Jtools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java( ((2Ž
+<java.lang.Error.Error(java.lang.String, java.lang.Throwable)CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java* *(2†
+4tools.caffeine.queue.UnsafeAccess?UNSAFE@34.31:34.37CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java( ((2ˆ
+6tools.caffeine.queue.UnsafeAccess?OPEN_JDK@36.24:36.32CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java( (("2‡
+5tools.caffeine.queue.UnsafeAccess?ANDROID@35.24:35.31CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java($ ((+2
+/tools.caffeine.queue.UnsafeAccess?e@41.27:41.28CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java*> *(?“
+0tools.caffeine.queue.UnsafeAccess.UnsafeAccess()CONSTRUCTORH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java. .(*UnsafeAccess2z
+!tools.caffeine.queue.UnsafeAccessRETURN_TYPEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java. .(Ø
+Ytools.caffeine.queue.UnsafeAccess.objectFieldOffset(java.lang.Class<?>, java.lang.String)METHODH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java8 8(("
+statictrue"
+finalfalse"
+access modifierpublic"
+type long*objectFieldOffset2„
+2java.lang.Class.getDeclaredField(java.lang.String)CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java:2 :(B2|
+*java.lang.Error.Error(java.lang.Throwable)CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java< <(2†
+4tools.caffeine.queue.UnsafeAccess?UNSAFE@34.31:34.37CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java: :(2±
+_tools.caffeine.queue.UnsafeAccess.objectFieldOffset(java.lang.Class<?>, java.lang.String)!clazzCALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java:, :(12µ
+ctools.caffeine.queue.UnsafeAccess.objectFieldOffset(java.lang.Class<?>, java.lang.String)!fieldNameCALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java:C :(L2¹
+gtools.caffeine.queue.UnsafeAccess.objectFieldOffset(java.lang.Class<?>, java.lang.String)?e@59.58:59.59CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java< <(2¶
+_tools.caffeine.queue.UnsafeAccess.objectFieldOffset(java.lang.Class<?>, java.lang.String)!clazz	PARAMETERH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java82 8(72º
+ctools.caffeine.queue.UnsafeAccess.objectFieldOffset(java.lang.Class<?>, java.lang.String)!fieldName	PARAMETERH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java8@ 8(I2À
+gtools.caffeine.queue.UnsafeAccess.objectFieldOffset(java.lang.Class<?>, java.lang.String)?e@59.58:59.59DECLARATIONH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java;: ;(;2]
+longRETURN_TYPEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java8 8( 
+_tools.caffeine.queue.UnsafeAccess.objectFieldOffset(java.lang.Class<?>, java.lang.String)!clazz	PARAMETERH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java82 8(7*clazz2a
+java.lang.ClassTYPEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java8) 8(.©
+ctools.caffeine.queue.UnsafeAccess.objectFieldOffset(java.lang.Class<?>, java.lang.String)!fieldName	PARAMETERH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java8@ 8(I*	fieldName2b
+java.lang.StringTYPEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java89 8(?Ñ
+gtools.caffeine.queue.UnsafeAccess.objectFieldOffset(java.lang.Class<?>, java.lang.String)?e@59.58:59.59VARIABLEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java;: ;(;*e2Ž
+<java.lang.NoSuchFieldException | java.lang.SecurityExceptionTYPEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java; ;(9…
+Jtools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)METHODH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java@ @("
+statictrue"
+finalfalse""
+access modifierpackage_private"
+type Unsafe*load2„
+2java.lang.Class.getDeclaredField(java.lang.String)CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaE! E(12„
+2java.lang.Class.getDeclaredField(java.lang.String)CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaI% I(52¨
+Vjava.lang.Class.getDeclaredConstructor(java.lang.Class<? extends java.lang.Object>...)CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaLE L([2†
+4java.lang.reflect.Constructor.setAccessible(boolean)CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaM" M(/2
+>java.lang.reflect.Constructor.newInstance(java.lang.Object...)CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaN) N(42€
+.java.lang.reflect.Field.setAccessible(boolean)CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaQ Q(2
+-java.lang.reflect.Field.get(java.lang.Object)CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaR R(!2®
+\tools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)?field@66.14:66.19CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaE E(2¤
+Rtools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)!openJdkCALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaE2 E(92®
+\tools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)?field@66.14:66.19CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaI I(2¤
+Rtools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)!androidCALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaI6 I(=2º
+htools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)?unsafeConstructor@76.36:76.53CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaM M(!2º
+htools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)?unsafeConstructor@76.36:76.53CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaN N((2®
+\tools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)?field@66.14:66.19CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaQ Q(2®
+\tools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)?field@66.14:66.19CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaR R(2©
+Rtools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)!openJdk	PARAMETERH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java@ @(%2©
+Rtools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)!android	PARAMETERH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java@. @(52µ
+\tools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)?field@66.14:66.19DECLARATIONH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaB B(2Á
+htools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)?unsafeConstructor@76.36:76.53DECLARATIONH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaL$ L(52±
+Xtools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)?e@70.38:70.39DECLARATIONH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaF& F('2²
+Ytools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)?e2@74.42:74.44DECLARATIONH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaJ* J(,2h
+sun.misc.UnsafeRETURN_TYPEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java@ @(´
+\tools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)?field@66.14:66.19VARIABLEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaB B("
+type Field*field2i
+java.lang.reflect.FieldTYPEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaB B(÷
+htools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)?unsafeConstructor@76.36:76.53VARIABLEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaL$ L(5"
+type Constructor<Unsafe>*unsafeConstructor2o
+java.lang.reflect.ConstructorTYPEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaL L(2j
+sun.misc.UnsafeTYPE_ARGUMENTH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaL L("2¨
+Vjava.lang.Class.getDeclaredConstructor(java.lang.Class<? extends java.lang.Object>...)CALLH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaLE L([–
+Rtools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)!openJdk	PARAMETERH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java@ @(%*openJdk2b
+java.lang.StringTYPEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java@ @(–
+Rtools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)!android	PARAMETERH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java@. @(5*android2b
+java.lang.StringTYPEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java@' @(-£
+Xtools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)?e@70.38:70.39VARIABLEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaF& F('*e2p
+java.lang.NoSuchFieldExceptionTYPEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaF F(%¥
+Ytools.caffeine.queue.UnsafeAccess.load(java.lang.String, java.lang.String)?e2@74.42:74.44VARIABLEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaJ* J(,*e22p
+java.lang.NoSuchFieldExceptionTYPEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.javaJ J()ƒ
+4tools.caffeine.queue.UnsafeAccess?UNSAFE@34.31:34.37VALUEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java" "(%"
+type Unsafe*UNSAFE2a
+sun.misc.UnsafeTYPEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java" "(†
+5tools.caffeine.queue.UnsafeAccess?ANDROID@35.24:35.31VALUEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java# #("
+type String*ANDROID2b
+java.lang.StringTYPEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java# #(ˆ
+6tools.caffeine.queue.UnsafeAccess?OPEN_JDK@36.24:36.32VALUEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java$ $( "
+type String*OPEN_JDK2b
+java.lang.StringTYPEH
+>knowledge/src/main/java/tools/caffeine/queue/UnsafeAccess.java$ $(

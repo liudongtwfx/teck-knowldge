@@ -1,0 +1,51 @@
+
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java×
+4design.pattern.behaviour.strategy.WebLeaningStrategyCLASS`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java ("
+inner classfalse*WebLeaningStrategy2Ê
+Ydesign.pattern.behaviour.strategy.WebLeaningStrategy.WebLeaningStrategy(java.lang.String)DECLARATION`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java (2­
+<design.pattern.behaviour.strategy.WebLeaningStrategy.learn()DECLARATION`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java (2³
+Bdesign.pattern.behaviour.strategy.WebLeaningStrategy?log@7.32:7.35DECLARATION`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java  (#2·
+Fdesign.pattern.behaviour.strategy.WebLeaningStrategy?website@9.25:9.32DECLARATION`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java	 	( 2ž
+2design.pattern.behaviour.strategy.LearningStrategyEXTEND`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java+ (;Ú
+Ydesign.pattern.behaviour.strategy.WebLeaningStrategy.WebLeaningStrategy(java.lang.String)CONSTRUCTOR`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java (*WebLeaningStrategy2Ë
+adesign.pattern.behaviour.strategy.WebLeaningStrategy.WebLeaningStrategy(java.lang.String)!websiteCALL`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java (2°
+Fdesign.pattern.behaviour.strategy.WebLeaningStrategy?website@9.25:9.32CALL`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java (2Ð
+adesign.pattern.behaviour.strategy.WebLeaningStrategy.WebLeaningStrategy(java.lang.String)!website	PARAMETER`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java% (,2¥
+4design.pattern.behaviour.strategy.WebLeaningStrategyRETURN_TYPE`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java (Õ
+adesign.pattern.behaviour.strategy.WebLeaningStrategy.WebLeaningStrategy(java.lang.String)!website	PARAMETER`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java% (,*website2z
+java.lang.StringTYPE`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java ($Ó
+<design.pattern.behaviour.strategy.WebLeaningStrategy.learn()METHOD`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*learn2¬
+Bdesign.pattern.behaviour.strategy.WebLeaningStrategy?log@7.32:7.35CALL`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java (2°
+Fdesign.pattern.behaviour.strategy.WebLeaningStrategy?website@9.25:9.32CALL`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java- (42u
+voidRETURN_TYPE`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java (¿
+Bdesign.pattern.behaviour.strategy.WebLeaningStrategy?log@7.32:7.35VALUE`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java  (#"
+type Logger*log2z
+org.slf4j.LoggerTYPE`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java (Ç
+Fdesign.pattern.behaviour.strategy.WebLeaningStrategy?website@9.25:9.32VALUE`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java	 	( "
+type String*website2z
+java.lang.StringTYPE`
+Vdesign-pattern/src/main/java/design/pattern/behaviour/strategy/WebLeaningStrategy.java	 	(

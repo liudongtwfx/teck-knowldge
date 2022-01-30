@@ -1,0 +1,211 @@
+
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java‡
+7algorithme.dp.NumberOfSetsOfKNonOverlappingLineSegmentsCLASS^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (6"
+inner classfalse*)NumberOfSetsOfKNonOverlappingLineSegments2¿
+Palgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.main(java.lang.String[])DECLARATION^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2¯
+@algorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.bridge()DECLARATION^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java	 	(2¯
+@algorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.SolutionDECLARATION^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java
+ (½
+Palgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.main(java.lang.String[])METHOD^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2¨
+@algorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.bridge()CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java8 (>2Ë
+calgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.NumberOfSetsOfKNonOverlappingLineSegments()CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (52Â
+Ualgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.main(java.lang.String[])!args	PARAMETER^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java% ()2s
+voidRETURN_TYPE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (Ä
+Ualgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.main(java.lang.String[])!args	PARAMETER^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java% ()*args2z
+java.lang.String[]TYPE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java ($“
+@algorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.bridge()METHOD^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java	 	("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2Œ
+$java.lang.System.currentTimeMillis()CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (-2ˆ
+ java.io.PrintStream.println(int)CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2¿
+Walgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java* (62‰
+!java.io.PrintStream.println(long)CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Œ
+$java.lang.System.currentTimeMillis()CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java" (32³
+Kalgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.Solution()CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java ('2¶
+Nalgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.bridge()?n@10.12:10.13CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java7 (82¶
+Nalgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.bridge()?k@11.12:11.13CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java: (;2º
+Ralgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.bridge()?start@12.13:12.18CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java8 (=2½
+Nalgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.bridge()?n@10.12:10.13DECLARATION^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java
+ 
+(2½
+Nalgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.bridge()?k@11.12:11.13DECLARATION^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Á
+Ralgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.bridge()?start@12.13:12.18DECLARATION^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2s
+voidRETURN_TYPE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java	 	(¸
+Nalgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.bridge()?n@10.12:10.13VARIABLE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java
+ 
+("
+type int*n2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java
+ 
+(¸
+Nalgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.bridge()?k@11.12:11.13VARIABLE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java ("
+type int*k2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (Ñ
+Ralgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.bridge()?start@12.13:12.18VARIABLE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java ("
+type long*start2l
+longTYPE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Œ
+$java.lang.System.currentTimeMillis()CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (-‘
+@algorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.SolutionCLASS^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java
+ ("
+inner classtrue*Solution2Æ
+Walgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)DECLARATION^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (¡8
+Walgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)METHOD^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*numberOfSets2‰
+!java.util.Arrays.fill(int[], int)CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Á
+Yalgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)!nCALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java ( 2Î
+falgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?dp@20.18:20.20CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Í
+ealgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?i@23.21:23.22CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Á
+Yalgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)!kCALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java! ("2Í
+ealgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?i@23.21:23.22CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java$ (%2Î
+falgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?dp@20.18:20.20CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Î
+falgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?dp@20.18:20.20CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Í
+ealgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?j@26.25:26.26CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java  (!2Á
+Yalgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)!nCALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java$ (%2Í
+ealgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?j@26.25:26.26CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java' ((2Î
+falgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?dp@20.18:20.20CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (!2Í
+ealgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?j@26.25:26.26CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java" (#2Î
+falgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?dp@20.18:20.20CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Í
+ealgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?j@26.25:26.26CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Ï
+galgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?sum@24.20:24.23CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java ( 2Î
+falgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?dp@20.18:20.20CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java# (%2Í
+ealgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?j@26.25:26.26CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java& ('2Ï
+galgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?mod@22.16:22.19CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java0 (32Ï
+galgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?sum@24.20:24.23CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Ï
+galgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?sum@24.20:24.23CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Ð
+halgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?prev@27.24:27.28CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java! (%2Ï
+galgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?mod@22.16:22.19CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java) (,2Î
+falgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?dp@20.18:20.20CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java   (2Á
+Yalgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)!nCALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java   (2Æ
+Yalgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)!n	PARAMETER^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java$ (%2Æ
+Yalgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)!k	PARAMETER^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java+ (,2Õ
+falgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?dp@20.18:20.20DECLARATION^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Ö
+galgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?mod@22.16:22.19DECLARATION^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Ô
+ealgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?i@23.21:23.22DECLARATION^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Ö
+galgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?sum@24.20:24.23DECLARATION^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Ô
+ealgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?j@26.25:26.26DECLARATION^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2×
+halgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?prev@27.24:27.28DECLARATION^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2r
+intRETURN_TYPE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (™
+falgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?dp@20.18:20.20VARIABLE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java ("
+type int[]*dp2m
+int[]TYPE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Á
+Yalgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)!nCALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java ( Ó
+galgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?mod@22.16:22.19VARIABLE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java ("
+type int*mod2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (Ï
+ealgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?i@23.21:23.22VARIABLE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java ("
+type int*i2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (¤
+galgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?sum@24.20:24.23VARIABLE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java ("
+type int*sum2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Î
+falgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?dp@20.18:20.20CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (Ï
+ealgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?j@26.25:26.26VARIABLE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java ("
+type int*j2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (ö
+halgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?prev@27.24:27.28VARIABLE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java ("
+type int*prev2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (2Î
+falgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?dp@20.18:20.20CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java (!2Í
+ealgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)?j@26.25:26.26CALL^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java" (#¶
+Yalgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)!n	PARAMETER^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java$ (%*n2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java  (#¶
+Yalgorithme.dp.NumberOfSetsOfKNonOverlappingLineSegments.Solution.numberOfSets(int, int)!k	PARAMETER^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java+ (,*k2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/dp/NumberOfSetsOfKNonOverlappingLineSegments.java' (*

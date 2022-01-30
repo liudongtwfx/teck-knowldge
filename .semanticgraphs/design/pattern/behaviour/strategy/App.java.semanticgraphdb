@@ -1,0 +1,168 @@
+
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java¾
+%design.pattern.behaviour.strategy.AppCLASSQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java ("
+inner classfalse*App2 
+>design.pattern.behaviour.strategy.App.main(java.lang.String[])DECLARATIONQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (2å
+‚design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)DECLARATIONQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java$ (72”
+2design.pattern.behaviour.strategy.App.LeaningToolsDECLARATIONQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java	 (€
+>design.pattern.behaviour.strategy.App.main(java.lang.String[])METHODQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2Ş
+‚design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)CALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java, (?2•
+:design.pattern.behaviour.strategy.LearningStrategy.learn()CALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (2¶
+[design.pattern.behaviour.strategy.App.main(java.lang.String[])?learningStrategy@13.25:13.41CALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (2’
+7design.pattern.behaviour.strategy.App.LeaningTools?BOOKCALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.javaM (Q2£
+Cdesign.pattern.behaviour.strategy.App.main(java.lang.String[])!args	PARAMETERQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java% ()2½
+[design.pattern.behaviour.strategy.App.main(java.lang.String[])?learningStrategy@13.25:13.41DECLARATIONQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java ()2f
+voidRETURN_TYPEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (í
+[design.pattern.behaviour.strategy.App.main(java.lang.String[])?learningStrategy@13.25:13.41VARIABLEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java ()"
+type LearningStrategy*learningStrategy2
+2design.pattern.behaviour.strategy.LearningStrategyTYPEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (2Ş
+‚design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)CALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java, (?2’
+7design.pattern.behaviour.strategy.App.LeaningTools?BOOKCALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.javaM (Q˜
+Cdesign.pattern.behaviour.strategy.App.main(java.lang.String[])!args	PARAMETERQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java% ()*args2m
+java.lang.String[]TYPEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java ($À)
+‚design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)METHODQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java$ (7"
+statictrue"
+finalfalse"
+access modifierprivate"
+type LearningStrategy*getLearningStrategy2v
+java.lang.Object.getClass()CALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java' (/2™
+>java.lang.reflect.Constructor.newInstance(java.lang.Object...)CALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.javaI (T2©
+Njava.lang.Class.getConstructor(java.lang.Class<? extends java.lang.Object>...)CALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java/ (=2£
+Hdesign.pattern.behaviour.strategy.App.LeaningTools.getLearningStrategy()CALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (,2›
+@java.lang.RuntimeException.RuntimeException(java.lang.Throwable)CALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (&2ã
+‡design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)!argsCALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java- (12ì
+design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)?i@20.21:20.22CALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (2ã
+‡design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)!argsCALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java  ($2ì
+design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)?i@20.21:20.22CALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java- (.2ô
+˜design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)?argsCLazz@19.23:19.32CALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (2ì
+design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)?i@20.21:20.22CALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (2ã
+‡design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)!argsCALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (#2ì
+design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)?i@20.21:20.22CALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java$ (%2ä
+ˆdesign.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)!toolsCALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (2ô
+˜design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)?argsCLazz@19.23:19.32CALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java> (G2ã
+‡design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)!argsCALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.javaU (Y2ì
+design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)?e@24.27:24.28CALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java' ((2é
+ˆdesign.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)!tools	PARAMETERQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.javaE (J2è
+‡design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)!args	PARAMETERQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.javaV (Z2û
+˜design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)?argsCLazz@19.23:19.32DECLARATIONQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java ( 2ó
+design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)?i@20.21:20.22DECLARATIONQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (2ó
+design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)?e@24.27:24.28DECLARATIONQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (2”
+2design.pattern.behaviour.strategy.LearningStrategyRETURN_TYPEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (#ï
+˜design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)?argsCLazz@19.23:19.32VARIABLEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java ( "
+type 
+Class<?>[]*	argsCLazz2o
+java.lang.Class<?>[]TYPEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (2ã
+‡design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)!argsCALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java- (1á
+design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)?i@20.21:20.22VARIABLEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java ("
+type int*i2^
+intTYPEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (€
+ˆdesign.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)!tools	PARAMETERQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.javaE (J*tools2
+2design.pattern.behaviour.strategy.App.LeaningToolsTYPEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java8 (Dİ
+‡design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)!args	PARAMETERQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.javaV (Z*args2m
+java.lang.Object[]TYPEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.javaL (Rã
+design.pattern.behaviour.strategy.App.getLearningStrategy(design.pattern.behaviour.strategy.App.LeaningTools, java.lang.Object...)?e@24.27:24.28VARIABLEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (*e2n
+java.lang.ExceptionTYPEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (ª
+2design.pattern.behaviour.strategy.App.LeaningToolsENUMQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java	 (*LeaningTools2ñ
+design.pattern.behaviour.strategy.App.LeaningTools.LeaningTools(java.lang.Class<? extends design.pattern.behaviour.strategy.LearningStrategy>)DECLARATIONQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java" "(2ª
+Hdesign.pattern.behaviour.strategy.App.LeaningTools.getLearningStrategy()DECLARATIONQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java&1 &(D2±
+Odesign.pattern.behaviour.strategy.App.LeaningTools?learningStrategy@32.56:32.72DECLARATIONQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java 8  (H2™
+7design.pattern.behaviour.strategy.App.LeaningTools?BOOKDECLARATIONQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java (2›
+9design.pattern.behaviour.strategy.App.LeaningTools?WBSITEDECLARATIONQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java% (+§
+7design.pattern.behaviour.strategy.App.LeaningTools?BOOKVALUEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java ("
+enumtrue*BOOK«
+9design.pattern.behaviour.strategy.App.LeaningTools?WBSITEVALUEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java% (+"
+enumtrue*WBSITEÄ
+design.pattern.behaviour.strategy.App.LeaningTools.LeaningTools(java.lang.Class<? extends design.pattern.behaviour.strategy.LearningStrategy>)CONSTRUCTORQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java" "(*LeaningTools2û
+Ÿdesign.pattern.behaviour.strategy.App.LeaningTools.LeaningTools(java.lang.Class<? extends design.pattern.behaviour.strategy.LearningStrategy>)!learningStrategyCALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java#$ #(42ª
+Odesign.pattern.behaviour.strategy.App.LeaningTools?learningStrategy@32.56:32.72CALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java# #(!2€
+Ÿdesign.pattern.behaviour.strategy.App.LeaningTools.LeaningTools(java.lang.Class<? extends design.pattern.behaviour.strategy.LearningStrategy>)!learningStrategy	PARAMETERQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java"7 "(G2”
+2design.pattern.behaviour.strategy.App.LeaningToolsRETURN_TYPEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java" "(ş
+Ÿdesign.pattern.behaviour.strategy.App.LeaningTools.LeaningTools(java.lang.Class<? extends design.pattern.behaviour.strategy.LearningStrategy>)!learningStrategy	PARAMETERQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java"7 "(G*learningStrategy2j
+java.lang.ClassTYPEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java" "(Â
+Hdesign.pattern.behaviour.strategy.App.LeaningTools.getLearningStrategy()METHODQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java&1 &(D"
+staticfalse"
+finalfalse"
+access modifierpublic"*
+type !Class<? extends LearningStrategy>*getLearningStrategy2ª
+Odesign.pattern.behaviour.strategy.App.LeaningTools?learningStrategy@32.56:32.72CALLQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java' '(#2q
+java.lang.ClassRETURN_TYPEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java& &(Õ
+Odesign.pattern.behaviour.strategy.App.LeaningTools?learningStrategy@32.56:32.72VALUEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java 8  (H"*
+type !Class<? extends LearningStrategy>*learningStrategy2j
+java.lang.ClassTYPEQ
+Gdesign-pattern/src/main/java/design/pattern/behaviour/strategy/App.java   (

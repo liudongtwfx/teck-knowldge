@@ -1,0 +1,57 @@
+
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java∞
+1design.pattern.behaviour.strategy.ReadingStrategyCLASS]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java ("
+inner classfalse*ReadingStrategy2¡
+Sdesign.pattern.behaviour.strategy.ReadingStrategy.ReadingStrategy(java.lang.String)DECLARATION]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java (2ß
+9design.pattern.behaviour.strategy.ReadingStrategy.learn()DECLARATION]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java (2Ø
+Adesign.pattern.behaviour.strategy.ReadingStrategy?books@9.31:9.36DECLARATION]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java	 	($2Ø
+Adesign.pattern.behaviour.strategy.ReadingStrategy?log@11.32:11.35DECLARATION]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java  (#2õ
+2design.pattern.behaviour.strategy.LearningStrategyEXTEND]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java( (8∏
+Sdesign.pattern.behaviour.strategy.ReadingStrategy.ReadingStrategy(java.lang.String)CONSTRUCTOR]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java (*ReadingStrategy2ç
+&java.util.Collections.singletonList(T)CALL]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java! (.2ø
+Xdesign.pattern.behaviour.strategy.ReadingStrategy.ReadingStrategy(java.lang.String)!bookCALL]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java/ (32®
+Adesign.pattern.behaviour.strategy.ReadingStrategy?books@9.31:9.36CALL]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java (2ƒ
+Xdesign.pattern.behaviour.strategy.ReadingStrategy.ReadingStrategy(java.lang.String)!book	PARAMETER]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java" (&2ü
+1design.pattern.behaviour.strategy.ReadingStrategyRETURN_TYPE]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java (√
+Xdesign.pattern.behaviour.strategy.ReadingStrategy.ReadingStrategy(java.lang.String)!book	PARAMETER]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java" (&*book2w
+java.lang.StringTYPE]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java (!ã
+9design.pattern.behaviour.strategy.ReadingStrategy.learn()METHOD]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*learn2 
+cjava.lang.String.join(java.lang.CharSequence, java.lang.Iterable<? extends java.lang.CharSequence>)CALL]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java1 (52®
+Adesign.pattern.behaviour.strategy.ReadingStrategy?log@11.32:11.35CALL]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java (2®
+Adesign.pattern.behaviour.strategy.ReadingStrategy?books@9.31:9.36CALL]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java; (@2r
+voidRETURN_TYPE]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java (¡
+Adesign.pattern.behaviour.strategy.ReadingStrategy?books@9.31:9.36VALUE]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java	 	($"
+type List<String>*books2u
+java.util.ListTYPE]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java	 	(2Ä
+java.lang.StringTYPE_ARGUMENT]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java	 	(∏
+Adesign.pattern.behaviour.strategy.ReadingStrategy?log@11.32:11.35VALUE]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java  (#"
+type Logger*log2w
+org.slf4j.LoggerTYPE]
+Sdesign-pattern/src/main/java/design/pattern/behaviour/strategy/ReadingStrategy.java (

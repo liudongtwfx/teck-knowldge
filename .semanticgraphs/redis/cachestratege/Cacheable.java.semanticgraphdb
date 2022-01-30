@@ -1,0 +1,28 @@
+
+:knowledge/src/main/java/redis/cachestratege/Cacheable.javaŒ
+redis.cachestratege.CacheableTRAITD
+:knowledge/src/main/java/redis/cachestratege/Cacheable.java ("
+inner classfalse*	Cacheable2
+:redis.cachestratege.Cacheable.invalidate(java.lang.String)DECLARATIOND
+:knowledge/src/main/java/redis/cachestratege/Cacheable.java	 (2r
+"redis.cachestratege.StorageOperateEXTENDD
+:knowledge/src/main/java/redis/cachestratege/Cacheable.java& (42w
+redis.cachestratege.Cacheable.TTYPE_PARAMETERD
+:knowledge/src/main/java/redis/cachestratege/Cacheable.java (Ù
+:redis.cachestratege.Cacheable.invalidate(java.lang.String)METHODD
+:knowledge/src/main/java/redis/cachestratege/Cacheable.java	 ("
+staticfalse"
+finalfalse""
+access modifierpackage_private"
+type void*
+invalidate2‘
+>redis.cachestratege.Cacheable.invalidate(java.lang.String)!key	PARAMETERD
+:knowledge/src/main/java/redis/cachestratege/Cacheable.java (2Y
+voidRETURN_TYPED
+:knowledge/src/main/java/redis/cachestratege/Cacheable.java (ö
+>redis.cachestratege.Cacheable.invalidate(java.lang.String)!key	PARAMETERD
+:knowledge/src/main/java/redis/cachestratege/Cacheable.java (*key2^
+java.lang.StringTYPED
+:knowledge/src/main/java/redis/cachestratege/Cacheable.java (z
+redis.cachestratege.Cacheable.TTYPE_PARAMETERD
+:knowledge/src/main/java/redis/cachestratege/Cacheable.java (*T

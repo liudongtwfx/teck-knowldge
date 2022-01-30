@@ -1,0 +1,411 @@
+
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java¥
+.algorithme.tree.NumberOfGoodLeafNodesPairs1530CLASSU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (+"
+inner classfalse*NumberOfGoodLeafNodesPairs15302≠
+Galgorithme.tree.NumberOfGoodLeafNodesPairs1530.main(java.util.String[])DECLARATIONU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2ù
+7algorithme.tree.NumberOfGoodLeafNodesPairs1530.bridge()DECLARATIONU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java	 	(2ù
+7algorithme.tree.NumberOfGoodLeafNodesPairs1530.SolutionDECLARATIONU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java
+ (·
+Galgorithme.tree.NumberOfGoodLeafNodesPairs1530.main(java.util.String[])METHODU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2ñ
+7algorithme.tree.NumberOfGoodLeafNodesPairs1530.bridge()CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java- (32Æ
+Oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.NumberOfGoodLeafNodesPairs1530()CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (*2∞
+Lalgorithme.tree.NumberOfGoodLeafNodesPairs1530.main(java.util.String[])!args	PARAMETERU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java% ()2j
+voidRETURN_TYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (©
+Lalgorithme.tree.NumberOfGoodLeafNodesPairs1530.main(java.util.String[])!args	PARAMETERU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java% ()*args2q
+java.util.String[]TYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java ($Å
+7algorithme.tree.NumberOfGoodLeafNodesPairs1530.bridge()METHODU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java	 	("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2¿
+aalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java* (42|
+algorithme.tree.Codec.Codec()CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java# ((2°
+Balgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.Solution()CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java ('2ß
+Halgorithme.tree.NumberOfGoodLeafNodesPairs1530.bridge()?data@10.15:10.19CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java7 (;2Æ
+Oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.bridge()?deserialize@11.17:11.28CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java5 (@2Æ
+Halgorithme.tree.NumberOfGoodLeafNodesPairs1530.bridge()?data@10.15:10.19DECLARATIONU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java
+ 
+(2µ
+Oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.bridge()?deserialize@11.17:11.28DECLARATIONU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2j
+voidRETURN_TYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java	 	(≥
+Halgorithme.tree.NumberOfGoodLeafNodesPairs1530.bridge()?data@10.15:10.19VARIABLEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java
+ 
+("
+type String*data2o
+java.util.StringTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java
+ 
+(Û
+Oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.bridge()?deserialize@11.17:11.28VARIABLEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java ("
+type TreeNode*deserialize2w
+algorithme.tree.TreeNodeTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2|
+algorithme.tree.Codec.Codec()CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java# ((2ß
+Halgorithme.tree.NumberOfGoodLeafNodesPairs1530.bridge()?data@10.15:10.19CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java7 (;ö
+7algorithme.tree.NumberOfGoodLeafNodesPairs1530.SolutionCLASSU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java
+ ("
+inner classtrue*Solution2«
+aalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)DECLARATIONU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2±
+ algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)DECLARATIONU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java! !(2„
+¸algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)DECLARATIONU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java, ,(Á5
+aalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)METHODU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*
+countPairs2‹
+¸algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2z
+java.util.HashMap.HashMap()CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java@ (I2~
+java.util.ArrayList.ArrayList()CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java+ (62~
+java.util.ArrayList.ArrayList()CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java6 (A2≈
+falgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)!rootCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2÷
+walgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?leafNodes@18.27:18.36CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2‹
+}algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?nodeToParentMap@17.42:17.57CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java! (02Œ
+oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?i@21.21:21.22CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2÷
+walgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?leafNodes@18.27:18.36CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java  ()2Œ
+oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?i@21.21:21.22CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java2 (32Œ
+oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?i@21.21:21.22CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2Œ
+oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?j@22.25:22.26CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java$ (%2÷
+walgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?leafNodes@18.27:18.36CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java( (12Œ
+oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?j@22.25:22.26CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java: (;2‹
+}algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?nodeToParentMap@17.42:17.57CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java( (72÷
+walgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?leafNodes@18.27:18.36CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java9 (B2Œ
+oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?i@21.21:21.22CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.javaG (H2÷
+walgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?leafNodes@18.27:18.36CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.javaK (T2Œ
+oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?j@22.25:22.26CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.javaY (Z2Œ
+oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?d@24.24:24.25CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2…
+jalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)!distanceCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (%2“
+salgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?count@20.16:20.21CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2“
+salgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?count@20.16:20.21CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2 
+falgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)!root	PARAMETERU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java' (+2Œ
+jalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)!distance	PARAMETERU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java1 (92„
+}algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?nodeToParentMap@17.42:17.57DECLARATIONU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java* (92›
+walgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?leafNodes@18.27:18.36DECLARATIONU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java ($2Ÿ
+salgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?count@20.16:20.21DECLARATIONU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2’
+oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?i@21.21:21.22DECLARATIONU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2’
+oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?j@22.25:22.26DECLARATIONU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2’
+oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?d@24.24:24.25DECLARATIONU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2i
+intRETURN_TYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (Ä
+}algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?nodeToParentMap@17.42:17.57VARIABLEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java* (9"%
+type Map<TreeNode,List<TreeNode>>*nodeToParentMap2l
+java.util.MapTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2Ä
+algorithme.tree.TreeNodeTYPE_ARGUMENTU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2v
+java.util.ListTYPE_ARGUMENTU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2Ä
+algorithme.tree.TreeNodeTYPE_ARGUMENTU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java ('2z
+java.util.HashMap.HashMap()CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java@ (I
+walgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?leafNodes@18.27:18.36VARIABLEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java ($"
+type List<TreeNode>*	leafNodes2m
+java.util.ListTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2Ä
+algorithme.tree.TreeNodeTYPE_ARGUMENTU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2~
+java.util.ArrayList.ArrayList()CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java+ (6œ
+salgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?count@20.16:20.21VARIABLEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java ("
+type int*count2b
+intTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java («
+oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?i@21.21:21.22VARIABLEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java ("
+type int*i2b
+intTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (ò
+oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?j@22.25:22.26VARIABLEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java ("
+type int*j2b
+intTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2Œ
+oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?i@21.21:21.22CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (˙
+
+oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?d@24.24:24.25VARIABLEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java ("
+type int*d2b
+intTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (2‹
+}algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?nodeToParentMap@17.42:17.57CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java( (72÷
+walgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?leafNodes@18.27:18.36CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java9 (B2Œ
+oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?i@21.21:21.22CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.javaG (H2÷
+walgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?leafNodes@18.27:18.36CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.javaK (T2Œ
+oalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)?j@22.25:22.26CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.javaY (Z…
+falgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)!root	PARAMETERU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java' (+*root2w
+algorithme.tree.TreeNodeTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java (&º
+jalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.countPairs(algorithme.tree.TreeNode, int)!distance	PARAMETERU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java1 (9*distance2b
+intTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java- (0É8
+ algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)METHODU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java! !("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type int*getDistance2∫
+⁄algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)!nodeToParentMapCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java") "(82¨
+Ãalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)!pCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java"= "(>2∫
+⁄algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)!nodeToParentMapCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java#) #(82¨
+Ãalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)!qCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java#= #(>2¬
+‚algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?parentListP@34.27:34.38CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java$ $(2¬
+‚algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?parentListQ@35.27:35.38CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java$0 $(;2¬
+‚algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?parentListP@34.27:34.38CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java% %(2∏
+ÿalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?i@36.16:36.17CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java%# %($2¬
+‚algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?parentListQ@35.27:35.38CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java%) %(42∏
+ÿalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?j@36.44:36.45CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java%9 %(:2∏
+ÿalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?i@36.16:36.17CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java& &(2∏
+ÿalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?j@36.44:36.45CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java' '(2∏
+ÿalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?i@36.16:36.17CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java) )(2∏
+ÿalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?j@36.44:36.45CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java) )(2ø
+⁄algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)!nodeToParentMap	PARAMETERU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java!> !(M2±
+Ãalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)!p	PARAMETERU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java!X !(Y2±
+Ãalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)!q	PARAMETERU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java!d !(e2…
+‚algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?parentListP@34.27:34.38DECLARATIONU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java" "(&2…
+‚algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?parentListQ@35.27:35.38DECLARATIONU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java# #(&2ø
+ÿalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?i@36.16:36.17DECLARATIONU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java$ $(2ø
+ÿalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?j@36.44:36.45DECLARATIONU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java$, $(-2i
+intRETURN_TYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java! !( 	
+‚algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?parentListP@34.27:34.38VARIABLEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java" "(&"
+type List<TreeNode>*parentListP2m
+java.util.ListTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java" "(2Ä
+algorithme.tree.TreeNodeTYPE_ARGUMENTU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java" "(2∫
+⁄algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)!nodeToParentMapCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java") "(82¨
+Ãalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)!pCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java"= "(> 	
+‚algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?parentListQ@35.27:35.38VARIABLEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java# #(&"
+type List<TreeNode>*parentListQ2m
+java.util.ListTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java# #(2Ä
+algorithme.tree.TreeNodeTYPE_ARGUMENTU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java# #(2∫
+⁄algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)!nodeToParentMapCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java#) #(82¨
+Ãalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)!qCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java#= #(>ˆ
+ÿalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?i@36.16:36.17VARIABLEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java$ $("
+type int*i2b
+intTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java$ $(2¬
+‚algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?parentListP@34.27:34.38CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java$ $(ˆ
+ÿalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?j@36.44:36.45VARIABLEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java$, $(-"
+type int*j2b
+intTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java$ $(2¬
+‚algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)?parentListQ@35.27:35.38CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java$0 $(;º
+⁄algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)!nodeToParentMap	PARAMETERU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java!> !(M*nodeToParentMap2l
+java.util.MapTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java!  !(#2Ä
+algorithme.tree.TreeNodeTYPE_ARGUMENTU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java!$ !(,2v
+java.util.ListTYPE_ARGUMENTU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java!. !(22Ä
+algorithme.tree.TreeNodeTYPE_ARGUMENTU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java!3 !(;≠
+Ãalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)!p	PARAMETERU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java!X !(Y*p2w
+algorithme.tree.TreeNodeTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java!O !(W≠
+Ãalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.getDistance(java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, algorithme.tree.TreeNode, algorithme.tree.TreeNode)!q	PARAMETERU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java!d !(e*q2w
+algorithme.tree.TreeNodeTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java![ !(cïP
+¸algorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)METHODU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java, ,("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*dfs2¢
+Cjava.util.Collections.unmodifiableList(java.util.List<? extends T>)CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java46 4(F2ü
+@java.util.ArrayList.ArrayList(java.util.Collection<? extends E>)CALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java3. 3(92·
+Åalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!nodeCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java- -(2Á
+áalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!parentListCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java0 0(2·
+Åalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!nodeCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java0 0("2·
+Åalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!nodeCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java1 1(2·
+Åalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!nodeCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java1% 1()2Ê
+Üalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!leafNodesCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java2 2(2·
+Åalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!nodeCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java2 2("2Ï
+åalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!nodeToParentMapCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java3 3(2·
+Åalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!nodeCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java3$ 3((2Á
+áalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!parentListCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java3: 3(D2Ï
+åalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!nodeToParentMapCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java4 4(2·
+Åalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!nodeCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java4$ 4((2Á
+áalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!parentListCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java4G 4(Q2·
+Åalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!nodeCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java6 6(2Ê
+Üalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!leafNodesCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java6 6($2Ï
+åalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!nodeToParentMapCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java6& 6(52Á
+áalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!parentListCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java67 6(A2·
+Åalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!nodeCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java7 7(2Ê
+Üalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!leafNodesCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java7 7(%2Ï
+åalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!nodeToParentMapCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java7' 7(62Á
+áalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!parentListCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java78 7(B2Á
+áalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!parentListCALLU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java8 8(2Ê
+Åalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!node	PARAMETERU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java," ,(&2Î
+Üalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!leafNodes	PARAMETERU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java,7 ,(@2Ò
+åalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!nodeToParentMap	PARAMETERU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java,` ,(o2Ó
+áalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!parentList	PARAMETERW
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java,Ä ,(ä2j
+voidRETURN_TYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java, ,(Â
+Åalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!node	PARAMETERU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java," ,(&*node2w
+algorithme.tree.TreeNodeTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java, ,(!Ë
+Üalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!leafNodes	PARAMETERU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java,7 ,(@*	leafNodes2m
+java.util.ListTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java,( ,(,2Ä
+algorithme.tree.TreeNodeTYPE_ARGUMENTU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java,- ,(5Ó
+åalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!nodeToParentMap	PARAMETERU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java,` ,(o*nodeToParentMap2l
+java.util.MapTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java,B ,(E2Ä
+algorithme.tree.TreeNodeTYPE_ARGUMENTU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java,F ,(N2v
+java.util.ListTYPE_ARGUMENTU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java,P ,(T2Ä
+algorithme.tree.TreeNodeTYPE_ARGUMENTU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java,U ,(]Ï
+áalgorithme.tree.NumberOfGoodLeafNodesPairs1530.Solution.dfs(algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>, java.util.Map<algorithme.tree.TreeNode, java.util.List<algorithme.tree.TreeNode>>, java.util.List<algorithme.tree.TreeNode>)!parentList	PARAMETERW
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java,Ä ,(ä*
+parentList2m
+java.util.ListTYPEU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java,q ,(u2Ä
+algorithme.tree.TreeNodeTYPE_ARGUMENTU
+Kalgorithm/src/main/java/algorithme/tree/NumberOfGoodLeafNodesPairs1530.java,v ,(~

@@ -1,0 +1,90 @@
+
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.javaè
+,algorithme.design.IteratorForCombination1286CLASSS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java ('"
+inner classfalse*IteratorForCombination12862©
+Ealgorithme.design.IteratorForCombination1286.main(java.lang.String[])DECLARATIONS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java (2§
+@algorithme.design.IteratorForCombination1286.CombinationIteratorDECLARATIONS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java
+ (ç
+Ealgorithme.design.IteratorForCombination1286.main(java.lang.String[])METHODS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2¨
+Jalgorithme.design.IteratorForCombination1286.main(java.lang.String[])!args	PARAMETERS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java% ()2h
+voidRETURN_TYPES
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java (£
+Jalgorithme.design.IteratorForCombination1286.main(java.lang.String[])!args	PARAMETERS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java% ()*args2o
+java.lang.String[]TYPES
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java ($¯
+@algorithme.design.IteratorForCombination1286.CombinationIteratorCLASSS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java
+ ("
+inner classtrue*CombinationIterator2œ
+kalgorithme.design.IteratorForCombination1286.CombinationIterator.CombinationIterator(java.lang.String, int)DECLARATIONS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java ("2´
+Galgorithme.design.IteratorForCombination1286.CombinationIterator.next()DECLARATIONS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java (2Æ
+Jalgorithme.design.IteratorForCombination1286.CombinationIterator.hasNext()DECLARATIONS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java (2π
+Ualgorithme.design.IteratorForCombination1286.CombinationIterator?characters@8.23:8.33DECLARATIONS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java (!2¿
+\algorithme.design.IteratorForCombination1286.CombinationIterator?combinationLength@9.20:9.37DECLARATIONS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java	 	(%Ï
+kalgorithme.design.IteratorForCombination1286.CombinationIterator.CombinationIterator(java.lang.String, int)CONSTRUCTORS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java ("*CombinationIterator2”
+valgorithme.design.IteratorForCombination1286.CombinationIterator.CombinationIterator(java.lang.String, int)!charactersCALLS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java ((2⁄
+}algorithme.design.IteratorForCombination1286.CombinationIterator.CombinationIterator(java.lang.String, int)!combinationLengthCALLS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java% (62≤
+Ualgorithme.design.IteratorForCombination1286.CombinationIterator?characters@8.23:8.33CALLS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java (2π
+\algorithme.design.IteratorForCombination1286.CombinationIterator?combinationLength@9.20:9.37CALLS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java ("2ÿ
+valgorithme.design.IteratorForCombination1286.CombinationIterator.CombinationIterator(java.lang.String, int)!characters	PARAMETERS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java* (42ﬂ
+}algorithme.design.IteratorForCombination1286.CombinationIterator.CombinationIterator(java.lang.String, int)!combinationLength	PARAMETERS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java: (K2§
+@algorithme.design.IteratorForCombination1286.CombinationIteratorRETURN_TYPES
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java ("”
+valgorithme.design.IteratorForCombination1286.CombinationIterator.CombinationIterator(java.lang.String, int)!characters	PARAMETERS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java* (4*
+characters2m
+java.lang.StringTYPES
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java# ()‘
+}algorithme.design.IteratorForCombination1286.CombinationIterator.CombinationIterator(java.lang.String, int)!combinationLength	PARAMETERS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java: (K*combinationLength2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java6 (9Ô
+Galgorithme.design.IteratorForCombination1286.CombinationIterator.next()METHODS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*next2t
+java.lang.StringRETURN_TYPES
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java (Ì
+Jalgorithme.design.IteratorForCombination1286.CombinationIterator.hasNext()METHODS
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type boolean*hasNext2k
+booleanRETURN_TYPES
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java (¬
+Ualgorithme.design.IteratorForCombination1286.CombinationIterator?characters@8.23:8.33VARIABLES
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java (!"
+type String*
+characters2m
+java.lang.StringTYPES
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java (¿
+\algorithme.design.IteratorForCombination1286.CombinationIterator?combinationLength@9.20:9.37VARIABLES
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java	 	(%"
+type int*combinationLength2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/design/IteratorForCombination1286.java	 	(

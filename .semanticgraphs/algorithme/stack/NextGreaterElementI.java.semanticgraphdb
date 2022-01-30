@@ -1,0 +1,184 @@
+
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.javaÍ
+$algorithme.stack.NextGreaterElementICLASSK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java ( "
+inner classfalse*NextGreaterElementI2™
+=algorithme.stack.NextGreaterElementI.main(java.lang.String[])DECLARATIONK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2‰
+-algorithme.stack.NextGreaterElementI.SolutionDECLARATIONK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java
+ (å
+=algorithme.stack.NextGreaterElementI.main(java.lang.String[])METHODK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2œ
+Balgorithme.stack.NextGreaterElementI.main(java.lang.String[])!args	PARAMETERK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java% ()2`
+voidRETURN_TYPEK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (‹
+Balgorithme.stack.NextGreaterElementI.main(java.lang.String[])!args	PARAMETERK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java% ()*args2g
+java.lang.String[]TYPEK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java ($Ï
+-algorithme.stack.NextGreaterElementI.SolutionCLASSK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java
+ ("
+inner classtrue*Solution2ª
+Nalgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])DECLARATIONK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java ('²=
+Nalgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])METHODK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java ('"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int[]*nextGreaterElement2s
+java.util.Collection.isEmpty()CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java ($2n
+java.util.Deque.getLast()CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java( (/2q
+java.util.Deque.removeLast()CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java ('2l
+java.util.Map.put(K, V)CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java ( 2s
+java.util.Collection.isEmpty()CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java0 (72n
+java.util.Deque.getLast()CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.javaF (M2o
+java.util.Deque.addLast(E)CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2x
+#java.util.Map.get(java.lang.Object)CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java& ()2p
+java.util.HashMap.HashMap()CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java5 (>2v
+!java.util.ArrayDeque.ArrayDeque()CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java& (22©
+Talgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])!nums2CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2±
+\algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?i@16.21:16.22CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java+ (,2±
+\algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?i@16.21:16.22CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java3 (42´
+_algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?nums@15.27:15.31CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2´
+_algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?nums@15.27:15.31CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java# ('2´
+_algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?last@18.28:18.32CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2©
+Talgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])!nums2CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java ($2±
+\algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?i@16.21:16.22CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java% (&2´
+_algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?nums@15.27:15.31CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2¼
+galgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?nextIndexMap@14.34:14.46CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2©
+Talgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])!nums2CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java! (&2±
+\algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?i@16.21:16.22CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java' ((2´
+_algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?nums@15.27:15.31CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java+ (/2´
+_algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?nums@15.27:15.31CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.javaA (E2´
+_algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?nums@15.27:15.31CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2©
+Talgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])!nums2CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java ("2±
+\algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?i@16.21:16.22CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java# ($2©
+Talgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])!nums1CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java  (%2±
+\algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?i@29.21:29.22CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2©
+Talgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])!nums1CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java  (%2±
+\algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?i@29.21:29.22CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java. (/2³
+^algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?ans@28.18:28.21CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2±
+\algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?i@29.21:29.22CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2¼
+galgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?nextIndexMap@14.34:14.46CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (%2©
+Talgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])!nums1CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java* (/2±
+\algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?i@29.21:29.22CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java0 (12³
+^algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?ans@28.18:28.21CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java   (2®
+Talgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])!nums1	PARAMETERK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java. (32®
+Talgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])!nums2	PARAMETERK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java; (@2Ã
+galgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?nextIndexMap@14.34:14.46DECLARATIONK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java" (.2»
+_algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?nums@15.27:15.31DECLARATIONK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2¸
+\algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?i@16.21:16.22DECLARATIONK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2»
+_algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?last@18.28:18.32DECLARATIONK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java ( 2º
+^algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?ans@28.18:28.21DECLARATIONK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2¸
+\algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?i@29.21:29.22DECLARATIONK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2a
+int[]RETURN_TYPEK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (¥
+galgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?nextIndexMap@14.34:14.46VARIABLEK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java" (."
+type Map<Integer,Integer>*nextIndexMap2b
+java.util.MapTYPEK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2o
+java.lang.IntegerTYPE_ARGUMENTK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2o
+java.lang.IntegerTYPE_ARGUMENTK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java ( 2p
+java.util.HashMap.HashMap()CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java5 (>¦
+_algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?nums@15.27:15.31VARIABLEK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java ("
+type Deque<Integer>*nums2d
+java.util.DequeTYPEK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2o
+java.lang.IntegerTYPE_ARGUMENTK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2v
+!java.util.ArrayDeque.ArrayDeque()CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java& (2Ì
+\algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?i@16.21:16.22VARIABLEK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java ("
+type int*i2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2©
+Talgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])!nums2CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (ß
+_algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?last@18.28:18.32VARIABLEK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java ( "
+type Integer*last2f
+java.lang.IntegerTYPEK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2n
+java.util.Deque.getLast()CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java( (/2´
+_algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?nums@15.27:15.31CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java# ('Ô
+^algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?ans@28.18:28.21VARIABLEK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java ("
+type int[]*ans2Z
+int[]TYPEK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (2©
+Talgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])!nums1CALLK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java  (% 
+\algorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])?i@29.21:29.22VARIABLEK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java ("
+type int*i2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java (‘
+Talgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])!nums1	PARAMETERK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java. (3*nums12Z
+int[]TYPEK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java( (-‘
+Talgorithme.stack.NextGreaterElementI.Solution.nextGreaterElement(int[], int[])!nums2	PARAMETERK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java; (@*nums22Z
+int[]TYPEK
+Aalgorithm/src/main/java/algorithme/stack/NextGreaterElementI.java5 (:

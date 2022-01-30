@@ -1,0 +1,80 @@
+
+<knowledge/src/main/java/jl/multithread/LockStateExample.java±
+jl.multithread.LockStateExampleCLASSF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java ("
+inner classfalse*LockStateExample2
+8jl.multithread.LockStateExample.main(java.lang.String[])DECLARATIONF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java (2„
+-jl.multithread.LockStateExample.lightWeight()DECLARATIONF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java (#Ë
+8jl.multithread.LockStateExample.main(java.lang.String[])METHODF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2}
+-jl.multithread.LockStateExample.lightWeight()CALLF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java (2’
+=jl.multithread.LockStateExample.main(java.lang.String[])!args	PARAMETERF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java% ()2[
+voidRETURN_TYPEF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java (ü
+=jl.multithread.LockStateExample.main(java.lang.String[])!args	PARAMETERF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java% ()*args2b
+java.lang.String[]TYPEF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java ($¶
+-jl.multithread.LockStateExample.lightWeight()METHODF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java (#"
+statictrue"
+finalfalse"
+access modifierprivate"
+type void*lightWeight2h
+java.lang.Thread.start()CALLF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java- (22h
+java.lang.Thread.start()CALLF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java	- 	(22{
++java.lang.Thread.Thread(java.lang.Runnable)CALLF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java (2—
+Gjl.multithread.LockStateExample.LightExampleRunner.LightExampleRunner()CALLF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java ()2{
++java.lang.Thread.Thread(java.lang.Runnable)CALLF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java	 	(2—
+Gjl.multithread.LockStateExample.LightExampleRunner.LightExampleRunner()CALLF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java	 	()2[
+voidRETURN_TYPEF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java (à
+2jl.multithread.LockStateExample.LightExampleRunnerCLASSF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java (#"
+inner classfalse*LightExampleRunner2
+8jl.multithread.LockStateExample.LightExampleRunner.run()DECLARATIONF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java (2š
+Cjl.multithread.LockStateExample.LightExampleRunner?LOCK@13.36:13.40DECLARATIONF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java$ ((2›
+Djl.multithread.LockStateExample.LightExampleRunner?count@14.19:14.24DECLARATIONF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java (2d
+java.lang.RunnableEXTENDF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java/ (7ä
+8jl.multithread.LockStateExample.LightExampleRunner.run()METHODF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*run2“
+Cjl.multithread.LockStateExample.LightExampleRunner?LOCK@13.36:13.40CALLF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java (2”
+Djl.multithread.LockStateExample.LightExampleRunner?count@14.19:14.24CALLF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java (2[
+voidRETURN_TYPEF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java (ø
+Cjl.multithread.LockStateExample.LightExampleRunner?LOCK@13.36:13.40VALUEF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java$ (("
+type Object*LOCK2`
+java.lang.ObjectTYPEF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java (#2i
+java.lang.Object.Object()CALLF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java/ (5‚
+Djl.multithread.LockStateExample.LightExampleRunner?count@14.19:14.24VARIABLEF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java ("
+type int*count2S
+intTYPEF
+<knowledge/src/main/java/jl/multithread/LockStateExample.java (

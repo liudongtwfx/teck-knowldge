@@ -1,0 +1,42 @@
+
+
+World.java¯
+WorldCLASS
+
+World.java("
+inner classfalse*World29
+World.main(String[])DECLARATION
+
+World.java (25
+World.toString()DECLARATION
+
+World.java	 	(í
+World.main(String[])METHOD
+
+World.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2<
+World.main(String[])!args	PARAMETER
+
+World.java% ()2)
+voidRETURN_TYPE
+
+World.java (j
+World.main(String[])!args	PARAMETER
+
+World.java% ()*args2&
+String[]TYPE
+
+World.java ($´
+World.toString()METHOD
+
+World.java	 	("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*toString2+
+StringRETURN_TYPE
+
+World.java	 	(

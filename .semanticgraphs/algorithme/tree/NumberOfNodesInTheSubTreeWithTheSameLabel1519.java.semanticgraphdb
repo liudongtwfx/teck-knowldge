@@ -1,0 +1,480 @@
+
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.javaÇ
+=algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519CLASSd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (:"
+inner classfalse*-NumberOfNodesInTheSubTreeWithTheSameLabel15192À
+Valgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.main(java.lang.String[])DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2ª
+Falgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.bridge()DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2ª
+Falgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.SolutionDECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java
+ (2ƒ
+Oalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNodeDECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java: :(˜
+Valgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.main(java.lang.String[])METHODd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2¥
+Falgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.bridge()CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java< (B2€
+malgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.NumberOfNodesInTheSubTreeWithTheSameLabel1519()CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (92Œ
+[algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.main(java.lang.String[])!args	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java% ()2y
+voidRETURN_TYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (◊
+[algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.main(java.lang.String[])!args	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java% ()*args2Ä
+java.lang.String[]TYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java ($†
+Falgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.bridge()METHODd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2õ
+-java.io.PrintStream.println(java.lang.String)CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2é
+ java.util.Arrays.toString(int[])CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java" (*2‚
+talgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java: (G2ø
+Qalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.Solution()CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java/ (72¬
+Talgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.bridge()?n@12.12:12.13CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.javaH (I2∆
+Xalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.bridge()?edges@13.16:13.21CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.javaK (P2«
+Yalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.bridge()?labels@14.15:14.21CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.javaR (X2…
+Talgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.bridge()?n@12.12:12.13DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2Õ
+Xalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.bridge()?edges@13.16:13.21DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2Œ
+Yalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.bridge()?labels@14.15:14.21DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2y
+voidRETURN_TYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java ( 
+Talgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.bridge()?n@12.12:12.13VARIABLEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java ("
+type int*n2q
+intTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (⁄
+Xalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.bridge()?edges@13.16:13.21VARIABLEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java ("
+type int[][]*edges2u
+int[][]TYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (‰
+Yalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.bridge()?labels@14.15:14.21VARIABLEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java ("
+type String*labels2~
+java.lang.StringTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (ä	
+Falgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.SolutionCLASSd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java
+ ("
+inner classtrue*Solution2È
+talgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java ("2ò
+¢algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2Â
+palgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java) )("2ƒ
+Oalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNodeDECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java: :(Ä
+talgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)METHODd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (""
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int[]*countSubTrees2ﬁ
+palgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (%2ë
+¢algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2‰
+valgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)!nCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java& ('2Ë
+zalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)!edgesCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java) (.2È
+{algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)!labelsCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java0 (62‰
+valgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)!nCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java  (!2Ù
+Öalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)?root@20.21:20.25CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2Û
+Ñalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)?ans@21.18:21.21CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2Û
+Ñalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)?ans@21.18:21.21CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2È
+valgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)!n	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java' ((2Ì
+zalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)!edges	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java2 (72Ó
+{algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)!labels	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java@ (F2˚
+Öalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)?root@20.21:20.25DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2˙
+Ñalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)?ans@21.18:21.21DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2z
+int[]RETURN_TYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (
+
+Öalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)?root@20.21:20.25VARIABLEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java ("
+type TreeNode*root2Ω
+Oalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNodeTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2ﬁ
+palgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (%2‰
+valgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)!nCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java& ('2Ë
+zalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)!edgesCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java) (.2È
+{algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)!labelsCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java0 (6Ë
+Ñalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)?ans@21.18:21.21VARIABLEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java ("
+type int[]*ans2s
+int[]TYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2‰
+valgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)!nCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java  (!ﬂ
+valgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)!n	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java' ((*n2q
+intTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java# (&Î
+zalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)!edges	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java2 (7*edges2u
+int[][]TYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java* (/ˆ
+{algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.countSubTrees(int, int[][], java.lang.String)!labels	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java@ (F*labels2~
+java.lang.StringTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java9 (?çC
+¢algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])METHODd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type int[]*dfs2ë
+¢algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (!2ñ
+ßalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])!nodeCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2ñ
+ßalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])!nodeCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java" (&2£
+¥algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?child@29.26:29.31CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java" ('2ï
+¶algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])!ansCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java) (,2ü
+∞algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?i@31.25:31.26CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java  (!2£
+¥algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?count@30.22:30.27CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java$ ()2ü
+∞algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?i@31.25:31.26CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java2 (32™
+ªalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?newCharCount@28.18:28.30CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java   ( 2ü
+∞algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?i@31.25:31.26CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java !  ("2£
+¥algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?count@30.22:30.27CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java '  (,2ü
+∞algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?i@31.25:31.26CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java -  (.2™
+ªalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?newCharCount@28.18:28.30CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java# #(2ñ
+ßalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])!nodeCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java# #(2ï
+¶algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])!ansCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java% %(2ñ
+ßalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])!nodeCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java% %(2™
+ªalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?newCharCount@28.18:28.30CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java% %(*2ñ
+ßalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])!nodeCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java%+ %(/2™
+ªalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?newCharCount@28.18:28.30CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java& &(2“
+dalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode?children@60.41:60.49CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java' (/2œ
+aalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode?label@61.31:61.36CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java# #(#2œ
+aalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode?index@59.30:59.35CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java% %(2œ
+aalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode?label@61.31:61.36CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java%0 %(52õ
+ßalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])!node	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java# ('2ö
+¶algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])!ans	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java/ (22±
+ªalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?newCharCount@28.18:28.30DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2™
+¥algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?child@29.26:29.31DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2™
+¥algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?count@30.22:30.27DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2¶
+∞algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?i@31.25:31.26DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2z
+int[]RETURN_TYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (¡
+ªalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?newCharCount@28.18:28.30VARIABLEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java ("
+type int[]*newCharCount2s
+int[]TYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (Å
+¥algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?child@29.26:29.31VARIABLEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java ("
+type TreeNode*child2Ω
+Oalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNodeTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (Ö
+
+¥algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?count@30.22:30.27VARIABLEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java ("
+type int[]*count2s
+int[]TYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (2ë
+¢algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (!2£
+¥algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?child@29.26:29.31CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java" ('2ï
+¶algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])!ansCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java) (,ß
+∞algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])?i@31.25:31.26VARIABLEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java ("
+type int*i2q
+intTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java (·
+ßalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])!node	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java# ('*node2Ω
+Oalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNodeTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java ("î
+¶algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.dfs(algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode, int[])!ans	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java/ (2*ans2s
+int[]TYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java) (.ÄS
+palgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)METHODd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java) )(""
+staticfalse"
+finalfalse"
+access modifierprivate"
+type TreeNode*	buildTree2ä
+java.lang.String.charAt(int)CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java-E -(K2É
+java.util.List.add(E)CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java3% 3((2≥
+ƒalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode.TreeNode(int, java.util.List<algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode>, char)CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java- -('2ç
+java.util.ArrayList.ArrayList()CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java-/ -(:2‡
+ralgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)!nCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java*, *(-2‡
+ralgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)!nCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java+, +(-2Ï
+~algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?i@44.21:44.22CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java, ,(2‡
+ralgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)!nCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java,  ,(!2Ï
+~algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?i@44.21:44.22CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java,# ,($2Ò
+Çalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?nodes@42.23:42.28CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java- -(2Ï
+~algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?i@44.21:44.22CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java- -(2Ï
+~algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?i@44.21:44.22CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java-( -()2Â
+walgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)!labelsCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java-> -(D2Ï
+~algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?i@44.21:44.22CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java-L -(M2Û
+Ñalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?visited@43.22:43.29CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java/ /(2‰
+valgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)!edgesCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java0 0(#2Û
+Ñalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?visited@43.22:43.29CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java1 1("2
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?edge@48.23:48.27CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java1# 1('2
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?edge@48.23:48.27CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java1. 1(22
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?edge@48.23:48.27CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java18 1(<2
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?from@49.20:49.24CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java2 2(2
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?edge@48.23:48.27CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java2! 2(%2
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?edge@48.23:48.27CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java2+ 2(/2
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?edge@48.23:48.27CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java25 2(92Ò
+Çalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?nodes@42.23:42.28CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java3 3(2
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?from@49.20:49.24CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java3 3(2Ò
+Çalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?nodes@42.23:42.28CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java3) 3(.2Ì
+algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?to@50.20:50.22CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java3/ 3(12Û
+Ñalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?visited@43.22:43.29CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java4 4(2
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?from@49.20:49.24CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java4 4(2Û
+Ñalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?visited@43.22:43.29CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java5 5(2Ì
+algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?to@50.20:50.22CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java5 5(2Ò
+Çalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?nodes@42.23:42.28CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java7 7(2“
+dalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode?children@60.41:60.49CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java3 3($2Â
+ralgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)!n	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java)' )((2È
+valgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)!edges	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java)2 )(72Í
+walgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)!labels	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java)@ )(F2¯
+Çalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?nodes@42.23:42.28DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java* *(2˙
+Ñalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?visited@43.22:43.29DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java+ +(2Û
+~algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?i@44.21:44.22DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java, ,(2˜
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?edge@48.23:48.27DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java0 0(2˜
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?from@49.20:49.24DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java1 1(2Ù
+algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?to@50.20:50.22DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java2 2(2ƒ
+Oalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNodeRETURN_TYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java) )(∂
+Çalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?nodes@42.23:42.28VARIABLEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java* *("
+type 
+TreeNode[]*nodes2ø
+Qalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode[]TYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java* *(2‡
+ralgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)!nCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java*, *(-
+Ñalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?visited@43.22:43.29VARIABLEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java+ +("
+type 	boolean[]*visited2w
+	boolean[]TYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java+ +(2‡
+ralgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)!nCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java+, +(-Ù
+~algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?i@44.21:44.22VARIABLEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java, ,("
+type int*i2q
+intTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java, ,(ˇ
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?edge@48.23:48.27VARIABLEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java0 0("
+type int[]*edge2s
+int[]TYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java0 0( 
+
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?from@49.20:49.24VARIABLEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java1 1("
+type int*from2q
+intTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java1 1(2Û
+Ñalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?visited@43.22:43.29CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java1 1("2
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?edge@48.23:48.27CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java1# 1('2
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?edge@48.23:48.27CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java1. 1(22
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?edge@48.23:48.27CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java18 1(<¬
+
+algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?to@50.20:50.22VARIABLEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java2 2("
+type int*to2q
+intTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java2 2(2
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?from@49.20:49.24CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java2 2(2
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?edge@48.23:48.27CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java2! 2(%2
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?edge@48.23:48.27CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java2+ 2(/2
+Åalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)?edge@48.23:48.27CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java25 2(9€
+ralgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)!n	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java)' )((*n2q
+intTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java)# )(&Á
+valgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)!edges	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java)2 )(7*edges2u
+int[][]TYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java)* )(/Ú
+walgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.buildTree(int, int[][], java.lang.String)!labels	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java)@ )(F*labels2~
+java.lang.StringTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java)9 )(?®	
+Oalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNodeCLASSd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java: :("
+inner classtrue*TreeNode2∫
+ƒalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode.TreeNode(int, java.util.List<algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode>, char)DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java? ?(2÷
+aalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode?index@59.30:59.35DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java; ;(#2Ÿ
+dalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode?children@60.41:60.49DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java<) <(12÷
+aalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode?label@61.31:61.36DECLARATIONd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java= =($Å
+ƒalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode.TreeNode(int, java.util.List<algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode>, char)CONSTRUCTORd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java? ?(*TreeNode2π
+ algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode.TreeNode(int, java.util.List<algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode>, char)!indexCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java@ @("2º
+Õalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode.TreeNode(int, java.util.List<algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode>, char)!childrenCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.javaA  A((2π
+ algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode.TreeNode(int, java.util.List<algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode>, char)!labelCALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.javaB B("2œ
+aalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode?index@59.30:59.35CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java@ @(2“
+dalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode?children@60.41:60.49CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.javaA A(2œ
+aalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode?label@61.31:61.36CALLd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.javaB B(2æ
+ algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode.TreeNode(int, java.util.List<algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode>, char)!index	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java?  ?(%2¡
+Õalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode.TreeNode(int, java.util.List<algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode>, char)!children	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java?6 ?(>2æ
+ algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode.TreeNode(int, java.util.List<algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode>, char)!label	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java?E ?(J2ƒ
+Oalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNodeRETURN_TYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java? ?(∏
+ algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode.TreeNode(int, java.util.List<algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode>, char)!index	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java?  ?(%*index2q
+intTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java? ?(í
+Õalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode.TreeNode(int, java.util.List<algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode>, char)!children	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java?6 ?(>*children2|
+java.util.ListTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java?' ?(+2∆
+Oalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNodeTYPE_ARGUMENTd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java?, ?(4π
+ algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode.TreeNode(int, java.util.List<algorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode>, char)!label	PARAMETERd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java?E ?(J*label2r
+charTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java?@ ?(Dÿ
+aalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode?index@59.30:59.35VALUEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java; ;(#"
+type int*index2q
+intTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java; ;(Ω
+dalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode?children@60.41:60.49VALUEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java<) <(1"
+type List<TreeNode>*children2|
+java.util.ListTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java< <(2∆
+Oalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNodeTYPE_ARGUMENTd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java< <('⁄
+aalgorithme.tree.NumberOfNodesInTheSubTreeWithTheSameLabel1519.Solution.TreeNode?label@61.31:61.36VALUEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java= =($"
+type char*label2r
+charTYPEd
+Zalgorithm/src/main/java/algorithme/tree/NumberOfNodesInTheSubTreeWithTheSameLabel1519.java= =(

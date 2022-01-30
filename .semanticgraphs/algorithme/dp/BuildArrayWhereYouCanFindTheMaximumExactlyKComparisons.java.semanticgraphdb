@@ -1,0 +1,267 @@
+
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.javaü
+Dalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisonsCLASSk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (C"
+inner classfalse*6BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons2Ù
+]algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.main(java.lang.String[])DECLARATIONk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2É
+Malgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.bridge()DECLARATIONk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2É
+Malgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.SolutionDECLARATIONk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java
+ (À
+]algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.main(java.lang.String[])METHODk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2Â
+Malgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.bridge()CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.javaE (K2ò
+}algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons()CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (B2Ü
+balgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.main(java.lang.String[])!args	PARAMETERk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java% ()2€
+voidRETURN_TYPEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (ì
+balgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.main(java.lang.String[])!args	PARAMETERk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java% ()*args2‡
+java.lang.String[]TYPEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java ($›
+Malgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.bridge()METHODk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2Ý
+halgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java! (,2•
+ java.io.PrintStream.println(int)CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2Í
+Xalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.Solution()CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2Ð
+[algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.bridge()?n@12.12:12.13CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java- (.2Ð
+[algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.bridge()?m@12.19:12.20CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java0 (12Ð
+[algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.bridge()?k@12.26:12.27CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java3 (42Ò
+]algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.bridge()?ans@13.12:13.15CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2×
+[algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.bridge()?n@12.12:12.13DECLARATIONk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2×
+[algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.bridge()?m@12.19:12.20DECLARATIONk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2×
+[algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.bridge()?k@12.26:12.27DECLARATIONk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2Ù
+]algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.bridge()?ans@13.12:13.15DECLARATIONk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2€
+voidRETURN_TYPEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (ß
+[algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.bridge()?n@12.12:12.13VARIABLEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java ("
+type int*n2x
+intTYPEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (ß
+[algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.bridge()?m@12.19:12.20VARIABLEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java ("
+type int*m2x
+intTYPEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (ß
+[algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.bridge()?k@12.26:12.27VARIABLEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java ("
+type int*k2x
+intTYPEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (Œ
+]algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.bridge()?ans@13.12:13.15VARIABLEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java ("
+type int*ans2x
+intTYPEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2Ý
+halgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java! (,2Í
+Xalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.Solution()CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2Ð
+[algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.bridge()?n@12.12:12.13CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java- (.2Ð
+[algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.bridge()?m@12.19:12.20CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java0 (12Ð
+[algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.bridge()?k@12.26:12.27CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java3 (4¦
+Malgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.SolutionCLASSk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java
+ ("
+inner classtrue*Solution2ä
+halgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)DECLARATIONk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2Ú
+^algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution?MODE@18.26:18.30DECLARATIONk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (¯f
+halgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)METHODk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*numOfArrays2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!mCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!kCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!mCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!kCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!nCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java# ($2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!mCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java* (+2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!kCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java1 (22ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?i@28.21:28.22CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!mCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java! ("2ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?i@28.21:28.22CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java$ (%2ì
+walgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?dp@27.22:27.24CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?i@28.21:28.22CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?i@32.21:32.22CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java   (2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!nCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java !  ("2ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?i@32.21:32.22CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java $  (%2ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?j@33.25:33.26CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java!  !(!2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!mCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java!% !(&2ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?j@33.25:33.26CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java!( !()2ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?l@34.29:34.30CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java"$ "(%2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!kCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java") "(*2ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?l@34.29:34.30CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java", "(-2ì
+walgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?dp@27.22:27.24CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java# #(2ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?i@32.21:32.22CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java# #(2ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?j@33.25:33.26CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java# #(2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!kCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java#! #("2ì
+walgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?dp@27.22:27.24CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java#( #(*2ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?i@32.21:32.22CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java#+ #(,2ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?j@33.25:33.26CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java#2 #(32ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!kCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java#5 #(62ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?j@33.25:33.26CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java#; #(<2ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?o@36.33:36.34CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java$( $()2ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?j@33.25:33.26CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java$, $(-2ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?o@36.33:36.34CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java$/ $(02ì
+walgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?dp@27.22:27.24CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java% %(2ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?i@32.21:32.22CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java% %( 2ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?j@33.25:33.26CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java%" %(#2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!kCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java%% %(&2ì
+walgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?dp@27.22:27.24CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java%, %(.2ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?i@32.21:32.22CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java%/ %(02ë
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?o@36.33:36.34CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java%6 %(72ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!kCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java%9 %(:2ì
+walgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?dp@27.22:27.24CALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java* *(2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!nCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java* *(2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!mCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java* *(2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!kCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java* *(2ä
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!n	PARAMETERk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java# ($2ä
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!m	PARAMETERk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java* (+2ä
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!k	PARAMETERk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java1 (22ó
+walgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?dp@27.22:27.24DECLARATIONk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2ò
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?i@28.21:28.22DECLARATIONk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2ò
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?i@32.21:32.22DECLARATIONk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java   (2ò
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?j@33.25:33.26DECLARATIONk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java! !(2ò
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?l@34.29:34.30DECLARATIONk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java" "(2ò
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?o@36.33:36.34DECLARATIONk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java$! $("2
+intRETURN_TYPEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (®
+walgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?dp@27.22:27.24VARIABLEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java ("
+type 	int[][][]*dp2~
+	int[][][]TYPEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!nCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java# ($2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!mCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java* (+2ß
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!kCALLk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java1 (2ú
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?i@28.21:28.22VARIABLEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java ("
+type int*i2x
+intTYPEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (ú
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?i@32.21:32.22VARIABLEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java   ("
+type int*i2x
+intTYPEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java   (ú
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?j@33.25:33.26VARIABLEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java! !("
+type int*j2x
+intTYPEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java! !(ú
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?l@34.29:34.30VARIABLEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java" "("
+type int*l2x
+intTYPEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java" "(ú
+valgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)?o@36.33:36.34VARIABLEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java$! $(""
+type int*o2x
+intTYPEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java$ $( á
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!n	PARAMETERk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java# ($*n2x
+intTYPEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java ("á
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!m	PARAMETERk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java* (+*m2x
+intTYPEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java& ()á
+jalgorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution.numOfArrays(int, int, int)!k	PARAMETERk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java1 (2*k2x
+intTYPEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java- (0â
+^algorithme.dp.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.Solution?MODE@18.26:18.30VALUEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java ("
+type int*MODE2x
+intTYPEk
+aalgorithm/src/main/java/algorithme/dp/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java (

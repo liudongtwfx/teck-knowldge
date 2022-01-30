@@ -1,0 +1,97 @@
+
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java–
+jl.multithread.VolatileDemoCLASSB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java ("
+inner classfalse*VolatileDemo2‡
+4jl.multithread.VolatileDemo.main(java.lang.String[])DECLARATIONB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java (¥
+4jl.multithread.VolatileDemo.main(java.lang.String[])METHODB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2d
+java.lang.Thread.start()CALLB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java# ((2h
+java.lang.Thread.sleep(long)CALLB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java
+ 
+(2y
+-java.io.PrintStream.println(java.lang.Object)CALLB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java (2w
++java.lang.Thread.Thread(java.lang.Runnable)CALLB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java (2s
+'jl.multithread.VolatileDemo.Demo.Demo()CALLB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java (2Œ
+@jl.multithread.VolatileDemo.main(java.lang.String[])?i@6.17:6.18CALLB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java (2Œ
+@jl.multithread.VolatileDemo.main(java.lang.String[])?i@6.17:6.18CALLB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java" (#2~
+2jl.multithread.VolatileDemo.Demo?count@15.31:15.36CALLB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java  (%2Š
+9jl.multithread.VolatileDemo.main(java.lang.String[])!args	PARAMETERB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java% ()2“
+@jl.multithread.VolatileDemo.main(java.lang.String[])?i@6.17:6.18DECLARATIONB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java (2W
+voidRETURN_TYPEB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java (ò
+@jl.multithread.VolatileDemo.main(java.lang.String[])?i@6.17:6.18VARIABLEB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java ("
+type int*i2O
+intTYPEB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java (ð
+9jl.multithread.VolatileDemo.main(java.lang.String[])!args	PARAMETERB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java% ()*args2^
+java.lang.String[]TYPEB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java ($õ
+ jl.multithread.VolatileDemo.DemoCLASSB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java ("
+inner classfalse*Demo2y
+&jl.multithread.VolatileDemo.Demo.run()DECLARATIONB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java (2…
+2jl.multithread.VolatileDemo.Demo?count@15.31:15.36DECLARATIONB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java ($2„
+1jl.multithread.VolatileDemo.Demo?LOCK@17.36:17.40DECLARATIONB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java$ ((2`
+java.lang.RunnableEXTENDB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java) (1Ø	
+&jl.multithread.VolatileDemo.Demo.run()METHODB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*run2h
+java.lang.Thread.sleep(long)CALLB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java (2i
+java.util.Random.nextInt(int)CALLB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java* (12q
+%java.lang.Throwable.printStackTrace()CALLB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java (!2e
+java.util.Random.Random()CALLB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java! ('2€
+4jl.multithread.VolatileDemo.Demo.run()?e@23.42:23.43CALLB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java (2}
+1jl.multithread.VolatileDemo.Demo?LOCK@17.36:17.40CALLB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java (2~
+2jl.multithread.VolatileDemo.Demo?count@15.31:15.36CALLB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java (2‡
+4jl.multithread.VolatileDemo.Demo.run()?e@23.42:23.43DECLARATIONB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java* (+2W
+voidRETURN_TYPEB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java (ó
+4jl.multithread.VolatileDemo.Demo.run()?e@23.42:23.43VARIABLEB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java* (+*e2j
+java.lang.InterruptedExceptionTYPEB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java ()ú
+2jl.multithread.VolatileDemo.Demo?count@15.31:15.36VARIABLEB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java ($"
+type Integer*count2]
+java.lang.IntegerTYPEB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java (Ú
+1jl.multithread.VolatileDemo.Demo?LOCK@17.36:17.40VALUEB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java$ (("
+type Object*LOCK2\
+java.lang.ObjectTYPEB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java (#2e
+java.lang.Object.Object()CALLB
+8knowledge/src/main/java/jl/multithread/VolatileDemo.java/ (5

@@ -1,0 +1,423 @@
+
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java™
+5algorithme.sort.TheNumberOfTheSmallestUnoccupiedChairCLASS\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2"
+inner classfalse*%TheNumberOfTheSmallestUnoccupiedChair2ª
+Nalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.main(java.util.String[])DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2´
+>algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.bridge()DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java
+ 
+(2´
+>algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.SolutionDECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java
+ (2¥
+Galgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLaneDECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java5 5(ß
+Nalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.main(java.util.String[])METHOD\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2§
+>algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.bridge()CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java4 (:2√
+]algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.TheNumberOfTheSmallestUnoccupiedChair()CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (12æ
+Salgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.main(java.util.String[])!args	PARAMETER\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java% ()2q
+voidRETURN_TYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (æ
+Salgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.main(java.util.String[])!args	PARAMETER\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java% ()*args2x
+java.util.String[]TYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java ($‡
+>algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.bridge()METHOD\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java
+ 
+("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2¿
+Zalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java* (72Ø
+Ialgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.Solution()CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java ('2µ
+Oalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.bridge()?time@11.16:11.20CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java8 (<2Ω
+Walgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.bridge()?targetFriend@12.12:12.24CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java> (J2º
+Oalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.bridge()?time@11.16:11.20DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2ƒ
+Walgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.bridge()?targetFriend@12.12:12.24DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2q
+voidRETURN_TYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java
+ 
+(¿
+Oalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.bridge()?time@11.16:11.20VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java ("
+type int[][]*time2m
+int[][]TYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (»
+Walgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.bridge()?targetFriend@12.12:12.24VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java ("
+type int*targetFriend2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (≈
+>algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.SolutionCLASS\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java
+ ("
+inner classtrue*Solution2«
+Zalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java ( 2¥
+Galgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLaneDECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java5 5(»t
+Zalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)METHOD\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java ( "
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*smallestChair2ä
+$java.util.stream.Collectors.toList()CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java!^ !(d2Å
+java.util.HashMap.HashMap()CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java; (D2≈
+_algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane.TimeLane(int, int, int)CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java( (02Ö
+java.util.ArrayList.ArrayList()CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.javaU (`2Ö
+java.util.ArrayList.ArrayList()CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.javaV (a2ç
+'java.util.PriorityQueue.PriorityQueue()CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java% (42∆
+`algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)!timesCALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@20.21:20.22CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?n@18.16:18.17CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java  (!2Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@20.21:20.22CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java# ($2Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@20.21:20.22CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java1 (22∆
+`algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)!timesCALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java4 (92Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@20.21:20.22CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java: (;2∆
+`algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)!timesCALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.javaA (F2Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@20.21:20.22CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.javaG (H2ÿ
+ralgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLaneMap@19.41:19.52CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java+ (62∆
+`algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)!timesCALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.javaD (I2Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@20.21:20.22CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.javaJ (K2÷
+palgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLanes@22.31:22.40CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2’
+oalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLane@21.25:21.33CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (&2ÿ
+ralgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLaneMap@19.41:19.52CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2∆
+`algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)!timesCALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java  (%2Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@20.21:20.22CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java& ('2÷
+palgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLanes@22.31:22.40CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java- (62ÿ
+ralgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLaneMap@19.41:19.52CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java, (72∆
+`algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)!timesCALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.javaE (J2Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@20.21:20.22CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.javaK (L2◊
+qalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLanes1@25.31:25.41CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2’
+oalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLane@21.25:21.33CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java ('2ÿ
+ralgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLaneMap@19.41:19.52CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2∆
+`algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)!timesCALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java  (%2Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@20.21:20.22CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java& ('2◊
+qalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLanes1@25.31:25.41CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java- (72Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@30.21:30.22CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?n@18.16:18.17CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java  (!2Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@30.21:30.22CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java# ($2–
+jalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?tmp@29.27:29.30CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@30.21:30.22CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2ÿ
+ralgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLaneMap@19.41:19.52CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java!$ !(/2ÿ
+ralgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLaneMap@19.41:19.52CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java"+ "(62’
+oalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLane@33.25:33.33CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java"; "(C2÷
+palgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLanes@34.31:34.40CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java#% #(.2—
+kalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?lane@35.30:35.34CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java$ $(2’
+oalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLane@33.25:33.33CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java$* $(22–
+jalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?tmp@29.27:29.30CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java% %(2—
+kalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?lane@35.30:35.34CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java%  %($2÷
+palgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLanes@34.31:34.40CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java(% ((.2—
+kalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?lane@40.30:40.34CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java) )(2’
+oalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLane@33.25:33.33CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java)+ )(32–
+jalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?tmp@29.27:29.30CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java*  *(#2—
+kalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?lane@40.30:40.34CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java+ +( 2Õ
+galgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)!targetFriendCALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java+* +(62Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@42.28:42.29CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java,# ,($2—
+kalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?lane@40.30:40.34CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java. .(2Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@42.28:42.29CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java.) .(*2À
+`algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)!times	PARAMETER\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java) (.2“
+galgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)!targetFriend	PARAMETER\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java4 (@2’
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?n@18.16:18.17DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2ﬂ
+ralgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLaneMap@19.41:19.52DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java) (42’
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@20.21:20.22DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2‹
+oalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLane@21.25:21.33DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (!2›
+palgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLanes@22.31:22.40DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java ((2ﬁ
+qalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLanes1@25.31:25.41DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java ()2◊
+jalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?tmp@29.27:29.30DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2’
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@30.21:30.22DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2‹
+oalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLane@33.25:33.33DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java! !(!2›
+palgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLanes@34.31:34.40DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java" "((2ÿ
+kalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?lane@35.30:35.34DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java# #("2ÿ
+kalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?lane@40.30:40.34DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java( (("2’
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@42.28:42.29DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java* *(2p
+intRETURN_TYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (ó
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?n@18.16:18.17VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java ("
+type int*n2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2∆
+`algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)!timesCALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (√
+ralgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLaneMap@19.41:19.52VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java) (4"$
+type Map<Integer,List<TimeLane>>*timeLaneMap2s
+java.util.MapTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2Ä
+java.util.IntegerTYPE_ARGUMENT\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2}
+java.util.ListTYPE_ARGUMENT\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2∂
+Galgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLaneTYPE_ARGUMENT\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (&2Å
+java.util.HashMap.HashMap()CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java; (DŒ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@20.21:20.22VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java ("
+type int*i2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (Û
+oalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLane@21.25:21.33VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (!"
+type TimeLane*timeLane2≠
+Galgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLaneTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2≈
+_algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane.TimeLane(int, int, int)CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java( (02Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@20.21:20.22CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java1 (22∆
+`algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)!timesCALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java4 (92Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@20.21:20.22CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java: (;2∆
+`algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)!timesCALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.javaA (F2Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@20.21:20.22CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.javaG (H™
+
+palgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLanes@22.31:22.40VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (("
+type List<TimeLane>*	timeLanes2t
+java.util.ListTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2∂
+Galgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLaneTYPE_ARGUMENT\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2Ö
+java.util.ArrayList.ArrayList()CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.javaU (`2ÿ
+ralgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLaneMap@19.41:19.52CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java+ (62∆
+`algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)!timesCALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.javaD (I2Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@20.21:20.22CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.javaJ (K¨
+
+qalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLanes1@25.31:25.41VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java ()"
+type List<TimeLane>*
+timeLanes12t
+java.util.ListTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2∂
+Galgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLaneTYPE_ARGUMENT\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2Ö
+java.util.ArrayList.ArrayList()CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.javaV (a2ÿ
+ralgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLaneMap@19.41:19.52CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java, (72∆
+`algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)!timesCALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.javaE (J2Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@20.21:20.22CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.javaK (L¸
+jalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?tmp@29.27:29.30VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java ("
+type Queue<Integer>*tmp2u
+java.util.QueueTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2Ä
+java.util.IntegerTYPE_ARGUMENT\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (2ç
+'java.util.PriorityQueue.PriorityQueue()CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java% (4Œ
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@30.21:30.22VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java ("
+type int*i2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java (Ó
+oalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLane@33.25:33.33VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java! !(!"
+type Integer*timeLane2w
+java.util.IntegerTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java! !(‡
+palgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLanes@34.31:34.40VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java" "(("
+type List<TimeLane>*	timeLanes2t
+java.util.ListTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java" "(2∂
+Galgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLaneTYPE_ARGUMENT\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java" "(2ÿ
+ralgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLaneMap@19.41:19.52CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java"+ "(62’
+oalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?timeLane@33.25:33.33CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java"; "(Cû
+kalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?lane@35.30:35.34VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java# #(""
+type TimeLane*lane2≠
+Galgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLaneTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java# #(û
+kalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?lane@40.30:40.34VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java( ((""
+type TimeLane*lane2≠
+Galgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLaneTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java( ((°
+halgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?i@42.28:42.29VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java* *("
+type int*i2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java* *(2–
+jalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)?tmp@29.27:29.30CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java*  *(#¡
+`algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)!times	PARAMETER\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java) (.*times2m
+int[][]TYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java! (&À
+galgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.smallestChair(int[][], int)!targetFriend	PARAMETER\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java4 (@*targetFriend2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java0 (3Õ	
+Galgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLaneCLASS\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java5 5("
+inner classtrue*TimeLane2Ã
+_algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane.TimeLane(int, int, int)DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java; ;(2∆
+Yalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane?index@54.16:54.21DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java6 6(2À
+^algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane?arriveTime@55.16:55.26DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java7 7(2 
+]algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane?leaveTime@56.16:56.25DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java8 8(2 
+]algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane?seatIndex@57.16:57.25DECLARATION\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java9 9(—
+_algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane.TimeLane(int, int, int)CONSTRUCTOR\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java; ;(*TimeLane2À
+ealgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane.TimeLane(int, int, int)!indexCALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java< <("2–
+jalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane.TimeLane(int, int, int)!arriveTimeCALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java=" =(,2œ
+ialgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane.TimeLane(int, int, int)!leaveTimeCALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java>! >(*2ø
+Yalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane?index@54.16:54.21CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java< <(2ƒ
+^algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane?arriveTime@55.16:55.26CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java= =(2√
+]algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane?leaveTime@56.16:56.25CALL\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java> >(2–
+ealgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane.TimeLane(int, int, int)!index	PARAMETER\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java;  ;(%2’
+jalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane.TimeLane(int, int, int)!arriveTime	PARAMETER\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java;+ ;(52‘
+ialgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane.TimeLane(int, int, int)!leaveTime	PARAMETER\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java;; ;(D2¥
+Galgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLaneRETURN_TYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java; ;(¬
+ealgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane.TimeLane(int, int, int)!index	PARAMETER\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java;  ;(%*index2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java; ;(Ã
+jalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane.TimeLane(int, int, int)!arriveTime	PARAMETER\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java;+ ;(5*
+arriveTime2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java;' ;(* 
+ialgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane.TimeLane(int, int, int)!leaveTime	PARAMETER\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java;; ;(D*	leaveTime2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java;7 ;(:√
+Yalgorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane?index@54.16:54.21VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java6 6("
+type int*index2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java6 6(Õ
+^algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane?arriveTime@55.16:55.26VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java7 7("
+type int*
+arriveTime2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java7 7(À
+]algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane?leaveTime@56.16:56.25VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java8 8("
+type int*	leaveTime2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java8 8(À
+]algorithme.sort.TheNumberOfTheSmallestUnoccupiedChair.Solution.TimeLane?seatIndex@57.16:57.25VARIABLE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java9 9("
+type int*	seatIndex2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/sort/TheNumberOfTheSmallestUnoccupiedChair.java9 9(

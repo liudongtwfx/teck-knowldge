@@ -1,0 +1,302 @@
+
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java–
+tools.caffeine.CaffeineExampleCLASSE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java ("
+inner classfalse*CaffeineExample2ç
+7tools.caffeine.CaffeineExample.main(java.lang.String[])DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java (2~
+(tools.caffeine.CaffeineExample.maxSize()DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java (2£
+Mtools.caffeine.CaffeineExample.lockLog(tools.caffeine.CaffeineExample.Logger)DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java, ,(2Ö
+/tools.caffeine.CaffeineExample?LOCK@13.39:13.43DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java' (+2{
+%tools.caffeine.CaffeineExample.LoggerDECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java9 9(¿
+7tools.caffeine.CaffeineExample.main(java.lang.String[])METHODE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2w
+(tools.caffeine.CaffeineExample.maxSize()CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java (2ê
+<tools.caffeine.CaffeineExample.main(java.lang.String[])!args	PARAMETERE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java% ()2Z
+voidRETURN_TYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java (˘
+<tools.caffeine.CaffeineExample.main(java.lang.String[])!args	PARAMETERE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java% ()*args2a
+java.lang.String[]TYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java ($Ÿ-
+(tools.caffeine.CaffeineExample.maxSize()METHODE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java ("
+statictrue"
+finalfalse"
+access modifierprivate"
+type void*maxSize2Ö
+6java.util.concurrent.Executors.newFixedThreadPool(int)CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java$ (62ú
+Mtools.caffeine.CaffeineExample.lockLog(tools.caffeine.CaffeineExample.Logger)CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java (2ú
+Mtools.caffeine.CaffeineExample.lockLog(tools.caffeine.CaffeineExample.Logger)CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java (2l
+java.lang.String.valueOf(int)CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java ($2é
+?tools.caffeine.CaffeineExample.DataObject.get(java.lang.String)CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java4 (72ç
+>java.lang.String.format(java.lang.String, java.lang.Object...)CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java? (E2k
+java.lang.Thread.sleep(long)CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java! !(2l
+java.lang.String.valueOf(int)CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java$* $(12o
+ java.io.PrintStream.println(int)CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java& &("2o
+ java.io.PrintStream.println(int)CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java) )(2á
+8tools.caffeine.CaffeineExample.maxSize()?key@23.73:23.76CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaT (W2â
+:tools.caffeine.CaffeineExample.maxSize()?value@23.78:23.83CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaY (^2â
+:tools.caffeine.CaffeineExample.maxSize()?cause@23.85:23.90CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaj (o2Ö
+6tools.caffeine.CaffeineExample.maxSize()?s@25.34:25.35CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaS (T2é
+?tools.caffeine.CaffeineExample.maxSize()?dataObject@25.37:25.47CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaV (`2ê
+Atools.caffeine.CaffeineExample.maxSize()?removalCause@25.49:25.61CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javal (x2Ö
+6tools.caffeine.CaffeineExample.maxSize()?i@30.17:30.18CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java (2Ö
+6tools.caffeine.CaffeineExample.maxSize()?i@30.17:30.18CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java  (!2â
+:tools.caffeine.CaffeineExample.maxSize()?cache@21.34:21.39CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java (2Ö
+6tools.caffeine.CaffeineExample.maxSize()?i@30.17:30.18CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java% (&2Ö
+6tools.caffeine.CaffeineExample.maxSize()?i@30.17:30.18CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaO (P2Ö
+6tools.caffeine.CaffeineExample.maxSize()?i@35.17:35.18CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java# #(2Ö
+6tools.caffeine.CaffeineExample.maxSize()?i@35.17:35.18CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java#  #(!2â
+:tools.caffeine.CaffeineExample.maxSize()?cache@21.34:21.39CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java$ $(2Ö
+6tools.caffeine.CaffeineExample.maxSize()?i@35.17:35.18CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java$2 $(32â
+:tools.caffeine.CaffeineExample.maxSize()?count@34.12:34.17CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java% %(2Ö
+6tools.caffeine.CaffeineExample.maxSize()?i@35.17:35.18CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java&# &($2â
+:tools.caffeine.CaffeineExample.maxSize()?count@34.12:34.17CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java) )( 2ê
+:tools.caffeine.CaffeineExample.maxSize()?cache@21.34:21.39DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java" ('2å
+6tools.caffeine.CaffeineExample.maxSize()?i@30.17:30.18DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java (2ê
+:tools.caffeine.CaffeineExample.maxSize()?count@34.12:34.17DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java" "(2å
+6tools.caffeine.CaffeineExample.maxSize()?i@35.17:35.18DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java# #(2é
+8tools.caffeine.CaffeineExample.maxSize()?key@23.73:23.76DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaI (L2ê
+:tools.caffeine.CaffeineExample.maxSize()?value@23.78:23.83DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaN (S2ê
+:tools.caffeine.CaffeineExample.maxSize()?cause@23.85:23.90DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaU (Z2å
+6tools.caffeine.CaffeineExample.maxSize()?s@25.34:25.35DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java" (#2ï
+?tools.caffeine.CaffeineExample.maxSize()?dataObject@25.37:25.47DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java% (/2ó
+Atools.caffeine.CaffeineExample.maxSize()?removalCause@25.49:25.61DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java1 (=2é
+8tools.caffeine.CaffeineExample.maxSize()?key@28.26:28.29DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java (2ê
+:tools.caffeine.CaffeineExample.maxSize()?value@28.31:28.36DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java ($2Z
+voidRETURN_TYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java (≤
+:tools.caffeine.CaffeineExample.maxSize()?cache@21.34:21.39VARIABLEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java" ('"!
+type Cache<String,DataObject>*cache2w
+(com.github.benmanes.caffeine.cache.CacheTYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java (2h
+java.lang.StringTYPE_ARGUMENTE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java (2Å
+)tools.caffeine.CaffeineExample.DataObjectTYPE_ARGUMENTE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java ( 2Ö
+6java.util.concurrent.Executors.newFixedThreadPool(int)CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java$ (62ú
+Mtools.caffeine.CaffeineExample.lockLog(tools.caffeine.CaffeineExample.Logger)CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java (2ú
+Mtools.caffeine.CaffeineExample.lockLog(tools.caffeine.CaffeineExample.Logger)CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java (2á
+8tools.caffeine.CaffeineExample.maxSize()?key@23.73:23.76CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaT (W2â
+:tools.caffeine.CaffeineExample.maxSize()?value@23.78:23.83CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaY (^2â
+:tools.caffeine.CaffeineExample.maxSize()?cause@23.85:23.90CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaj (o2Ö
+6tools.caffeine.CaffeineExample.maxSize()?s@25.34:25.35CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaS (T2é
+?tools.caffeine.CaffeineExample.maxSize()?dataObject@25.37:25.47CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaV (`2ê
+Atools.caffeine.CaffeineExample.maxSize()?removalCause@25.49:25.61CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javal (xÓ
+6tools.caffeine.CaffeineExample.maxSize()?i@30.17:30.18VARIABLEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java ("
+type int*i2R
+intTYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java (ˆ
+:tools.caffeine.CaffeineExample.maxSize()?count@34.12:34.17VARIABLEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java" "("
+type int*count2R
+intTYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java" "(Ó
+6tools.caffeine.CaffeineExample.maxSize()?i@35.17:35.18VARIABLEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java# #("
+type int*i2R
+intTYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java# #(ò
+8tools.caffeine.CaffeineExample.maxSize()?key@23.73:23.76VARIABLEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaI (L*key2TYPEú
+:tools.caffeine.CaffeineExample.maxSize()?value@23.78:23.83VARIABLEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaN (S*value2TYPEú
+:tools.caffeine.CaffeineExample.maxSize()?cause@23.85:23.90VARIABLEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaU (Z*cause2TYPEî
+6tools.caffeine.CaffeineExample.maxSize()?s@25.34:25.35VARIABLEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java" (#*s2TYPE¶
+?tools.caffeine.CaffeineExample.maxSize()?dataObject@25.37:25.47VARIABLEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java% (/*
+dataObject2TYPE™
+Atools.caffeine.CaffeineExample.maxSize()?removalCause@25.49:25.61VARIABLEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java1 (=*removalCause2TYPEò
+8tools.caffeine.CaffeineExample.maxSize()?key@28.26:28.29VARIABLEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java (*key2TYPEú
+:tools.caffeine.CaffeineExample.maxSize()?value@28.31:28.36VARIABLEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java ($*value2TYPEÎ
+Mtools.caffeine.CaffeineExample.lockLog(tools.caffeine.CaffeineExample.Logger)METHODE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java, ,("
+statictrue"
+finalfalse"
+access modifierprivate"
+type void*lockLog2~
+/java.util.concurrent.locks.ReentrantLock.lock()CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java- -(2z
++tools.caffeine.CaffeineExample.Logger.log()CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java/ /(2Ä
+1java.util.concurrent.locks.ReentrantLock.unlock()CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java4 4(2ñ
+Gjava.lang.IllegalStateException.IllegalStateException(java.lang.String)CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java0 0(+2~
+/tools.caffeine.CaffeineExample?LOCK@13.39:13.43CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java- -(2£
+Ttools.caffeine.CaffeineExample.lockLog(tools.caffeine.CaffeineExample.Logger)!loggerCALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java/ /(2~
+/tools.caffeine.CaffeineExample?LOCK@13.39:13.43CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java4 4(2®
+Ttools.caffeine.CaffeineExample.lockLog(tools.caffeine.CaffeineExample.Logger)!logger	PARAMETERE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java,' ,(-2±
+[tools.caffeine.CaffeineExample.lockLog(tools.caffeine.CaffeineExample.Logger)?e@49.27:49.28DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java1 1(2Z
+voidRETURN_TYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java, ,(¶
+Ttools.caffeine.CaffeineExample.lockLog(tools.caffeine.CaffeineExample.Logger)!logger	PARAMETERE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java,' ,(-*logger2t
+%tools.caffeine.CaffeineExample.LoggerTYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java,  ,(&ï
+[tools.caffeine.CaffeineExample.lockLog(tools.caffeine.CaffeineExample.Logger)?e@49.27:49.28VARIABLEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java1 1(*e2b
+java.lang.ExceptionTYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java1 1(ß
+/tools.caffeine.CaffeineExample?LOCK@13.39:13.43VALUEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java' (+"
+type ReentrantLock*LOCK2w
+(java.util.concurrent.locks.ReentrantLockTYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java (&2é
+?java.util.concurrent.locks.ReentrantLock.ReentrantLock(boolean)CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java2 (?ó
+%tools.caffeine.CaffeineExample.LoggerTRAITE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java9 9("
+inner classfalse*Logger2Å
++tools.caffeine.CaffeineExample.Logger.log()DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java: :(±
++tools.caffeine.CaffeineExample.Logger.log()METHODE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java: :("
+staticfalse"
+finalfalse""
+access modifierpackage_private"
+type void*log2Z
+voidRETURN_TYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java: :(ç
+)tools.caffeine.CaffeineExample.DataObjectCLASSE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java= =(#"
+inner classfalse*
+DataObject2ú
+Ftools.caffeine.CaffeineExample.DataObject.DataObject(java.lang.String)DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaB B(2ï
+?tools.caffeine.CaffeineExample.DataObject.get(java.lang.String)DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaF! F($2â
+3tools.caffeine.CaffeineExample.DataObject.getData()DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaK K(2ô
+Ctools.caffeine.CaffeineExample.DataObject?objectCounter@62.27:62.40DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java> >((2ê
+:tools.caffeine.CaffeineExample.DataObject?data@63.29:63.33DECLARATIONE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java? ?(!Ù
+Ftools.caffeine.CaffeineExample.DataObject.DataObject(java.lang.String)CONSTRUCTORE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaB B(*
+DataObject2ö
+Ktools.caffeine.CaffeineExample.DataObject.DataObject(java.lang.String)!dataCALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaC C(2â
+:tools.caffeine.CaffeineExample.DataObject?data@63.29:63.33CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaC C(2ü
+Ktools.caffeine.CaffeineExample.DataObject.DataObject(java.lang.String)!data	PARAMETERE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaB! B(%2
+)tools.caffeine.CaffeineExample.DataObjectRETURN_TYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaB B(Ü
+Ktools.caffeine.CaffeineExample.DataObject.DataObject(java.lang.String)!data	PARAMETERE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaB! B(%*data2_
+java.lang.StringTYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaB B( ƒ
+?tools.caffeine.CaffeineExample.DataObject.get(java.lang.String)METHODE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaF! F($"
+statictrue"
+finalfalse"
+access modifierpublic"
+type 
+DataObject*get2ï
+Ftools.caffeine.CaffeineExample.DataObject.DataObject(java.lang.String)CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaH H(!2í
+Ctools.caffeine.CaffeineExample.DataObject?objectCounter@62.27:62.40CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaG G(2ì
+Dtools.caffeine.CaffeineExample.DataObject.get(java.lang.String)!dataCALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaH" H(&2ò
+Dtools.caffeine.CaffeineExample.DataObject.get(java.lang.String)!data	PARAMETERE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaF, F(02
+)tools.caffeine.CaffeineExample.DataObjectRETURN_TYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaF F( ˇ
+Dtools.caffeine.CaffeineExample.DataObject.get(java.lang.String)!data	PARAMETERE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaF, F(0*data2_
+java.lang.StringTYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaF% F(+Œ
+3tools.caffeine.CaffeineExample.DataObject.getData()METHODE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaK K("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*getData2â
+:tools.caffeine.CaffeineExample.DataObject?data@63.29:63.33CALLE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaL L(2f
+java.lang.StringRETURN_TYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.javaK K(á
+Ctools.caffeine.CaffeineExample.DataObject?objectCounter@62.27:62.40VARIABLEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java> >(("
+type int*objectCounter2R
+intTYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java> >(Ç
+:tools.caffeine.CaffeineExample.DataObject?data@63.29:63.33VALUEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java? ?(!"
+type String*data2_
+java.lang.StringTYPEE
+;knowledge/src/main/java/tools/caffeine/CaffeineExample.java? ?(

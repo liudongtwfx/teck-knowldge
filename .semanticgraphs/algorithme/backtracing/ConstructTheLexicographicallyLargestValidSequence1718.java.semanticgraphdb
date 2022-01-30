@@ -1,0 +1,487 @@
+
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaõ	
+Lalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718CLASSs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (B"
+inner classfalse*5ConstructTheLexicographicallyLargestValidSequence17182È
+ealgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.main(java.lang.String[])DECLARATIONs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (2Ÿ
+Ualgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.bridge()DECLARATIONs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java	 	(2Ÿ
+Ualgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionDECLARATIONs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java
+ (2›
+Yalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBestDECLARATIONs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java;
+ ;(à	
+ealgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.main(java.lang.String[])METHODs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2“
+Ualgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.bridge()CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaD (J2Ç
+Ñalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.ConstructTheLexicographicallyLargestValidSequence1718()CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (A2Ï
+jalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.main(java.lang.String[])!args	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java% ()2à
+voidRETURN_TYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (Ñ
+jalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.main(java.lang.String[])!args	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java% ()*args2è
+java.lang.String[]TYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java ($¶
+Ualgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.bridge()METHODs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java	 	("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2Ú
+ualgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.constructDistancedSequence(int)CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java
+# 
+(=2™
+-java.io.PrintStream.println(java.lang.String)CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (2ù
+ java.util.Arrays.toString(int[])CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java" (*2›
+`algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.Solution()CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java
+ 
+( 2‚
+ealgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.bridge()?ans@10.14:10.17CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java+ (.2È
+ealgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.bridge()?ans@10.14:10.17DECLARATIONs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java
+ 
+(2à
+voidRETURN_TYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java	 	(’
+ealgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.bridge()?ans@10.14:10.17VARIABLEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java
+ 
+("
+type int[]*ans2Ç
+int[]TYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java
+ 
+(2Ú
+ualgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.constructDistancedSequence(int)CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java
+# 
+(=2›
+`algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.Solution()CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java
+ 
+( ﬁ
+Ualgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionCLASSs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java
+ ("
+inner classtrue*Solution2˘
+ualgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.constructDistancedSequence(int)DECLARATIONs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (/2ˇ
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)DECLARATIONs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (!2Î
+galgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution?count@15.20:15.25DECLARATIONs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (˘
+ualgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.constructDistancedSequence(int)METHODs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (/"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int[]*constructDistancedSequence2¯
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (2ù
+ java.io.PrintStream.println(int)CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (2Ù
+walgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.constructDistancedSequence(int)!nCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java$ (%2Ù
+walgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.constructDistancedSequence(int)!nCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java) (*2É
+Öalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.constructDistancedSequence(int)?ans@18.18:18.21CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (2Ñ
+Üalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.constructDistancedSequence(int)?used@19.22:19.26CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java ("2Ù
+walgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.constructDistancedSequence(int)!nCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java$ (%2‰
+galgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution?count@15.20:15.25CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java ($2É
+Öalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.constructDistancedSequence(int)?ans@18.18:18.21CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (2˘
+walgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.constructDistancedSequence(int)!n	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java4 (52ä
+Öalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.constructDistancedSequence(int)?ans@18.18:18.21DECLARATIONs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (2ã
+Üalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.constructDistancedSequence(int)?used@19.22:19.26DECLARATIONs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (2â
+int[]RETURN_TYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (ò
+Öalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.constructDistancedSequence(int)?ans@18.18:18.21VARIABLEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java ("
+type int[]*ans2Ç
+int[]TYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (2Ù
+walgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.constructDistancedSequence(int)!nCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java$ (%¢
+Üalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.constructDistancedSequence(int)?used@19.22:19.26VARIABLEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java ("
+type 	boolean[]*used2Ü
+	boolean[]TYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (2Ù
+walgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.constructDistancedSequence(int)!nCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java) (*ˇ
+walgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.constructDistancedSequence(int)!n	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java4 (5*n2Ä
+intTYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java0 (3Üi
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)METHODs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (!"
+staticfalse"
+finalfalse"
+access modifierprivate"
+type boolean*	backtrace2¯
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java ( 2¯
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java. .(!2‰
+galgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution?count@15.20:15.25CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (2É
+Öalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!zeroCountCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (2¸
+algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!ansCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!iCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (2¸
+algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!ansCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java! ($2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!iCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java& ('2˛
+Äalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!usedCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java- (12É
+Öalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!zeroCountCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java3 (<2˛
+Äalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!usedCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java! !(2á
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?k@33.21:33.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java!* !(+2á
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?k@33.21:33.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java!1 !(22˛
+Äalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!usedCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java" "(2á
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?k@33.21:33.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java" "(2á
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?k@33.21:33.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java% %(2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!iCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java%" %(#2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!iCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java%& %('2á
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?k@33.21:33.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java%* %(+2á
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?m@37.20:37.21CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java& &(2¸
+algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!ansCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java& &(2¸
+algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!ansCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java&& &()2á
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?m@37.20:37.21CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java&* &(+2˛
+Äalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!usedCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java' '(2á
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?k@33.21:33.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java' '(2¸
+algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!ansCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java( ((2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!iCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java( ((2á
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?k@33.21:33.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java( ((2¸
+algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!ansCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java) )(2á
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?m@37.20:37.21CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java) )(2á
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?k@33.21:33.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java) )(2É
+Öalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!zeroCountCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java* *(2É
+Öalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!zeroCountCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java+ +(!2¸
+algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!ansCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java." .(%2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!iCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java.' .((2˛
+Äalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!usedCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java.. .(22É
+Öalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!zeroCountCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java.4 .(=2˛
+Äalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!usedCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java1 1(2á
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?k@33.21:33.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java1 1(2¸
+algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!ansCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java2 2(2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!iCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java2 2(2¸
+algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!ansCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java3 3(2á
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?m@37.20:37.21CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java3 3(2É
+Öalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!zeroCountCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java4 4(2Å
+algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!ans	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java( (+2ˇ
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!i	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java1 (22É
+Äalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!used	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java> (B2à
+Öalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!zeroCount	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaH (Q2é
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?k@33.21:33.22DECLARATIONs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java! !(2é
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?m@37.20:37.21DECLARATIONs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java% %(2ã
+booleanRETURN_TYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (†
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?k@33.21:33.22VARIABLEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java! !("
+type int*k2Ä
+intTYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java! !(2˛
+Äalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!usedCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java! !(≠
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?m@37.20:37.21VARIABLEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java% %("
+type int*m2Ä
+intTYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java% %(2á
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?k@33.21:33.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java% %(2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!iCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java%" %(#2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!iCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java%& %('2á
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)?k@33.21:33.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java%* %(+ã
+algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!ans	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java( (+*ans2Ç
+int[]TYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java" ('Ö
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!i	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java1 (2*i2Ä
+intTYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java- (0í
+Äalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!used	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java> (B*used2Ü
+	boolean[]TYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java4 (=ñ
+Öalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution.backtrace(int[], int, boolean[], int)!zeroCount	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaH (Q*	zeroCount2Ä
+intTYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaD (GÄ
+galgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.Solution?count@15.20:15.25VARIABLEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java ("
+type int*count2Ä
+intTYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java (Ï
+Yalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBestCLASSs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java;
+ ;("
+inner classtrue*SolutionBest2˝
+yalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.constructDistancedSequence(int)DECLARATIONs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java> >(/2˝
+yalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)DECLARATIONs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaF F(2Ô
+kalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest?count@60.20:60.25DECLARATIONs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java< <(°
+yalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.constructDistancedSequence(int)METHODs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java> >(/"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int[]*constructDistancedSequence2ˆ
+yalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaA A(2ù
+ java.io.PrintStream.println(int)CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaB B(2¯
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.constructDistancedSequence(int)!nCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java?  ?(!2¯
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.constructDistancedSequence(int)!nCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java@( @()2á
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.constructDistancedSequence(int)?res@63.18:63.21CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaA A(2á
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.constructDistancedSequence(int)?vis@64.22:64.25CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaA A(2¯
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.constructDistancedSequence(int)!nCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaA A(2Ë
+kalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest?count@60.20:60.25CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaB B($2á
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.constructDistancedSequence(int)?res@63.18:63.21CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaC C(2˝
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.constructDistancedSequence(int)!n	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java>4 >(52é
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.constructDistancedSequence(int)?res@63.18:63.21DECLARATIONs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java? ?(2é
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.constructDistancedSequence(int)?vis@64.22:64.25DECLARATIONs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java@ @(2â
+int[]RETURN_TYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java> >(†
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.constructDistancedSequence(int)?res@63.18:63.21VARIABLEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java? ?("
+type int[]*res2Ç
+int[]TYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java? ?(2¯
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.constructDistancedSequence(int)!nCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java?  ?(!®
+âalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.constructDistancedSequence(int)?vis@64.22:64.25VARIABLEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java@ @("
+type 	boolean[]*vis2Ü
+	boolean[]TYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java@ @(2¯
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.constructDistancedSequence(int)!nCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java@( @()É
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.constructDistancedSequence(int)!n	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java>4 >(5*n2Ä
+intTYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java>0 >(3≈m
+yalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)METHODs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaF F("
+staticfalse"
+finalfalse""
+access modifierpackage_private"
+type boolean*dfs2ˆ
+yalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaI& I()2ˆ
+yalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaO O(2ˆ
+yalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaS S(2Ë
+kalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest?count@60.20:60.25CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaG G(2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!idxCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaH H(2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!resCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaH H(2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!resCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaI I(2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!idxCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaI I(2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!resCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaI* I(-2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!visCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaI/ I(22˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!idxCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaI4 I(72¯
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!nCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaI= I(>2¯
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!nCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaJ J(2Ö
+áalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)?i@74.21:74.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaJ J(2Ö
+áalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)?i@74.21:74.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaJ# J($2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!visCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaK K(2Ö
+áalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)?i@74.21:74.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaK K(2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!visCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaL L(2Ö
+áalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)?i@74.21:74.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaL L(2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!resCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaM M(2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!idxCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaM M(2Ö
+áalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)?i@74.21:74.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaM M(2Ö
+áalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)?i@74.21:74.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaN N(2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!resCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaO O(2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!visCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaO! O($2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!idxCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaO& O()2¯
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!nCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaO/ O(02˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!idxCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaQ Q(2Ö
+áalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)?i@74.21:74.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaQ Q(2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!resCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaQ" Q(%2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!resCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaQ0 Q(32˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!idxCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaQ4 Q(72Ö
+áalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)?i@74.21:74.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaQ: Q(;2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!resCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaR R(2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!idxCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaR R(2Ö
+áalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)?i@74.21:74.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaR" R(#2Ö
+áalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)?i@74.21:74.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaR' R((2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!resCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaS  S(#2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!visCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaS% S((2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!idxCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaS* S(-2¯
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!nCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaS3 S(42˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!resCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaT T(2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!idxCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaT T(2Ö
+áalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)?i@74.21:74.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaT" T(#2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!visCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaW W(2Ö
+áalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)?i@74.21:74.22CALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaW W(2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!resCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaX X(2˙
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!idxCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaX X(2ˇ
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!res	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaF F(2ˇ
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!vis	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaF) F(,2ˇ
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!idx	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaF2 F(52˝
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!n	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaF; F(<2å
+áalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)?i@74.21:74.22DECLARATIONs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaJ J(2ã
+booleanRETURN_TYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaF F(ò
+áalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)?i@74.21:74.22VARIABLEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaJ J("
+type int*i2Ä
+intTYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaJ J(2¯
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!nCALLs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaJ J(â
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!res	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaF F(*res2Ç
+int[]TYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaF F(ç
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!vis	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaF) F(,*vis2Ü
+	boolean[]TYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaF F((á
+}algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!idx	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaF2 F(5*idx2Ä
+intTYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaF. F(1É
+{algorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest.dfs(int[], boolean[], int, int)!n	PARAMETERs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaF; F(<*n2Ä
+intTYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.javaF7 F(:Ñ
+kalgorithme.backtracing.ConstructTheLexicographicallyLargestValidSequence1718.SolutionBest?count@60.20:60.25VARIABLEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java< <("
+type int*count2Ä
+intTYPEs
+ialgorithm/src/main/java/algorithme/backtracing/ConstructTheLexicographicallyLargestValidSequence1718.java< <(

@@ -1,0 +1,270 @@
+
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java®
+algorithme.heap.JumpGameVI1696CLASSE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ("
+inner classfalse*JumpGameVI16962ç
+7algorithme.heap.JumpGameVI1696.main(java.lang.String[])DECLARATIONE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2}
+'algorithme.heap.JumpGameVI1696.bridge()DECLARATIONE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2}
+'algorithme.heap.JumpGameVI1696.SolutionDECLARATIONE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java
+ (2É
+-algorithme.heap.JumpGameVI1696.Solution.PointDECLARATIONE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java) )(ø
+7algorithme.heap.JumpGameVI1696.main(java.lang.String[])METHODE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2v
+'algorithme.heap.JumpGameVI1696.bridge()CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (#2~
+/algorithme.heap.JumpGameVI1696.JumpGameVI1696()CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2ê
+<algorithme.heap.JumpGameVI1696.main(java.lang.String[])!args	PARAMETERE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java% ()2Z
+voidRETURN_TYPEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (˘
+<algorithme.heap.JumpGameVI1696.main(java.lang.String[])!args	PARAMETERE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java% ()*args2a
+java.lang.String[]TYPEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ($‹	
+'algorithme.heap.JumpGameVI1696.bridge()METHODE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2o
+ java.io.PrintStream.println(int)CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2å
+=algorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java* (32Å
+2algorithme.heap.JumpGameVI1696.Solution.Solution()CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ('2á
+8algorithme.heap.JumpGameVI1696.bridge()?nums@12.14:12.18CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java4 (82Ñ
+5algorithme.heap.JumpGameVI1696.bridge()?k@13.12:13.13CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java: (;2é
+8algorithme.heap.JumpGameVI1696.bridge()?nums@12.14:12.18DECLARATIONE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2ã
+5algorithme.heap.JumpGameVI1696.bridge()?k@13.12:13.13DECLARATIONE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2Z
+voidRETURN_TYPEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (˜
+8algorithme.heap.JumpGameVI1696.bridge()?nums@12.14:12.18VARIABLEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ("
+type int[]*nums2T
+int[]TYPEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (Ì
+5algorithme.heap.JumpGameVI1696.bridge()?k@13.12:13.13VARIABLEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ("
+type int*k2R
+intTYPEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (≤
+'algorithme.heap.JumpGameVI1696.SolutionCLASSE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java
+ ("
+inner classtrue*Solution2ì
+=algorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)DECLARATIONE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2É
+-algorithme.heap.JumpGameVI1696.Solution.PointDECLARATIONE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java) )(◊8
+=algorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)METHODE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*	maxResult2g
+java.util.Queue.offer(E)CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2e
+java.util.Queue.peek()CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java% ()2e
+java.util.Queue.poll()CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (#2e
+java.util.Queue.peek()CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java!* !(.2g
+java.util.Queue.offer(E)CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java" "(2ï
+Fjava.util.PriorityQueue.PriorityQueue(java.util.Comparator<? super E>)CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java& (52å
+=algorithme.heap.JumpGameVI1696.Solution.Point.Point(int, int)CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ("2å
+=algorithme.heap.JumpGameVI1696.Solution.Point.Point(int, int)CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java"! "(&2ë
+Balgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)!numsCALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java  ($2ú
+Malgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?res@19.18:19.21CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2ë
+Balgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)!numsCALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2ö
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?b@21.58:21.59CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java@ (A2ö
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?a@21.55:21.56CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.javaH (I2ü
+Palgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?points@21.25:21.31CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2ú
+Malgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?res@19.18:19.21CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java# (&2ö
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?i@23.21:23.22CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2ë
+Balgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)!numsCALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java  ($2ö
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?i@23.21:23.22CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java- (.2ö
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?i@23.21:23.22CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2é
+?algorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)!kCALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ( 2ü
+Palgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?points@21.25:21.31CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ($2ö
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?p@27.26:27.27CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2ù
+Nalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?left@25.20:25.24CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java" (&2ü
+Palgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?points@21.25:21.31CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2ú
+Malgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?res@19.18:19.21CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java! !(2ö
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?i@23.21:23.22CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java! !(2ë
+Balgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)!numsCALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java! !(2ö
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?i@23.21:23.22CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java! !(2ü
+Palgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?points@21.25:21.31CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java!# !()2ü
+Palgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?points@21.25:21.31CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java" "(2ú
+Malgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?res@19.18:19.21CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java"' "(*2ö
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?i@23.21:23.22CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java"+ "(,2ö
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?i@23.21:23.22CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java"/ "(02ú
+Malgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?res@19.18:19.21CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java& &(2ú
+Malgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?res@19.18:19.21CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java& &(2é
+?algorithme.heap.JumpGameVI1696.Solution.Point?index@43.30:43.35CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2å
+=algorithme.heap.JumpGameVI1696.Solution.Point?res@42.30:42.33CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java!1 !(42ñ
+Balgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)!nums	PARAMETERE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java# ('2ì
+?algorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)!k	PARAMETERE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java- (.2£
+Malgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?res@19.18:19.21DECLARATIONE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2¶
+Palgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?points@21.25:21.31DECLARATIONE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2°
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?i@23.21:23.22DECLARATIONE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2§
+Nalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?left@25.20:25.24DECLARATIONE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2°
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?p@27.26:27.27DECLARATIONE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2°
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?a@21.55:21.56DECLARATIONE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java7 (82°
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?b@21.58:21.59DECLARATIONE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java: (;2Y
+intRETURN_TYPEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (ü
+Malgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?res@19.18:19.21VARIABLEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ("
+type int[]*res2T
+int[]TYPEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2ë
+Balgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)!numsCALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java  ($¸
+Palgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?points@21.25:21.31VARIABLEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ("
+type Queue<Point>*points2^
+java.util.QueueTYPEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2Ö
+-algorithme.heap.JumpGameVI1696.Solution.PointTYPE_ARGUMENTE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2ï
+Fjava.util.PriorityQueue.PriorityQueue(java.util.Comparator<? super E>)CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java& (52ö
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?b@21.58:21.59CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java@ (A2ö
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?a@21.55:21.56CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.javaH (IÉ
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?i@23.21:23.22VARIABLEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ("
+type int*i2R
+intTYPEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (∑
+Nalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?left@25.20:25.24VARIABLEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ("
+type int*left2R
+intTYPEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2ö
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?i@23.21:23.22CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2é
+?algorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)!kCALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ( ∏
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?p@27.26:27.27VARIABLEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ("
+type Point*p2|
+-algorithme.heap.JumpGameVI1696.Solution.PointTYPEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java (2e
+java.util.Queue.peek()CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java% ()2ü
+Palgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?points@21.25:21.31CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ($Ú
+Balgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)!nums	PARAMETERE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java# ('*nums2T
+int[]TYPEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java ("Í
+?algorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)!k	PARAMETERE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java- (.*k2R
+intTYPEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java) (,©
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?a@21.55:21.56VARIABLEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java7 (8*a2TYPE©
+Kalgorithme.heap.JumpGameVI1696.Solution.maxResult(int[], int)?b@21.58:21.59VARIABLEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java: (;*b2TYPE›
+-algorithme.heap.JumpGameVI1696.Solution.PointCLASSE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java) )("
+inner classtrue*Point2ì
+=algorithme.heap.JumpGameVI1696.Solution.Point.Point(int, int)DECLARATIONE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java- -(2ì
+=algorithme.heap.JumpGameVI1696.Solution.Point?res@42.30:42.33DECLARATIONE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java* *(!2ï
+?algorithme.heap.JumpGameVI1696.Solution.Point?index@43.30:43.35DECLARATIONE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java+ +(#ö	
+=algorithme.heap.JumpGameVI1696.Solution.Point.Point(int, int)CONSTRUCTORE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java- -(*Point2ê
+Aalgorithme.heap.JumpGameVI1696.Solution.Point.Point(int, int)!resCALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java. .(2í
+Calgorithme.heap.JumpGameVI1696.Solution.Point.Point(int, int)!indexCALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java/ /("2å
+=algorithme.heap.JumpGameVI1696.Solution.Point?res@42.30:42.33CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java. .(2é
+?algorithme.heap.JumpGameVI1696.Solution.Point?index@43.30:43.35CALLE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java/ /(2ï
+Aalgorithme.heap.JumpGameVI1696.Solution.Point.Point(int, int)!res	PARAMETERE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java- -(2ó
+Calgorithme.heap.JumpGameVI1696.Solution.Point.Point(int, int)!index	PARAMETERE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java- -($2É
+-algorithme.heap.JumpGameVI1696.Solution.PointRETURN_TYPEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java- -(Ó
+Aalgorithme.heap.JumpGameVI1696.Solution.Point.Point(int, int)!res	PARAMETERE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java- -(*res2R
+intTYPEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java- -(Ú
+Calgorithme.heap.JumpGameVI1696.Solution.Point.Point(int, int)!index	PARAMETERE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java- -($*index2R
+intTYPEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java- -(Ù
+=algorithme.heap.JumpGameVI1696.Solution.Point?res@42.30:42.33VALUEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java* *(!"
+type int*res2R
+intTYPEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java* *(¯
+?algorithme.heap.JumpGameVI1696.Solution.Point?index@43.30:43.35VALUEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java+ +(#"
+type int*index2R
+intTYPEE
+;algorithm/src/main/java/algorithme/heap/JumpGameVI1696.java+ +(

@@ -1,0 +1,21 @@
+
+8knowledge/src/main/java/jl/gc/GcOptimizationExample.javaŸ
+jl.gc.GcOptimizationExampleCLASSB
+8knowledge/src/main/java/jl/gc/GcOptimizationExample.java (""
+inner classfalse*GcOptimizationExample2‡
+4jl.gc.GcOptimizationExample.main(java.lang.String[])DECLARATIONB
+8knowledge/src/main/java/jl/gc/GcOptimizationExample.java (¸
+4jl.gc.GcOptimizationExample.main(java.lang.String[])METHODB
+8knowledge/src/main/java/jl/gc/GcOptimizationExample.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2Š
+9jl.gc.GcOptimizationExample.main(java.lang.String[])!args	PARAMETERB
+8knowledge/src/main/java/jl/gc/GcOptimizationExample.java% ()2W
+voidRETURN_TYPEB
+8knowledge/src/main/java/jl/gc/GcOptimizationExample.java (ð
+9jl.gc.GcOptimizationExample.main(java.lang.String[])!args	PARAMETERB
+8knowledge/src/main/java/jl/gc/GcOptimizationExample.java% ()*args2^
+java.lang.String[]TYPEB
+8knowledge/src/main/java/jl/gc/GcOptimizationExample.java ($

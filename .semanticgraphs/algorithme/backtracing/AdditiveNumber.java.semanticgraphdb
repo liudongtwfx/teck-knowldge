@@ -1,0 +1,515 @@
+
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java‹
+%algorithme.backtracing.AdditiveNumberCLASSL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java	 	("
+inner classfalse*AdditiveNumber2õ
+>algorithme.backtracing.AdditiveNumber.main(java.lang.String[])DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java
+ 
+(2ã
+.algorithme.backtracing.AdditiveNumber.bridge()DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (2ã
+.algorithme.backtracing.AdditiveNumber.SolutionDECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java
+ (Ä
+>algorithme.backtracing.AdditiveNumber.main(java.lang.String[])METHODL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java
+ 
+("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2Ñ
+.algorithme.backtracing.AdditiveNumber.bridge()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (#2å
+6algorithme.backtracing.AdditiveNumber.AdditiveNumber()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (2û
+Calgorithme.backtracing.AdditiveNumber.main(java.lang.String[])!args	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java
+% 
+()2a
+voidRETURN_TYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java
+ 
+(é
+Calgorithme.backtracing.AdditiveNumber.main(java.lang.String[])!args	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java
+% 
+()*args2h
+java.lang.String[]TYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java
+ 
+($ı
+.algorithme.backtracing.AdditiveNumber.bridge()METHODL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2z
+$java.io.PrintStream.println(boolean)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (2ß
+Qalgorithme.backtracing.AdditiveNumber.Solution.isAdditiveNumber(java.lang.String)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java* (:2è
+9algorithme.backtracing.AdditiveNumber.Solution.Solution()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java ('2a
+voidRETURN_TYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (È
+.algorithme.backtracing.AdditiveNumber.SolutionCLASSL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java
+ ("
+inner classtrue*Solution2Æ
+Qalgorithme.backtracing.AdditiveNumber.Solution.isAdditiveNumber(java.lang.String)DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java ('2¨
+Oalgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (!2¶
+Ialgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java, ,(2π
+\algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java4 4( ¯
+Qalgorithme.backtracing.AdditiveNumber.Solution.isAdditiveNumber(java.lang.String)METHODL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java ('"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type boolean*isAdditiveNumber2•
+Oalgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (2´
+Ualgorithme.backtracing.AdditiveNumber.Solution.isAdditiveNumber(java.lang.String)!numCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java ( 2∞
+Ualgorithme.backtracing.AdditiveNumber.Solution.isAdditiveNumber(java.lang.String)!num	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java/ (22d
+booleanRETURN_TYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (ù
+Ualgorithme.backtracing.AdditiveNumber.Solution.isAdditiveNumber(java.lang.String)!num	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java/ (2*num2f
+java.lang.StringTYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java( (.ËP
+Oalgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)METHODL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (!"
+staticfalse"
+finalfalse"
+access modifierprivate"
+type boolean*	backTrace2o
+java.lang.String.length()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (#2o
+java.lang.String.length()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java$ (*2o
+java.lang.String.length()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java, (22k
+java.util.List.add(E)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java  (#2z
+$java.lang.String.substring(int, int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java( (12k
+java.util.List.add(E)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java  (#2z
+$java.lang.String.substring(int, int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java( (12ü
+Ialgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java< (D2m
+java.util.List.get(int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaQ (T2ü
+Ialgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java[ (c2m
+java.util.List.get(int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javap (s2~
+(java.lang.AbstractStringBuilder.length()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java !  ('2o
+java.lang.String.length()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java 0  (62k
+java.util.List.add(E)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java!$ !('2≤
+\algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java!( !(12m
+java.util.List.get(int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java!> !(A2k
+java.util.List.size()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java!N !(R2m
+java.util.List.get(int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java!g !(j2k
+java.util.List.size()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java!w !({2Ü
+0java.lang.StringBuilder.append(java.lang.String)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java" "($2ü
+Ialgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java"% "(-2m
+java.util.List.get(int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java": "(=2k
+java.util.List.size()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java"J "(N2
+)java.lang.String.equals(java.lang.Object)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java$) $(/2x
+"java.lang.StringBuilder.toString()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java$ $(&2u
+java.util.ArrayList.ArrayList()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java3 (>2ç
+7java.lang.StringBuilder.StringBuilder(java.lang.String)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java. (;2´
+Ualgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)!startCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (2©
+Salgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)!strCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (2≥
+]algorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?i@25.21:25.22CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (2©
+Salgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)!strCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java  (#2≥
+]algorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?i@25.21:25.22CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java. (/2≥
+]algorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?i@25.21:25.22CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (2≥
+]algorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?j@26.25:26.26CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java$ (%2©
+Salgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)!strCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java( (+2≥
+]algorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?j@26.25:26.26CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java: (;2Ω
+galgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?addedNumber@27.33:27.44CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (2©
+Salgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)!strCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java$ ('2≥
+]algorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?i@25.21:25.22CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java5 (62Ω
+galgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?addedNumber@27.33:27.44CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (2©
+Salgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)!strCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java$ ('2≥
+]algorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?i@25.21:25.22CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java2 (32≥
+]algorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?j@26.25:26.26CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java9 (:2Ω
+galgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?addedNumber@27.33:27.44CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaE (P2Ω
+galgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?addedNumber@27.33:27.44CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javad (o2∑
+aalgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?value@31.34:31.39CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java   ( 2©
+Salgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)!strCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java ,  (/2Ω
+galgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?addedNumber@27.33:27.44CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java! !(#2Ω
+galgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?addedNumber@27.33:27.44CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java!2 !(=2Ω
+galgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?addedNumber@27.33:27.44CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java!B !(M2Ω
+galgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?addedNumber@27.33:27.44CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java![ !(f2Ω
+galgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?addedNumber@27.33:27.44CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java!k !(v2∑
+aalgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?value@31.34:31.39CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java" "(2Ω
+galgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?addedNumber@27.33:27.44CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java". "(92Ω
+galgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?addedNumber@27.33:27.44CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java"> "(I2∑
+aalgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?value@31.34:31.39CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java$ $(2©
+Salgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)!strCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java$0 $(32Æ
+Salgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)!str	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java) (,2∞
+Ualgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)!start	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java2 (72∫
+]algorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?i@25.21:25.22DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (2∫
+]algorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?j@26.25:26.26DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (2ƒ
+galgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?addedNumber@27.33:27.44DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java! (,2æ
+aalgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?value@31.34:31.39DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java" ('2d
+booleanRETURN_TYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (£
+]algorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?i@25.21:25.22VARIABLEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java ("
+type int*i2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (Ÿ
+]algorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?j@26.25:26.26VARIABLEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java ("
+type int*j2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (2≥
+]algorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?i@25.21:25.22CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (≥
+galgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?addedNumber@27.33:27.44VARIABLEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java! (,"
+type List<String>*addedNumber2d
+java.util.ListTYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (2o
+java.lang.StringTYPE_ARGUMENTL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (2u
+java.util.ArrayList.ArrayList()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java3 (>˚
+
+aalgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?value@31.34:31.39VARIABLEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java" ('"
+type StringBuilder*value2m
+java.lang.StringBuilderTYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java (!2ü
+Ialgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java< (D2m
+java.util.List.get(int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaQ (T2ü
+Ialgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java[ (c2m
+java.util.List.get(int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javap (s2ç
+7java.lang.StringBuilder.StringBuilder(java.lang.String)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java. (;2Ω
+galgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?addedNumber@27.33:27.44CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaE (P2Ω
+galgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)?addedNumber@27.33:27.44CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javad (oõ
+Salgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)!str	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java) (,*str2f
+java.lang.StringTYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java" ((í
+Ualgorithme.backtracing.AdditiveNumber.Solution.backTrace(java.lang.String, int)!start	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java2 (7*start2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java. (1ô
+Ialgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)METHODL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java, ,("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type String*trimZero2
+)java.lang.String.equals(java.lang.Object)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java- -(2o
+java.lang.String.length()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java." .((2r
+java.lang.String.charAt(int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java/ /(2u
+java.lang.String.substring(int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java/1 /(:2°
+Kalgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)!sCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java- -(2°
+Kalgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)!sCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java-& -('2≠
+Walgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)?i@46.21:46.22CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java. .(2°
+Kalgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)!sCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java.  .(!2≠
+Walgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)?i@46.21:46.22CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java., .(-2°
+Kalgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)!sCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java/ /(2≠
+Walgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)?i@46.21:46.22CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java/ /(2°
+Kalgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)!sCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java// /(02≠
+Walgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)?i@46.21:46.22CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java/; /(<2¶
+Kalgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)!s	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java,' ,((2¥
+Walgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)?i@46.21:46.22DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java. .(2m
+java.lang.StringRETURN_TYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java, ,(ù
+Walgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)?i@46.21:46.22VARIABLEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java. .("
+type int*i2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java. .(ë
+Kalgorithme.backtracing.AdditiveNumber.Solution.trimZero(java.lang.String)!s	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java,' ,((*s2f
+java.lang.StringTYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java,  ,(&ƒS
+\algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)METHODL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java4 4( "
+staticfalse"
+finalfalse"
+access modifierprivate"
+type String*	addTwoStr2o
+java.lang.String.length()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java5 5(2o
+java.lang.String.length()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java6 6(2r
+java.lang.String.charAt(int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java: :($2r
+java.lang.String.charAt(int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java:4 :(:2r
+java.lang.String.charAt(int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaA A($2r
+java.lang.String.charAt(int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaH H($2¥
+^algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)!aCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java5 5(2¥
+^algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)!bCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java6 6(2¡
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?al@53.16:53.18CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java9 9(2¡
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?bl@54.16:54.18CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java9 9( 2¥
+^algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)!aCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java: :(2¡
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?al@53.16:53.18CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java:% :('2¥
+^algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)!bCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java:2 :(32¡
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?bl@54.16:54.18CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java:; :(=2ƒ
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?extra@55.16:55.21CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java:H :(M2¬
+lalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?ans@56.19:56.22CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java; ;(2ƒ
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?added@58.20:58.25CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java; ;(2¬
+lalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?ans@56.19:56.22CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java;% ;((2ƒ
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?extra@55.16:55.21CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java< <(2ƒ
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?added@58.20:58.25CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java< <(2¡
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?al@53.16:53.18CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java= =(2¡
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?bl@54.16:54.18CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java> >(2¡
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?al@53.16:53.18CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java@ @(2¥
+^algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)!aCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaA A(2¡
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?al@53.16:53.18CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaA% A('2ƒ
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?extra@55.16:55.21CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaA1 A(62¬
+lalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?ans@56.19:56.22CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaB B(2ƒ
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?added@65.20:65.25CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaB B(2¬
+lalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?ans@56.19:56.22CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaB% B((2ƒ
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?extra@55.16:55.21CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaC C(2ƒ
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?added@65.20:65.25CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaC C(2¡
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?al@53.16:53.18CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaD D(2¡
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?bl@54.16:54.18CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaG G(2¥
+^algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)!bCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaH H(2¡
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?bl@54.16:54.18CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaH% H('2ƒ
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?extra@55.16:55.21CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaH1 H(62¬
+lalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?ans@56.19:56.22CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaI I(2ƒ
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?added@72.20:72.25CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaI I(2¬
+lalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?ans@56.19:56.22CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaI% I((2ƒ
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?extra@55.16:55.21CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaJ J(2ƒ
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?added@72.20:72.25CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaJ J(2¡
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?bl@54.16:54.18CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaK K(2ƒ
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?extra@55.16:55.21CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaM M(2¬
+lalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?ans@56.19:56.22CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaM  M(#2ƒ
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?extra@55.16:55.21CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaM& M(+2¬
+lalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?ans@56.19:56.22CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaM. M(12π
+^algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)!a	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java4( 4()2π
+^algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)!b	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java42 4(32»
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?al@53.16:53.18DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java5 5(2»
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?bl@54.16:54.18DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java6 6(2À
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?extra@55.16:55.21DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java7 7(2…
+lalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?ans@56.19:56.22DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java8 8(2À
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?added@58.20:58.25DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java: :(2À
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?added@65.20:65.25DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaA A(2À
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?added@72.20:72.25DECLARATIONL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaH H(2m
+java.lang.StringRETURN_TYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java4 4(⁄
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?al@53.16:53.18VARIABLEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java5 5("
+type int*al2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java5 5(2o
+java.lang.String.length()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java5 5(2¥
+^algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)!aCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java5 5(⁄
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?bl@54.16:54.18VARIABLEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java6 6("
+type int*bl2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java6 6(2o
+java.lang.String.length()CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java6 6(2¥
+^algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)!bCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java6 6(∏
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?extra@55.16:55.21VARIABLEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java7 7("
+type int*extra2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java7 7(ƒ
+lalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?ans@56.19:56.22VARIABLEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java8 8("
+type String*ans2f
+java.lang.StringTYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java8 8(›
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?added@58.20:58.25VARIABLEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java: :("
+type int*added2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java: :(2r
+java.lang.String.charAt(int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java: :($2r
+java.lang.String.charAt(int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java:4 :(:2¥
+^algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)!aCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java: :(2¡
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?al@53.16:53.18CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java:% :('2¥
+^algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)!bCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java:2 :(32¡
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?bl@54.16:54.18CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java:; :(=2ƒ
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?extra@55.16:55.21CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java:H :(MÓ
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?added@65.20:65.25VARIABLEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaA A("
+type int*added2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaA A(2r
+java.lang.String.charAt(int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaA A($2¥
+^algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)!aCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaA A(2¡
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?al@53.16:53.18CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaA% A('2ƒ
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?extra@55.16:55.21CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaA1 A(6Ó
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?added@72.20:72.25VARIABLEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaH H("
+type int*added2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaH H(2r
+java.lang.String.charAt(int)CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaH H($2¥
+^algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)!bCALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaH H(2¡
+kalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?bl@54.16:54.18CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaH% H('2ƒ
+nalgorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)?extra@55.16:55.21CALLL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.javaH1 H(6§
+^algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)!a	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java4( 4()*a2f
+java.lang.StringTYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java4! 4('§
+^algorithme.backtracing.AdditiveNumber.Solution.addTwoStr(java.lang.String, java.lang.String)!b	PARAMETERL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java42 4(3*b2f
+java.lang.StringTYPEL
+Balgorithm/src/main/java/algorithme/backtracing/AdditiveNumber.java4+ 4(1

@@ -1,0 +1,184 @@
+
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.javaÖ
+2algorithme.string.NumberOfSubstringsWithOnly1s1513CLASSY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (-"
+inner classfalse* NumberOfSubstringsWithOnly1s15132µ
+Kalgorithme.string.NumberOfSubstringsWithOnly1s1513.main(java.lang.String[])DECLARATIONY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2¥
+;algorithme.string.NumberOfSubstringsWithOnly1s1513.bridge()DECLARATIONY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2¥
+;algorithme.string.NumberOfSubstringsWithOnly1s1513.SolutionDECLARATIONY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java
+ (‡
+Kalgorithme.string.NumberOfSubstringsWithOnly1s1513.main(java.lang.String[])METHODY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2ž
+;algorithme.string.NumberOfSubstringsWithOnly1s1513.bridge()CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java/ (52¸
+Ualgorithme.string.NumberOfSubstringsWithOnly1s1513.NumberOfSubstringsWithOnly1s1513()CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (,2¸
+Palgorithme.string.NumberOfSubstringsWithOnly1s1513.main(java.lang.String[])!args	PARAMETERY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java% ()2n
+voidRETURN_TYPEY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (µ
+Palgorithme.string.NumberOfSubstringsWithOnly1s1513.main(java.lang.String[])!args	PARAMETERY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java% ()*args2u
+java.lang.String[]TYPEY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java ($±	
+;algorithme.string.NumberOfSubstringsWithOnly1s1513.bridge()METHODY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2ƒ
+ java.io.PrintStream.println(int)CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java	 	(2·
+Talgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java	* 	(02©
+Falgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.Solution()CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java	 	('2ª
+Galgorithme.string.NumberOfSubstringsWithOnly1s1513.bridge()?s@8.15:8.16CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java	1 	(22±
+Galgorithme.string.NumberOfSubstringsWithOnly1s1513.bridge()?s@8.15:8.16DECLARATIONY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2n
+voidRETURN_TYPEY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (·
+Galgorithme.string.NumberOfSubstringsWithOnly1s1513.bridge()?s@8.15:8.16VARIABLEY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java ("
+type String*s2s
+java.lang.StringTYPEY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (¹
+;algorithme.string.NumberOfSubstringsWithOnly1s1513.SolutionCLASSY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java
+ ("
+inner classtrue*Solution2¾
+Talgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)DECLARATIONY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2·
+Malgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution?MODEL@13.33:13.38DECLARATIONY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java! (&ÖC
+Talgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)METHODY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*numSub2|
+java.lang.String.length()CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (#2
+java.lang.String.charAt(int)CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2
+java.lang.String.charAt(int)CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2
+java.lang.String.charAt(int)CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java" "(2|
+java.lang.String.length()CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java" "(!2É
+falgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?start@17.16:17.21CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2¹
+Valgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)!sCALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2¹
+Valgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)!sCALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2É
+falgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?start@17.16:17.21CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java ("2É
+falgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?oneTo@17.41:17.46CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2É
+falgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?start@17.16:17.21CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (!2Ë
+halgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?oneFrom@17.27:17.34CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2Ë
+halgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?oneFrom@17.27:17.34CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2É
+falgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?start@17.16:17.21CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java" ('2É
+falgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?start@17.16:17.21CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2¹
+Valgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)!sCALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2É
+falgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?start@17.16:17.21CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java ("2Ë
+halgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?oneFrom@17.27:17.34CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java. (52Ç
+dalgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?ans@16.17:16.20CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2Ç
+dalgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?ans@16.17:16.20CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2É
+falgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?oneTo@17.41:17.46CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java" ('2Ë
+halgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?oneFrom@17.27:17.34CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java* (12É
+falgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?oneTo@17.41:17.46CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java: (?2Ë
+halgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?oneFrom@17.27:17.34CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.javaB (I2°
+Malgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution?MODEL@13.33:13.38CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.javaV ([2É
+falgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?oneTo@17.41:17.46CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2Ë
+halgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?oneFrom@17.27:17.34CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2É
+falgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?start@17.16:17.21CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java   (2¹
+Valgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)!sCALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java" "(2¹
+Valgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)!sCALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java" "(2Ç
+dalgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?ans@16.17:16.20CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java# #(2Ç
+dalgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?ans@16.17:16.20CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java# #(2É
+falgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?oneTo@17.41:17.46CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java# #(#2Ë
+halgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?oneFrom@17.27:17.34CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java#& #(-2É
+falgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?oneTo@17.41:17.46CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java#6 #(;2Ë
+halgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?oneFrom@17.27:17.34CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java#> #(E2°
+Malgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution?MODEL@13.33:13.38CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java#R #(W2Ç
+dalgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?ans@16.17:16.20CALLY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java% %(2¾
+Valgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)!s	PARAMETERY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java! ("2Î
+dalgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?ans@16.17:16.20DECLARATIONY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2Ð
+falgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?start@17.16:17.21DECLARATIONY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (2Ò
+halgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?oneFrom@17.27:17.34DECLARATIONY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java ("2Ð
+falgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?oneTo@17.41:17.46DECLARATIONY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java) (.2m
+intRETURN_TYPEY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (È
+dalgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?ans@16.17:16.20VARIABLEY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java ("
+type long*ans2g
+longTYPEY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (Ê
+falgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?start@17.16:17.21VARIABLEY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java ("
+type int*start2f
+intTYPEY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (Î
+halgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?oneFrom@17.27:17.34VARIABLEY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (""
+type int*oneFrom2f
+intTYPEY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (Ê
+falgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)?oneTo@17.41:17.46VARIABLEY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java) (."
+type int*oneTo2f
+intTYPEY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java (¶
+Valgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution.numSub(java.lang.String)!s	PARAMETERY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java! ("*s2s
+java.lang.StringTYPEY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java ( ®
+Malgorithme.string.NumberOfSubstringsWithOnly1s1513.Solution?MODEL@13.33:13.38VALUEY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java! (&"
+type int*MODEL2f
+intTYPEY
+Oalgorithm/src/main/java/algorithme/string/NumberOfSubstringsWithOnly1s1513.java ( 

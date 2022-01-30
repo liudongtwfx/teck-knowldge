@@ -1,0 +1,355 @@
+
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaº
+!algorithme.backtrace.SudokuSolverCLASSH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java ("
+inner classfalse*SudokuSolver2“
+:algorithme.backtrace.SudokuSolver.main(java.lang.String[])DECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java	 	(2ƒ
+*algorithme.backtrace.SudokuSolver.bridge()DECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java (2ƒ
+*algorithme.backtrace.SudokuSolver.SolutionDECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java#
+ #(Ù
+:algorithme.backtrace.SudokuSolver.main(java.lang.String[])METHODH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java	 	("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2|
+*algorithme.backtrace.SudokuSolver.bridge()CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java
+ 
+(!2‚
+0algorithme.backtrace.SudokuSolver.SudokuSolver()CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java
+ 
+(2–
+?algorithme.backtrace.SudokuSolver.main(java.lang.String[])!args	PARAMETERH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java	% 	()2]
+voidRETURN_TYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java	 	(‚
+?algorithme.backtrace.SudokuSolver.main(java.lang.String[])!args	PARAMETERH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java	% 	()*args2d
+java.lang.String[]TYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java	 	($œ
+*algorithme.backtrace.SudokuSolver.bridge()METHODH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2n
+java.lang.String.charAt(int)CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java0 (62’
+@algorithme.backtrace.SudokuSolver.Solution.solveSudoku(char[][])CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java   ("2‡
+5algorithme.backtrace.SudokuSolver.Solution.Solution()CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java   (2”
+Balgorithme.backtrace.SudokuSolver.bridge()?boardString@15.19:15.30CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java" (-2”
+Balgorithme.backtrace.SudokuSolver.bridge()?boardString@15.19:15.30CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java6 (A2Š
+8algorithme.backtrace.SudokuSolver.bridge()?i@27.17:27.18CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java (2Ž
+<algorithme.backtrace.SudokuSolver.bridge()?board@26.17:26.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java (!2Š
+8algorithme.backtrace.SudokuSolver.bridge()?i@27.17:27.18CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java* (+2Š
+8algorithme.backtrace.SudokuSolver.bridge()?j@28.21:28.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java (2Ž
+<algorithme.backtrace.SudokuSolver.bridge()?board@26.17:26.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java  (%2Š
+8algorithme.backtrace.SudokuSolver.bridge()?i@27.17:27.18CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java& ('2Š
+8algorithme.backtrace.SudokuSolver.bridge()?j@28.21:28.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java1 (22Ž
+<algorithme.backtrace.SudokuSolver.bridge()?board@26.17:26.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java (2Š
+8algorithme.backtrace.SudokuSolver.bridge()?i@27.17:27.18CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java (2Š
+8algorithme.backtrace.SudokuSolver.bridge()?j@28.21:28.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java (2”
+Balgorithme.backtrace.SudokuSolver.bridge()?boardString@15.19:15.30CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java ()2Š
+8algorithme.backtrace.SudokuSolver.bridge()?i@27.17:27.18CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java* (+2Š
+8algorithme.backtrace.SudokuSolver.bridge()?j@28.21:28.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java- (.2Ž
+<algorithme.backtrace.SudokuSolver.bridge()?board@26.17:26.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java #  ((2›
+Balgorithme.backtrace.SudokuSolver.bridge()?boardString@15.19:15.30DECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java (2•
+<algorithme.backtrace.SudokuSolver.bridge()?board@26.17:26.22DECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java (2‘
+8algorithme.backtrace.SudokuSolver.bridge()?i@27.17:27.18DECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java (2‘
+8algorithme.backtrace.SudokuSolver.bridge()?j@28.21:28.22DECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java (2]
+voidRETURN_TYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java (¢
+Balgorithme.backtrace.SudokuSolver.bridge()?boardString@15.19:15.30VARIABLEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java ("
+type 
+String[][]*boardString2f
+java.lang.String[][]TYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java (¶
+<algorithme.backtrace.SudokuSolver.bridge()?board@26.17:26.22VARIABLEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java ("
+type char[][]*board2Z
+char[][]TYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java (2”
+Balgorithme.backtrace.SudokuSolver.bridge()?boardString@15.19:15.30CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java" (-2”
+Balgorithme.backtrace.SudokuSolver.bridge()?boardString@15.19:15.30CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java6 (Aö
+8algorithme.backtrace.SudokuSolver.bridge()?i@27.17:27.18VARIABLEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java ("
+type int*i2U
+intTYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java (ö
+8algorithme.backtrace.SudokuSolver.bridge()?j@28.21:28.22VARIABLEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java ("
+type int*j2U
+intTYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java (ø
+*algorithme.backtrace.SudokuSolver.SolutionCLASSH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java#
+ #("
+inner classtrue*Solution2™
+@algorithme.backtrace.SudokuSolver.Solution.solveSudoku(char[][])DECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java$ $(2“
+:algorithme.backtrace.SudokuSolver.Solution.check(char[][])DECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java( ((2§
+Nalgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)DECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java= =("•
+@algorithme.backtrace.SudokuSolver.Solution.solveSudoku(char[][])METHODH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java$ $("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*solveSudoku2Œ
+:algorithme.backtrace.SudokuSolver.Solution.check(char[][])CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java% %(2˜
+Falgorithme.backtrace.SudokuSolver.Solution.solveSudoku(char[][])!boardCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java% %(2
+Falgorithme.backtrace.SudokuSolver.Solution.solveSudoku(char[][])!board	PARAMETERH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java$) $(.2]
+voidRETURN_TYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java$ $(€
+Falgorithme.backtrace.SudokuSolver.Solution.solveSudoku(char[][])!board	PARAMETERH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java$) $(.*board2Z
+char[][]TYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java$  $(&þ&
+:algorithme.backtrace.SudokuSolver.Solution.check(char[][])METHODH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java( (("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type boolean*check2 
+Nalgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java-! -(+2Œ
+:algorithme.backtrace.SudokuSolver.Solution.check(char[][])CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java1  1(%2š
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?i@41.21:41.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java) )(2’
+@algorithme.backtrace.SudokuSolver.Solution.check(char[][])!boardCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java)  )(%2š
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?i@41.21:41.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java). )(/2š
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?j@42.25:42.26CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java*  *(!2’
+@algorithme.backtrace.SudokuSolver.Solution.check(char[][])!boardCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java*$ *()2š
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?i@41.21:41.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java** *(+2š
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?j@42.25:42.26CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java*5 *(62’
+@algorithme.backtrace.SudokuSolver.Solution.check(char[][])!boardCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java+ +(2š
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?i@41.21:41.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java+ +(2š
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?j@42.25:42.26CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java+! +("2š
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?k@44.33:44.34CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java,( ,()2š
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?k@44.33:44.34CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java,0 ,(12’
+@algorithme.backtrace.SudokuSolver.Solution.check(char[][])!boardCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java-, -(12š
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?i@41.21:41.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java-3 -(42š
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?j@42.25:42.26CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java-6 -(72š
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?k@44.33:44.34CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java-9 -(:2’
+@algorithme.backtrace.SudokuSolver.Solution.check(char[][])!boardCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java0 0(!2š
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?i@41.21:41.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java0" 0(#2š
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?j@42.25:42.26CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java0% 0(&2š
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?k@44.33:44.34CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java08 0(92’
+@algorithme.backtrace.SudokuSolver.Solution.check(char[][])!boardCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java1& 1(+2’
+@algorithme.backtrace.SudokuSolver.Solution.check(char[][])!boardCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java5 5(2š
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?i@41.21:41.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java5 5(2š
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?j@42.25:42.26CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java5! 5("2—
+@algorithme.backtrace.SudokuSolver.Solution.check(char[][])!board	PARAMETERH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java(' ((,2¡
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?i@41.21:41.22DECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java) )(2¡
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?j@42.25:42.26DECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java* *(2¡
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?k@44.33:44.34DECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java,! ,("2`
+booleanRETURN_TYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java( ((†
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?i@41.21:41.22VARIABLEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java) )("
+type int*i2U
+intTYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java) )(†
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?j@42.25:42.26VARIABLEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java* *("
+type int*j2U
+intTYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java* *(†
+Halgorithme.backtrace.SudokuSolver.Solution.check(char[][])?k@44.33:44.34VARIABLEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java,! ,(""
+type int*k2U
+intTYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java, ,( ú
+@algorithme.backtrace.SudokuSolver.Solution.check(char[][])!board	PARAMETERH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java(' ((,*board2Z
+char[][]TYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java( (($Ž0
+Nalgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)METHODH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java= =(""
+staticfalse"
+finalfalse"
+access modifierprivate"
+type boolean*
+checkValid2¢
+Palgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!kCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java> >(2®
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?i@63.21:63.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java? ?(2®
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?i@63.21:63.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java?# ?($2¦
+Talgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!boardCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java@ @(2¤
+Ralgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!rowCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java@ @(2®
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?i@63.21:63.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java@ @( 2®
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?c@62.17:62.18CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java@% @(&2¦
+Talgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!boardCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaC C(2®
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?i@63.21:63.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaC C(2¤
+Ralgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!colCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaC C( 2®
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?c@62.17:62.18CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaC% C(&2¤
+Ralgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!rowCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaH H(2¤
+Ralgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!colCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaI I(2®
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?i@74.21:74.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaJ J(2®
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?i@74.21:74.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaJ# J($2®
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?j@75.25:75.26CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaK  K(!2®
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?j@75.25:75.26CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaK' K((2¦
+Talgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!boardCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaL L(2³
+aalgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?newRow@72.16:72.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaL L($2®
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?i@74.21:74.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaL' L((2³
+aalgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?newCol@73.16:73.22CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaL* L(02®
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?j@75.25:75.26CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaL3 L(42®
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?c@62.17:62.18CALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaL9 L(:2«
+Talgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!board	PARAMETERH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java=, =(12©
+Ralgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!row	PARAMETERH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java=7 =(:2©
+Ralgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!col	PARAMETERH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java=@ =(C2§
+Palgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!k	PARAMETERH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java=I =(J2µ
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?c@62.17:62.18DECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java> >(2µ
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?i@63.21:63.22DECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java? ?(2º
+aalgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?newRow@72.16:72.22DECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaH H(2º
+aalgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?newCol@73.16:73.22DECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaI I(2µ
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?i@74.21:74.22DECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaJ J(2µ
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?j@75.25:75.26DECLARATIONH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaK K(2`
+booleanRETURN_TYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java= =(Á
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?c@62.17:62.18VARIABLEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java> >("
+type char*c2V
+charTYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java> >(2¢
+Palgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!kCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java> >(š
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?i@63.21:63.22VARIABLEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java? ?("
+type int*i2U
+intTYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java? ?(Ë
+aalgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?newRow@72.16:72.22VARIABLEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaH H("
+type int*newRow2U
+intTYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaH H(2¤
+Ralgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!rowCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaH H(Ë
+aalgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?newCol@73.16:73.22VARIABLEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaI I("
+type int*newCol2U
+intTYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaI I(2¤
+Ralgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!colCALLH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaI I(š
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?i@74.21:74.22VARIABLEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaJ J("
+type int*i2U
+intTYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaJ J(š
+\algorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)?j@75.25:75.26VARIABLEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaK K("
+type int*j2U
+intTYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.javaK K(Ž
+Talgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!board	PARAMETERH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java=, =(1*board2Z
+char[][]TYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java=# =()…
+Ralgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!row	PARAMETERH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java=7 =(:*row2U
+intTYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java=3 =(6…
+Ralgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!col	PARAMETERH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java=@ =(C*col2U
+intTYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java=< =(?
+Palgorithme.backtrace.SudokuSolver.Solution.checkValid(char[][], int, int, int)!k	PARAMETERH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java=I =(J*k2U
+intTYPEH
+>algorithm/src/main/java/algorithme/backtrace/SudokuSolver.java=E =(H

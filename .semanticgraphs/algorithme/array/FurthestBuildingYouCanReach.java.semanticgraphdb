@@ -1,0 +1,123 @@
+
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.javaÖ
+,algorithme.array.FurthestBuildingYouCanReachCLASSS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java (("
+inner classfalse*FurthestBuildingYouCanReach2©
+Ealgorithme.array.FurthestBuildingYouCanReach.main(java.lang.String[])DECLARATIONS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java (2ô
+5algorithme.array.FurthestBuildingYouCanReach.SolutionDECLARATIONS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java
+ (ç
+Ealgorithme.array.FurthestBuildingYouCanReach.main(java.lang.String[])METHODS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2¨
+Jalgorithme.array.FurthestBuildingYouCanReach.main(java.lang.String[])!args	PARAMETERS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java% ()2h
+voidRETURN_TYPES
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java (£
+Jalgorithme.array.FurthestBuildingYouCanReach.main(java.lang.String[])!args	PARAMETERS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java% ()*args2o
+java.lang.String[]TYPES
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java ($
+5algorithme.array.FurthestBuildingYouCanReach.SolutionCLASSS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java
+ ("
+inner classtrue*Solution2ª
+Walgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)DECLARATIONS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java (#∏#
+Walgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)METHODS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java (#"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*furthestBuilding2¬
+ealgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)?i@10.21:10.22CALLS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java
+ 
+(2º
+_algorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)!heightsCALLS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java
+  
+('2¬
+ealgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)?i@10.21:10.22CALLS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java
+0 
+(12º
+_algorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)!heightsCALLS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java (%2¬
+ealgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)?i@10.21:10.22CALLS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java& ('2√
+falgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)?last@9.16:9.20CALLS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java (2»
+kalgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)?current@11.20:11.27CALLS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java ("2º
+_algorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)!laddersCALLS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java (2ª
+^algorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)!bricksCALLS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java( (.2»
+kalgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)?current@11.20:11.27CALLS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java1 (82√
+falgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)?last@9.16:9.20CALLS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java; (?2»
+kalgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)?current@11.20:11.27CALLS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java (&2√
+falgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)?last@9.16:9.20CALLS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java (2»
+kalgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)?current@11.20:11.27CALLS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java (2º
+_algorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)!heightsCALLS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java (2¡
+_algorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)!heights	PARAMETERS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java* (12¿
+^algorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)!bricks	PARAMETERS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java7 (=2¡
+_algorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)!ladders	PARAMETERS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.javaC (J2 
+falgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)?last@9.16:9.20DECLARATIONS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java	 	(2…
+ealgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)?i@10.21:10.22DECLARATIONS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java
+ 
+(2œ
+kalgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)?current@11.20:11.27DECLARATIONS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java (2g
+intRETURN_TYPES
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java (Ω
+falgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)?last@9.16:9.20VARIABLES
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java	 	("
+type int*last2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java	 	(π
+ealgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)?i@10.21:10.22VARIABLES
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java
+ 
+("
+type int*i2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java
+ 
+(…
+kalgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)?current@11.20:11.27VARIABLES
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java ("
+type int*current2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java (2º
+_algorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)!heightsCALLS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java (%2¬
+ealgorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)?i@10.21:10.22CALLS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java& ('Æ
+_algorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)!heights	PARAMETERS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java* (1*heights2b
+int[]TYPES
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java$ ()™
+^algorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)!bricks	PARAMETERS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java7 (=*bricks2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java3 (6¨
+_algorithme.array.FurthestBuildingYouCanReach.Solution.furthestBuilding(int[], int, int)!ladders	PARAMETERS
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.javaC (J*ladders2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/array/FurthestBuildingYouCanReach.java? (B

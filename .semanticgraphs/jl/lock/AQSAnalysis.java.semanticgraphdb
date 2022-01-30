@@ -1,0 +1,74 @@
+
+0knowledge/src/main/java/jl/lock/AQSAnalysis.javaô
+jl.lock.AQSAnalysisCLASS:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java ("
+inner classfalse*AQSAnalysis2w
+,jl.lock.AQSAnalysis.main(java.lang.String[])DECLARATION:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java (©
+
+,jl.lock.AQSAnalysis.main(java.lang.String[])METHOD:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2d
+ java.io.PrintStream.println(int)CALL:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java (2\
+java.lang.Thread.start()CALL:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java# ((2o
++java.lang.Thread.Thread(java.lang.Runnable)CALL:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java (2c
+jl.lock.AQSAnalysis.Task.Task()CALL:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java (2|
+8jl.lock.AQSAnalysis.main(java.lang.String[])?i@6.17:6.18CALL:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java (2|
+8jl.lock.AQSAnalysis.main(java.lang.String[])?i@6.17:6.18CALL:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java ( 2|
+8jl.lock.AQSAnalysis.main(java.lang.String[])?i@6.17:6.18CALL:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java ( 2z
+1jl.lock.AQSAnalysis.main(java.lang.String[])!args	PARAMETER:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java% ()2ƒ
+8jl.lock.AQSAnalysis.main(java.lang.String[])?i@6.17:6.18DECLARATION:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java (2O
+voidRETURN_TYPE:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java (Ú
+8jl.lock.AQSAnalysis.main(java.lang.String[])?i@6.17:6.18VARIABLE:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java ("
+type int*i2G
+intTYPE:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java (Ø
+1jl.lock.AQSAnalysis.main(java.lang.String[])!args	PARAMETER:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java% ()*args2V
+java.lang.String[]TYPE:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java ($«
+jl.lock.AQSAnalysis.TaskCLASS:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java ("
+inner classfalse*Task2i
+jl.lock.AQSAnalysis.Task.run()DECLARATION:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java (2t
+)jl.lock.AQSAnalysis.Task?LOCK@13.43:13.47DECLARATION:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java+ (/2u
+*jl.lock.AQSAnalysis.Task?index@14.26:14.31DECLARATION:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java (2X
+java.lang.RunnableEXTEND:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java! ()…
+jl.lock.AQSAnalysis.Task.run()METHOD:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*run2O
+voidRETURN_TYPE:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java (€
+)jl.lock.AQSAnalysis.Task?LOCK@13.43:13.47VALUE:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java+ (/"
+type ReentrantLock*LOCK2l
+(java.util.concurrent.locks.ReentrantLockTYPE:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java (*2ƒ
+?java.util.concurrent.locks.ReentrantLock.ReentrantLock(boolean)CALL:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java6 (CÍ
+*jl.lock.AQSAnalysis.Task?index@14.26:14.31VALUE:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java ("
+type int*index2G
+intTYPE:
+0knowledge/src/main/java/jl/lock/AQSAnalysis.java (

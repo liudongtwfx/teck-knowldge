@@ -1,0 +1,193 @@
+
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java¹
+3algorithme.stack.DesignAStackWithIncrementOperationCLASSZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (/"
+inner classfalse*"DesignAStackWithIncrementOperation2·
+Lalgorithme.stack.DesignAStackWithIncrementOperation.main(java.lang.String[])DECLARATIONZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (2ª
+?algorithme.stack.DesignAStackWithIncrementOperation.CustomStackDECLARATIONZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java
+ (°
+Lalgorithme.stack.DesignAStackWithIncrementOperation.main(java.lang.String[])METHODZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2º
+Qalgorithme.stack.DesignAStackWithIncrementOperation.main(java.lang.String[])!args	PARAMETERZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java% ()2o
+voidRETURN_TYPEZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (¸
+Qalgorithme.stack.DesignAStackWithIncrementOperation.main(java.lang.String[])!args	PARAMETERZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java% ()*args2v
+java.lang.String[]TYPEZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java ($®
+
+?algorithme.stack.DesignAStackWithIncrementOperation.CustomStackCLASSZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java
+ ("
+inner classtrue*CustomStack2»
+Palgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.CustomStack(int)DECLARATIONZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (2´
+Ialgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.push(int)DECLARATIONZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (2°
+Ealgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.pop()DECLARATIONZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (2¾
+Salgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.increment(int, int)DECLARATIONZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java' '(2»
+Palgorithme.stack.DesignAStackWithIncrementOperation.CustomStack?nums@17.36:17.40DECLARATIONZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java$ ((2¾
+Salgorithme.stack.DesignAStackWithIncrementOperation.CustomStack?maxSize@18.26:18.33DECLARATIONZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (!²
+Palgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.CustomStack(int)CONSTRUCTORZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (*CustomStack2¼
+Xalgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.CustomStack(int)!maxSizeCALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java ("2·
+Salgorithme.stack.DesignAStackWithIncrementOperation.CustomStack?maxSize@18.26:18.33CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (2Á
+Xalgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.CustomStack(int)!maxSize	PARAMETERZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (&2ª
+?algorithme.stack.DesignAStackWithIncrementOperation.CustomStackRETURN_TYPEZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (³
+Xalgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.CustomStack(int)!maxSize	PARAMETERZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (&*maxSize2g
+intTYPEZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (ø
+Ialgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.push(int)METHODZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*push2y
+java.util.List.size()CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (2y
+java.util.List.add(E)CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (2´
+Palgorithme.stack.DesignAStackWithIncrementOperation.CustomStack?nums@17.36:17.40CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (2·
+Salgorithme.stack.DesignAStackWithIncrementOperation.CustomStack?maxSize@18.26:18.33CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (%2´
+Palgorithme.stack.DesignAStackWithIncrementOperation.CustomStack?nums@17.36:17.40CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (2¯
+Kalgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.push(int)!xCALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (2´
+Kalgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.push(int)!x	PARAMETERZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (2o
+voidRETURN_TYPEZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java ( 
+Kalgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.push(int)!x	PARAMETERZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (*x2g
+intTYPEZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (ï
+Ealgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.pop()METHODZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*pop2|
+java.util.List.isEmpty()CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (2{
+java.util.List.get(int)CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java" "(2y
+java.util.List.size()CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java"% "()2~
+java.util.List.remove(int)CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java# #(2y
+java.util.List.size()CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java# #(!2´
+Palgorithme.stack.DesignAStackWithIncrementOperation.CustomStack?nums@17.36:17.40CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (2´
+Palgorithme.stack.DesignAStackWithIncrementOperation.CustomStack?nums@17.36:17.40CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java" "(2´
+Palgorithme.stack.DesignAStackWithIncrementOperation.CustomStack?nums@17.36:17.40CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java"  "($2´
+Palgorithme.stack.DesignAStackWithIncrementOperation.CustomStack?nums@17.36:17.40CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java# #(2´
+Palgorithme.stack.DesignAStackWithIncrementOperation.CustomStack?nums@17.36:17.40CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java# #(2º
+Valgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.pop()?last@34.16:34.20CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java$ $(2Á
+Valgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.pop()?last@34.16:34.20DECLARATIONZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java" "(2n
+intRETURN_TYPEZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (¡
+Valgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.pop()?last@34.16:34.20VARIABLEZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java" "("
+type int*last2g
+intTYPEZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java" "(2{
+java.util.List.get(int)CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java" "(2y
+java.util.List.size()CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java"% "()2´
+Palgorithme.stack.DesignAStackWithIncrementOperation.CustomStack?nums@17.36:17.40CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java" "(2´
+Palgorithme.stack.DesignAStackWithIncrementOperation.CustomStack?nums@17.36:17.40CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java"  "($Ò
+Salgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.increment(int, int)METHODZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java' '("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*	increment2y
+java.util.List.size()CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java(. ((22~
+java.util.List.set(int, E)CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java) )(2{
+java.util.List.get(int)CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java)! )($2Å
+aalgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.increment(int, int)?i@40.21:40.22CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java( ((2¹
+Ualgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.increment(int, int)!kCALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java(  ((!2Å
+aalgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.increment(int, int)?i@40.21:40.22CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java(% ((&2´
+Palgorithme.stack.DesignAStackWithIncrementOperation.CustomStack?nums@17.36:17.40CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java() ((-2Å
+aalgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.increment(int, int)?i@40.21:40.22CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java(6 ((72´
+Palgorithme.stack.DesignAStackWithIncrementOperation.CustomStack?nums@17.36:17.40CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java) )(2Å
+aalgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.increment(int, int)?i@40.21:40.22CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java) )(2´
+Palgorithme.stack.DesignAStackWithIncrementOperation.CustomStack?nums@17.36:17.40CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java) )( 2Å
+aalgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.increment(int, int)?i@40.21:40.22CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java)% )(&2»
+Walgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.increment(int, int)!valCALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java)* )(-2¾
+Ualgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.increment(int, int)!k	PARAMETERZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java'" '(#2À
+Walgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.increment(int, int)!val	PARAMETERZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java') '(,2Ì
+aalgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.increment(int, int)?i@40.21:40.22DECLARATIONZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java( ((2o
+voidRETURN_TYPEZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java' '(Ã
+aalgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.increment(int, int)?i@40.21:40.22VARIABLEZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java( (("
+type int*i2g
+intTYPEZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java( ((ª
+Ualgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.increment(int, int)!k	PARAMETERZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java'" '(#*k2g
+intTYPEZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java' '(!®
+Walgorithme.stack.DesignAStackWithIncrementOperation.CustomStack.increment(int, int)!val	PARAMETERZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java') '(,*val2g
+intTYPEZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java'% '((Í
+Palgorithme.stack.DesignAStackWithIncrementOperation.CustomStack?nums@17.36:17.40VALUEZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java$ (("
+type List<Integer>*nums2r
+java.util.ListTYPEZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (2~
+java.lang.IntegerTYPE_ARGUMENTZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java ("2ƒ
+java.util.ArrayList.ArrayList()CALLZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java/ (:¸
+Salgorithme.stack.DesignAStackWithIncrementOperation.CustomStack?maxSize@18.26:18.33VALUEZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (!"
+type int*maxSize2g
+intTYPEZ
+Palgorithm/src/main/java/algorithme/stack/DesignAStackWithIncrementOperation.java (

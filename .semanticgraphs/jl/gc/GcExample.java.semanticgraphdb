@@ -1,0 +1,386 @@
+
+,knowledge/src/main/java/jl/gc/GcExample.javaÍ
+jl.gc.GcExampleCLASS6
+,knowledge/src/main/java/jl/gc/GcExample.java ("
+inner classfalse*	GcExample2o
+(jl.gc.GcExample.main(java.lang.String[])DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.java   (2^
+jl.gc.GcExample.alloc()DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.java- -(2j
+#jl.gc.GcExample.functionWithStack()DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.java2 2()2k
+$jl.gc.GcExample.functionWithReturn()DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.java9& 9(82o
+(jl.gc.GcExample.demoWithWeakReferenced()DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.javaF9 F(O2o
+(jl.gc.GcExample.demoWithSoftReferenced()DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.javaQ Q(.2k
+$jl.gc.GcExample?JVM_ARGS@21.32:21.40DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.java  ((Œ
+(jl.gc.GcExample.main(java.lang.String[])METHOD6
+,knowledge/src/main/java/jl/gc/GcExample.java   ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2m
+-java.io.PrintStream.println(java.lang.String)CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java! !(2`
+ java.io.PrintStream.println(int)CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java" "(2`
+ java.io.PrintStream.println(int)CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java# #(2W
+jl.gc.GcExample.alloc()CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java$ $(2h
+(jl.gc.GcExample.demoWithWeakReferenced()CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java%H %(^2d
+$jl.gc.GcExample.functionWithReturn()CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java(/ ((A2d
+$jl.gc.GcExample?JVM_ARGS@21.32:21.40CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java! !(#2v
+6jl.gc.GcExample.main(java.lang.String[])?i@38.17:38.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java& &(2v
+6jl.gc.GcExample.main(java.lang.String[])?i@38.17:38.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java&  &(!2r
+-jl.gc.GcExample.main(java.lang.String[])!args	PARAMETER6
+,knowledge/src/main/java/jl/gc/GcExample.java %  ()2ì
+Ljl.gc.GcExample.main(java.lang.String[])?integerWeakReferenceMap@37.46:37.69DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.java%. %(E2}
+6jl.gc.GcExample.main(java.lang.String[])?i@38.17:38.18DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.java& &(2â
+Bjl.gc.GcExample.main(java.lang.String[])?largeExamples@40.31:40.44DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.java( ((,2K
+voidRETURN_TYPE6
+,knowledge/src/main/java/jl/gc/GcExample.java   (∂
+Ljl.gc.GcExample.main(java.lang.String[])?integerWeakReferenceMap@37.46:37.69VARIABLE6
+,knowledge/src/main/java/jl/gc/GcExample.java%. %(E"-
+type $Map<Integer,WeakReference<BigArray>>*integerWeakReferenceMap2M
+java.util.MapTYPE6
+,knowledge/src/main/java/jl/gc/GcExample.java% %(2Z
+java.lang.IntegerTYPE_ARGUMENT6
+,knowledge/src/main/java/jl/gc/GcExample.java% %(2d
+java.lang.ref.WeakReferenceTYPE_ARGUMENT6
+,knowledge/src/main/java/jl/gc/GcExample.java% %("2a
+jl.gc.GcExample.BigArrayTYPE_ARGUMENT6
+,knowledge/src/main/java/jl/gc/GcExample.java%# %(+2h
+(jl.gc.GcExample.demoWithWeakReferenced()CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java%H %(^–
+6jl.gc.GcExample.main(java.lang.String[])?i@38.17:38.18VARIABLE6
+,knowledge/src/main/java/jl/gc/GcExample.java& &("
+type int*i2C
+intTYPE6
+,knowledge/src/main/java/jl/gc/GcExample.java& &(œ
+Bjl.gc.GcExample.main(java.lang.String[])?largeExamples@40.31:40.44VARIABLE6
+,knowledge/src/main/java/jl/gc/GcExample.java( ((,"
+type List<LargeExample>*largeExamples2N
+java.util.ListTYPE6
+,knowledge/src/main/java/jl/gc/GcExample.java( ((2e
+jl.gc.GcExample.LargeExampleTYPE_ARGUMENT6
+,knowledge/src/main/java/jl/gc/GcExample.java( ((2d
+$jl.gc.GcExample.functionWithReturn()CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java(/ ((AÃ
+-jl.gc.GcExample.main(java.lang.String[])!args	PARAMETER6
+,knowledge/src/main/java/jl/gc/GcExample.java %  ()*args2R
+java.lang.String[]TYPE6
+,knowledge/src/main/java/jl/gc/GcExample.java   ($È
+jl.gc.GcExample.alloc()METHOD6
+,knowledge/src/main/java/jl/gc/GcExample.java- -("
+statictrue"
+finalfalse"
+access modifierprivate"
+type void*alloc2o
+(jl.gc.GcExample.alloc()?nums@46.14:46.18DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.java. .(2K
+voidRETURN_TYPE6
+,knowledge/src/main/java/jl/gc/GcExample.java- -(…
+(jl.gc.GcExample.alloc()?nums@46.14:46.18VARIABLE6
+,knowledge/src/main/java/jl/gc/GcExample.java. .("
+type int[]*nums2E
+int[]TYPE6
+,knowledge/src/main/java/jl/gc/GcExample.java. .(Û
+
+#jl.gc.GcExample.functionWithStack()METHOD6
+,knowledge/src/main/java/jl/gc/GcExample.java2 2()"
+statictrue"
+finalfalse"
+access modifierprivate"
+type void*functionWithStack2U
+java.util.List.add(E)CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java5 5(2]
+java.lang.String.valueOf(int)CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java59 5(@2_
+java.util.ArrayList.ArrayList()CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java3/ 3(:2q
+1jl.gc.GcExample.functionWithStack()?i@52.17:52.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java4 4(2q
+1jl.gc.GcExample.functionWithStack()?i@52.17:52.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java4$ 4(%2}
+=jl.gc.GcExample.functionWithStack()?largeExamples@51.27:51.40CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java5 5(2q
+1jl.gc.GcExample.functionWithStack()?i@52.17:52.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java5/ 5(02q
+1jl.gc.GcExample.functionWithStack()?i@52.17:52.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java5A 5(B2Ñ
+=jl.gc.GcExample.functionWithStack()?largeExamples@51.27:51.40DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.java3 3((2x
+1jl.gc.GcExample.functionWithStack()?i@52.17:52.18DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.java4 4(2K
+voidRETURN_TYPE6
+,knowledge/src/main/java/jl/gc/GcExample.java2 2(≈
+=jl.gc.GcExample.functionWithStack()?largeExamples@51.27:51.40VARIABLE6
+,knowledge/src/main/java/jl/gc/GcExample.java3 3(("
+type List<LargeExample>*largeExamples2N
+java.util.ListTYPE6
+,knowledge/src/main/java/jl/gc/GcExample.java3 3(2e
+jl.gc.GcExample.LargeExampleTYPE_ARGUMENT6
+,knowledge/src/main/java/jl/gc/GcExample.java3 3(2_
+java.util.ArrayList.ArrayList()CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java3/ 3(:À
+1jl.gc.GcExample.functionWithStack()?i@52.17:52.18VARIABLE6
+,knowledge/src/main/java/jl/gc/GcExample.java4 4("
+type int*i2C
+intTYPE6
+,knowledge/src/main/java/jl/gc/GcExample.java4 4(ˇ
+$jl.gc.GcExample.functionWithReturn()METHOD6
+,knowledge/src/main/java/jl/gc/GcExample.java9& 9(8"
+statictrue"
+finalfalse"
+access modifierprivate"
+type List<LargeExample>*functionWithReturn2U
+java.util.List.add(E)CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java< <(2]
+java.lang.String.valueOf(int)CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java<8 <(?2_
+java.util.ArrayList.ArrayList()CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java:. :(92r
+2jl.gc.GcExample.functionWithReturn()?i@59.17:59.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java; ;(2r
+2jl.gc.GcExample.functionWithReturn()?i@59.17:59.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java;# ;($2}
+=jl.gc.GcExample.functionWithReturn()?largeExample@58.27:58.39CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java< <(2r
+2jl.gc.GcExample.functionWithReturn()?i@59.17:59.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java<. <(/2r
+2jl.gc.GcExample.functionWithReturn()?i@59.17:59.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java<@ <(A2}
+=jl.gc.GcExample.functionWithReturn()?largeExample@58.27:58.39CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java> >(2Ñ
+=jl.gc.GcExample.functionWithReturn()?largeExample@58.27:58.39DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.java: :('2y
+2jl.gc.GcExample.functionWithReturn()?i@59.17:59.18DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.java; ;(2U
+java.util.ListRETURN_TYPE6
+,knowledge/src/main/java/jl/gc/GcExample.java9 9(2l
+jl.gc.GcExample.LargeExampleRETURN_TYPE_ARGUMENT6
+,knowledge/src/main/java/jl/gc/GcExample.java9 9($ƒ
+=jl.gc.GcExample.functionWithReturn()?largeExample@58.27:58.39VARIABLE6
+,knowledge/src/main/java/jl/gc/GcExample.java: :('"
+type List<LargeExample>*largeExample2N
+java.util.ListTYPE6
+,knowledge/src/main/java/jl/gc/GcExample.java: :(2e
+jl.gc.GcExample.LargeExampleTYPE_ARGUMENT6
+,knowledge/src/main/java/jl/gc/GcExample.java: :(2_
+java.util.ArrayList.ArrayList()CALL6
+,knowledge/src/main/java/jl/gc/GcExample.java:. :(9Ã
+2jl.gc.GcExample.functionWithReturn()?i@59.17:59.18VARIABLE6
+,knowledge/src/main/java/jl/gc/GcExample.java; ;("
+type int*i2C
+intTYPE6
+,knowledge/src/main/java/jl/gc/GcExample.java; ;(ﬁ
+(jl.gc.GcExample.demoWithWeakReferenced()METHOD6
+,knowledge/src/main/java/jl/gc/GcExample.javaF9 F(O"
+statictrue"
+finalfalse"
+access modifierprivate".
+type %Map<Integer, WeakReference<BigArray>>*demoWithWeakReferenced2W
+java.util.Map.put(K, V)CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaI I(2[
+java.util.HashMap.HashMap()CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaG8 G(A2l
+,java.lang.ref.WeakReference.WeakReference(T)CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaI I(*2f
+&jl.gc.GcExample.BigArray.BigArray(int)CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaI/ I(72v
+6jl.gc.GcExample.demoWithWeakReferenced()?i@72.17:72.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaH H(2v
+6jl.gc.GcExample.demoWithWeakReferenced()?i@72.17:72.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaH$ H(%2x
+8jl.gc.GcExample.demoWithWeakReferenced()?map@71.46:71.49CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaI I(2v
+6jl.gc.GcExample.demoWithWeakReferenced()?i@72.17:72.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaI I(2v
+6jl.gc.GcExample.demoWithWeakReferenced()?i@72.17:72.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaI8 I(92x
+8jl.gc.GcExample.demoWithWeakReferenced()?map@71.46:71.49CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaK K(2
+8jl.gc.GcExample.demoWithWeakReferenced()?map@71.46:71.49DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.javaG. G(12}
+6jl.gc.GcExample.demoWithWeakReferenced()?i@72.17:72.18DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.javaH H(2T
+java.util.MapRETURN_TYPE6
+,knowledge/src/main/java/jl/gc/GcExample.javaF F(2a
+java.lang.IntegerRETURN_TYPE_ARGUMENT6
+,knowledge/src/main/java/jl/gc/GcExample.javaF F(2k
+java.lang.ref.WeakReferenceRETURN_TYPE_ARGUMENT6
+,knowledge/src/main/java/jl/gc/GcExample.javaF  F(-2h
+jl.gc.GcExample.BigArrayRETURN_TYPE_ARGUMENT6
+,knowledge/src/main/java/jl/gc/GcExample.javaF. F(6Å
+8jl.gc.GcExample.demoWithWeakReferenced()?map@71.46:71.49VARIABLE6
+,knowledge/src/main/java/jl/gc/GcExample.javaG. G(1"-
+type $Map<Integer,WeakReference<BigArray>>*map2M
+java.util.MapTYPE6
+,knowledge/src/main/java/jl/gc/GcExample.javaG G(2Z
+java.lang.IntegerTYPE_ARGUMENT6
+,knowledge/src/main/java/jl/gc/GcExample.javaG G(2d
+java.lang.ref.WeakReferenceTYPE_ARGUMENT6
+,knowledge/src/main/java/jl/gc/GcExample.javaG G("2a
+jl.gc.GcExample.BigArrayTYPE_ARGUMENT6
+,knowledge/src/main/java/jl/gc/GcExample.javaG# G(+2[
+java.util.HashMap.HashMap()CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaG8 G(A–
+6jl.gc.GcExample.demoWithWeakReferenced()?i@72.17:72.18VARIABLE6
+,knowledge/src/main/java/jl/gc/GcExample.javaH H("
+type int*i2C
+intTYPE6
+,knowledge/src/main/java/jl/gc/GcExample.javaH H(ë
+(jl.gc.GcExample.demoWithSoftReferenced()METHOD6
+,knowledge/src/main/java/jl/gc/GcExample.javaQ Q(."
+statictrue"
+finalfalse"
+access modifierprivate"
+type void*demoWithSoftReferenced2W
+java.util.Map.put(K, V)CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaU% U((2m
+-java.io.PrintStream.println(java.lang.String)CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaV V(2c
+#jl.gc.GcExample.BigArray.toString()CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaV; V(C2a
+!java.lang.ref.SoftReference.get()CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaV5 V(82[
+java.util.HashMap.HashMap()CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaRM R(V2l
+,java.lang.ref.SoftReference.SoftReference(T)CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaT@ T(O2f
+&jl.gc.GcExample.BigArray.BigArray(int)CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaTT T(\2v
+6jl.gc.GcExample.demoWithSoftReferenced()?i@83.17:83.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaS S(2v
+6jl.gc.GcExample.demoWithSoftReferenced()?i@83.17:83.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaS! S("2v
+6jl.gc.GcExample.demoWithSoftReferenced()?i@83.17:83.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaT] T(^2ç
+Mjl.gc.GcExample.demoWithSoftReferenced()?bigArrayWeakReferenceMap@82.46:82.70CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaU U($2v
+6jl.gc.GcExample.demoWithSoftReferenced()?i@83.17:83.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaU) U(*2ä
+Jjl.gc.GcExample.demoWithSoftReferenced()?bigArrayWeakReference@84.36:84.57CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaU, U(A2ä
+Jjl.gc.GcExample.demoWithSoftReferenced()?bigArrayWeakReference@84.36:84.57CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaV V(42î
+Mjl.gc.GcExample.demoWithSoftReferenced()?bigArrayWeakReferenceMap@82.46:82.70DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.javaR. R(F2}
+6jl.gc.GcExample.demoWithSoftReferenced()?i@83.17:83.18DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.javaS S(2ë
+Jjl.gc.GcExample.demoWithSoftReferenced()?bigArrayWeakReference@84.36:84.57DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.javaT$ T(92K
+voidRETURN_TYPE6
+,knowledge/src/main/java/jl/gc/GcExample.javaQ Q(´
+Mjl.gc.GcExample.demoWithSoftReferenced()?bigArrayWeakReferenceMap@82.46:82.70VARIABLE6
+,knowledge/src/main/java/jl/gc/GcExample.javaR. R(F"-
+type $Map<Integer,SoftReference<BigArray>>*bigArrayWeakReferenceMap2M
+java.util.MapTYPE6
+,knowledge/src/main/java/jl/gc/GcExample.javaR R(2Z
+java.lang.IntegerTYPE_ARGUMENT6
+,knowledge/src/main/java/jl/gc/GcExample.javaR R(2d
+java.lang.ref.SoftReferenceTYPE_ARGUMENT6
+,knowledge/src/main/java/jl/gc/GcExample.javaR R("2a
+jl.gc.GcExample.BigArrayTYPE_ARGUMENT6
+,knowledge/src/main/java/jl/gc/GcExample.javaR# R(+2[
+java.util.HashMap.HashMap()CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaRM R(V–
+6jl.gc.GcExample.demoWithSoftReferenced()?i@83.17:83.18VARIABLE6
+,knowledge/src/main/java/jl/gc/GcExample.javaS S("
+type int*i2C
+intTYPE6
+,knowledge/src/main/java/jl/gc/GcExample.javaS S(’
+Jjl.gc.GcExample.demoWithSoftReferenced()?bigArrayWeakReference@84.36:84.57VARIABLE6
+,knowledge/src/main/java/jl/gc/GcExample.javaT$ T(9" 
+type SoftReference<BigArray>*bigArrayWeakReference2[
+java.lang.ref.SoftReferenceTYPE6
+,knowledge/src/main/java/jl/gc/GcExample.javaT T(2a
+jl.gc.GcExample.BigArrayTYPE_ARGUMENT6
+,knowledge/src/main/java/jl/gc/GcExample.javaT T("2l
+,java.lang.ref.SoftReference.SoftReference(T)CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaT@ T(O2f
+&jl.gc.GcExample.BigArray.BigArray(int)CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaTT T(\2v
+6jl.gc.GcExample.demoWithSoftReferenced()?i@83.17:83.18CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javaT] T(^“
+$jl.gc.GcExample?JVM_ARGS@21.32:21.40VALUE6
+,knowledge/src/main/java/jl/gc/GcExample.java  (("
+type String*JVM_ARGS2P
+java.lang.StringTYPE6
+,knowledge/src/main/java/jl/gc/GcExample.java (Í
+jl.gc.GcExample.LargeExampleCLASS6
+,knowledge/src/main/java/jl/gc/GcExample.java] ](%"
+inner classfalse*LargeExample2q
+*jl.gc.GcExample.LargeExample?a@94.24:94.25DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.java^ ^(2t
+-jl.gc.GcExample.LargeExample?name@95.23:95.27DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.java_ _(÷
+*jl.gc.GcExample.LargeExample?a@94.24:94.25VARIABLE6
+,knowledge/src/main/java/jl/gc/GcExample.java^ ^("
+type Integer*a2Q
+java.lang.IntegerTYPE6
+,knowledge/src/main/java/jl/gc/GcExample.java^ ^(⁄
+-jl.gc.GcExample.LargeExample?name@95.23:95.27VARIABLE6
+,knowledge/src/main/java/jl/gc/GcExample.java_ _("
+type String*name2P
+java.lang.StringTYPE6
+,knowledge/src/main/java/jl/gc/GcExample.java_ _(Ω
+jl.gc.GcExample.BigArrayCLASS6
+,knowledge/src/main/java/jl/gc/GcExample.javac c(!"
+inner classfalse*BigArray2m
+&jl.gc.GcExample.BigArray.BigArray(int)DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.javag g(2j
+#jl.gc.GcExample.BigArray.toString()DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.javas s(2r
++jl.gc.GcExample.BigArray?nums@100.35:100.39DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.javad# d('2s
+,jl.gc.GcExample.BigArray?index@101.26:101.31DECLARATION6
+,knowledge/src/main/java/jl/gc/GcExample.javae e(ß
+&jl.gc.GcExample.BigArray.BigArray(int)CONSTRUCTOR6
+,knowledge/src/main/java/jl/gc/GcExample.javag g(*BigArray2l
+,jl.gc.GcExample.BigArray.BigArray(int)!indexCALL6
+,knowledge/src/main/java/jl/gc/GcExample.javah h(2l
+,jl.gc.GcExample.BigArray?index@101.26:101.31CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javah h(2q
+,jl.gc.GcExample.BigArray.BigArray(int)!index	PARAMETER6
+,knowledge/src/main/java/jl/gc/GcExample.javag g(2_
+jl.gc.GcExample.BigArrayRETURN_TYPE6
+,knowledge/src/main/java/jl/gc/GcExample.javag g(Ω
+,jl.gc.GcExample.BigArray.BigArray(int)!index	PARAMETER6
+,knowledge/src/main/java/jl/gc/GcExample.javag g(*index2C
+intTYPE6
+,knowledge/src/main/java/jl/gc/GcExample.javag g(‚
+#jl.gc.GcExample.BigArray.toString()METHOD6
+,knowledge/src/main/java/jl/gc/GcExample.javas s("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*toString2]
+java.lang.String.valueOf(int)CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javat t(!2l
+,jl.gc.GcExample.BigArray?index@101.26:101.31CALL6
+,knowledge/src/main/java/jl/gc/GcExample.javat" t('2W
+java.lang.StringRETURN_TYPE6
+,knowledge/src/main/java/jl/gc/GcExample.javas s(…
++jl.gc.GcExample.BigArray?nums@100.35:100.39VALUE6
+,knowledge/src/main/java/jl/gc/GcExample.javad# d('"
+type int[]*nums2E
+int[]TYPE6
+,knowledge/src/main/java/jl/gc/GcExample.javad d("«
+,jl.gc.GcExample.BigArray?index@101.26:101.31VALUE6
+,knowledge/src/main/java/jl/gc/GcExample.javae e("
+type int*index2C
+intTYPE6
+,knowledge/src/main/java/jl/gc/GcExample.javae e(

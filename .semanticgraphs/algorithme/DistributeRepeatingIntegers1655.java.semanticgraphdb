@@ -1,0 +1,501 @@
+
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaÆ
+*algorithme.DistributeRepeatingIntegers1655CLASSQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (,"
+inner classfalse*DistributeRepeatingIntegers16552•
+Calgorithme.DistributeRepeatingIntegers1655.main(java.util.String[])DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (2ï
+3algorithme.DistributeRepeatingIntegers1655.bridge()DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java	 	(2ï
+3algorithme.DistributeRepeatingIntegers1655.SolutionDECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java
+ (2ñ
+4algorithme.DistributeRepeatingIntegers1655.Solution1DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java3
+ 3(æ
+Calgorithme.DistributeRepeatingIntegers1655.main(java.util.String[])METHODQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2é
+3algorithme.DistributeRepeatingIntegers1655.bridge()CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java. (42ß
+Lalgorithme.DistributeRepeatingIntegers1655.DistributeRepeatingIntegers1655()CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (+2®
+Halgorithme.DistributeRepeatingIntegers1655.main(java.util.String[])!args	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java% ()2f
+voidRETURN_TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (ù
+Halgorithme.DistributeRepeatingIntegers1655.main(java.util.String[])!args	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java% ()*args2m
+java.util.String[]TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java ($±
+
+3algorithme.DistributeRepeatingIntegers1655.bridge()METHODQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java	 	("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2™
+Oalgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java* (72ô
+>algorithme.DistributeRepeatingIntegers1655.Solution.Solution()CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java ('2ü
+Dalgorithme.DistributeRepeatingIntegers1655.bridge()?nums@11.14:11.18CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java8 (<2¢
+Galgorithme.DistributeRepeatingIntegers1655.bridge()?quality@10.14:10.21CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java> (E2©
+Galgorithme.DistributeRepeatingIntegers1655.bridge()?quality@10.14:10.21DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java
+ 
+(2¶
+Dalgorithme.DistributeRepeatingIntegers1655.bridge()?nums@11.14:11.18DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (2f
+voidRETURN_TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java	 	(°
+Galgorithme.DistributeRepeatingIntegers1655.bridge()?quality@10.14:10.21VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java
+ 
+("
+type int[]*quality2`
+int[]TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java
+ 
+(õ
+Dalgorithme.DistributeRepeatingIntegers1655.bridge()?nums@11.14:11.18VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java ("
+type int[]*nums2`
+int[]TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (î
+3algorithme.DistributeRepeatingIntegers1655.SolutionCLASSQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java
+ ("
+inner classtrue*Solution2±
+Oalgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java ($2Ø
+Malgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (ü'
+Oalgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])METHODQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java ($"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type boolean*canDistribute2w
+java.util.Arrays.sort(int[])CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (2v
+java.util.HashMap.HashMap()CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java4 (=2Ø
+Talgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])!numsCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (2¬
+galgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?numCountMap@17.34:17.45CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java  (+2∫
+_algorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?num@18.21:18.24CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java9 (<2¬
+galgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?numCountMap@17.34:17.45CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (2∫
+_algorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?num@18.21:18.24CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java  (#2º
+aalgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?value@19.24:19.29CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java% (*2¬
+galgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?numCountMap@17.34:17.45CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java# (.2¬
+galgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?numCountMap@17.34:17.45CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java! (,2Ω
+balgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?values@22.18:22.24CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (2º
+aalgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?index@23.16:23.21CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (2º
+aalgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?value@24.25:24.30CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java" ('2≥
+Xalgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])!quantityCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java ( 2≥
+Xalgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])!quantityCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java ("2≥
+Xalgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])!quantityCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java/ (72Ω
+balgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?values@22.18:22.24CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java9 (?2¥
+Talgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])!nums	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java+ (/2∏
+Xalgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])!quantity	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java7 (?2…
+galgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?numCountMap@17.34:17.45DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java" (-2¡
+_algorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?num@18.21:18.24DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (2√
+aalgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?value@19.24:19.29DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (2ƒ
+balgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?values@22.18:22.24DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (2√
+aalgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?index@23.16:23.21DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (2√
+aalgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?value@24.25:24.30DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (2i
+booleanRETURN_TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (¬
+galgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?numCountMap@17.34:17.45VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java" (-"
+type Map<Integer,Integer>*numCountMap2h
+java.util.MapTYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (2u
+java.util.IntegerTYPE_ARGUMENTQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (2u
+java.util.IntegerTYPE_ARGUMENTQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java ( 2v
+java.util.HashMap.HashMap()CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java4 (=±
+_algorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?num@18.21:18.24VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java ("
+type int*num2^
+intTYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (…
+aalgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?value@19.24:19.29VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java ("
+type Integer*value2l
+java.util.IntegerTYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (2¬
+galgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?numCountMap@17.34:17.45CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java  (+2∫
+_algorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?num@18.21:18.24CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java9 (<Ä
+balgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?values@22.18:22.24VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java ("
+type int[]*values2`
+int[]TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (2¬
+galgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?numCountMap@17.34:17.45CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java# (.µ
+aalgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?index@23.16:23.21VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java ("
+type int*index2^
+intTYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java («
+aalgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])?value@24.25:24.30VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java ("
+type Integer*value2l
+java.util.IntegerTYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (ú
+Talgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])!nums	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java+ (/*nums2`
+int[]TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java% (*§
+Xalgorithme.DistributeRepeatingIntegers1655.Solution.canDistribute(int[], int[])!quantity	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java7 (?*quantity2`
+int[]TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java1 (6ï0
+Malgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])METHODQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type boolean*helper2®
+Malgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java($ ((*2v
+java.util.HashSet.HashSet()CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java#$ #(-2∞
+Ualgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!currentCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java   (2∂
+[algorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])?i@36.21:36.22CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java$ $(2Ø
+Talgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!valuesCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java$  $(&2∂
+[algorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])?i@36.21:36.22CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java$/ $(02Ø
+Talgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!valuesCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java% %( 2∂
+[algorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])?i@36.21:36.22CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java%! %("2∏
+]algorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])?num@37.20:37.23CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java& &(2±
+Valgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!quantityCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java& &(#2∞
+Ualgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!currentCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java&$ &(+2π
+^algorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])?used@35.25:35.29CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java&0 &(42∏
+]algorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])?num@37.20:37.23CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java&9 &(<2Ø
+Talgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!valuesCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java' '(2∂
+[algorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])?i@36.21:36.22CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java' '(2±
+Valgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!quantityCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java'! '()2∞
+Ualgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!currentCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java'* '(12∞
+Ualgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!currentCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java(+ ((22±
+Valgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!quantityCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java(8 ((@2Ø
+Talgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!valuesCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java(B ((H2Ø
+Talgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!valuesCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java) )(2∂
+[algorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])?i@36.21:36.22CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java) )(2±
+Valgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!quantityCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java)! )()2∞
+Ualgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!currentCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java)* )(12∫
+_algorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])?exist@40.28:40.33CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java* *(2µ
+Ualgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!current	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java# (*2∂
+Valgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!quantity	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java2 (:2¥
+Talgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!values	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaB (H2¿
+^algorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])?used@35.25:35.29DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java# #(2Ω
+[algorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])?i@36.21:36.22DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java$ $(2ø
+]algorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])?num@37.20:37.23DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java% %(2¡
+_algorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])?exist@40.28:40.33DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java( ((!2i
+booleanRETURN_TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java (≥
+^algorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])?used@35.25:35.29VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java# #("
+type Set<Integer>*used2h
+java.util.SetTYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java# #(2u
+java.util.IntegerTYPE_ARGUMENTQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java# #(2v
+java.util.HashSet.HashSet()CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java#$ #(-´
+[algorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])?i@36.21:36.22VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java$ $("
+type int*i2^
+intTYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java$ $(ö
+]algorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])?num@37.20:37.23VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java% %("
+type int*num2^
+intTYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java% %(2Ø
+Talgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!valuesCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java% %( 2∂
+[algorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])?i@36.21:36.22CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java%! %("ˇ
+_algorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])?exist@40.28:40.33VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java( ((!"
+type boolean*exist2b
+booleanTYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java( ((2®
+Malgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java($ ((*2∞
+Ualgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!currentCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java(+ ((22±
+Valgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!quantityCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java(8 ((@2Ø
+Talgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!valuesCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java(B ((Hû
+Ualgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!current	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java# (**current2^
+intTYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java ("¢
+Valgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!quantity	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java2 (:*quantity2`
+int[]TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java, (1û
+Talgorithme.DistributeRepeatingIntegers1655.Solution.helper(int, int[], int[])!values	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaB (H*values2`
+int[]TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java< (Aï
+4algorithme.DistributeRepeatingIntegers1655.Solution1CLASSQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java3
+ 3("
+inner classtrue*	Solution12≤
+Palgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java4 4($2≠
+Kalgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaJ J(˚#
+Palgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])METHODQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java4 4($"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type boolean*canDistribute2w
+java.util.Arrays.sort(int[])CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaE E(2v
+java.util.HashMap.HashMap()CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java7- 7(62∞
+Ualgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])!numsCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java8 8(2º
+aalgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?freq@55.34:55.38CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java9 9(2ª
+`algorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?num@56.21:56.24CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java9 9(2º
+aalgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?freq@55.34:55.38CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java9 9("2ª
+`algorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?num@56.21:56.24CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java90 9(32º
+aalgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?freq@55.34:55.38CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java=! =(%2º
+aalgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?freq@55.34:55.38CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java? ?(2º
+aalgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?dist@61.18:61.22CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java@ @(2ª
+`algorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?idx@62.16:62.19CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java@ @(2π
+^algorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?f@63.21:63.22CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java@ @(2¥
+Yalgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])!quantityCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaE E( 2º
+aalgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?dist@61.18:61.22CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaF F(2¥
+Yalgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])!quantityCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaF F(%2¥
+Yalgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])!quantityCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaF' F(/2µ
+Ualgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])!nums	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java4+ 4(/2π
+Yalgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])!quantity	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java47 4(?2√
+aalgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?freq@55.34:55.38DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java7" 7(&2¬
+`algorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?num@56.21:56.24DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java8 8(2√
+aalgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?dist@61.18:61.22DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java= =(2¬
+`algorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?idx@62.16:62.19DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java> >(2¿
+^algorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?f@63.21:63.22DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java? ?(2i
+booleanRETURN_TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java4 4(µ
+aalgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?freq@55.34:55.38VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java7" 7(&"
+type Map<Integer,Integer>*freq2h
+java.util.MapTYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java7 7(2u
+java.util.IntegerTYPE_ARGUMENTQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java7 7(2u
+java.util.IntegerTYPE_ARGUMENTQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java7 7( 2v
+java.util.HashMap.HashMap()CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java7- 7(6≤
+`algorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?num@56.21:56.24VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java8 8("
+type int*num2^
+intTYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java8 8(˜
+aalgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?dist@61.18:61.22VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java= =("
+type int[]*dist2`
+int[]TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java= =(2º
+aalgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?freq@55.34:55.38CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java=! =(%≤
+`algorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?idx@62.16:62.19VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java> >("
+type int*idx2^
+intTYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java> >(Æ
+^algorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])?f@63.21:63.22VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java? ?("
+type int*f2^
+intTYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java? ?(ù
+Ualgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])!nums	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java4+ 4(/*nums2`
+int[]TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java4% 4(*•
+Yalgorithme.DistributeRepeatingIntegers1655.Solution1.canDistribute(int[], int[])!quantity	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java47 4(?*quantity2`
+int[]TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java41 4(6ÿ*
+Kalgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)METHODQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaJ J("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type boolean*rec2¶
+Kalgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaY Y(2v
+java.util.HashSet.HashSet()CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaQ$ Q(-2®
+Malgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!jCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaM M(2¥
+Yalgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)?i@82.21:82.22CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaR R(2´
+Palgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!distCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaR  R($2¥
+Yalgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)?i@82.21:82.22CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaR/ R(02´
+Palgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!distCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaW W(2¥
+Yalgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)?i@82.21:82.22CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaW W(2Ø
+Talgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!quantityCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaW W('2®
+Malgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!jCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaW( W()2∑
+\algorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)?used@81.25:81.29CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaW. W(22´
+Palgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!distCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaW7 W(;2¥
+Yalgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)?i@82.21:82.22CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaW< W(=2´
+Palgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!distCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaX X(2¥
+Yalgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)?i@82.21:82.22CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaX X(2Ø
+Talgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!quantityCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaX X('2®
+Malgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!jCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaX( X()2´
+Palgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!distCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaY Y( 2Ø
+Talgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!quantityCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaY" Y(*2®
+Malgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!jCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaY, Y(-2´
+Palgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!distCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java\ \(2¥
+Yalgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)?i@82.21:82.22CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java\ \(2Ø
+Talgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!quantityCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java\ \('2®
+Malgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!jCALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.java\( \()2∞
+Palgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!dist	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaJ" J(&2¥
+Talgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!quantity	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaJ. J(62≠
+Malgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!j	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaJ< J(=2æ
+\algorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)?used@81.25:81.29DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaQ Q(2ª
+Yalgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)?i@82.21:82.22DECLARATIONQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaR R(2i
+booleanRETURN_TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaJ J(±
+\algorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)?used@81.25:81.29VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaQ Q("
+type Set<Integer>*used2h
+java.util.SetTYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaQ Q(2u
+java.util.IntegerTYPE_ARGUMENTQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaQ Q(2v
+java.util.HashSet.HashSet()CALLQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaQ$ Q(-©
+Yalgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)?i@82.21:82.22VARIABLEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaR R("
+type int*i2^
+intTYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaR R(ò
+Palgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!dist	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaJ" J(&*dist2`
+int[]TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaJ J(!†
+Talgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!quantity	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaJ. J(6*quantity2`
+int[]TYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaJ( J(-ê
+Malgorithme.DistributeRepeatingIntegers1655.Solution1.rec(int[], int[], int)!j	PARAMETERQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaJ< J(=*j2^
+intTYPEQ
+Galgorithm/src/main/java/algorithme/DistributeRepeatingIntegers1655.javaJ8 J(;

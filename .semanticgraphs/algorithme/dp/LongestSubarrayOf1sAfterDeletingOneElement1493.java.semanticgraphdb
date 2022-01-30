@@ -1,0 +1,156 @@
+
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.javaø
+<algorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493CLASSc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (;"
+inner classfalse*.LongestSubarrayOf1sAfterDeletingOneElement14932É
+Ualgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.main(java.lang.String[])DECLARATIONc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2¹
+Ealgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.SolutionDECLARATIONc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java
+ (Ý
+Ualgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.main(java.lang.String[])METHODc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2Ì
+Zalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.main(java.lang.String[])!args	PARAMETERc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java% ()2x
+voidRETURN_TYPEc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (Ó
+Zalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.main(java.lang.String[])!args	PARAMETERc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java% ()*args2
+java.lang.String[]TYPEc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java ($¥
+Ealgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.SolutionCLASSc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java
+ ("
+inner classtrue*Solution2Ð
+\algorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])DECLARATIONc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java	 	("Ñ=
+\algorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])METHODc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java	 	(""
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*longestSubarray2‰
+java.lang.Math.max(int, int)CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2Î
+aalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])!numsCALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java
+ 
+(2Ù
+lalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?len@10.16:10.19CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java) (,2Ù
+lalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?len@10.16:10.19CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2×
+jalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?i@13.21:13.22CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java" (#2×
+jalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?i@13.21:13.22CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java* (+2â
+ualgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?rightMaxOnes@11.18:11.30CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2×
+jalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?i@13.21:13.22CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2á
+talgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?currentOnes@12.16:12.27CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java" (-2Î
+aalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])!numsCALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2×
+jalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?i@13.21:13.22CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2á
+talgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?currentOnes@12.16:12.27CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2á
+talgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?currentOnes@12.16:12.27CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2á
+talgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?currentOnes@12.16:12.27CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2×
+jalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?i@23.21:23.22CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2Ù
+lalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?len@10.16:10.19CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java  (#2×
+jalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?i@23.21:23.22CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java% (&2Ù
+lalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?ans@21.16:21.19CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2Ù
+lalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?ans@21.16:21.19CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java ("2á
+talgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?currentOnes@12.16:12.27CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java$ (/2â
+ualgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?rightMaxOnes@11.18:11.30CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java2 (>2×
+jalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?i@23.21:23.22CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java? (@2Î
+aalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])!numsCALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2×
+jalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?i@23.21:23.22CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2á
+talgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?currentOnes@12.16:12.27CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2á
+talgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?currentOnes@12.16:12.27CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2Ù
+lalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?ans@21.16:21.19CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2Ó
+aalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])!nums	PARAMETERc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java	) 	(-2à
+lalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?len@10.16:10.19DECLARATIONc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java
+ 
+(2é
+ualgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?rightMaxOnes@11.18:11.30DECLARATIONc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2è
+talgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?currentOnes@12.16:12.27DECLARATIONc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2Þ
+jalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?i@13.21:13.22DECLARATIONc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2à
+lalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?ans@21.16:21.19DECLARATIONc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2Þ
+jalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?i@23.21:23.22DECLARATIONc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2w
+intRETURN_TYPEc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java	 	(³
+lalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?len@10.16:10.19VARIABLEc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java
+ 
+("
+type int*len2p
+intTYPEc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java
+ 
+(2Î
+aalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])!numsCALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java
+ 
+(Ô
+ualgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?rightMaxOnes@11.18:11.30VARIABLEc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java ("
+type int[]*rightMaxOnes2r
+int[]TYPEc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2Ù
+lalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?len@10.16:10.19CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java) (,ò
+talgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?currentOnes@12.16:12.27VARIABLEc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java ("
+type int*currentOnes2p
+intTYPEc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (º
+jalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?i@13.21:13.22VARIABLEc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java ("
+type int*i2p
+intTYPEc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (2Ù
+lalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?len@10.16:10.19CALLc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (â
+lalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?ans@21.16:21.19VARIABLEc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java ("
+type int*ans2p
+intTYPEc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (Þ
+jalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])?i@23.21:23.22VARIABLEc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java ("
+type int*i2p
+intTYPEc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java (Í
+aalgorithme.dp.LongestSubarrayOf1sAfterDeletingOneElement1493.Solution.longestSubarray(int[])!nums	PARAMETERc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java	) 	(-*nums2r
+int[]TYPEc
+Yalgorithm/src/main/java/algorithme/dp/LongestSubarrayOf1sAfterDeletingOneElement1493.java	# 	((

@@ -1,0 +1,167 @@
+
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java›
+algorithme.dp.StoneGameIV1510CLASSD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java ("
+inner classfalse*StoneGameIV15102‹
+6algorithme.dp.StoneGameIV1510.main(java.lang.String[])DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2{
+&algorithme.dp.StoneGameIV1510.bridge()DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2{
+&algorithme.dp.StoneGameIV1510.SolutionDECLARATIOND
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java
+ (·
+6algorithme.dp.StoneGameIV1510.main(java.lang.String[])METHODD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2t
+&algorithme.dp.StoneGameIV1510.bridge()CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java ($2}
+/algorithme.dp.StoneGameIV1510.StoneGameIV1510()CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2Ž
+;algorithme.dp.StoneGameIV1510.main(java.lang.String[])!args	PARAMETERD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java% ()2Y
+voidRETURN_TYPED
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (ö
+;algorithme.dp.StoneGameIV1510.main(java.lang.String[])!args	PARAMETERD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java% ()*args2`
+java.lang.String[]TYPED
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java ($§
+&algorithme.dp.StoneGameIV1510.bridge()METHODD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2r
+$java.io.PrintStream.println(boolean)CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2Š
+<algorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java* (:2
+1algorithme.dp.StoneGameIV1510.Solution.Solution()CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java ('2Y
+voidRETURN_TYPED
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (¨
+&algorithme.dp.StoneGameIV1510.SolutionCLASSD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java
+ ("
+inner classtrue*Solution2‘
+<algorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java ('£.
+<algorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)METHODD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java ('"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type boolean*winnerSquareGame2c
+java.util.List.add(E)CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2{
+-java.io.PrintStream.println(java.lang.String)CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java& &(2r
+$java.util.Arrays.toString(boolean[])CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java&& &(.2m
+java.util.ArrayList.ArrayList()CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java( (32˜
+Jalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?i@18.21:18.22CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2˜
+Jalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?i@18.21:18.22CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java  (!2Œ
+>algorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)!nCALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java% (&2˜
+Jalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?i@18.21:18.22CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java( ()2ž
+Palgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?squares@17.26:17.33CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2˜
+Jalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?i@18.21:18.22CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2˜
+Jalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?i@18.21:18.22CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java  (!2Œ
+>algorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)!nCALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java' ((2™
+Kalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?dp@21.22:21.24CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2˜
+Jalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?i@23.21:23.22CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2Œ
+>algorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)!nCALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java! ("2˜
+Jalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?i@23.21:23.22CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java$ (%2ž
+Palgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?squares@17.26:17.33CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java& (-2˜
+Jalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?i@23.21:23.22CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2
+Oalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?square@24.29:24.35CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java ("2™
+Kalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?dp@21.22:21.24CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2˜
+Jalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?i@23.21:23.22CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2˜
+Jalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?i@23.21:23.22CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2
+Oalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?square@24.29:24.35CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java ("2™
+Kalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?dp@21.22:21.24CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java   (2˜
+Jalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?i@23.21:23.22CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java   (2
+Oalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?square@24.29:24.35CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java    (&2™
+Kalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?dp@21.22:21.24CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java! !(2˜
+Jalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?i@23.21:23.22CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java! !(2™
+Kalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?dp@21.22:21.24CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java&/ &(12™
+Kalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?dp@21.22:21.24CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java' '(2Œ
+>algorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)!nCALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java' '(2‘
+>algorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)!n	PARAMETERD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java, (-2¥
+Palgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?squares@17.26:17.33DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (!2Ÿ
+Jalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?i@18.21:18.22DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2 
+Kalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?dp@21.22:21.24DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2Ÿ
+Jalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?i@23.21:23.22DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2¤
+Oalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?square@24.29:24.35DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (#2\
+booleanRETURN_TYPED
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (ú
+Palgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?squares@17.26:17.33VARIABLED
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (!"
+type List<Integer>*squares2\
+java.util.ListTYPED
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2h
+java.lang.IntegerTYPE_ARGUMENTD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2m
+java.util.ArrayList.ArrayList()CALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java( (3€
+Jalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?i@18.21:18.22VARIABLED
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java ("
+type int*i2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (
+Kalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?dp@21.22:21.24VARIABLED
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java ("
+type 	boolean[]*dp2W
+	boolean[]TYPED
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (2Œ
+>algorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)!nCALLD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java' ((€
+Jalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?i@23.21:23.22VARIABLED
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java ("
+type int*i2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (œ
+Oalgorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)?square@24.29:24.35VARIABLED
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (#"
+type Integer*square2_
+java.lang.IntegerTYPED
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java (ç
+>algorithme.dp.StoneGameIV1510.Solution.winnerSquareGame(int)!n	PARAMETERD
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java, (-*n2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dp/StoneGameIV1510.java( (+

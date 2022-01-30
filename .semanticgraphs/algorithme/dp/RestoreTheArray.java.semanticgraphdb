@@ -1,0 +1,447 @@
+
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaô
+algorithme.dp.RestoreTheArrayCLASSD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java ("
+inner classfalse*RestoreTheArray2ã
+6algorithme.dp.RestoreTheArray.main(java.lang.String[])DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java	 	(2{
+&algorithme.dp.RestoreTheArray.bridge()DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2{
+&algorithme.dp.RestoreTheArray.SolutionDECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java
+ (2|
+'algorithme.dp.RestoreTheArray.Solution1DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java>
+ >(∑
+6algorithme.dp.RestoreTheArray.main(java.lang.String[])METHODD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java	 	("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2t
+&algorithme.dp.RestoreTheArray.bridge()CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java
+ 
+($2}
+/algorithme.dp.RestoreTheArray.RestoreTheArray()CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java
+ 
+(2é
+;algorithme.dp.RestoreTheArray.main(java.lang.String[])!args	PARAMETERD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java	% 	()2Y
+voidRETURN_TYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java	 	(ˆ
+;algorithme.dp.RestoreTheArray.main(java.lang.String[])!args	PARAMETERD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java	% 	()*args2`
+java.lang.String[]TYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java	 	($’	
+&algorithme.dp.RestoreTheArray.bridge()METHODD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2n
+ java.io.PrintStream.println(int)CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2ö
+Lalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java* (82
+1algorithme.dp.RestoreTheArray.Solution.Solution()CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java ('2Ç
+4algorithme.dp.RestoreTheArray.bridge()?s@14.15:14.16CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java9 (:2Ç
+4algorithme.dp.RestoreTheArray.bridge()?k@15.12:15.13CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java< (=2â
+4algorithme.dp.RestoreTheArray.bridge()?s@14.15:14.16DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2â
+4algorithme.dp.RestoreTheArray.bridge()?k@15.12:15.13DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2Y
+voidRETURN_TYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (˙
+4algorithme.dp.RestoreTheArray.bridge()?s@14.15:14.16VARIABLED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java ("
+type String*s2^
+java.lang.StringTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (Í
+4algorithme.dp.RestoreTheArray.bridge()?k@15.12:15.13VARIABLED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java ("
+type int*k2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (“
+&algorithme.dp.RestoreTheArray.SolutionCLASSD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java
+ ("
+inner classtrue*Solution2°
+Lalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (!2ó
+Balgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java2 2(êD
+Lalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)METHODD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (!"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*numberOfArrays2{
+-java.lang.String.startsWith(java.lang.String)CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2g
+java.lang.String.length()CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java# ()2g
+java.lang.String.length()CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java" ((2j
+java.lang.String.charAt(int)CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java ( 2ê
+Balgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java ((2r
+$java.lang.String.substring(int, int)CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java+ (42ê
+Balgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java( (((2r
+$java.lang.String.substring(int, int)CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java(+ ((42g
+java.lang.String.length()CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java/ /($2ú
+Nalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2ú
+Nalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java! ("2©
+[algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?dp@24.19:24.21CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2®
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?i@26.21:26.22CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2ú
+Nalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java  (!2®
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?i@26.21:26.22CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java, (-2®
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?i@26.21:26.22CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2®
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?j@28.20:28.21CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2®
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?i@26.21:26.22CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java  (!2®
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?j@28.20:28.21CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java$ (%2®
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?j@28.20:28.21CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java, (-2ú
+Nalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2®
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?j@28.20:28.21CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java! ("2ú
+Nalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java) (*2®
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?j@28.20:28.21CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java5 (62®
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?i@26.21:26.22CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java8 (92™
+\algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?num@31.25:31.28CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java   (2ú
+Nalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)!kCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java   (2™
+\algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?num@31.25:31.28CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java# #(2¨
+^algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?count@27.21:27.26CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java$ $(2¨
+^algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?count@27.21:27.26CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java$! $(&2©
+[algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?dp@24.19:24.21CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java$) $(+2®
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?j@28.20:28.21CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java$, $(-2®
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?i@26.21:26.22CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java' '(2ú
+Nalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java() ((*2®
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?i@26.21:26.22CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java(8 ((92™
+\algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?num@40.25:40.28CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java) )(2™
+\algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?num@40.25:40.28CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java)# )(&2ú
+Nalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)!kCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java)* )(+2¨
+^algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?count@27.21:27.26CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java* *(2©
+[algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?dp@24.19:24.21CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java- -(2®
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?i@26.21:26.22CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java- -(2¨
+^algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?count@27.21:27.26CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java- -(2©
+[algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?dp@24.19:24.21CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java/ /(2ú
+Nalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java/ /(2°
+Nalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)!s	PARAMETERD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java) (*2°
+Nalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)!k	PARAMETERD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java0 (12∞
+[algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?dp@24.19:24.21DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2Ø
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?i@26.21:26.22DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2≥
+^algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?count@27.21:27.26DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2Ø
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?j@28.20:28.21DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2±
+\algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?num@31.25:31.28DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2±
+\algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?num@40.25:40.28DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java( ((2X
+intRETURN_TYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (†
+[algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?dp@24.19:24.21VARIABLED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java ("
+type long[]*dp2T
+long[]TYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2g
+java.lang.String.length()CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java# ()2ú
+Nalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java! ("ê
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?i@26.21:26.22VARIABLED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java ("
+type int*i2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (ö
+^algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?count@27.21:27.26VARIABLED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java ("
+type long*count2R
+longTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (ª
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?j@28.20:28.21VARIABLED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java ("
+type int*j2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2®
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?i@26.21:26.22CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (í
+\algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?num@31.25:31.28VARIABLED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java ("
+type long*num2R
+longTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java (2ê
+Balgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java ((2r
+$java.lang.String.substring(int, int)CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java+ (42ú
+Nalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java) (*2®
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?j@28.20:28.21CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java5 (62®
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?i@26.21:26.22CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java8 (9Á
+\algorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?num@40.25:40.28VARIABLED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java( (("
+type long*num2R
+longTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java( ((2ê
+Balgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java( (((2r
+$java.lang.String.substring(int, int)CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java(+ ((42ú
+Nalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java() ((*2®
+Zalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)?i@26.21:26.22CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java(8 ((9Ñ
+Nalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)!s	PARAMETERD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java) (**s2^
+java.lang.StringTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java" ((˜
+Nalgorithme.dp.RestoreTheArray.Solution.numberOfArrays(java.lang.String, int)!k	PARAMETERD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java0 (1*k2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java, (/—
+Balgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)METHODD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java2 2("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type long*	parseLong2h
+java.lang.String.isEmpty()CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java3 3(&2l
+java.lang.String.toCharArray()CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java7 7('2í
+Dalgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java3 3(2í
+Dalgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java3 3(2í
+Dalgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java7 7(2†
+Ralgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)?ans@54.17:54.20CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java8 8(2†
+Ralgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)?ans@54.17:54.20CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java8 8(2û
+Palgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)?c@55.22:55.23CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java8! 8("2†
+Ralgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)?ans@54.17:54.20CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java: :(2ó
+Dalgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)!s	PARAMETERD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java2& 2('2ß
+Ralgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)?ans@54.17:54.20DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java6 6(2•
+Palgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)?c@55.22:55.23DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java7 7(2Y
+longRETURN_TYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java2 2(å
+Ralgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)?ans@54.17:54.20VARIABLED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java6 6("
+type long*ans2R
+longTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java6 6(à
+Palgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)?c@55.22:55.23VARIABLED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java7 7("
+type char*c2R
+charTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java7 7(˙
+Dalgorithme.dp.RestoreTheArray.Solution.parseLong(java.lang.String)!s	PARAMETERD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java2& 2('*s2^
+java.lang.StringTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java2 2(%ª
+'algorithme.dp.RestoreTheArray.Solution1CLASSD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java>
+ >("
+inner classtrue*	Solution12¢
+Malgorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java? ?(!˛9
+Malgorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)METHODD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java? ?(!"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*numberOfArrays2g
+java.lang.String.length()CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaA! A('2o
+!java.util.Arrays.fill(int[], int)CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaC C(2g
+java.lang.String.length()CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaD D(2g
+java.lang.String.length()CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaF F(!2j
+java.lang.String.charAt(int)CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaG G(2g
+java.lang.String.length()CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaK& K(,2j
+java.lang.String.charAt(int)CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaL( L(.2ù
+Oalgorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaA A( 2™
+\algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?dp@65.18:65.20CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaC C(2™
+\algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?dp@65.18:65.20CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaD D(2ù
+Oalgorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaD D(2ù
+Oalgorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaF F(2©
+[algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?i@70.21:70.22CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaF) F(*2©
+[algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?i@70.21:70.22CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaF1 F(22ù
+Oalgorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaG G(2©
+[algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?i@70.21:70.22CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaG G(2©
+[algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?i@70.21:70.22CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaK K(2©
+[algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?j@75.25:75.26CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaK  K(!2ù
+Oalgorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaK$ K(%2©
+[algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?j@75.25:75.26CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaK0 K(12´
+]algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?num@74.30:74.33CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaL L(2´
+]algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?num@74.30:74.33CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaL L(2ù
+Oalgorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaL& L('2©
+[algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?j@75.25:75.26CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaL/ L(02´
+]algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?num@74.30:74.33CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaM M(2ù
+Oalgorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)!kCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaM M(2´
+]algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?ans@74.21:74.24CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaO O(2™
+\algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?dp@65.18:65.20CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaO O(2©
+[algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?j@75.25:75.26CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaO O(2´
+]algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?ans@74.21:74.24CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaP P(2´
+]algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?ans@74.21:74.24CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaP P(2´
+]algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?mod@66.16:66.19CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaP  P(#2™
+\algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?dp@65.18:65.20CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaR R(2©
+[algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?i@70.21:70.22CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaR R(2´
+]algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?ans@74.21:74.24CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaR R(!2™
+\algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?dp@65.18:65.20CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaT T(2¢
+Oalgorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)!s	PARAMETERD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java?) ?(*2¢
+Oalgorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)!k	PARAMETERD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java?0 ?(12±
+\algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?dp@65.18:65.20DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaA A(2≤
+]algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?mod@66.16:66.19DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaB B(2∞
+[algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?i@70.21:70.22DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaF F(2≤
+]algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?ans@74.21:74.24DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaJ J(2≤
+]algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?num@74.30:74.33DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaJ J(!2∞
+[algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?j@75.25:75.26DECLARATIOND
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaK K(2X
+intRETURN_TYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java? ?(†
+\algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?dp@65.18:65.20VARIABLED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaA A("
+type int[]*dp2S
+int[]TYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaA A(2g
+java.lang.String.length()CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaA! A('2ù
+Oalgorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaA A( ï
+]algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?mod@66.16:66.19VARIABLED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaB B("
+type int*mod2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaB B(ö
+[algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?i@70.21:70.22VARIABLED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaF F("
+type int*i2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaF F(2g
+java.lang.String.length()CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaF F(!2ù
+Oalgorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)!sCALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaF F(ó
+]algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?ans@74.21:74.24VARIABLED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaJ J("
+type long*ans2R
+longTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaJ J(ó
+]algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?num@74.30:74.33VARIABLED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaJ J(!"
+type long*num2R
+longTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaJ J(Ω
+[algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?j@75.25:75.26VARIABLED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaK K("
+type int*j2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaK K(2©
+[algorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)?i@70.21:70.22CALLD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.javaK K(Ö
+Oalgorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)!s	PARAMETERD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java?) ?(**s2^
+java.lang.StringTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java?" ?((¯
+Oalgorithme.dp.RestoreTheArray.Solution1.numberOfArrays(java.lang.String, int)!k	PARAMETERD
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java?0 ?(1*k2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dp/RestoreTheArray.java?, ?(/

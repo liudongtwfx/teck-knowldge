@@ -1,0 +1,171 @@
+
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java’
+@algorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963CLASSg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (<"
+inner classfalse*/MinimumNumberOfSwapsToMakeTheStringBalanced19632—
+Yalgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.main(java.lang.String[])DECLARATIONg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2¡
+Ialgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.bridge()DECLARATIONg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2¡
+Ialgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.SolutionDECLARATIONg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java
+ (î
+Yalgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.main(java.lang.String[])METHODg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2∫
+Ialgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.bridge()CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java> (D2„
+ralgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.MinimumNumberOfSwapsToMakeTheStringBalanced1963()CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (;2‘
+^algorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.main(java.lang.String[])!args	PARAMETERg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java% ()2|
+voidRETURN_TYPEg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (‡
+^algorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.main(java.lang.String[])!args	PARAMETERg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java% ()*args2É
+java.lang.String[]TYPEg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java ($€
+
+Ialgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.bridge()METHODg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2ë
+ java.io.PrintStream.println(int)CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java	 	(2’
+dalgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java	* 	(22≈
+Talgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.Solution()CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java	 	('2∆
+Ualgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.bridge()?s@8.15:8.16CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java	3 	(42Õ
+Ualgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.bridge()?s@8.15:8.16DECLARATIONg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2|
+voidRETURN_TYPEg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (‚
+Ualgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.bridge()?s@8.15:8.16VARIABLEg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java ("
+type String*s2Å
+java.lang.StringTYPEg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (π
+Ialgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.SolutionCLASSg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java
+ ("
+inner classtrue*Solution2‹
+dalgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)DECLARATIONg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (Á=
+dalgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)METHODg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minSwaps2ä
+java.lang.String.length()CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (#2è
+java.lang.String.toCharArray()CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java ((2◊
+falgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)!sCALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2◊
+falgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)!sCALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2„
+ralgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?i@14.16:14.17CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2„
+ralgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?j@14.23:14.24CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2Á
+valgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?chars@15.19:15.24CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2„
+ralgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?i@14.16:14.17CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2Î
+zalgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?leftCount@16.16:16.25CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2„
+ralgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?i@14.16:14.17CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2Î
+zalgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?leftCount@16.16:16.25CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2Î
+zalgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?leftCount@16.16:16.25CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2„
+ralgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?i@14.16:14.17CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2„
+ralgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?i@14.16:14.17CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2„
+ralgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?j@14.23:14.24CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2Á
+valgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?chars@15.19:15.24CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java! (&2„
+ralgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?j@14.23:14.24CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java' ((2„
+ralgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?j@14.23:14.24CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2Â
+talgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?ans@16.31:16.34CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2Á
+valgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?chars@15.19:15.24CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java   (2„
+ralgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?j@14.23:14.24CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java   (2Á
+valgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?chars@15.19:15.24CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java! !(2„
+ralgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?i@14.16:14.17CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java! !(2Î
+zalgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?leftCount@16.16:16.25CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java" "(2„
+ralgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?i@14.16:14.17CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java# #(2„
+ralgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?j@14.23:14.24CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java$ $(2Â
+talgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?ans@16.31:16.34CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java& &(2‹
+falgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)!s	PARAMETERg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java# ($2Í
+ralgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?i@14.16:14.17DECLARATIONg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2Í
+ralgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?j@14.23:14.24DECLARATIONg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2Ó
+valgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?chars@15.19:15.24DECLARATIONg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2Ú
+zalgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?leftCount@16.16:16.25DECLARATIONg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2Ï
+talgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?ans@16.31:16.34DECLARATIONg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java ("2{
+intRETURN_TYPEg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (Ó
+ralgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?i@14.16:14.17VARIABLEg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java ("
+type int*i2t
+intTYPEg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (’
+ralgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?j@14.23:14.24VARIABLEg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java ("
+type int*j2t
+intTYPEg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2ä
+java.lang.String.length()CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (#2◊
+falgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)!sCALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (Ë
+valgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?chars@15.19:15.24VARIABLEg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java ("
+type char[]*chars2w
+char[]TYPEg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (2è
+java.lang.String.toCharArray()CALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java ((2◊
+falgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)!sCALLg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (˛
+zalgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?leftCount@16.16:16.25VARIABLEg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java ("
+type int*	leftCount2t
+intTYPEg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (Ú
+talgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)?ans@16.31:16.34VARIABLEg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java (""
+type int*ans2t
+intTYPEg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java („
+falgorithme.stack.MinimumNumberOfSwapsToMakeTheStringBalanced1963.Solution.minSwaps(java.lang.String)!s	PARAMETERg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java# ($*s2Å
+java.lang.StringTYPEg
+]algorithm/src/main/java/algorithme/stack/MinimumNumberOfSwapsToMakeTheStringBalanced1963.java ("

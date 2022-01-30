@@ -1,0 +1,159 @@
+
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java≤
+ algorithme.sort.MergeIntervals56CLASSG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java ("
+inner classfalse*MergeIntervals562ë
+9algorithme.sort.MergeIntervals56.main(java.lang.String[])DECLARATIONG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2Å
+)algorithme.sort.MergeIntervals56.SolutionDECLARATIONG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java
+
+ 
+(—
+9algorithme.sort.MergeIntervals56.main(java.lang.String[])METHODG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2î
+>algorithme.sort.MergeIntervals56.main(java.lang.String[])!args	PARAMETERG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java% ()2\
+voidRETURN_TYPEG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (ˇ
+>algorithme.sort.MergeIntervals56.main(java.lang.String[])!args	PARAMETERG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java% ()*args2c
+java.lang.String[]TYPEG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java ($≠
+)algorithme.sort.MergeIntervals56.SolutionCLASSG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java
+
+ 
+("
+inner classtrue*Solution2ê
+8algorithme.sort.MergeIntervals56.Solution.merge(int[][])DECLARATIONG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (Î2
+8algorithme.sort.MergeIntervals56.Solution.merge(int[][])METHODG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int[][]*merge2å
+;java.util.Arrays.sort(T[], java.util.Comparator<? super T>)CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2ü
+Njava.util.Comparator.comparingInt(java.util.function.ToIntFunction<? super T>)CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java. (:2m
+java.lang.Math.max(int, int)CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java ("2|
++java.util.Arrays.copyOfRange(T[], int, int)CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (%2ì
+Balgorithme.sort.MergeIntervals56.Solution.merge(int[][])!intervalsCALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (!2ó
+Falgorithme.sort.MergeIntervals56.Solution.merge(int[][])?o@12.59:12.60CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java@ (A2ì
+Balgorithme.sort.MergeIntervals56.Solution.merge(int[][])!intervalsCALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (!2ì
+Balgorithme.sort.MergeIntervals56.Solution.merge(int[][])!intervalsCALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2ì
+Balgorithme.sort.MergeIntervals56.Solution.merge(int[][])!intervalsCALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java" (+2ì
+Balgorithme.sort.MergeIntervals56.Solution.merge(int[][])!intervalsCALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java" (+2û
+Malgorithme.sort.MergeIntervals56.Solution.merge(int[][])?interval@17.23:17.31CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2ô
+Halgorithme.sort.MergeIntervals56.Solution.merge(int[][])?end@14.16:14.19CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java# (&2ô
+Halgorithme.sort.MergeIntervals56.Solution.merge(int[][])?end@14.16:14.19CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2ô
+Halgorithme.sort.MergeIntervals56.Solution.merge(int[][])?end@14.16:14.19CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java# (&2û
+Malgorithme.sort.MergeIntervals56.Solution.merge(int[][])?interval@17.23:17.31CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java( (02ô
+Halgorithme.sort.MergeIntervals56.Solution.merge(int[][])?ans@16.20:16.23CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2ó
+Falgorithme.sort.MergeIntervals56.Solution.merge(int[][])?i@15.16:15.17CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2õ
+Jalgorithme.sort.MergeIntervals56.Solution.merge(int[][])?start@13.16:13.21CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java  (%2ô
+Halgorithme.sort.MergeIntervals56.Solution.merge(int[][])?ans@16.20:16.23CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2ó
+Falgorithme.sort.MergeIntervals56.Solution.merge(int[][])?i@15.16:15.17CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2ô
+Halgorithme.sort.MergeIntervals56.Solution.merge(int[][])?end@14.16:14.19CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java" (%2õ
+Jalgorithme.sort.MergeIntervals56.Solution.merge(int[][])?start@13.16:13.21CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2û
+Malgorithme.sort.MergeIntervals56.Solution.merge(int[][])?interval@17.23:17.31CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java ($2ô
+Halgorithme.sort.MergeIntervals56.Solution.merge(int[][])?end@14.16:14.19CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2û
+Malgorithme.sort.MergeIntervals56.Solution.merge(int[][])?interval@17.23:17.31CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java ("2ô
+Halgorithme.sort.MergeIntervals56.Solution.merge(int[][])?ans@16.20:16.23CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2ó
+Falgorithme.sort.MergeIntervals56.Solution.merge(int[][])?i@15.16:15.17CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2õ
+Jalgorithme.sort.MergeIntervals56.Solution.merge(int[][])?start@13.16:13.21CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2ô
+Halgorithme.sort.MergeIntervals56.Solution.merge(int[][])?ans@16.20:16.23CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2ó
+Falgorithme.sort.MergeIntervals56.Solution.merge(int[][])?i@15.16:15.17CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2ô
+Halgorithme.sort.MergeIntervals56.Solution.merge(int[][])?end@14.16:14.19CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2ô
+Halgorithme.sort.MergeIntervals56.Solution.merge(int[][])?ans@16.20:16.23CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java& ()2ó
+Falgorithme.sort.MergeIntervals56.Solution.merge(int[][])?i@15.16:15.17CALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java. (/2ò
+Balgorithme.sort.MergeIntervals56.Solution.merge(int[][])!intervals	PARAMETERG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java% (.2¢
+Jalgorithme.sort.MergeIntervals56.Solution.merge(int[][])?start@13.16:13.21DECLARATIONG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2†
+Halgorithme.sort.MergeIntervals56.Solution.merge(int[][])?end@14.16:14.19DECLARATIONG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2û
+Falgorithme.sort.MergeIntervals56.Solution.merge(int[][])?i@15.16:15.17DECLARATIONG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2†
+Halgorithme.sort.MergeIntervals56.Solution.merge(int[][])?ans@16.20:16.23DECLARATIONG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2•
+Malgorithme.sort.MergeIntervals56.Solution.merge(int[][])?interval@17.23:17.31DECLARATIONG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2û
+Falgorithme.sort.MergeIntervals56.Solution.merge(int[][])?o@12.59:12.60DECLARATIONG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java; (<2_
+int[][]RETURN_TYPEG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (†
+Jalgorithme.sort.MergeIntervals56.Solution.merge(int[][])?start@13.16:13.21VARIABLEG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java ("
+type int*start2T
+intTYPEG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2ì
+Balgorithme.sort.MergeIntervals56.Solution.merge(int[][])!intervalsCALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (!ú
+Halgorithme.sort.MergeIntervals56.Solution.merge(int[][])?end@14.16:14.19VARIABLEG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java ("
+type int*end2T
+intTYPEG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2ì
+Balgorithme.sort.MergeIntervals56.Solution.merge(int[][])!intervalsCALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (Ç
+Falgorithme.sort.MergeIntervals56.Solution.merge(int[][])?i@15.16:15.17VARIABLEG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java ("
+type int*i2T
+intTYPEG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (§
+Halgorithme.sort.MergeIntervals56.Solution.merge(int[][])?ans@16.20:16.23VARIABLEG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java ("
+type int[][]*ans2X
+int[][]TYPEG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (2ì
+Balgorithme.sort.MergeIntervals56.Solution.merge(int[][])!intervalsCALLG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java" (+î
+Malgorithme.sort.MergeIntervals56.Solution.merge(int[][])?interval@17.23:17.31VARIABLEG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java ("
+type int[]*interval2V
+int[]TYPEG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java (˝
+Balgorithme.sort.MergeIntervals56.Solution.merge(int[][])!intervals	PARAMETERG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java% (.*	intervals2X
+int[][]TYPEG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java ("¶
+Falgorithme.sort.MergeIntervals56.Solution.merge(int[][])?o@12.59:12.60VARIABLEG
+=algorithm/src/main/java/algorithme/sort/MergeIntervals56.java; (<*o2TYPE

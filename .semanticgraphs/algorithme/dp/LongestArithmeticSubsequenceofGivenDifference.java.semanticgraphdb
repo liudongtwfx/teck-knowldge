@@ -1,0 +1,123 @@
+
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.javañ
+;algorithme.dp.LongestArithmeticSubsequenceofGivenDifferenceCLASSb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (:"
+inner classfalse*-LongestArithmeticSubsequenceofGivenDifference2Ç
+Talgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.main(java.lang.String[])DECLARATIONb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (2·
+Dalgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.SolutionDECLARATIONb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java
+ (Ø
+Talgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.main(java.lang.String[])METHODb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2Ê
+Yalgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.main(java.lang.String[])!args	PARAMETERb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java% ()2w
+voidRETURN_TYPEb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (Ð
+Yalgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.main(java.lang.String[])!args	PARAMETERb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java% ()*args2~
+java.lang.String[]TYPEb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java ($©
+Dalgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.SolutionCLASSb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java
+ ("
+inner classtrue*Solution2Ö
+calgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)DECLARATIONb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (%ã%
+calgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)METHODb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (%"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*longestSubsequence2›
+/java.util.Map.getOrDefault(java.lang.Object, V)CALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (+2ƒ
+java.util.Map.put(K, V)CALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (2ˆ
+java.lang.Math.max(int, int)CALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (2‡
+java.util.HashMap.HashMap()CALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java+ (42Ó
+galgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)!arrCALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (2Þ
+ralgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?dp@18.34:18.36CALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (2Ý
+qalgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?i@20.21:20.22CALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java, (-2Ú
+nalgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)!differenceCALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java0 (:2Þ
+ralgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?dp@18.34:18.36CALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (2Ý
+qalgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?i@20.21:20.22CALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (2á
+ualgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?value@21.20:21.25CALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (2ß
+salgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?ans@19.16:19.19CALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (2ß
+salgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?ans@19.16:19.19CALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java ("2á
+ualgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?value@21.20:21.25CALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java$ ()2ß
+salgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?ans@19.16:19.19CALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (2Ø
+galgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)!arr	PARAMETERb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java, (/2ß
+nalgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)!difference	PARAMETERb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java5 (?2å
+ralgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?dp@18.34:18.36DECLARATIONb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java" ($2æ
+salgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?ans@19.16:19.19DECLARATIONb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (2ä
+qalgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?i@20.21:20.22DECLARATIONb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (2è
+ualgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?value@21.20:21.25DECLARATIONb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (2v
+intRETURN_TYPEb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (œ
+ralgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?dp@18.34:18.36VARIABLEb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java" ($"
+type Map<Integer,Integer>*dp2y
+java.util.MapTYPEb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (2†
+java.lang.IntegerTYPE_ARGUMENTb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (2†
+java.lang.IntegerTYPE_ARGUMENTb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java ( 2‡
+java.util.HashMap.HashMap()CALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java+ (4ç
+salgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?ans@19.16:19.19VARIABLEb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java ("
+type int*ans2o
+intTYPEb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (ã
+qalgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?i@20.21:20.22VARIABLEb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java ("
+type int*i2o
+intTYPEb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (§	
+ualgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?value@21.20:21.25VARIABLEb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java ("
+type int*value2o
+intTYPEb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (2›
+/java.util.Map.getOrDefault(java.lang.Object, V)CALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (+2Þ
+ralgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?dp@18.34:18.36CALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java (2Ý
+qalgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)?i@20.21:20.22CALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java, (-2Ú
+nalgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)!differenceCALLb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java0 (:Ð
+galgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)!arr	PARAMETERb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java, (/*arr2q
+int[]TYPEb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java& (+Ü
+nalgorithme.dp.LongestArithmeticSubsequenceofGivenDifference.Solution.longestSubsequence(int[], int)!difference	PARAMETERb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java5 (?*
+difference2o
+intTYPEb
+Xalgorithm/src/main/java/algorithme/dp/LongestArithmeticSubsequenceofGivenDifference.java1 (4

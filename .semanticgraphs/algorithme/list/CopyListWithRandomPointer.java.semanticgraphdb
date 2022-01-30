@@ -1,0 +1,252 @@
+
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.javaÉ
+)algorithme.list.CopyListWithRandomPointerCLASSP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (&"
+inner classfalse*CopyListWithRandomPointer2£
+Balgorithme.list.CopyListWithRandomPointer.main(java.lang.String[])DECLARATIONP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2è
+.algorithme.list.CopyListWithRandomPointer.NodeDECLARATIONP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java
+ (2ì
+2algorithme.list.CopyListWithRandomPointer.SolutionDECLARATIONP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java
+ (˛
+Balgorithme.list.CopyListWithRandomPointer.main(java.lang.String[])METHODP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2¶
+Galgorithme.list.CopyListWithRandomPointer.main(java.lang.String[])!args	PARAMETERP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java% ()2e
+voidRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (ö
+Galgorithme.list.CopyListWithRandomPointer.main(java.lang.String[])!args	PARAMETERP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java% ()*args2l
+java.lang.String[]TYPEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java ($™
+.algorithme.list.CopyListWithRandomPointer.NodeCLASSP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java
+ ("
+inner classtrue*Node2ô
+8algorithme.list.CopyListWithRandomPointer.Node.Node(int)DECLARATIONP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2ü
+>algorithme.list.CopyListWithRandomPointer.Node?val@13.12:13.15DECLARATIONP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2†
+?algorithme.list.CopyListWithRandomPointer.Node?next@14.13:14.17DECLARATIONP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2¢
+Aalgorithme.list.CopyListWithRandomPointer.Node?random@15.13:15.19DECLARATIONP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (Ω
+8algorithme.list.CopyListWithRandomPointer.Node.Node(int)CONSTRUCTORP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (*Node2ñ
+<algorithme.list.CopyListWithRandomPointer.Node.Node(int)!valCALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2ò
+>algorithme.list.CopyListWithRandomPointer.Node?val@13.12:13.15CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2ô
+?algorithme.list.CopyListWithRandomPointer.Node?next@14.13:14.17CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2õ
+Aalgorithme.list.CopyListWithRandomPointer.Node?random@15.13:15.19CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2õ
+<algorithme.list.CopyListWithRandomPointer.Node.Node(int)!val	PARAMETERP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2è
+.algorithme.list.CopyListWithRandomPointer.NodeRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (ˇ
+<algorithme.list.CopyListWithRandomPointer.Node.Node(int)!val	PARAMETERP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (*val2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (é
+>algorithme.list.CopyListWithRandomPointer.Node?val@13.12:13.15VARIABLEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java ("
+type int*val2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (Ω
+?algorithme.list.CopyListWithRandomPointer.Node?next@14.13:14.17VARIABLEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java ("
+type Node*next2à
+.algorithme.list.CopyListWithRandomPointer.NodeTYPEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (¡
+Aalgorithme.list.CopyListWithRandomPointer.Node?random@15.13:15.19VARIABLEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java ("
+type Node*random2à
+.algorithme.list.CopyListWithRandomPointer.NodeTYPEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (Å
+2algorithme.list.CopyListWithRandomPointer.SolutionCLASSP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java
+ ("
+inner classtrue*Solution2“
+qalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)DECLARATIONP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java ("ˇT
+qalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)METHODP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (""
+staticfalse"
+finalfalse"
+access modifierpublic"
+type Node*copyRandomList2o
+java.util.List.size()CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (!2q
+java.util.List.get(int)CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java   ( 2o
+java.util.List.size()CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java *  (.2o
+java.util.List.add(E)CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java" "(2q
+java.util.Map.put(K, V)CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java## #(&2n
+java.util.Map.size()CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java#= #(A2}
+#java.util.Map.get(java.lang.Object)CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java*3 *(62q
+java.util.List.get(int)CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java+ +( 2}
+#java.util.Map.get(java.lang.Object)CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java+4 +(72q
+java.util.List.get(int)CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java+N +(Q2q
+java.util.List.get(int)CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java/ /(2y
+java.util.ArrayList.ArrayList()CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java& (12u
+java.util.HashMap.HashMap()CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java8 (A2í
+8algorithme.list.CopyListWithRandomPointer.Node.Node(int)CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java  ($2–
+valgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)!headCALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2Ÿ
+algorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?p@26.17:26.18CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2Ÿ
+algorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?p@26.17:26.18CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java% (&2·
+Üalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?newNodes@27.23:27.31CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2·
+Üalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?newNodes@27.23:27.31CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java   (2·
+Üalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?newNodes@27.23:27.31CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java !  ()2›
+Çalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?node@30.21:30.25CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java =  (A2·
+Üalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?newNodes@27.23:27.31CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java" "(2›
+Çalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?node@30.21:30.25CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java" "(!2Î
+êalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?originNodeIndexMap@28.31:28.49CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java# #("2Ÿ
+algorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?p@26.17:26.18CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java#' #((2Î
+êalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?originNodeIndexMap@28.31:28.49CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java#* #(<2Ÿ
+algorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?p@26.17:26.18CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java$ $(2Ÿ
+algorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?p@26.17:26.18CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java$ $(2Ÿ
+algorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?p@26.17:26.18CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java' '(2–
+valgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)!headCALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java' '(2Ÿ
+algorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?p@26.17:26.18CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java( ((2Ÿ
+algorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?p@26.17:26.18CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java) )(2Î
+êalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?originNodeIndexMap@28.31:28.49CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java*  *(22Ÿ
+algorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?p@26.17:26.18CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java*7 *(82·
+Üalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?newNodes@27.23:27.31CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java+ +(2Î
+êalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?originNodeIndexMap@28.31:28.49CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java+! +(32Ÿ
+algorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?p@26.17:26.18CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java+8 +(92·
+Üalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?newNodes@27.23:27.31CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java+E +(M2ﬁ
+Éalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?index@42.24:42.29CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java+R +(W2Ÿ
+algorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?p@26.17:26.18CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java- -(2Ÿ
+algorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?p@26.17:26.18CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java- -(2·
+Üalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?newNodes@27.23:27.31CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java/ /(2ò
+>algorithme.list.CopyListWithRandomPointer.Node?val@13.12:13.15CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java' (*2ô
+?algorithme.list.CopyListWithRandomPointer.Node?next@14.13:14.17CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java 6  (:2ô
+?algorithme.list.CopyListWithRandomPointer.Node?next@14.13:14.17CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java$ $(2õ
+Aalgorithme.list.CopyListWithRandomPointer.Node?random@15.13:15.19CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java) )(2õ
+Aalgorithme.list.CopyListWithRandomPointer.Node?random@15.13:15.19CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java*9 *(?2õ
+Aalgorithme.list.CopyListWithRandomPointer.Node?random@15.13:15.19CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java+< +(B2ô
+?algorithme.list.CopyListWithRandomPointer.Node?next@14.13:14.17CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java- -(2’
+valgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)!head	PARAMETERP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java( (,2‡
+algorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?p@26.17:26.18DECLARATIONP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2Ë
+Üalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?newNodes@27.23:27.31DECLARATIONP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2Ú
+êalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?originNodeIndexMap@28.31:28.49DECLARATIONP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (12‰
+Çalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?node@30.21:30.25DECLARATIONP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2Â
+Éalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?index@42.24:42.29DECLARATIONP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java* *(2è
+.algorithme.list.CopyListWithRandomPointer.NodeRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (Õ
+algorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?p@26.17:26.18VARIABLEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java ("
+type Node*p2à
+.algorithme.list.CopyListWithRandomPointer.NodeTYPEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2–
+valgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)!headCALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (˝
+Üalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?newNodes@27.23:27.31VARIABLEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java ("
+type 
+List<Node>*newNodes2h
+java.util.ListTYPEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2ë
+.algorithme.list.CopyListWithRandomPointer.NodeTYPE_ARGUMENTP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2y
+java.util.ArrayList.ArrayList()CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java& (1â
+êalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?originNodeIndexMap@28.31:28.49VARIABLEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (1"
+type Map<Node,Integer>*originNodeIndexMap2g
+java.util.MapTYPEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2ë
+.algorithme.list.CopyListWithRandomPointer.NodeTYPE_ARGUMENTP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2t
+java.lang.IntegerTYPE_ARGUMENTP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2u
+java.util.HashMap.HashMap()CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java8 (Aç
+Çalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?node@30.21:30.25VARIABLEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java ("
+type Node*node2à
+.algorithme.list.CopyListWithRandomPointer.NodeTYPEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java (2í
+8algorithme.list.CopyListWithRandomPointer.Node.Node(int)CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java  ($2Ÿ
+algorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?p@26.17:26.18CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java% (&2ò
+>algorithme.list.CopyListWithRandomPointer.Node?val@13.12:13.15CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java' (*Ω
+Éalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?index@42.24:42.29VARIABLEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java* *("
+type int*index2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java* *(2}
+#java.util.Map.get(java.lang.Object)CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java*3 *(62Î
+êalgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?originNodeIndexMap@28.31:28.49CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java*  *(22Ÿ
+algorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)?p@26.17:26.18CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java*7 *(82õ
+Aalgorithme.list.CopyListWithRandomPointer.Node?random@15.13:15.19CALLP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java*9 *(?Ê
+valgorithme.list.CopyListWithRandomPointer.Solution.copyRandomList(algorithme.list.CopyListWithRandomPointer.Node)!head	PARAMETERP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java( (,*head2à
+.algorithme.list.CopyListWithRandomPointer.NodeTYPEP
+Falgorithm/src/main/java/algorithme/list/CopyListWithRandomPointer.java# ('

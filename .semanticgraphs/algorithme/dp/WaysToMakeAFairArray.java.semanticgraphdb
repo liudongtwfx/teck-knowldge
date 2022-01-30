@@ -1,0 +1,278 @@
+
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java 
+"algorithme.dp.WaysToMakeAFairArrayCLASSI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (!"
+inner classfalse*WaysToMakeAFairArray2ï
+;algorithme.dp.WaysToMakeAFairArray.main(java.lang.String[])DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2Ö
++algorithme.dp.WaysToMakeAFairArray.bridge()DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2Ö
++algorithme.dp.WaysToMakeAFairArray.SolutionDECLARATIONI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java
+ (Í
+;algorithme.dp.WaysToMakeAFairArray.main(java.lang.String[])METHODI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2~
++algorithme.dp.WaysToMakeAFairArray.bridge()CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java# ()2å
+9algorithme.dp.WaysToMakeAFairArray.WaysToMakeAFairArray()CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java ( 2ò
+@algorithme.dp.WaysToMakeAFairArray.main(java.lang.String[])!args	PARAMETERI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java% ()2^
+voidRETURN_TYPEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (Ö
+@algorithme.dp.WaysToMakeAFairArray.main(java.lang.String[])!args	PARAMETERI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java% ()*args2e
+java.lang.String[]TYPEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java ($è
+
++algorithme.dp.WaysToMakeAFairArray.bridge()METHODI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2s
+ java.io.PrintStream.println(int)CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java
+ 
+(2î
+Aalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java
+* 
+(82z
+'java.lang.StringBuilder.StringBuilder()CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java	* 	(72â
+6algorithme.dp.WaysToMakeAFairArray.Solution.Solution()CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java
+ 
+('2ç
+:algorithme.dp.WaysToMakeAFairArray.bridge()?nums@8.14:8.18CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java
+9 
+(=2î
+:algorithme.dp.WaysToMakeAFairArray.bridge()?nums@8.14:8.18DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2ù
+Calgorithme.dp.WaysToMakeAFairArray.bridge()?stringBuilder@9.22:9.35DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java	 	(#2^
+voidRETURN_TYPEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (Å
+:algorithme.dp.WaysToMakeAFairArray.bridge()?nums@8.14:8.18VARIABLEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java ("
+type int[]*nums2X
+int[]TYPEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (©
+Calgorithme.dp.WaysToMakeAFairArray.bridge()?stringBuilder@9.22:9.35VARIABLEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java	 	(#"
+type StringBuilder*stringBuilder2j
+java.lang.StringBuilderTYPEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java	 	(2z
+'java.lang.StringBuilder.StringBuilder()CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java	* 	(7º
++algorithme.dp.WaysToMakeAFairArray.SolutionCLASSI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java
+ ("
+inner classtrue*Solution2õ
+Aalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (!ùO
+Aalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])METHODI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (!"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*waysToMakeFair2ô
+Falgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])!numsCALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2ß
+Talgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?length@15.16:15.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2¢
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@19.21:19.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java% (&2¢
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@19.21:19.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java- (.2§
+Qalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?sum@18.16:18.19CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2ô
+Falgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])!numsCALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2¢
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@19.21:19.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2¢
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@19.21:19.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2™
+Walgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightEven@18.25:18.34CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2ô
+Falgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])!numsCALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java! (%2¢
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@19.21:19.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java& ('2≠
+Zalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightEvenMap@16.18:16.30CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2¢
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@19.21:19.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2™
+Walgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightEven@18.25:18.34CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java" (+2¨
+Yalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightOddMap@17.18:17.29CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2¢
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@19.21:19.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2§
+Qalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?sum@18.16:18.19CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java! ($2™
+Walgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightEven@18.25:18.34CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java' (02§
+Qalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?sum@18.16:18.19CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2¢
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@29.21:29.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2ß
+Talgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?length@15.16:15.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java  (&2¢
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@29.21:29.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java( ()2§
+Qalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?sum@18.16:18.19CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (!2©
+Valgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?leftEven@28.16:28.24CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java$ (,2¢
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@29.21:29.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java ( 2ß
+Talgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?length@15.16:15.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java# ()2¨
+Yalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightOddMap@17.18:17.29CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java0 (;2¢
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@29.21:29.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java< (=2™
+Walgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightEven@18.25:18.34CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java   (2¢
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@29.21:29.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java   (2ß
+Talgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?length@15.16:15.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java    (&2≠
+Zalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightEvenMap@16.18:16.30CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java -  (92¢
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@29.21:29.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java :  (;2©
+Valgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?leftEven@28.16:28.24CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java! !(2™
+Walgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightEven@18.25:18.34CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java! !((2®
+Ualgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?leftOdd@30.20:30.27CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java!, !(32©
+Valgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightOdd@31.20:31.28CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java!6 !(>2§
+Qalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?ans@28.30:28.33CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java" "(2¢
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@29.21:29.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java$ $(2©
+Valgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?leftEven@28.16:28.24CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java% %(2ô
+Falgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])!numsCALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java%  %($2¢
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@29.21:29.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java%% %(&2§
+Qalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?sum@18.16:18.19CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java' '(2ô
+Falgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])!numsCALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java' '(2¢
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@29.21:29.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java' '(2§
+Qalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?ans@28.30:28.33CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java) )(2û
+Falgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])!nums	PARAMETERI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java( (,2Æ
+Talgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?length@15.16:15.22DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2¥
+Zalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightEvenMap@16.18:16.30DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2≥
+Yalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightOddMap@17.18:17.29DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2´
+Qalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?sum@18.16:18.19DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2±
+Walgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightEven@18.25:18.34DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java ("2©
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@19.21:19.22DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2∞
+Valgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?leftEven@28.16:28.24DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2´
+Qalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?ans@28.30:28.33DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (!2©
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@29.21:29.22DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2Ø
+Ualgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?leftOdd@30.20:30.27DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2∞
+Valgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightOdd@31.20:31.28DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2]
+intRETURN_TYPEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (µ
+Talgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?length@15.16:15.22VARIABLEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java ("
+type int*length2V
+intTYPEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2ô
+Falgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])!numsCALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (©
+Zalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightEvenMap@16.18:16.30VARIABLEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java ("
+type int[]*rightEvenMap2X
+int[]TYPEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (ß
+Yalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightOddMap@17.18:17.29VARIABLEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java ("
+type int[]*rightOddMap2X
+int[]TYPEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (ì
+Qalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?sum@18.16:18.19VARIABLEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java ("
+type int*sum2V
+intTYPEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (ü
+Walgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightEven@18.25:18.34VARIABLEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (""
+type int*	rightEven2V
+intTYPEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (π
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@19.21:19.22VARIABLEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java ("
+type int*i2V
+intTYPEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2ß
+Talgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?length@15.16:15.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (ù
+Valgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?leftEven@28.16:28.24VARIABLEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java ("
+type int*leftEven2V
+intTYPEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (ì
+Qalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?ans@28.30:28.33VARIABLEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (!"
+type int*ans2V
+intTYPEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (è
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@29.21:29.22VARIABLEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java ("
+type int*i2V
+intTYPEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (Ó
+Ualgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?leftOdd@30.20:30.27VARIABLEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java ("
+type int*leftOdd2V
+intTYPEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2§
+Qalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?sum@18.16:18.19CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (!2©
+Valgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?leftEven@28.16:28.24CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java$ (,¿
+Valgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightOdd@31.20:31.28VARIABLEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java ("
+type int*rightOdd2V
+intTYPEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java (2¢
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@29.21:29.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java ( 2ß
+Talgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?length@15.16:15.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java# ()2¨
+Yalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?rightOddMap@17.18:17.29CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java0 (;2¢
+Oalgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])?i@29.21:29.22CALLI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java< (=˛
+Falgorithme.dp.WaysToMakeAFairArray.Solution.waysToMakeFair(int[])!nums	PARAMETERI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java( (,*nums2X
+int[]TYPEI
+?algorithm/src/main/java/algorithme/dp/WaysToMakeAFairArray.java" ('

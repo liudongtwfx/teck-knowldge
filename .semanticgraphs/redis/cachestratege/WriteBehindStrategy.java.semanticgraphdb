@@ -1,0 +1,103 @@
+
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.javaﬂ
+'redis.cachestratege.WriteBehindStrategyCLASSN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java ( "
+inner classfalse*WriteBehindStrategy2Ø
+Predis.cachestratege.WriteBehindStrategy.save(java.lang.String, java.lang.String)DECLARATIONN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java (2±
+Rredis.cachestratege.WriteBehindStrategy.update(java.lang.String, java.lang.String)DECLARATIONN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java (2û
+?redis.cachestratege.WriteBehindStrategy.query(java.lang.String)DECLARATIONN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java% %(2ü
+@redis.cachestratege.WriteBehindStrategy.delete(java.lang.String)DECLARATIONN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java0 0(2à
+.redis.cachestratege.AbstractCacheAsideStrategyEXTENDN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java) (CŸ	
+Predis.cachestratege.WriteBehindStrategy.save(java.lang.String, java.lang.String)METHODN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*save2¨
+Tredis.cachestratege.RedisStorageOperation.update(java.lang.String, java.lang.String)CALLN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java ($2¨
+Tredis.cachestratege.WriteBehindStrategy.save(java.lang.String, java.lang.String)!keyCALLN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java% ((2Æ
+Vredis.cachestratege.WriteBehindStrategy.save(java.lang.String, java.lang.String)!valueCALLN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java* (/2±
+Tredis.cachestratege.WriteBehindStrategy.save(java.lang.String, java.lang.String)!key	PARAMETERN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java (2≥
+Vredis.cachestratege.WriteBehindStrategy.save(java.lang.String, java.lang.String)!value	PARAMETERN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java( (-2c
+voidRETURN_TYPEN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java (†
+Tredis.cachestratege.WriteBehindStrategy.save(java.lang.String, java.lang.String)!key	PARAMETERN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java (*key2h
+java.lang.StringTYPEN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java (§
+Vredis.cachestratege.WriteBehindStrategy.save(java.lang.String, java.lang.String)!value	PARAMETERN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java( (-*value2h
+java.lang.StringTYPEN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java! ('Â	
+Rredis.cachestratege.WriteBehindStrategy.update(java.lang.String, java.lang.String)METHODN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*update2¨
+Tredis.cachestratege.RedisStorageOperation.update(java.lang.String, java.lang.String)CALLN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java ($2Æ
+Vredis.cachestratege.WriteBehindStrategy.update(java.lang.String, java.lang.String)!keyCALLN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java% ((2∞
+Xredis.cachestratege.WriteBehindStrategy.update(java.lang.String, java.lang.String)!valueCALLN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java* (/2≥
+Vredis.cachestratege.WriteBehindStrategy.update(java.lang.String, java.lang.String)!key	PARAMETERN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java (!2µ
+Xredis.cachestratege.WriteBehindStrategy.update(java.lang.String, java.lang.String)!value	PARAMETERN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java* (/2c
+voidRETURN_TYPEN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java (¢
+Vredis.cachestratege.WriteBehindStrategy.update(java.lang.String, java.lang.String)!key	PARAMETERN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java (!*key2h
+java.lang.StringTYPEN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java (¶
+Xredis.cachestratege.WriteBehindStrategy.update(java.lang.String, java.lang.String)!value	PARAMETERN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java* (/*value2h
+java.lang.StringTYPEN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java# ()ª
+?redis.cachestratege.WriteBehindStrategy.query(java.lang.String)METHODN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java% %("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*query2ô
+Aredis.cachestratege.RedisStorageOperation.query(java.lang.String)CALLN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java&% &(*2õ
+Credis.cachestratege.WriteBehindStrategy.query(java.lang.String)!keyCALLN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java&+ &(.2†
+Credis.cachestratege.WriteBehindStrategy.query(java.lang.String)!key	PARAMETERN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java% %("2o
+java.lang.StringRETURN_TYPEN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java% %(è
+Credis.cachestratege.WriteBehindStrategy.query(java.lang.String)!key	PARAMETERN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java% %("*key2h
+java.lang.StringTYPEN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java% %(≤
+@redis.cachestratege.WriteBehindStrategy.delete(java.lang.String)METHODN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java0 0("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*delete2ö
+Bredis.cachestratege.RedisStorageOperation.delete(java.lang.String)CALLN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java1 1($2ú
+Dredis.cachestratege.WriteBehindStrategy.delete(java.lang.String)!keyCALLN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java1% 1((2°
+Dredis.cachestratege.WriteBehindStrategy.delete(java.lang.String)!key	PARAMETERN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java0 0(!2c
+voidRETURN_TYPEN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java0 0(ê
+Dredis.cachestratege.WriteBehindStrategy.delete(java.lang.String)!key	PARAMETERN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java0 0(!*key2h
+java.lang.StringTYPEN
+Dknowledge/src/main/java/redis/cachestratege/WriteBehindStrategy.java0 0(

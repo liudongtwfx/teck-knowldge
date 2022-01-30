@@ -1,0 +1,205 @@
+
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.javaý
+(algorithme.array.AddMinimumNumberOfRungsCLASSO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java ($"
+inner classfalse*AddMinimumNumberOfRungs2¡
+Aalgorithme.array.AddMinimumNumberOfRungs.main(java.lang.String[])DECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2‘
+1algorithme.array.AddMinimumNumberOfRungs.bridge()DECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2‘
+1algorithme.array.AddMinimumNumberOfRungs.SolutionDECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java
+ (¤
+Aalgorithme.array.AddMinimumNumberOfRungs.main(java.lang.String[])METHODO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2Š
+1algorithme.array.AddMinimumNumberOfRungs.bridge()CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java& (,2›
+Balgorithme.array.AddMinimumNumberOfRungs.AddMinimumNumberOfRungs()CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (#2¤
+Falgorithme.array.AddMinimumNumberOfRungs.main(java.lang.String[])!args	PARAMETERO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java% ()2d
+voidRETURN_TYPEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (—
+Falgorithme.array.AddMinimumNumberOfRungs.main(java.lang.String[])!args	PARAMETERO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java% ()*args2k
+java.lang.String[]TYPEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java ($¼
+1algorithme.array.AddMinimumNumberOfRungs.bridge()METHODO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2y
+ java.io.PrintStream.println(int)CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java	 	(2Ÿ
+Falgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java	* 	(22•
+<algorithme.array.AddMinimumNumberOfRungs.Solution.Solution()CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java	 	('2š
+Aalgorithme.array.AddMinimumNumberOfRungs.bridge()?rungs@8.14:8.19CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java	3 	(82¡
+Aalgorithme.array.AddMinimumNumberOfRungs.bridge()?rungs@8.14:8.19DECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2d
+voidRETURN_TYPEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (•
+Aalgorithme.array.AddMinimumNumberOfRungs.bridge()?rungs@8.14:8.19VARIABLEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java ("
+type int[]*rungs2^
+int[]TYPEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (ö
+1algorithme.array.AddMinimumNumberOfRungs.SolutionCLASSO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java
+ ("
+inner classtrue*Solution2¦
+Falgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)DECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2 
+@algorithme.array.AddMinimumNumberOfRungs.Solution.ceil(int, int)DECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (Œ0
+Falgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)METHODO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*addRungs2™
+@algorithme.array.AddMinimumNumberOfRungs.Solution.ceil(int, int)CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java ( 2±
+Xalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?index@15.16:15.21CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2¥
+Lalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)!rungsCALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java ( 2±
+Xalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?index@15.16:15.21CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2¥
+Lalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)!rungsCALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java ($2¥
+Lalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)!rungsCALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java/ (42±
+Xalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?index@15.16:15.21CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java5 (:2³
+Zalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?current@14.16:14.23CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java? (F2¤
+Kalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)!distCALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.javaI (M2³
+Zalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?current@14.16:14.23CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2¥
+Lalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)!rungsCALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (#2±
+Xalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?index@15.16:15.21CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java$ ()2±
+Xalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?index@15.16:15.21CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2³
+Zalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?current@14.16:14.23CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2¥
+Lalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)!rungsCALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java ($2¥
+Lalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)!rungsCALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java% (*2¯
+Valgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?ans@15.27:15.30CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2¥
+Lalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)!rungsCALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java! (&2±
+Xalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?index@15.16:15.21CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java' (,2³
+Zalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?current@14.16:14.23CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java0 (72¤
+Kalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)!distCALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java9 (=2¯
+Valgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?ans@15.27:15.30CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2±
+Xalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?count@24.20:24.25CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2³
+Zalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?current@14.16:14.23CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2±
+Xalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?count@24.20:24.25CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java ( 2¤
+Kalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)!distCALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java# ('2¯
+Valgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?ans@15.27:15.30CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2ª
+Lalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)!rungs	PARAMETERO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java" ('2©
+Kalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)!dist	PARAMETERO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java- (12º
+Zalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?current@14.16:14.23DECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2¸
+Xalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?index@15.16:15.21DECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2¶
+Valgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?ans@15.27:15.30DECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2¸
+Xalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?count@24.20:24.25DECLARATIONO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2c
+intRETURN_TYPEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (¬
+Zalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?current@14.16:14.23VARIABLEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java ("
+type int*current2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (¨
+Xalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?index@15.16:15.21VARIABLEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java ("
+type int*index2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (¤
+Valgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?ans@15.27:15.30VARIABLEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java ("
+type int*ans2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (ý
+Xalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?count@24.20:24.25VARIABLEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java ("
+type int*count2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2™
+@algorithme.array.AddMinimumNumberOfRungs.Solution.ceil(int, int)CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java ( 2¥
+Lalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)!rungsCALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java! (&2±
+Xalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?index@15.16:15.21CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java' (,2³
+Zalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)?current@14.16:14.23CALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java0 (72¤
+Kalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)!distCALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java9 (=‘
+Lalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)!rungs	PARAMETERO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java" ('*rungs2^
+int[]TYPEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (!
+Kalgorithme.array.AddMinimumNumberOfRungs.Solution.addRungs(int[], int)!dist	PARAMETERO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java- (1*dist2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java) (,Ë
+@algorithme.array.AddMinimumNumberOfRungs.Solution.ceil(int, int)METHODO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type int*ceil2›
+Balgorithme.array.AddMinimumNumberOfRungs.Solution.ceil(int, int)!aCALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java   (2›
+Balgorithme.array.AddMinimumNumberOfRungs.Solution.ceil(int, int)!bCALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java   (2›
+Balgorithme.array.AddMinimumNumberOfRungs.Solution.ceil(int, int)!aCALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java! !(2›
+Balgorithme.array.AddMinimumNumberOfRungs.Solution.ceil(int, int)!bCALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java! !(2›
+Balgorithme.array.AddMinimumNumberOfRungs.Solution.ceil(int, int)!aCALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java# #(2›
+Balgorithme.array.AddMinimumNumberOfRungs.Solution.ceil(int, int)!bCALLO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java# #(2 
+Balgorithme.array.AddMinimumNumberOfRungs.Solution.ceil(int, int)!a	PARAMETERO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (2 
+Balgorithme.array.AddMinimumNumberOfRungs.Solution.ceil(int, int)!b	PARAMETERO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java$ (%2c
+intRETURN_TYPEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (
+Balgorithme.array.AddMinimumNumberOfRungs.Solution.ceil(int, int)!a	PARAMETERO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (*a2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java (
+Balgorithme.array.AddMinimumNumberOfRungs.Solution.ceil(int, int)!b	PARAMETERO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java$ (%*b2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/array/AddMinimumNumberOfRungs.java  (#

@@ -1,0 +1,492 @@
+
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java≥
+(algorithme.bfs.FrogPositionAfterTSecondsCLASSO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (&"
+inner classfalse*FrogPositionAfterTSeconds2°
+Aalgorithme.bfs.FrogPositionAfterTSeconds.main(java.lang.String[])DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (2ë
+1algorithme.bfs.FrogPositionAfterTSeconds.bridge()DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (2ë
+1algorithme.bfs.FrogPositionAfterTSeconds.SolutionDECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java
+ (2ö
+:algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNodeDECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaV V(2î
+4algorithme.bfs.FrogPositionAfterTSeconds.DfsSolutionDECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javab
+ b(¶
+Aalgorithme.bfs.FrogPositionAfterTSeconds.main(java.lang.String[])METHODO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2ä
+1algorithme.bfs.FrogPositionAfterTSeconds.bridge()CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java( (.2ù
+Dalgorithme.bfs.FrogPositionAfterTSeconds.FrogPositionAfterTSeconds()CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (%2§
+Falgorithme.bfs.FrogPositionAfterTSeconds.main(java.lang.String[])!args	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java% ()2d
+voidRETURN_TYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (ó
+Falgorithme.bfs.FrogPositionAfterTSeconds.main(java.lang.String[])!args	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java% ()*args2k
+java.lang.String[]TYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java ($î
+1algorithme.bfs.FrogPositionAfterTSeconds.bridge()METHODO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2|
+#java.io.PrintStream.println(double)CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (2Ø
+Valgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java* (62ï
+<algorithme.bfs.FrogPositionAfterTSeconds.Solution.Solution()CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java ('2ò
+?algorithme.bfs.FrogPositionAfterTSeconds.bridge()?n@17.12:17.13CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java7 (82ú
+Calgorithme.bfs.FrogPositionAfterTSeconds.bridge()?edges@18.16:18.21CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java: (?2ò
+?algorithme.bfs.FrogPositionAfterTSeconds.bridge()?t@19.12:19.13CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaA (B2ù
+Dalgorithme.bfs.FrogPositionAfterTSeconds.bridge()?target@20.12:20.18CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaD (J2ü
+?algorithme.bfs.FrogPositionAfterTSeconds.bridge()?n@17.12:17.13DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (2£
+Calgorithme.bfs.FrogPositionAfterTSeconds.bridge()?edges@18.16:18.21DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (2ü
+?algorithme.bfs.FrogPositionAfterTSeconds.bridge()?t@19.12:19.13DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (2§
+Dalgorithme.bfs.FrogPositionAfterTSeconds.bridge()?target@20.12:20.18DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (2d
+voidRETURN_TYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (ã
+?algorithme.bfs.FrogPositionAfterTSeconds.bridge()?n@17.12:17.13VARIABLEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java ("
+type int*n2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (õ
+Calgorithme.bfs.FrogPositionAfterTSeconds.bridge()?edges@18.16:18.21VARIABLEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java ("
+type int[][]*edges2`
+int[][]TYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (ã
+?algorithme.bfs.FrogPositionAfterTSeconds.bridge()?t@19.12:19.13VARIABLEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java ("
+type int*t2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (ï
+Dalgorithme.bfs.FrogPositionAfterTSeconds.bridge()?target@20.12:20.18VARIABLEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java ("
+type int*target2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (µ
+1algorithme.bfs.FrogPositionAfterTSeconds.SolutionCLASSO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java
+ ("
+inner classtrue*Solution2∂
+Valgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java ("2©
+Ialgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java9 9(2€
+{algorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaN N(!2®
+Halgorithme.bfs.FrogPositionAfterTSeconds.Solution?nodesCache@28.27:28.37DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (%2ö
+:algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNodeDECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaV V(‘A
+Valgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)METHODO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (""
+staticfalse"
+finalfalse"
+access modifierpublic"
+type double*frogPosition2¢
+Ialgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java   (2n
+java.util.List.add(E)CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java" "(2p
+java.util.List.get(int)CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java$( $(+2n
+java.util.List.size()CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java$4 $(82n
+java.util.List.add(E)CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java( ((2n
+java.util.List.size()CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java* *(2n
+java.util.List.size()CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java- -( 2n
+java.util.List.size()CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java-F -(J2n
+java.util.List.size()CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java2" 2(&2n
+java.util.List.size()CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java3/ 3(32x
+java.util.ArrayList.ArrayList()CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java!) !(42°
+Halgorithme.bfs.FrogPositionAfterTSeconds.Solution?nodesCache@28.27:28.37CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (2±
+Xalgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)!nCALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java& ('2µ
+\algorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)!edgesCALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java   (2∂
+]algorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)!targetCALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java   (#2√
+jalgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?parents@33.27:33.34CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java" "(2°
+Halgorithme.bfs.FrogPositionAfterTSeconds.Solution?nodesCache@28.27:28.37CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java" "("2∂
+]algorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)!targetCALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java"# "()2√
+jalgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?parents@33.27:33.34CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java$  $('2√
+jalgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?parents@33.27:33.34CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java$, $(32¿
+galgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?node@36.25:36.29CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java% %(2√
+jalgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?parents@33.27:33.34CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java( ((2¿
+galgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?node@36.25:36.29CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java( (( 2√
+jalgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?parents@33.27:33.34CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java* *(2±
+Xalgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)!tCALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java*! *("2±
+Xalgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)!tCALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java- -(2√
+jalgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?parents@33.27:33.34CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java- -(2°
+Halgorithme.bfs.FrogPositionAfterTSeconds.Solution?nodesCache@28.27:28.37CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java-* -(42∂
+]algorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)!targetCALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java-5 -(;2√
+jalgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?parents@33.27:33.34CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java1! 1((2¿
+galgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?node@49.26:49.30CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java2 2(2ø
+falgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?ans@48.19:48.22CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java3 3(2¿
+galgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?node@49.26:49.30CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java3! 3(%2ø
+falgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?ans@48.19:48.22CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java6 6(2¶
+Malgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode?parent@88.21:88.27CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java% %(2¶
+Malgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode?parent@88.21:88.27CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java(! (('2®
+Oalgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode?children@89.27:89.35CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java-= -(E2®
+Oalgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode?children@89.27:89.35CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java2 2(!2®
+Oalgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode?children@89.27:89.35CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java3& 3(.2∂
+Xalgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)!n	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java' ((2∫
+\algorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)!edges	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java2 (72∂
+Xalgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)!t	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java= (>2ª
+]algorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)!target	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaD (J2 
+jalgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?parents@33.27:33.34DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java! !("2«
+galgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?node@36.25:36.29DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java$ $(2∆
+falgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?ans@48.19:48.22DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java0 0(2«
+galgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?node@49.26:49.30DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java1 1(2f
+doubleRETURN_TYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (Î
+jalgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?parents@33.27:33.34VARIABLEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java! !(""
+type List<TreeNode>*parents2g
+java.util.ListTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java! !(2ú
+:algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNodeTYPE_ARGUMENTO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java! !(2x
+java.util.ArrayList.ArrayList()CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java!) !(4·
+galgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?node@36.25:36.29VARIABLEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java$ $("
+type TreeNode*node2ì
+:algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNodeTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java$ $(2p
+java.util.List.get(int)CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java$( $(+2n
+java.util.List.size()CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java$4 $(82√
+jalgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?parents@33.27:33.34CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java$  $('2√
+jalgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?parents@33.27:33.34CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java$, $(3∫
+falgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?ans@48.19:48.22VARIABLEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java0 0("
+type double*ans2_
+doubleTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java0 0(Û
+galgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)?node@49.26:49.30VARIABLEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java1 1("
+type TreeNode*node2ì
+:algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNodeTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java1 1(ó
+Xalgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)!n	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java' ((*n2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java# (&£
+\algorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)!edges	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java2 (7*edges2`
+int[][]TYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java* (/ó
+Xalgorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)!t	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java= (>*t2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java9 (<°
+]algorithme.bfs.FrogPositionAfterTSeconds.Solution.frogPosition(int, int[][], int, int)!target	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaD (J*target2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java@ (CÑ:
+Ialgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)METHODO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java9 9("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*	buildTree2o
+java.util.Queue.add(E)CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java< <(2w
+java.util.Collection.isEmpty()CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java> >(!2o
+java.util.Queue.poll()CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java?/ ?(32o
+java.util.Queue.add(E)CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaB B(!2‘
+{algorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaB" B(*2o
+java.util.Queue.add(E)CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaE E(!2‘
+{algorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaE" E(*2°
+Halgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode.TreeNode(int)CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java:  :((2z
+!java.util.ArrayDeque.ArrayDeque()CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java;( ;(42¥
+[algorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?queue@59.28:59.33CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java< <(2≥
+Zalgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?root@58.21:58.25CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java< <(2°
+Halgorithme.bfs.FrogPositionAfterTSeconds.Solution?nodesCache@28.27:28.37CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java= =(2≥
+Zalgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?root@58.21:58.25CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java= =( 2¥
+[algorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?queue@59.28:59.33CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java> >(2¥
+[algorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?queue@59.28:59.33CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java?) ?(.2®
+Oalgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)!edgesCALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java@" @('2≥
+Zalgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?edge@64.27:64.31CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaA A(2º
+calgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?currentParent@63.25:63.38CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaA# A(02°
+Halgorithme.bfs.FrogPositionAfterTSeconds.Solution?nodesCache@28.27:28.37CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaA: A(D2≥
+Zalgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?edge@64.27:64.31CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaAE A(I2¥
+[algorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?queue@59.28:59.33CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaB B(2º
+calgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?currentParent@63.25:63.38CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaB+ B(82≥
+Zalgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?edge@64.27:64.31CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaB: B(>2≥
+Zalgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?edge@64.27:64.31CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaD D(2º
+calgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?currentParent@63.25:63.38CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaD# D(02°
+Halgorithme.bfs.FrogPositionAfterTSeconds.Solution?nodesCache@28.27:28.37CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaD: D(D2≥
+Zalgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?edge@64.27:64.31CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaDE D(I2¥
+[algorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?queue@59.28:59.33CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaE E(2º
+calgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?currentParent@63.25:63.38CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaE+ E(82≥
+Zalgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?edge@64.27:64.31CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaE: E(>2º
+calgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?currentParent@63.25:63.38CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaH H(!2©
+Palgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)!targetCALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaH+ H(12•
+Lalgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode?value@87.16:87.21CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaA1 A(62•
+Lalgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode?value@87.16:87.21CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaD1 D(62•
+Lalgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode?value@87.16:87.21CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaH" H('2≠
+Oalgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)!edges	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java9' 9(,2Æ
+Palgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)!target	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java92 9(82∫
+Zalgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?root@58.21:58.25DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java: :(2ª
+[algorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?queue@59.28:59.33DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java; ;(!2√
+calgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?currentParent@63.25:63.38DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java? ?(&2∫
+Zalgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?edge@64.27:64.31DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java@ @(2d
+voidRETURN_TYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java9 9(ä
+Zalgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?root@58.21:58.25VARIABLEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java: :("
+type TreeNode*root2ì
+:algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNodeTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java: :(2°
+Halgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode.TreeNode(int)CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java:  :((ﬁ
+[algorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?queue@59.28:59.33VARIABLEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java; ;(!"
+type Queue<TreeNode>*queue2h
+java.util.QueueTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java; ;(2ú
+:algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNodeTYPE_ARGUMENTO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java; ;(2z
+!java.util.ArrayDeque.ArrayDeque()CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java;( ;(4†
+calgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?currentParent@63.25:63.38VARIABLEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java? ?(&"
+type TreeNode*currentParent2ì
+:algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNodeTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java? ?(2o
+java.util.Queue.poll()CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java?/ ?(32¥
+[algorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?queue@59.28:59.33CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java?) ?(.≠
+Zalgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)?edge@64.27:64.31VARIABLEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java@ @("
+type int[]*edge2^
+int[]TYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java@ @(ñ
+Oalgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)!edges	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java9' 9(,*edges2`
+int[][]TYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java9 9($î
+Palgorithme.bfs.FrogPositionAfterTSeconds.Solution.buildTree(int[][], int)!target	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java92 9(8*target2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java9. 9(1“
+{algorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)METHODO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaN N(!"
+staticfalse"
+finalfalse"
+access modifierprivate"
+type TreeNode*putChild2n
+java.util.List.add(E)CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaQ# Q(&2°
+Halgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode.TreeNode(int)CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaO  O((2‡
+Üalgorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)!childValueCALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaO) O(32°
+Halgorithme.bfs.FrogPositionAfterTSeconds.Solution?nodesCache@28.27:28.37CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaP P(2‡
+Üalgorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)!childValueCALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaP P(!2Ê
+åalgorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)?node@79.21:79.25CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaP% P()2„
+âalgorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)!currentParentCALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaQ Q(2Ê
+åalgorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)?node@79.21:79.25CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaQ' Q(+2Ê
+åalgorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)?node@79.21:79.25CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaR R(2„
+âalgorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)!currentParentCALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaR R('2Ê
+åalgorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)?node@79.21:79.25CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaS S(2®
+Oalgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode?children@89.27:89.35CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaQ Q("2¶
+Malgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode?parent@88.21:88.27CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaR R(2Ë
+âalgorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)!currentParent	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaN+ N(82Â
+Üalgorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)!childValue	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaN> N(H2Ì
+åalgorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)?node@79.21:79.25DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaO O(2ö
+:algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNodeRETURN_TYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaN N(†
+åalgorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)?node@79.21:79.25VARIABLEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaO O("
+type TreeNode*node2ì
+:algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNodeTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaO O(2°
+Halgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode.TreeNode(int)CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaO  O((2‡
+Üalgorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)!childValueCALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaO) O(3ç
+âalgorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)!currentParent	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaN+ N(8*currentParent2ì
+:algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNodeTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaN" N(*œ
+Üalgorithme.bfs.FrogPositionAfterTSeconds.Solution.putChild(algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode, int)!childValue	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaN> N(H*
+childValue2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaN: N(=ﬁ
+Halgorithme.bfs.FrogPositionAfterTSeconds.Solution?nodesCache@28.27:28.37VARIABLEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (%"
+type 
+TreeNode[]*
+nodesCache2ï
+<algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode[]TYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java (Ô
+:algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNodeCLASSO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaV V("
+inner classtrue*TreeNode2®
+Halgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode.TreeNode(int)DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java[ [(2¨
+Lalgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode?value@87.16:87.21DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaW W(2≠
+Malgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode?parent@88.21:88.27DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaX X(2Ø
+Oalgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode?children@89.27:89.35DECLARATIONO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaY Y(#ı
+Halgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode.TreeNode(int)CONSTRUCTORO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java[ [(*TreeNode2x
+java.util.ArrayList.ArrayList()CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java]$ ](/2ß
+Nalgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode.TreeNode(int)!valueCALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java\ \("2•
+Lalgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode?value@87.16:87.21CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java\ \(2®
+Oalgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode?children@89.27:89.35CALLO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java] ](2¨
+Nalgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode.TreeNode(int)!value	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java[ [(2ö
+:algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNodeRETURN_TYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java[ [(ë
+Nalgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode.TreeNode(int)!value	PARAMETERO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java[ [(*value2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.java[ [(ú
+Lalgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode?value@87.16:87.21VARIABLEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaW W("
+type int*value2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaW W(€
+Malgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode?parent@88.21:88.27VARIABLEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaX X("
+type TreeNode*parent2ì
+:algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNodeTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaX X(◊
+Oalgorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNode?children@89.27:89.35VARIABLEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaY Y(#"
+type List<TreeNode>*children2g
+java.util.ListTYPEO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaY Y(2ú
+:algorithme.bfs.FrogPositionAfterTSeconds.Solution.TreeNodeTYPE_ARGUMENTO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javaY Y(∞
+4algorithme.bfs.FrogPositionAfterTSeconds.DfsSolutionCLASSO
+Ealgorithm/src/main/java/algorithme/bfs/FrogPositionAfterTSeconds.javab
+ b("
+inner classtrue*DfsSolution

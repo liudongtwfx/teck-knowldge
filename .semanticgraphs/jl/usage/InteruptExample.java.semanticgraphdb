@@ -1,0 +1,158 @@
+
+5knowledge/src/main/java/jl/usage/InteruptExample.javaÅ
+jl.usage.InteruptExampleCLASS?
+5knowledge/src/main/java/jl/usage/InteruptExample.java	 	("
+inner classfalse*InteruptExample2Å
+1jl.usage.InteruptExample.main(java.lang.String[])DECLARATION?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (2r
+"jl.usage.InteruptExample.example()DECLARATION?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (ñ
+1jl.usage.InteruptExample.main(java.lang.String[])METHOD?
+5knowledge/src/main/java/jl/usage/InteruptExample.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2k
+"jl.usage.InteruptExample.example()CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (2Ñ
+6jl.usage.InteruptExample.main(java.lang.String[])!args	PARAMETER?
+5knowledge/src/main/java/jl/usage/InteruptExample.java% ()2T
+voidRETURN_TYPE?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (Á
+6jl.usage.InteruptExample.main(java.lang.String[])!args	PARAMETER?
+5knowledge/src/main/java/jl/usage/InteruptExample.java% ()*args2[
+java.lang.String[]TYPE?
+5knowledge/src/main/java/jl/usage/InteruptExample.java ($≠
+"jl.usage.InteruptExample.example()METHOD?
+5knowledge/src/main/java/jl/usage/InteruptExample.java ("
+statictrue"
+finalfalse""
+access modifierpackage_private"
+type void*example2a
+java.lang.Thread.start()CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (2e
+java.lang.Thread.sleep(long)CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (2e
+java.lang.Thread.interrupt()CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (2v
+-java.io.PrintStream.println(java.lang.String)CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (2n
+%java.lang.Throwable.printStackTrace()CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (2v
+-java.io.PrintStream.println(java.lang.String)CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (2u
+,jl.usage.InteruptExample.MyThread.MyThread()CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java" (*2~
+5jl.usage.InteruptExample.example()?thread@17.21:17.27CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (2~
+5jl.usage.InteruptExample.example()?thread@17.21:17.27CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (2y
+0jl.usage.InteruptExample.example()?e@21.38:21.39CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (2Ö
+5jl.usage.InteruptExample.example()?thread@17.21:17.27DECLARATION?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (2Ä
+0jl.usage.InteruptExample.example()?e@21.38:21.39DECLARATION?
+5knowledge/src/main/java/jl/usage/InteruptExample.java& ('2T
+voidRETURN_TYPE?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (Ä
+5jl.usage.InteruptExample.example()?thread@17.21:17.27VARIABLE?
+5knowledge/src/main/java/jl/usage/InteruptExample.java ("
+type MyThread*thread2j
+!jl.usage.InteruptExample.MyThreadTYPE?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (2u
+,jl.usage.InteruptExample.MyThread.MyThread()CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java" (*È
+0jl.usage.InteruptExample.example()?e@21.38:21.39VARIABLE?
+5knowledge/src/main/java/jl/usage/InteruptExample.java& ('*e2g
+java.lang.InterruptedExceptionTYPE?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (%·
+!jl.usage.InteruptExample.MyThreadCLASS?
+5knowledge/src/main/java/jl/usage/InteruptExample.java ( "
+inner classfalse*MyThread2w
+'jl.usage.InteruptExample.MyThread.run()DECLARATION?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (2[
+java.lang.ThreadEXTEND?
+5knowledge/src/main/java/jl/usage/InteruptExample.java) (/¨
+'jl.usage.InteruptExample.MyThread.run()METHOD?
+5knowledge/src/main/java/jl/usage/InteruptExample.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*run2_
+java.lang.Thread.run()CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java   (2g
+java.lang.Thread.interrupted()CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java# #(#2v
+-java.io.PrintStream.println(java.lang.String)CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java$# $(*2v
+-java.io.PrintStream.println(java.lang.String)CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java' '(&2v
+-java.io.PrintStream.println(java.lang.String)CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java) )("2e
+java.lang.Thread.interrupt()CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java+' +(02i
+ java.lang.Thread.currentThread()CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java+ +($2~
+5java.lang.InterruptedException.InterruptedException()CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java%" %(62~
+5jl.usage.InteruptExample.MyThread.run()?i@33.25:33.26CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java!  !(!2~
+5jl.usage.InteruptExample.MyThread.run()?i@33.25:33.26CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java!, !(-2~
+5jl.usage.InteruptExample.MyThread.run()?i@33.25:33.26CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java'/ '(02Ö
+5jl.usage.InteruptExample.MyThread.run()?i@33.25:33.26DECLARATION?
+5knowledge/src/main/java/jl/usage/InteruptExample.java! !(2Ö
+5jl.usage.InteruptExample.MyThread.run()?e@42.42:42.43DECLARATION?
+5knowledge/src/main/java/jl/usage/InteruptExample.java** *(+2T
+voidRETURN_TYPE?
+5knowledge/src/main/java/jl/usage/InteruptExample.java (·
+5jl.usage.InteruptExample.MyThread.run()?i@33.25:33.26VARIABLE?
+5knowledge/src/main/java/jl/usage/InteruptExample.java! !("
+type int*i2L
+intTYPE?
+5knowledge/src/main/java/jl/usage/InteruptExample.java! !(Ó
+5jl.usage.InteruptExample.MyThread.run()?e@42.42:42.43VARIABLE?
+5knowledge/src/main/java/jl/usage/InteruptExample.java** *(+*e2g
+java.lang.InterruptedExceptionTYPE?
+5knowledge/src/main/java/jl/usage/InteruptExample.java* *()‡
+jl.usage.InteruptExample.RunnerCLASS?
+5knowledge/src/main/java/jl/usage/InteruptExample.java1 1("
+inner classfalse*Runner2u
+%jl.usage.InteruptExample.Runner.run()DECLARATION?
+5knowledge/src/main/java/jl/usage/InteruptExample.java5 5(2Ä
+0jl.usage.InteruptExample.Runner?LOCK@50.36:50.40DECLARATION?
+5knowledge/src/main/java/jl/usage/InteruptExample.java2$ 2((2]
+java.lang.RunnableEXTEND?
+5knowledge/src/main/java/jl/usage/InteruptExample.java1# 1(+∆
+%jl.usage.InteruptExample.Runner.run()METHOD?
+5knowledge/src/main/java/jl/usage/InteruptExample.java5 5("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*run2`
+java.lang.Object.wait()CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java8 8(2e
+java.lang.Thread.interrupt()CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java:+ :(42i
+ java.lang.Thread.currentThread()CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java: :((2y
+0jl.usage.InteruptExample.Runner?LOCK@50.36:50.40CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java6 6(2y
+0jl.usage.InteruptExample.Runner?LOCK@50.36:50.40CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java8 8(2É
+3jl.usage.InteruptExample.Runner.run()?e@57.46:57.47DECLARATION?
+5knowledge/src/main/java/jl/usage/InteruptExample.java9. 9(/2T
+voidRETURN_TYPE?
+5knowledge/src/main/java/jl/usage/InteruptExample.java5 5(Ï
+3jl.usage.InteruptExample.Runner.run()?e@57.46:57.47VARIABLE?
+5knowledge/src/main/java/jl/usage/InteruptExample.java9. 9(/*e2g
+java.lang.InterruptedExceptionTYPE?
+5knowledge/src/main/java/jl/usage/InteruptExample.java9 9(-–
+0jl.usage.InteruptExample.Runner?LOCK@50.36:50.40VALUE?
+5knowledge/src/main/java/jl/usage/InteruptExample.java2$ 2(("
+type Object*LOCK2Y
+java.lang.ObjectTYPE?
+5knowledge/src/main/java/jl/usage/InteruptExample.java2 2(#2b
+java.lang.Object.Object()CALL?
+5knowledge/src/main/java/jl/usage/InteruptExample.java2/ 2(5

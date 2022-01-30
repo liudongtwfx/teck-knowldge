@@ -1,0 +1,226 @@
+
+5knowledge/src/main/java/net/bio/BlockingIoServer.javaé
+net.bio.BlockingIoServerCLASS?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java ("
+inner classfalse*BlockingIoServer2Å
+1net.bio.BlockingIoServer.main(java.lang.String[])DECLARATION?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java (˚
+1net.bio.BlockingIoServer.main(java.lang.String[])METHOD?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2a
+java.lang.Thread.start()CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java$ ()2t
++java.lang.Thread.Thread(java.lang.Runnable)CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java (2w
+.net.bio.BlockingIoServer.BioRunner.BioRunner()CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java ( 2Ñ
+6net.bio.BlockingIoServer.main(java.lang.String[])!args	PARAMETER?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java% ()2T
+voidRETURN_TYPE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java (Á
+6net.bio.BlockingIoServer.main(java.lang.String[])!args	PARAMETER?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java% ()*args2[
+java.lang.String[]TYPE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java ($Ù
+"net.bio.BlockingIoServer.BioRunnerCLASS?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java (""
+inner classfalse*	BioRunner2x
+(net.bio.BlockingIoServer.BioRunner.run()DECLARATION?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java (2ã
+;net.bio.BlockingIoServer.BioRunner?serverSocket@25.29:25.41DECLARATION?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java ()2]
+java.lang.RunnableEXTEND?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java. (6–
+(net.bio.BlockingIoServer.BioRunner.run()METHOD?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*run2g
+java.net.ServerSocket.accept()CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java"1 "(72Ç
+9java.util.concurrent.Executor.execute(java.lang.Runnable)CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java% %($2n
+%java.lang.Throwable.printStackTrace()CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java( ((!2f
+java.net.ServerSocket.close()CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java,% ,(*2n
+%java.lang.Throwable.printStackTrace()CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java. .()2p
+'java.net.ServerSocket.ServerSocket(int)CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java# (/2Î
+°java.util.concurrent.ThreadPoolExecutor.ThreadPoolExecutor(int, int, long, java.util.concurrent.TimeUnit, java.util.concurrent.BlockingQueue<java.lang.Runnable>)CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java (  (:2à
+?java.util.concurrent.ArrayBlockingQueue.ArrayBlockingQueue(int)CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java [  (o2ê
+Gnet.bio.BlockingIoServer.RequestHandler.RequestHandler(java.net.Socket)CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java#8 #(F2Ñ
+;net.bio.BlockingIoServer.BioRunner?serverSocket@25.29:25.41CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java (2Ñ
+;net.bio.BlockingIoServer.BioRunner?serverSocket@25.29:25.41CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java"$ "(02Ñ
+;net.bio.BlockingIoServer.BioRunner.run()?socket@34.27:34.33CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java#G #(M2Ü
+=net.bio.BlockingIoServer.BioRunner.run()?executor@32.25:32.33CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java% %(2å
+Cnet.bio.BlockingIoServer.BioRunner.run()?requestHandler@35.35:35.49CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java%% %(32
+6net.bio.BlockingIoServer.BioRunner.run()?e@39.33:39.34CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java( ((2Ñ
+;net.bio.BlockingIoServer.BioRunner?serverSocket@25.29:25.41CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java* *( 2Ñ
+;net.bio.BlockingIoServer.BioRunner?serverSocket@25.29:25.41CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java, ,($2
+6net.bio.BlockingIoServer.BioRunner.run()?e@45.41:45.42CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java. .(2ç
+=net.bio.BlockingIoServer.BioRunner.run()?executor@32.25:32.33DECLARATION?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java   (!2ã
+;net.bio.BlockingIoServer.BioRunner.run()?socket@34.27:34.33DECLARATION?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java" "(!2ì
+Cnet.bio.BlockingIoServer.BioRunner.run()?requestHandler@35.35:35.49DECLARATION?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java## #(12Ü
+6net.bio.BlockingIoServer.BioRunner.run()?e@39.33:39.34DECLARATION?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java'! '("2Ü
+6net.bio.BlockingIoServer.BioRunner.run()?e@45.41:45.42DECLARATION?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java-) -(*2T
+voidRETURN_TYPE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java (à
+=net.bio.BlockingIoServer.BioRunner.run()?executor@32.25:32.33VARIABLE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java   (!"
+type Executor*executor2f
+java.util.concurrent.ExecutorTYPE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java   (2Î
+°java.util.concurrent.ThreadPoolExecutor.ThreadPoolExecutor(int, int, long, java.util.concurrent.TimeUnit, java.util.concurrent.BlockingQueue<java.lang.Runnable>)CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java (  (:2à
+?java.util.concurrent.ArrayBlockingQueue.ArrayBlockingQueue(int)CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java [  (oÎ
+;net.bio.BlockingIoServer.BioRunner.run()?socket@34.27:34.33VARIABLE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java" "(!"
+type Socket*socket2X
+java.net.SocketTYPE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java" "(2g
+java.net.ServerSocket.accept()CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java"1 "(72Ñ
+;net.bio.BlockingIoServer.BioRunner?serverSocket@25.29:25.41CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java"$ "(0≈
+Cnet.bio.BlockingIoServer.BioRunner.run()?requestHandler@35.35:35.49VARIABLE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java## #(1"
+type RequestHandler*requestHandler2p
+'net.bio.BlockingIoServer.RequestHandlerTYPE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java# #("2ê
+Gnet.bio.BlockingIoServer.RequestHandler.RequestHandler(java.net.Socket)CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java#8 #(F2Ñ
+;net.bio.BlockingIoServer.BioRunner.run()?socket@34.27:34.33CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java#G #(M‰
+6net.bio.BlockingIoServer.BioRunner.run()?e@39.33:39.34VARIABLE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java'! '("*e2\
+java.io.IOExceptionTYPE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java' '( ‰
+6net.bio.BlockingIoServer.BioRunner.run()?e@45.41:45.42VARIABLE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java-) -(**e2\
+java.io.IOExceptionTYPE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java- -((ç
+;net.bio.BlockingIoServer.BioRunner?serverSocket@25.29:25.41VARIABLE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java ()"
+type ServerSocket*serverSocket2^
+java.net.ServerSocketTYPE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java (ö
+'net.bio.BlockingIoServer.RequestHandlerCLASS?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java5 5("
+inner classfalse*RequestHandler2ó
+Gnet.bio.BlockingIoServer.RequestHandler.RequestHandler(java.net.Socket)DECLARATION?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java8 8(2}
+-net.bio.BlockingIoServer.RequestHandler.run()DECLARATION?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java= =(2ä
+:net.bio.BlockingIoServer.RequestHandler?socket@54.29:54.35DECLARATION?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java6 6(#2[
+java.lang.ThreadEXTEND?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java5( 5(.ﬂ
+Gnet.bio.BlockingIoServer.RequestHandler.RequestHandler(java.net.Socket)CONSTRUCTOR?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java8 8(*RequestHandler2ó
+Nnet.bio.BlockingIoServer.RequestHandler.RequestHandler(java.net.Socket)!socketCALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java9 9( 2É
+:net.bio.BlockingIoServer.RequestHandler?socket@54.29:54.35CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java9 9(2ú
+Nnet.bio.BlockingIoServer.RequestHandler.RequestHandler(java.net.Socket)!socket	PARAMETER?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java8% 8(+2w
+'net.bio.BlockingIoServer.RequestHandlerRETURN_TYPE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java8 8(˛
+Nnet.bio.BlockingIoServer.RequestHandler.RequestHandler(java.net.Socket)!socket	PARAMETER?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java8% 8(+*socket2X
+java.net.SocketTYPE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java8 8($ä
+-net.bio.BlockingIoServer.RequestHandler.run()METHOD?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java= =("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*run2j
+!java.net.Socket.getOutputStream()CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java?9 ?(H2i
+ java.net.Socket.getInputStream()CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java@1 @(?2r
+)java.nio.charset.Charset.defaultCharset()CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.javaAQ A(_2e
+java.lang.Thread.sleep(long)CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.javaB B(2v
+-java.io.PrintWriter.println(java.lang.String)CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.javaC C(2d
+java.io.PrintWriter.flush()CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.javaD D(2n
+%java.lang.Throwable.printStackTrace()CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.javaF F(!2~
+5java.io.PrintWriter.PrintWriter(java.io.OutputStream)CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java?& ?(12É
+:net.bio.BlockingIoServer.RequestHandler?socket@54.29:54.35CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java?2 ?(82É
+:net.bio.BlockingIoServer.RequestHandler?socket@54.29:54.35CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java@* @(02é
+Enet.bio.BlockingIoServer.RequestHandler.run()?inputStream@64.28:64.39CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.javaA< A(G2Ü
+=net.bio.BlockingIoServer.RequestHandler.run()?out@63.28:63.31CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.javaC C(2Ü
+=net.bio.BlockingIoServer.RequestHandler.run()?out@63.28:63.31CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.javaD D(2Ñ
+;net.bio.BlockingIoServer.RequestHandler.run()?e@69.56:69.57CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.javaF F(2ç
+=net.bio.BlockingIoServer.RequestHandler.run()?out@63.28:63.31DECLARATION?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java? ?(2ï
+Enet.bio.BlockingIoServer.RequestHandler.run()?inputStream@64.28:64.39DECLARATION?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java@ @('2ã
+;net.bio.BlockingIoServer.RequestHandler.run()?e@69.56:69.57DECLARATION?
+5knowledge/src/main/java/net/bio/BlockingIoServer.javaE8 E(92T
+voidRETURN_TYPE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java= =(ı
+=net.bio.BlockingIoServer.RequestHandler.run()?out@63.28:63.31VARIABLE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java? ?("
+type PrintWriter*out2\
+java.io.PrintWriterTYPE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java? ?(2j
+!java.net.Socket.getOutputStream()CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java?9 ?(H2~
+5java.io.PrintWriter.PrintWriter(java.io.OutputStream)CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java?& ?(12É
+:net.bio.BlockingIoServer.RequestHandler?socket@54.29:54.35CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java?2 ?(8Ñ
+Enet.bio.BlockingIoServer.RequestHandler.run()?inputStream@64.28:64.39VARIABLE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java@ @('"
+type InputStream*inputStream2\
+java.io.InputStreamTYPE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java@ @(2i
+ java.net.Socket.getInputStream()CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java@1 @(?2É
+:net.bio.BlockingIoServer.RequestHandler?socket@54.29:54.35CALL?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java@* @(0ä
+;net.bio.BlockingIoServer.RequestHandler.run()?e@69.56:69.57VARIABLE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.javaE8 E(9*e2}
+4java.io.IOException | java.lang.InterruptedExceptionTYPE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.javaE E(7˜
+:net.bio.BlockingIoServer.RequestHandler?socket@54.29:54.35VALUE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java6 6(#"
+type Socket*socket2X
+java.net.SocketTYPE?
+5knowledge/src/main/java/net/bio/BlockingIoServer.java6 6(

@@ -1,0 +1,197 @@
+
+-knowledge/src/main/java/spring/SpelUsage.javaÄ
+spring.SpelUsageCLASS7
+-knowledge/src/main/java/spring/SpelUsage.java ("
+inner classfalse*	SpelUsage2q
+)spring.SpelUsage.main(java.lang.String[])DECLARATION7
+-knowledge/src/main/java/spring/SpelUsage.java (2\
+spring.SpelUsage.a()DECLARATION7
+-knowledge/src/main/java/spring/SpelUsage.java (×
+)spring.SpelUsage.main(java.lang.String[])METHOD7
+-knowledge/src/main/java/spring/SpelUsage.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2U
+spring.SpelUsage.a()CALL7
+-knowledge/src/main/java/spring/SpelUsage.java (	2t
+.spring.SpelUsage.main(java.lang.String[])!args	PARAMETER7
+-knowledge/src/main/java/spring/SpelUsage.java% ()2L
+voidRETURN_TYPE7
+-knowledge/src/main/java/spring/SpelUsage.java (Ï
+.spring.SpelUsage.main(java.lang.String[])!args	PARAMETER7
+-knowledge/src/main/java/spring/SpelUsage.java% ()*args2S
+java.lang.String[]TYPE7
+-knowledge/src/main/java/spring/SpelUsage.java ($ä
+spring.SpelUsage.a()METHOD7
+-knowledge/src/main/java/spring/SpelUsage.java ("
+statictrue"
+finalfalse"
+access modifierprivate"
+type void*a2f
+%java.util.Calendar.set(int, int, int)CALL7
+-knowledge/src/main/java/spring/SpelUsage.java
+ (2]
+java.util.Calendar.getTime()CALL7
+-knowledge/src/main/java/spring/SpelUsage.java8 (?2X
+java.util.Map.put(K, V)CALL7
+-knowledge/src/main/java/spring/SpelUsage.java (2¤
+cjava.lang.Class.getDeclaredMethod(java.lang.String, java.lang.Class<? extends java.lang.Object>...)CALL7
+-knowledge/src/main/java/spring/SpelUsage.java#" #(32n
+-java.io.PrintStream.println(java.lang.Object)CALL7
+-knowledge/src/main/java/spring/SpelUsage.java' '(2n
+-java.io.PrintStream.println(java.lang.String)CALL7
+-knowledge/src/main/java/spring/SpelUsage.java) )(2p
+/java.util.GregorianCalendar.GregorianCalendar()CALL7
+-knowledge/src/main/java/spring/SpelUsage.java" (32\
+java.util.HashMap.HashMap()CALL7
+-knowledge/src/main/java/spring/SpelUsage.java& (/2c
+"spring.SpelUsage.a()?c@22.26:22.27CALL7
+-knowledge/src/main/java/spring/SpelUsage.java (	2c
+"spring.SpelUsage.a()?c@22.26:22.27CALL7
+-knowledge/src/main/java/spring/SpelUsage.java6 (72e
+$spring.SpelUsage.a()?map@27.28:27.31CALL7
+-knowledge/src/main/java/spring/SpelUsage.java (2h
+'spring.SpelUsage.a()?parser@29.25:29.31CALL7
+-knowledge/src/main/java/spring/SpelUsage.java (2e
+$spring.SpelUsage.a()?map@27.28:27.31CALL7
+-knowledge/src/main/java/spring/SpelUsage.java!J !(M2i
+(spring.SpelUsage.a()?context@33.34:33.41CALL7
+-knowledge/src/main/java/spring/SpelUsage.java" "(2h
+'spring.SpelUsage.a()?parser@29.25:29.31CALL7
+-knowledge/src/main/java/spring/SpelUsage.java& &(2i
+(spring.SpelUsage.a()?context@33.34:33.41CALL7
+-knowledge/src/main/java/spring/SpelUsage.java&D &(K2t
+3spring.SpelUsage.a()?helloWorldReversed@37.15:37.33CALL7
+-knowledge/src/main/java/spring/SpelUsage.java' '(-2e
+$spring.SpelUsage.a()?exp@30.19:30.22CALL7
+-knowledge/src/main/java/spring/SpelUsage.java( (("2i
+(spring.SpelUsage.a()?context@33.34:33.41CALL7
+-knowledge/src/main/java/spring/SpelUsage.java(, ((32f
+%spring.SpelUsage.a()?name@40.15:40.19CALL7
+-knowledge/src/main/java/spring/SpelUsage.java) )(2j
+"spring.SpelUsage.a()?c@22.26:22.27DECLARATION7
+-knowledge/src/main/java/spring/SpelUsage.java (2n
+&spring.SpelUsage.a()?tesla@26.17:26.22DECLARATION7
+-knowledge/src/main/java/spring/SpelUsage.java (2l
+$spring.SpelUsage.a()?map@27.28:27.31DECLARATION7
+-knowledge/src/main/java/spring/SpelUsage.java (2o
+'spring.SpelUsage.a()?parser@29.25:29.31DECLARATION7
+-knowledge/src/main/java/spring/SpelUsage.java (2l
+$spring.SpelUsage.a()?exp@30.19:30.22DECLARATION7
+-knowledge/src/main/java/spring/SpelUsage.java (2p
+(spring.SpelUsage.a()?context@33.34:33.41DECLARATION7
+-knowledge/src/main/java/spring/SpelUsage.java!" !()2{
+3spring.SpelUsage.a()?helloWorldReversed@37.15:37.33DECLARATION7
+-knowledge/src/main/java/spring/SpelUsage.java% %(!2m
+%spring.SpelUsage.a()?name@40.15:40.19DECLARATION7
+-knowledge/src/main/java/spring/SpelUsage.java( ((2L
+voidRETURN_TYPE7
+-knowledge/src/main/java/spring/SpelUsage.java (Ö
+"spring.SpelUsage.a()?c@22.26:22.27VARIABLE7
+-knowledge/src/main/java/spring/SpelUsage.java ("
+type GregorianCalendar*c2\
+java.util.GregorianCalendarTYPE7
+-knowledge/src/main/java/spring/SpelUsage.java (2p
+/java.util.GregorianCalendar.GregorianCalendar()CALL7
+-knowledge/src/main/java/spring/SpelUsage.java" (3¥
+&spring.SpelUsage.a()?tesla@26.17:26.22VARIABLE7
+-knowledge/src/main/java/spring/SpelUsage.java ("
+type Inventor*tesla2Z
+spring.SpelUsage.InventorTYPE7
+-knowledge/src/main/java/spring/SpelUsage.java (2]
+java.util.Calendar.getTime()CALL7
+-knowledge/src/main/java/spring/SpelUsage.java8 (?2c
+"spring.SpelUsage.a()?c@22.26:22.27CALL7
+-knowledge/src/main/java/spring/SpelUsage.java6 (7ñ
+$spring.SpelUsage.a()?map@27.28:27.31VARIABLE7
+-knowledge/src/main/java/spring/SpelUsage.java ("
+type Map<String,Object>*map2N
+java.util.MapTYPE7
+-knowledge/src/main/java/spring/SpelUsage.java (2Z
+java.lang.StringTYPE_ARGUMENT7
+-knowledge/src/main/java/spring/SpelUsage.java (2Z
+java.lang.ObjectTYPE_ARGUMENT7
+-knowledge/src/main/java/spring/SpelUsage.java (2\
+java.util.HashMap.HashMap()CALL7
+-knowledge/src/main/java/spring/SpelUsage.java& (/â
+'spring.SpelUsage.a()?parser@29.25:29.31VARIABLE7
+-knowledge/src/main/java/spring/SpelUsage.java ("
+type ExpressionParser*parser2Q
+ExpressionParserTYPE7
+-knowledge/src/main/java/spring/SpelUsage.java (º
+$spring.SpelUsage.a()?exp@30.19:30.22VARIABLE7
+-knowledge/src/main/java/spring/SpelUsage.java ("
+type 
+Expression*exp2K
+
+ExpressionTYPE7
+-knowledge/src/main/java/spring/SpelUsage.java (2h
+'spring.SpelUsage.a()?parser@29.25:29.31CALL7
+-knowledge/src/main/java/spring/SpelUsage.java (Ý
+(spring.SpelUsage.a()?context@33.34:33.41VARIABLE7
+-knowledge/src/main/java/spring/SpelUsage.java!" !()""
+type StandardEvaluationContext*context2Z
+StandardEvaluationContextTYPE7
+-knowledge/src/main/java/spring/SpelUsage.java! !(!2e
+$spring.SpelUsage.a()?map@27.28:27.31CALL7
+-knowledge/src/main/java/spring/SpelUsage.java!J !(MÅ
+3spring.SpelUsage.a()?helloWorldReversed@37.15:37.33VARIABLE7
+-knowledge/src/main/java/spring/SpelUsage.java% %(!"
+type Object*helloWorldReversed2Q
+java.lang.ObjectTYPE7
+-knowledge/src/main/java/spring/SpelUsage.java% %(2h
+'spring.SpelUsage.a()?parser@29.25:29.31CALL7
+-knowledge/src/main/java/spring/SpelUsage.java& &(2i
+(spring.SpelUsage.a()?context@33.34:33.41CALL7
+-knowledge/src/main/java/spring/SpelUsage.java&D &(K¦
+%spring.SpelUsage.a()?name@40.15:40.19VARIABLE7
+-knowledge/src/main/java/spring/SpelUsage.java( (("
+type String*name2Q
+java.lang.StringTYPE7
+-knowledge/src/main/java/spring/SpelUsage.java( ((2e
+$spring.SpelUsage.a()?exp@30.19:30.22CALL7
+-knowledge/src/main/java/spring/SpelUsage.java( (("2i
+(spring.SpelUsage.a()?context@33.34:33.41CALL7
+-knowledge/src/main/java/spring/SpelUsage.java(, ((3Ø
+spring.SpelUsage.InventorCLASS7
+-knowledge/src/main/java/spring/SpelUsage.java. .( "
+inner classfalse*Inventor2r
+*spring.SpelUsage.Inventor?name@47.23:47.27DECLARATION7
+-knowledge/src/main/java/spring/SpelUsage.java/ /(2v
+.spring.SpelUsage.Inventor?birthday@48.21:48.29DECLARATION7
+-knowledge/src/main/java/spring/SpelUsage.java0 0(2y
+1spring.SpelUsage.Inventor?nationality@49.23:49.34DECLARATION7
+-knowledge/src/main/java/spring/SpelUsage.java1 1("2t
+,spring.SpelUsage.Inventor?create@50.23:50.29DECLARATION7
+-knowledge/src/main/java/spring/SpelUsage.java2 2(Ù
+*spring.SpelUsage.Inventor?name@47.23:47.27VARIABLE7
+-knowledge/src/main/java/spring/SpelUsage.java/ /("
+type String*name2Q
+java.lang.StringTYPE7
+-knowledge/src/main/java/spring/SpelUsage.java/ /(Ý
+.spring.SpelUsage.Inventor?birthday@48.21:48.29VARIABLE7
+-knowledge/src/main/java/spring/SpelUsage.java0 0("
+type Date*birthday2O
+java.util.DateTYPE7
+-knowledge/src/main/java/spring/SpelUsage.java0 0(ç
+1spring.SpelUsage.Inventor?nationality@49.23:49.34VARIABLE7
+-knowledge/src/main/java/spring/SpelUsage.java1 1(""
+type String*nationality2Q
+java.lang.StringTYPE7
+-knowledge/src/main/java/spring/SpelUsage.java1 1(ä
+,spring.SpelUsage.Inventor?create@50.23:50.29VARIABLE7
+-knowledge/src/main/java/spring/SpelUsage.java2 2("
+type Person*create2X
+spring.SpelUsage.PersonTYPE7
+-knowledge/src/main/java/spring/SpelUsage.java2 2(í
+spring.SpelUsage.PersonCLASS7
+-knowledge/src/main/java/spring/SpelUsage.java7 7("
+inner classfalse*Person2t
+,spring.SpelUsage.Person?createBy@56.23:56.31DECLARATION7
+-knowledge/src/main/java/spring/SpelUsage.java8 8(ß
+,spring.SpelUsage.Person?createBy@56.23:56.31VARIABLE7
+-knowledge/src/main/java/spring/SpelUsage.java8 8("
+type String*createBy2Q
+java.lang.StringTYPE7
+-knowledge/src/main/java/spring/SpelUsage.java8 8(

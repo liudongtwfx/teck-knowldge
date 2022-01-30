@@ -1,0 +1,353 @@
+
+4algorithm/src/main/java/algorithme/dp/StoneGame.javaä
+algorithme.dp.StoneGameCLASS>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java ("
+inner classfalse*	StoneGame2
+0algorithme.dp.StoneGame.main(java.lang.String[])DECLARATION>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java	 	(2o
+ algorithme.dp.StoneGame.bridge()DECLARATION>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2o
+ algorithme.dp.StoneGame.SolutionDECLARATION>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java
+ (û
+0algorithme.dp.StoneGame.main(java.lang.String[])METHOD>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java	 	("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2h
+ algorithme.dp.StoneGame.bridge()CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java
+ 
+(2k
+#algorithme.dp.StoneGame.StoneGame()CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java
+ 
+(2‚
+5algorithme.dp.StoneGame.main(java.lang.String[])!args	PARAMETER>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java	% 	()2S
+voidRETURN_TYPE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java	 	(ä
+5algorithme.dp.StoneGame.main(java.lang.String[])!args	PARAMETER>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java	% 	()*args2Z
+java.lang.String[]TYPE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java	 	($è
+ algorithme.dp.StoneGame.bridge()METHOD>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2y
+1algorithme.dp.StoneGame.Solution.stoneGame(int[])CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java# (,2l
+$java.io.PrintStream.println(boolean)CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2s
++algorithme.dp.StoneGame.Solution.Solution()CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java ( 2z
+2algorithme.dp.StoneGame.bridge()?piles@14.14:14.19CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java- (22v
+.algorithme.dp.StoneGame.bridge()?b@15.16:15.17CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2
+2algorithme.dp.StoneGame.bridge()?piles@14.14:14.19DECLARATION>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2}
+.algorithme.dp.StoneGame.bridge()?b@15.16:15.17DECLARATION>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2S
+voidRETURN_TYPE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (ä
+2algorithme.dp.StoneGame.bridge()?piles@14.14:14.19VARIABLE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java ("
+type int[]*piles2M
+int[]TYPE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (Ì
+.algorithme.dp.StoneGame.bridge()?b@15.16:15.17VARIABLE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java ("
+type boolean*b2O
+booleanTYPE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2y
+1algorithme.dp.StoneGame.Solution.stoneGame(int[])CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java# (,2s
++algorithme.dp.StoneGame.Solution.Solution()CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java ( 2z
+2algorithme.dp.StoneGame.bridge()?piles@14.14:14.19CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java- (2’
+ algorithme.dp.StoneGame.SolutionCLASS>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java
+ ("
+inner classtrue*Solution2€
+1algorithme.dp.StoneGame.Solution.stoneGame(int[])DECLARATION>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java ( 2„
+5algorithme.dp.StoneGame.Solution.dfs(int[], int, int)DECLARATION>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java! !(2~
+/algorithme.dp.StoneGame.Solution?dp@20.24:20.26DECLARATION>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (
+1algorithme.dp.StoneGame.Solution.stoneGame(int[])METHOD>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java ( "
+staticfalse"
+finalfalse"
+access modifierpublic"
+type boolean*	stoneGame2}
+5algorithme.dp.StoneGame.Solution.dfs(int[], int, int)CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2h
+ java.io.PrintStream.println(int)CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2
+7algorithme.dp.StoneGame.Solution.stoneGame(int[])!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (!2‰
+Aalgorithme.dp.StoneGame.Solution.stoneGame(int[])?sum@23.16:23.19CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2Š
+Balgorithme.dp.StoneGame.Solution.stoneGame(int[])?pile@24.21:24.25CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2w
+/algorithme.dp.StoneGame.Solution?dp@20.24:20.26CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2
+7algorithme.dp.StoneGame.Solution.stoneGame(int[])!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2
+7algorithme.dp.StoneGame.Solution.stoneGame(int[])!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java' (,2
+7algorithme.dp.StoneGame.Solution.stoneGame(int[])!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2
+7algorithme.dp.StoneGame.Solution.stoneGame(int[])!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java$ ()2‰
+Aalgorithme.dp.StoneGame.Solution.stoneGame(int[])?min@28.16:28.19CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java ("2‰
+Aalgorithme.dp.StoneGame.Solution.stoneGame(int[])?min@28.16:28.19CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2‰
+Aalgorithme.dp.StoneGame.Solution.stoneGame(int[])?sum@23.16:23.19CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2‰
+Aalgorithme.dp.StoneGame.Solution.stoneGame(int[])?min@28.16:28.19CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java ("2„
+7algorithme.dp.StoneGame.Solution.stoneGame(int[])!piles	PARAMETER>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java' (,2
+Aalgorithme.dp.StoneGame.Solution.stoneGame(int[])?sum@23.16:23.19DECLARATION>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2‘
+Balgorithme.dp.StoneGame.Solution.stoneGame(int[])?pile@24.21:24.25DECLARATION>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2
+Aalgorithme.dp.StoneGame.Solution.stoneGame(int[])?min@28.16:28.19DECLARATION>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2V
+booleanRETURN_TYPE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (í
+Aalgorithme.dp.StoneGame.Solution.stoneGame(int[])?sum@23.16:23.19VARIABLE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java ("
+type int*sum2K
+intTYPE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (ï
+Balgorithme.dp.StoneGame.Solution.stoneGame(int[])?pile@24.21:24.25VARIABLE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java ("
+type int*pile2K
+intTYPE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (î
+Aalgorithme.dp.StoneGame.Solution.stoneGame(int[])?min@28.16:28.19VARIABLE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java ("
+type int*min2K
+intTYPE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2}
+5algorithme.dp.StoneGame.Solution.dfs(int[], int, int)CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2
+7algorithme.dp.StoneGame.Solution.stoneGame(int[])!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (2
+7algorithme.dp.StoneGame.Solution.stoneGame(int[])!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java$ ()Ú
+7algorithme.dp.StoneGame.Solution.stoneGame(int[])!piles	PARAMETER>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java' (,*piles2M
+int[]TYPE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java! (&Š8
+5algorithme.dp.StoneGame.Solution.dfs(int[], int, int)METHOD>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java! !("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type int*dfs2d
+java.lang.Math.max(int, int)CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+ +(2}
+5algorithme.dp.StoneGame.Solution.dfs(int[], int, int)CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+. +(12}
+5algorithme.dp.StoneGame.Solution.dfs(int[], int, int)CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+Y +(\2d
+java.lang.Math.max(int, int)CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java, ,(2}
+5algorithme.dp.StoneGame.Solution.dfs(int[], int, int)CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,- ,(02}
+5algorithme.dp.StoneGame.Solution.dfs(int[], int, int)CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,V ,(Y2d
+java.lang.Math.max(int, int)CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java. .(2w
+/algorithme.dp.StoneGame.Solution?dp@20.24:20.26CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java" "(2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!startCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java" "(2
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!endCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java" "(2w
+/algorithme.dp.StoneGame.Solution?dp@20.24:20.26CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java# #(2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!startCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java# #(2
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!endCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java#! #($2
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!endCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java% %(2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!startCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java% %(2
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!endCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java( ((2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!startCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java( ((2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java) )(2
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!endCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java) )( 2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+ +($2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!startCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+% +(*2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+2 +(72ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!startCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+9 +(>2
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!endCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+D +(G2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+J +(O2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!startCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+P +(U2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+] +(b2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!startCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+d +(i2
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!endCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+o +(r2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,  ,(%2
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!endCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,& ,()2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,1 ,(62ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!startCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,8 ,(=2
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!endCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,? ,(B2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,I ,(N2
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!endCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,O ,(R2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,Z ,(_2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!startCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,a ,(f2
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!endCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,l ,(o2
+Ealgorithme.dp.StoneGame.Solution.dfs(int[], int, int)?min@43.16:43.19CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java. .("2Ž
+Falgorithme.dp.StoneGame.Solution.dfs(int[], int, int)?min2@44.16:44.20CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java.$ .((2w
+/algorithme.dp.StoneGame.Solution?dp@20.24:20.26CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java/ /(2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!startCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java/ /(2
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!endCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java/ /(2
+Ealgorithme.dp.StoneGame.Solution.dfs(int[], int, int)?ans@46.16:46.19CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java/ /( 2
+Ealgorithme.dp.StoneGame.Solution.dfs(int[], int, int)?ans@46.16:46.19CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java0 0(2ˆ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!piles	PARAMETER>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java! !(#2ˆ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!start	PARAMETER>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java!) !(.2†
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!end	PARAMETER>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java!4 !(72”
+Ealgorithme.dp.StoneGame.Solution.dfs(int[], int, int)?min@43.16:43.19DECLARATION>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+ +(2•
+Falgorithme.dp.StoneGame.Solution.dfs(int[], int, int)?min2@44.16:44.20DECLARATION>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java, ,(2”
+Ealgorithme.dp.StoneGame.Solution.dfs(int[], int, int)?ans@46.16:46.19DECLARATION>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java. .(2R
+intRETURN_TYPE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java! !(
+Ealgorithme.dp.StoneGame.Solution.dfs(int[], int, int)?min@43.16:43.19VARIABLE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+ +("
+type int*min2K
+intTYPE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+ +(2d
+java.lang.Math.max(int, int)CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+ +(2}
+5algorithme.dp.StoneGame.Solution.dfs(int[], int, int)CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+. +(12}
+5algorithme.dp.StoneGame.Solution.dfs(int[], int, int)CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+Y +(\2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+ +($2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!startCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+% +(*2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+2 +(72ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!startCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+9 +(>2
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!endCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+D +(G2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+J +(O2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!startCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+P +(U2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+] +(b2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!startCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+d +(i2
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!endCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java+o +(r‹
+Falgorithme.dp.StoneGame.Solution.dfs(int[], int, int)?min2@44.16:44.20VARIABLE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java, ,("
+type int*min22K
+intTYPE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java, ,(2d
+java.lang.Math.max(int, int)CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java, ,(2}
+5algorithme.dp.StoneGame.Solution.dfs(int[], int, int)CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,- ,(02}
+5algorithme.dp.StoneGame.Solution.dfs(int[], int, int)CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,V ,(Y2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,  ,(%2
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!endCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,& ,()2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,1 ,(62ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!startCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,8 ,(=2
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!endCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,? ,(B2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,I ,(N2
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!endCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,O ,(R2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!pilesCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,Z ,(_2ƒ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!startCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,a ,(f2
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!endCALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java,l ,(oø
+Ealgorithme.dp.StoneGame.Solution.dfs(int[], int, int)?ans@46.16:46.19VARIABLE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java. .("
+type int*ans2K
+intTYPE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java. .(2d
+java.lang.Math.max(int, int)CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java. .(2
+Ealgorithme.dp.StoneGame.Solution.dfs(int[], int, int)?min@43.16:43.19CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java. .("2Ž
+Falgorithme.dp.StoneGame.Solution.dfs(int[], int, int)?min2@44.16:44.20CALL>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java.$ .((Þ
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!piles	PARAMETER>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java! !(#*piles2M
+int[]TYPE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java! !(Ü
+;algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!start	PARAMETER>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java!) !(.*start2K
+intTYPE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java!% !((Ø
+9algorithme.dp.StoneGame.Solution.dfs(int[], int, int)!end	PARAMETER>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java!4 !(7*end2K
+intTYPE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java!0 !(3â
+/algorithme.dp.StoneGame.Solution?dp@20.24:20.26VARIABLE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java ("
+type int[][]*dp2O
+int[][]TYPE>
+4algorithm/src/main/java/algorithme/dp/StoneGame.java (

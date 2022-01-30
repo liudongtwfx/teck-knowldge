@@ -1,0 +1,297 @@
+
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.javaØ
+$algorithme.string.LongestHappyStringCLASSK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java ("
+inner classfalse*LongestHappyString2™
+=algorithme.string.LongestHappyString.main(java.lang.String[])DECLARATIONK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2‰
+-algorithme.string.LongestHappyString.bridge()DECLARATIONK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2‰
+-algorithme.string.LongestHappyString.SolutionDECLARATIONK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java
+ (û
+=algorithme.string.LongestHappyString.main(java.lang.String[])METHODK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2‚
+-algorithme.string.LongestHappyString.bridge()CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java! ('2Ž
+9algorithme.string.LongestHappyString.LongestHappyString()CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2œ
+Balgorithme.string.LongestHappyString.main(java.lang.String[])!args	PARAMETERK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java% ()2`
+voidRETURN_TYPEK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (‹
+Balgorithme.string.LongestHappyString.main(java.lang.String[])!args	PARAMETERK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java% ()*args2g
+java.lang.String[]TYPEK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java ($ÿ
+-algorithme.string.LongestHappyString.bridge()METHODK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2‚
+-java.io.PrintStream.println(java.lang.String)CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2¦
+Qalgorithme.string.LongestHappyString.Solution.longestDiverseString(int, int, int)CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java* (>2
+8algorithme.string.LongestHappyString.Solution.Solution()CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java ('2
+;algorithme.string.LongestHappyString.bridge()?a@12.12:12.13CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java? (@2
+;algorithme.string.LongestHappyString.bridge()?b@12.19:12.20CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.javaB (C2
+;algorithme.string.LongestHappyString.bridge()?c@12.26:12.27CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.javaE (F2—
+;algorithme.string.LongestHappyString.bridge()?a@12.12:12.13DECLARATIONK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2—
+;algorithme.string.LongestHappyString.bridge()?b@12.19:12.20DECLARATIONK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2—
+;algorithme.string.LongestHappyString.bridge()?c@12.26:12.27DECLARATIONK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2`
+voidRETURN_TYPEK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (ÿ
+;algorithme.string.LongestHappyString.bridge()?a@12.12:12.13VARIABLEK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java ("
+type int*a2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (ÿ
+;algorithme.string.LongestHappyString.bridge()?b@12.19:12.20VARIABLEK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java ("
+type int*b2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (ÿ
+;algorithme.string.LongestHappyString.bridge()?c@12.26:12.27VARIABLEK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java ("
+type int*c2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (†
+-algorithme.string.LongestHappyString.SolutionCLASSK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java
+ ("
+inner classtrue*Solution2­
+Qalgorithme.string.LongestHappyString.Solution.longestDiverseString(int, int, int)DECLARATIONK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (*2±
+Ualgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)DECLARATIONK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (·
+Qalgorithme.string.LongestHappyString.Solution.longestDiverseString(int, int, int)METHODK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (*"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*longestDiverseString2ª
+Ualgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2¨
+Salgorithme.string.LongestHappyString.Solution.longestDiverseString(int, int, int)!aCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2¨
+Salgorithme.string.LongestHappyString.Solution.longestDiverseString(int, int, int)!bCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2¨
+Salgorithme.string.LongestHappyString.Solution.longestDiverseString(int, int, int)!cCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java  (!2­
+Salgorithme.string.LongestHappyString.Solution.longestDiverseString(int, int, int)!a	PARAMETERK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java/ (02­
+Salgorithme.string.LongestHappyString.Solution.longestDiverseString(int, int, int)!b	PARAMETERK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java6 (72­
+Salgorithme.string.LongestHappyString.Solution.longestDiverseString(int, int, int)!c	PARAMETERK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java= (>2l
+java.lang.StringRETURN_TYPEK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (Š
+Salgorithme.string.LongestHappyString.Solution.longestDiverseString(int, int, int)!a	PARAMETERK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java/ (0*a2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java+ (.Š
+Salgorithme.string.LongestHappyString.Solution.longestDiverseString(int, int, int)!b	PARAMETERK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java6 (7*b2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java2 (5Š
+Salgorithme.string.LongestHappyString.Solution.longestDiverseString(int, int, int)!c	PARAMETERK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java= (>*c2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java9 (<‹o
+Ualgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)METHODK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type String*getMax2y
+$java.lang.String.substring(int, int)CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java ((2n
+java.lang.String.length()CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java4 (:2€
++java.lang.String.endsWith(java.lang.String)CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (%2ª
+Ualgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (!2ª
+Ualgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (!2ª
+Ualgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2€
++java.lang.String.endsWith(java.lang.String)CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java" "(%2ª
+Ualgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java# #(!2ª
+Ualgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java% %(!2ª
+Ualgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java' '(2€
++java.lang.String.endsWith(java.lang.String)CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java* *(%2ª
+Ualgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java+ +(!2ª
+Ualgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java- -(!2ª
+Ualgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)CALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java/ /(2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!aCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!bCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!cCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java" (#2²
+]algorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!currentCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2²
+]algorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!currentCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java, (32¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!aCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!aCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!bCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!aCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java# ($2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!cCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java( ()2²
+]algorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!currentCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!aCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java" (#2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!bCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java) (*2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!cCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java, (-2²
+]algorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!currentCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java/ (62¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!bCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!cCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java  (!2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!aCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java" (#2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!bCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java% (&2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!cCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java, (-2²
+]algorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!currentCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java/ (62¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!aCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!bCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java! ("2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!cCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java$ (%2²
+]algorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!currentCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java+ (22¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!bCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java! !(2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!bCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java! !(2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!aCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java! !(2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!bCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java!# !($2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!cCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java!( !()2²
+]algorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!currentCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java" "(2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!aCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java#" #(#2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!bCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java#% #(&2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!cCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java#, #(-2²
+]algorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!currentCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java#/ #(62¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!aCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java$ $(2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!cCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java$  $(!2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!aCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java%" %(#2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!bCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java%) %(*2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!cCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java%, %(-2²
+]algorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!currentCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java%/ %(62¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!aCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java' '(2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!bCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java'! '("2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!cCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java'$ '(%2²
+]algorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!currentCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java'+ '(22¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!cCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java) )(2²
+]algorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!currentCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java* *(2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!aCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java+" +(#2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!bCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java+% +(&2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!cCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java+( +()2²
+]algorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!currentCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java+/ +(62¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!aCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java, ,(2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!bCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java,  ,(!2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!aCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java-" -(#2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!bCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java-) -(*2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!cCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java-, -(-2²
+]algorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!currentCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java-/ -(62¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!aCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java/ /(2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!bCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java/! /("2¬
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!cCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java/( /()2²
+]algorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!currentCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java/+ /(22²
+]algorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!currentCALLK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java1 1(2±
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!a	PARAMETERK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java" (#2±
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!b	PARAMETERK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java) (*2±
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!c	PARAMETERK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java0 (12·
+]algorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!current	PARAMETERK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java: (A2l
+java.lang.StringRETURN_TYPEK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (Ž
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!a	PARAMETERK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java" (#*a2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java (!Ž
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!b	PARAMETERK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java) (**b2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java% ((Ž
+Walgorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!c	PARAMETERK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java0 (1*c2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java, (/§
+]algorithme.string.LongestHappyString.Solution.getMax(int, int, int, java.lang.String)!current	PARAMETERK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java: (A*current2e
+java.lang.StringTYPEK
+Aalgorithm/src/main/java/algorithme/string/LongestHappyString.java3 (9

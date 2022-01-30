@@ -1,0 +1,262 @@
+
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.javaÅ
+7algorithme.tree.PopulatingNextRightPointersInEachNodeIICLASS^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (4"
+inner classfalse*'PopulatingNextRightPointersInEachNodeII2ø
+Palgorithme.tree.PopulatingNextRightPointersInEachNodeII.main(java.lang.String[])DECLARATION^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2´
+<algorithme.tree.PopulatingNextRightPointersInEachNodeII.NodeDECLARATION^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java
+ (2Ø
+@algorithme.tree.PopulatingNextRightPointersInEachNodeII.SolutionDECLARATION^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java 
+  (ƒ
+Palgorithme.tree.PopulatingNextRightPointersInEachNodeII.main(java.lang.String[])METHOD^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2¬
+Ualgorithme.tree.PopulatingNextRightPointersInEachNodeII.main(java.lang.String[])!args	PARAMETER^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java% ()2s
+voidRETURN_TYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (ƒ
+Ualgorithme.tree.PopulatingNextRightPointersInEachNodeII.main(java.lang.String[])!args	PARAMETER^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java% ()*args2z
+java.lang.String[]TYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java ($ú
+<algorithme.tree.PopulatingNextRightPointersInEachNodeII.NodeCLASS^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java
+ ("
+inner classtrue*Node2≤
+Calgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node()DECLARATION^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2µ
+Falgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int)DECLARATION^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2
+Äalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)DECLARATION^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2ª
+Lalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node?val@12.19:12.22DECLARATION^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2º
+Malgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node?left@13.20:13.24DECLARATION^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2Ω
+Nalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node?right@14.20:14.25DECLARATION^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2º
+Malgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node?next@15.20:15.24DECLARATION^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (Ê
+Calgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node()CONSTRUCTOR^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (*Node2´
+<algorithme.tree.PopulatingNextRightPointersInEachNodeII.NodeRETURN_TYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (ë
+Falgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int)CONSTRUCTOR^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (*Node2¥
+Lalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node?val@12.19:12.22CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2≥
+Kalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int)!_valCALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2∏
+Kalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int)!_val	PARAMETER^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2´
+<algorithme.tree.PopulatingNextRightPointersInEachNodeII.NodeRETURN_TYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (´
+Kalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int)!_val	PARAMETER^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (*_val2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (®!
+Äalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)CONSTRUCTOR^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (*Node2¥
+Lalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node?val@12.19:12.22CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2Ó
+Öalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)!_valCALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2µ
+Malgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node?left@13.20:13.24CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2Ô
+Üalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)!_leftCALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2∂
+Nalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node?right@14.20:14.25CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2
+áalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)!_rightCALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2µ
+Malgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node?next@15.20:15.24CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2Ô
+Üalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)!_nextCALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2Û
+Öalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)!_val	PARAMETER^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (2Ù
+Üalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)!_left	PARAMETER^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java# ((2ı
+áalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)!_right	PARAMETER^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java/ (52Ù
+Üalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)!_next	PARAMETER^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java< (A2´
+<algorithme.tree.PopulatingNextRightPointersInEachNodeII.NodeRETURN_TYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (Ê
+Öalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)!_val	PARAMETER^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (*_val2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (¢
+Üalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)!_left	PARAMETER^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java# ((*_left2§
+<algorithme.tree.PopulatingNextRightPointersInEachNodeII.NodeTYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java ("§
+áalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)!_right	PARAMETER^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java/ (5*_right2§
+<algorithme.tree.PopulatingNextRightPointersInEachNodeII.NodeTYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java* (.¢
+Üalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node.Node(int, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node, algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)!_next	PARAMETER^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java< (A*_next2§
+<algorithme.tree.PopulatingNextRightPointersInEachNodeII.NodeTYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java7 (;∏
+Lalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node?val@12.19:12.22VARIABLE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java ("
+type int*val2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (ı
+Malgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node?left@13.20:13.24VARIABLE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java ("
+type Node*left2§
+<algorithme.tree.PopulatingNextRightPointersInEachNodeII.NodeTYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (˜
+Nalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node?right@14.20:14.25VARIABLE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java ("
+type Node*right2§
+<algorithme.tree.PopulatingNextRightPointersInEachNodeII.NodeTYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (ı
+Malgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node?next@15.20:15.24VARIABLE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java ("
+type Node*next2§
+<algorithme.tree.PopulatingNextRightPointersInEachNodeII.NodeTYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java (¡
+@algorithme.tree.PopulatingNextRightPointersInEachNodeII.SolutionCLASS^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java 
+  ("
+inner classtrue*Solution2ˆ
+Üalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)DECLARATION^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java! !(íR
+Üalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)METHOD^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java! !("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type Node*connect2}
+java.util.List.add(E)CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java# #(2Ä
+java.util.List.isEmpty()CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java$ $($2}
+java.util.List.size()CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java&- &(12}
+java.util.List.size()CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java'% '()2
+java.util.List.get(int)CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java(! (($2
+java.util.List.get(int)CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java(8 ((;2
+java.util.List.get(int)CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java*! *($2
+java.util.List.get(int)CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java+- +(02
+java.util.List.get(int)CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java-! -($2
+java.util.List.get(int)CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java.- .(02á
+java.util.ArrayList.ArrayList()CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java"& "(12á
+java.util.ArrayList.ArrayList()CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java%) %(42Ñ
+õalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?nodeList@34.23:34.31CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java# #(2Ù
+ãalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)!rootCALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java# #(2Ñ
+õalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?nodeList@34.23:34.31CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java$ $(2˝
+îalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?i@38.25:38.26CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java&  &(!2Ñ
+õalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?nodeList@34.23:34.31CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java&$ &(,2˝
+îalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?i@38.25:38.26CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java&5 &(62˝
+îalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?i@38.25:38.26CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java' '(2Ñ
+õalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?nodeList@34.23:34.31CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java' '($2Ñ
+õalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?nodeList@34.23:34.31CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java( (( 2˝
+îalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?i@38.25:38.26CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java(% ((&2Ñ
+õalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?nodeList@34.23:34.31CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java(/ ((72˝
+îalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?i@38.25:38.26CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java(< ((=2Ñ
+õalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?nodeList@34.23:34.31CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java* *( 2˝
+îalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?i@38.25:38.26CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java*% *(&2É
+öalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?newLine@37.27:37.34CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java+ +(2Ñ
+õalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?nodeList@34.23:34.31CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java+$ +(,2˝
+îalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?i@38.25:38.26CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java+1 +(22Ñ
+õalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?nodeList@34.23:34.31CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java- -( 2˝
+îalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?i@38.25:38.26CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java-% -(&2É
+öalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?newLine@37.27:37.34CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java. .(2Ñ
+õalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?nodeList@34.23:34.31CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java.$ .(,2˝
+îalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?i@38.25:38.26CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java.1 .(22Ñ
+õalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?nodeList@34.23:34.31CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java1 1(2É
+öalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?newLine@37.27:37.34CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java1 1("2Ù
+ãalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)!rootCALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java3 3(2µ
+Malgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node?next@15.20:15.24CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java(( ((,2µ
+Malgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node?left@13.20:13.24CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java*( *(,2µ
+Malgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node?left@13.20:13.24CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java+4 +(82∂
+Nalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node?right@14.20:14.25CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java-( -(-2∂
+Nalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Node?right@14.20:14.25CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java.4 .(92˘
+ãalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)!root	PARAMETER^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java!! !(%2ã
+õalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?nodeList@34.23:34.31DECLARATION^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java" "(2ä
+öalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?newLine@37.27:37.34DECLARATION^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java% %("2Ñ
+îalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?i@38.25:38.26DECLARATION^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java& &(2´
+<algorithme.tree.PopulatingNextRightPointersInEachNodeII.NodeRETURN_TYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java! !(Ÿ
+õalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?nodeList@34.23:34.31VARIABLE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java" "("
+type 
+List<Node>*nodeList2v
+java.util.ListTYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java" "(2≠
+<algorithme.tree.PopulatingNextRightPointersInEachNodeII.NodeTYPE_ARGUMENT^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java" "(2á
+java.util.ArrayList.ArrayList()CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java"& "(1◊
+öalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?newLine@37.27:37.34VARIABLE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java% %(""
+type 
+List<Node>*newLine2v
+java.util.ListTYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java% %(2≠
+<algorithme.tree.PopulatingNextRightPointersInEachNodeII.NodeTYPE_ARGUMENT^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java% %(2á
+java.util.ArrayList.ArrayList()CALL^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java%) %(4ˇ
+îalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)?i@38.25:38.26VARIABLE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java& &("
+type int*i2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java& &(¶
+ãalgorithme.tree.PopulatingNextRightPointersInEachNodeII.Solution.connect(algorithme.tree.PopulatingNextRightPointersInEachNodeII.Node)!root	PARAMETER^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java!! !(%*root2§
+<algorithme.tree.PopulatingNextRightPointersInEachNodeII.NodeTYPE^
+Talgorithm/src/main/java/algorithme/tree/PopulatingNextRightPointersInEachNodeII.java! !( 

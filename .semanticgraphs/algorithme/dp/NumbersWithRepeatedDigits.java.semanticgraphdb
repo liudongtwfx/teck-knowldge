@@ -1,0 +1,77 @@
+
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java÷
+'algorithme.dp.NumbersWithRepeatedDigitsCLASSN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java (&"
+inner classfalse*NumbersWithRepeatedDigits2Ÿ
+@algorithme.dp.NumbersWithRepeatedDigits.main(java.lang.String[])DECLARATIONN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java	 	(2
+0algorithme.dp.NumbersWithRepeatedDigits.bridge()DECLARATIONN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java (2
+0algorithme.dp.NumbersWithRepeatedDigits.SolutionDECLARATIONN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java
+ (
+@algorithme.dp.NumbersWithRepeatedDigits.main(java.lang.String[])METHODN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java	 	("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2ˆ
+0algorithme.dp.NumbersWithRepeatedDigits.bridge()CALLN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java
+( 
+(.2›
+Calgorithme.dp.NumbersWithRepeatedDigits.NumbersWithRepeatedDigits()CALLN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java
+ 
+(%2¢
+Ealgorithme.dp.NumbersWithRepeatedDigits.main(java.lang.String[])!args	PARAMETERN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java	% 	()2c
+voidRETURN_TYPEN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java	 	(”
+Ealgorithme.dp.NumbersWithRepeatedDigits.main(java.lang.String[])!args	PARAMETERN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java	% 	()*args2j
+java.lang.String[]TYPEN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java	 	($°
+0algorithme.dp.NumbersWithRepeatedDigits.bridge()METHODN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2x
+ java.io.PrintStream.println(int)CALLN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java (2¡
+Ialgorithme.dp.NumbersWithRepeatedDigits.Solution.numDupDigitsAtMostN(int)CALLN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java* (=2“
+;algorithme.dp.NumbersWithRepeatedDigits.Solution.Solution()CALLN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java ('2–
+>algorithme.dp.NumbersWithRepeatedDigits.bridge()?N@14.12:14.13CALLN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java> (?2
+>algorithme.dp.NumbersWithRepeatedDigits.bridge()?N@14.12:14.13DECLARATIONN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java (2c
+voidRETURN_TYPEN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java (ˆ
+>algorithme.dp.NumbersWithRepeatedDigits.bridge()?N@14.12:14.13VARIABLEN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java ("
+type int*N2[
+intTYPEN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java (Ó
+0algorithme.dp.NumbersWithRepeatedDigits.SolutionCLASSN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java
+ ("
+inner classtrue*Solution2¨
+Ialgorithme.dp.NumbersWithRepeatedDigits.Solution.numDupDigitsAtMostN(int)DECLARATIONN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java (&‘
+Ialgorithme.dp.NumbersWithRepeatedDigits.Solution.numDupDigitsAtMostN(int)METHODN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java (&"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*numDupDigitsAtMostN2¨
+Kalgorithme.dp.NumbersWithRepeatedDigits.Solution.numDupDigitsAtMostN(int)!N	PARAMETERN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java+ (,2b
+intRETURN_TYPEN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java (ˆ
+Kalgorithme.dp.NumbersWithRepeatedDigits.Solution.numDupDigitsAtMostN(int)!N	PARAMETERN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java+ (,*N2[
+intTYPEN
+Dalgorithm/src/main/java/algorithme/dp/NumbersWithRepeatedDigits.java' (*

@@ -1,0 +1,307 @@
+
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.javaü
+Balgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsKCLASSi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (>"
+inner classfalse*1FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK2’
+[algorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])DECLARATIONi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (2≈
+Kalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.SolutionDECLARATIONi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java&
+ &(÷)
+[algorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])METHODi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2†
+-java.io.PrintStream.println(java.lang.String)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (2ç
+java.lang.Thread.getName()CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java& (-2ê
+java.lang.String.valueOf(int)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java$ (+2≤
+?java.util.concurrent.ExecutorService.submit(java.lang.Runnable)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java ("2è
+java.lang.Thread.sleep(long)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java ( 2ò
+%java.lang.Throwable.printStackTrace()CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (%2è
+java.lang.Thread.sleep(long)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java" "(2≤
+?java.util.concurrent.ArrayBlockingQueue.ArrayBlockingQueue(int)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.javai (}2ﬁ
+kalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?r@18.131:18.132CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java' ((2·
+nalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?thread@19.19:19.25CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (%2·
+nalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?thread@19.19:19.25CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (2‹
+ialgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?i@24.17:24.18CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (2‹
+ialgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?i@24.17:24.18CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java! ("2‹
+ialgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?i@24.17:24.18CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java, (-2Í
+walgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?executorService@18.24:18.39CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (2‹
+ialgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?s@25.25:25.26CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java) (*2‹
+ialgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?e@30.46:30.47CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (2ÿ
+`algorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])!args	PARAMETERi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java% ()2Ò
+walgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?executorService@18.24:18.39DECLARATIONi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java ('2Ë
+nalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?thread@19.19:19.25DECLARATIONi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (2„
+ialgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?i@24.17:24.18DECLARATIONi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (2„
+ialgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?s@25.25:25.26DECLARATIONi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (2Á
+kalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?r@18.131:18.132DECLARATIONk
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.javaÉ (Ñ2„
+ialgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?e@30.46:30.47DECLARATIONi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java. (/2~
+voidRETURN_TYPEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (ƒ
+walgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?executorService@18.24:18.39VARIABLEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java ('"
+type ExecutorService*executorService2ó
+$java.util.concurrent.ExecutorServiceTYPEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (2†
+-java.io.PrintStream.println(java.lang.String)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (2ç
+java.lang.Thread.getName()CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java& (-2≤
+?java.util.concurrent.ArrayBlockingQueue.ArrayBlockingQueue(int)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.javai (}2ﬁ
+kalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?r@18.131:18.132CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java' ((2·
+nalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?thread@19.19:19.25CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (%2·
+nalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?thread@19.19:19.25CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (Â
+nalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?thread@19.19:19.25VARIABLEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java ("
+type Thread*thread2É
+java.lang.ThreadTYPEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (2ﬁ
+kalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?r@18.131:18.132CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java' ((È
+ialgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?i@24.17:24.18VARIABLEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java ("
+type int*i2v
+intTYPEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (È
+ialgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?s@25.25:25.26VALUEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java ("
+type String*s2É
+java.lang.StringTYPEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (2ê
+java.lang.String.valueOf(int)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java$ (+2‹
+ialgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?i@24.17:24.18CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java, (-Ê
+`algorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])!args	PARAMETERi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java% ()*args2Ö
+java.lang.String[]TYPEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java ($Ô
+kalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?r@18.131:18.132VARIABLEk
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.javaÉ (Ñ*r2TYPE˜
+ialgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.main(java.lang.String[])?e@30.46:30.47VARIABLEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java. (/*e2ë
+java.lang.InterruptedExceptionTYPEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java (-º
+Kalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.SolutionCLASSi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java&
+ &("
+inner classtrue*Solution2‚
+halgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)DECLARATIONi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java' '(*2ˆ
+|algorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)DECLARATIONi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java6 6(∂2
+halgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)METHODi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java' '(*"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*findMinFibonacciNumbers2à
+java.util.List.add(E)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java) )(2à
+java.util.List.add(E)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java* *(2ä
+java.util.List.get(int)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java0 0(2à
+java.util.List.size()CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java0% 0()2ä
+java.util.List.get(int)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java08 0(;2à
+java.util.List.size()CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java0A 0(E2à
+java.util.List.add(E)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java1 1(2Ô
+|algorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java3 3(2à
+java.util.List.size()CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java3% 3()2í
+java.util.ArrayList.ArrayList()CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java(% ((02Ï
+yalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)?nums@40.26:40.30CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java) )(2Ï
+yalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)?nums@40.26:40.30CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java* *(2Ï
+yalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)?last@43.16:43.20CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java, ,(2›
+jalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)!kCALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java, ,(2Ï
+yalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)?last@43.16:43.20CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java- -(2›
+jalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)!kCALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java- -(2Ï
+yalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)?last@43.16:43.20CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java0 0(2Ï
+yalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)?nums@40.26:40.30CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java0 0(2Ï
+yalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)?nums@40.26:40.30CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java0  0($2Ï
+yalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)?nums@40.26:40.30CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java03 0(72Ï
+yalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)?nums@40.26:40.30CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java0< 0(@2Ï
+yalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)?nums@40.26:40.30CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java1 1(2Ï
+yalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)?last@43.16:43.20CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java1 1(2›
+jalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)!kCALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java3 3(2Ï
+yalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)?nums@40.26:40.30CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java3 3(2Ï
+yalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)?nums@40.26:40.30CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java3  3($2‚
+jalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)!k	PARAMETERi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java'/ '(02Û
+yalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)?nums@40.26:40.30DECLARATIONi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java( ((2Û
+yalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)?last@43.16:43.20DECLARATIONi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java+ +(2}
+intRETURN_TYPEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java' '(∑
+yalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)?nums@40.26:40.30VARIABLEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java( (("
+type List<Integer>*nums2Å
+java.util.ListTYPEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java( ((2ç
+java.lang.IntegerTYPE_ARGUMENTi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java( ((2í
+java.util.ArrayList.ArrayList()CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java(% ((0¸
+yalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)?last@43.16:43.20VARIABLEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java+ +("
+type int*last2v
+intTYPEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java+ +(›
+jalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.findMinFibonacciNumbers(int)!k	PARAMETERi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java'/ '(0*k2v
+intTYPEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java'+ '(.≠0
+|algorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)METHODi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java6 6("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type int*dfs2ä
+java.util.List.get(int)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java8 8( 2Ô
+|algorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java? ?(2ˆ
+Çalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)!startCALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java7 7(2˛
+äalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)?i@55.21:55.22CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java7  7(!2˛
+äalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)?i@55.21:55.22CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java7( 7()2ı
+Åalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)!numsCALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java8 8(2˛
+äalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)?i@55.21:55.22CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java8! 8("2˛
+äalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)?n@56.20:56.21CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java9 9(2¯
+Ñalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)!currentCALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java9 9(2˛
+äalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)?n@56.20:56.21CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java< <(2¯
+Ñalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)!currentCALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java< <( 2¯
+Ñalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)!currentCALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java? ?(#2˛
+äalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)?n@56.20:56.21CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java?& ?('2ı
+Åalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)!numsCALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java?) ?(-2ˆ
+Çalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)!startCALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java?/ ?(42˛
+äalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)?c@63.20:63.21CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.javaA A(2˛
+äalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)?c@63.20:63.21CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.javaB B(2˝
+Ñalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)!current	PARAMETERi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java6 6(#2˙
+Åalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)!nums	PARAMETERi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java63 6(72˚
+Çalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)!start	PARAMETERi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java6= 6(B2Ö
+äalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)?i@55.21:55.22DECLARATIONi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java7 7(2Ö
+äalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)?n@56.20:56.21DECLARATIONi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java8 8(2Ö
+äalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)?c@63.20:63.21DECLARATIONi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java? ?(2}
+intRETURN_TYPEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java6 6(Ñ
+äalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)?i@55.21:55.22VARIABLEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java7 7("
+type int*i2v
+intTYPEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java7 7(2ˆ
+Çalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)!startCALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java7 7(ë
+äalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)?n@56.20:56.21VARIABLEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java8 8("
+type int*n2v
+intTYPEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java8 8(2ä
+java.util.List.get(int)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java8 8( 2ı
+Åalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)!numsCALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java8 8(2˛
+äalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)?i@55.21:55.22CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java8! 8("Í
+äalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)?c@63.20:63.21VARIABLEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java? ?("
+type int*c2v
+intTYPEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java? ?(2Ô
+|algorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java? ?(2¯
+Ñalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)!currentCALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java? ?(#2˛
+äalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)?n@56.20:56.21CALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java?& ?('2ı
+Åalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)!numsCALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java?) ?(-2ˆ
+Çalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)!startCALLi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java?/ ?(4˛
+Ñalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)!current	PARAMETERi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java6 6(#*current2v
+intTYPEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java6 6(î
+Åalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)!nums	PARAMETERi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java63 6(7*nums2Å
+java.util.ListTYPEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java6% 6()2ç
+java.lang.IntegerTYPE_ARGUMENTi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java6* 6(1˙
+Çalgorithme.array.FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.Solution.dfs(int, java.util.List<java.lang.Integer>, int)!start	PARAMETERi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java6= 6(B*start2v
+intTYPEi
+_algorithm/src/main/java/algorithme/array/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java69 6(<

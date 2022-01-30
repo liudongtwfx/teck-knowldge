@@ -1,0 +1,33 @@
+
+6knowledge/src/main/java/jl/usage/classloader/Demo.java†
+jl.usage.classloader.DemoCLASS@
+6knowledge/src/main/java/jl/usage/classloader/Demo.java ("
+inner classfalse*Demo2ƒ
+2jl.usage.classloader.Demo.main(java.lang.String[])DECLARATION@
+6knowledge/src/main/java/jl/usage/classloader/Demo.java (Ý
+2jl.usage.classloader.Demo.main(java.lang.String[])METHOD@
+6knowledge/src/main/java/jl/usage/classloader/Demo.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2w
+-java.io.PrintStream.println(java.lang.Object)CALL@
+6knowledge/src/main/java/jl/usage/classloader/Demo.java (2j
+ java.lang.Class.getClassLoader()CALL@
+6knowledge/src/main/java/jl/usage/classloader/Demo.java+ (92w
+-java.io.PrintStream.println(java.lang.Object)CALL@
+6knowledge/src/main/java/jl/usage/classloader/Demo.java (2j
+ java.lang.Class.getClassLoader()CALL@
+6knowledge/src/main/java/jl/usage/classloader/Demo.java8 (F2w
+-java.io.PrintStream.println(java.lang.Object)CALL@
+6knowledge/src/main/java/jl/usage/classloader/Demo.java (2j
+ java.lang.Class.getClassLoader()CALL@
+6knowledge/src/main/java/jl/usage/classloader/Demo.java& (42†
+7jl.usage.classloader.Demo.main(java.lang.String[])!args	PARAMETER@
+6knowledge/src/main/java/jl/usage/classloader/Demo.java% ()2U
+voidRETURN_TYPE@
+6knowledge/src/main/java/jl/usage/classloader/Demo.java (ê
+7jl.usage.classloader.Demo.main(java.lang.String[])!args	PARAMETER@
+6knowledge/src/main/java/jl/usage/classloader/Demo.java% ()*args2\
+java.lang.String[]TYPE@
+6knowledge/src/main/java/jl/usage/classloader/Demo.java ($

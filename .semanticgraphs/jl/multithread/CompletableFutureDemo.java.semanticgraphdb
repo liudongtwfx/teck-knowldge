@@ -1,0 +1,268 @@
+
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java≠
+$jl.multithread.CompletableFutureDemoCLASSK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java (""
+inner classfalse*CompletableFutureDemo2§
+Hjl.multithread.CompletableFutureDemo.main(java.util.concurrent.String[])DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java (2å
+0jl.multithread.CompletableFutureDemo.sleep(long)DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java5 5(2†
+Djl.multithread.CompletableFutureDemo.interruptWithoutException(long)DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java> >(12ä
+.jl.multithread.CompletableFutureDemo.allDemo()DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaG G(2ù
+Ajl.multithread.CompletableFutureDemo?EXECUTOR_SERVICE@20.41:20.57DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java) (9Ù
+Hjl.multithread.CompletableFutureDemo.main(java.util.concurrent.String[])METHODK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2ß
+Rjava.util.concurrent.CompletableFuture.supplyAsync(java.util.function.Supplier<U>)CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java#9 #(D2ß
+Rjava.util.concurrent.CompletableFuture.supplyAsync(java.util.function.Supplier<U>)CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java(: ((E2ô
+Djl.multithread.CompletableFutureDemo.interruptWithoutException(long)CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java* *(%2É
+.jl.multithread.CompletableFutureDemo.allDemo()CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java0 0(2ã
+6jl.multithread.CompletableFutureDemo.ThreadA.ThreadA()CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaJ (Q2ñ
+Ajl.multithread.CompletableFutureDemo?EXECUTOR_SERVICE@20.41:20.57CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java" "(#2∞
+[jl.multithread.CompletableFutureDemo.main(java.util.concurrent.String[])?future@30.34:30.40CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java' '(!2≠
+Xjl.multithread.CompletableFutureDemo.main(java.util.concurrent.String[])?cf1@40.34:40.37CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java. .(2ñ
+Ajl.multithread.CompletableFutureDemo?EXECUTOR_SERVICE@20.41:20.57CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java1 1(2ß
+Mjl.multithread.CompletableFutureDemo.main(java.util.concurrent.String[])!args	PARAMETERK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java% ()2∑
+[jl.multithread.CompletableFutureDemo.main(java.util.concurrent.String[])?future@30.34:30.40DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java" ((2¥
+Xjl.multithread.CompletableFutureDemo.main(java.util.concurrent.String[])?cf1@40.34:40.37DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java(" ((%2≤
+Vjl.multithread.CompletableFutureDemo.main(java.util.concurrent.String[])?a@31.55:31.56DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java7 (82∑
+[jl.multithread.CompletableFutureDemo.main(java.util.concurrent.String[])?unused@35.29:35.35DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java# #(#2`
+voidRETURN_TYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java (©
+[jl.multithread.CompletableFutureDemo.main(java.util.concurrent.String[])?future@30.34:30.40VARIABLEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java" ((""
+type CompletableFuture<String>*future2{
+&java.util.concurrent.CompletableFutureTYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java (2y
+java.util.concurrent.StringTYPE_ARGUMENTK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java ( 2ß
+Rjava.util.concurrent.CompletableFuture.supplyAsync(java.util.function.Supplier<U>)CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java#9 #(D2ã
+6jl.multithread.CompletableFutureDemo.ThreadA.ThreadA()CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaJ (Q2ñ
+Ajl.multithread.CompletableFutureDemo?EXECUTOR_SERVICE@20.41:20.57CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java" "(#ò
+Xjl.multithread.CompletableFutureDemo.main(java.util.concurrent.String[])?cf1@40.34:40.37VARIABLEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java(" ((%""
+type CompletableFuture<String>*cf12{
+&java.util.concurrent.CompletableFutureTYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java( ((2y
+java.util.concurrent.StringTYPE_ARGUMENTK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java( (( 2ß
+Rjava.util.concurrent.CompletableFuture.supplyAsync(java.util.function.Supplier<U>)CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java(: ((E2ô
+Djl.multithread.CompletableFutureDemo.interruptWithoutException(long)CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java* *(%°
+Mjl.multithread.CompletableFutureDemo.main(java.util.concurrent.String[])!args	PARAMETERK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java% ()*args2r
+java.util.concurrent.String[]TYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java ($∫
+Vjl.multithread.CompletableFutureDemo.main(java.util.concurrent.String[])?a@31.55:31.56VARIABLEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java7 (8*a2TYPEƒ
+[jl.multithread.CompletableFutureDemo.main(java.util.concurrent.String[])?unused@35.29:35.35VARIABLEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java# #(#*unused2TYPEâ
+0jl.multithread.CompletableFutureDemo.sleep(long)METHODK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java5 5("
+statictrue"
+finalfalse"
+access modifierprivate"
+type void*sleep2à
+3jl.multithread.CompletableFutureDemo.sleep(long)!msCALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java7 7(2ì
+>jl.multithread.CompletableFutureDemo.sleep(long)?e@56.38:56.39CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java9 9(2ç
+3jl.multithread.CompletableFutureDemo.sleep(long)!ms	PARAMETERK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java5# 5(%2ö
+>jl.multithread.CompletableFutureDemo.sleep(long)?e@56.38:56.39DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java8& 8('2`
+voidRETURN_TYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java5 5(Ï
+3jl.multithread.CompletableFutureDemo.sleep(long)!ms	PARAMETERK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java5# 5(%*ms2Y
+longTYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java5 5("ö
+>jl.multithread.CompletableFutureDemo.sleep(long)?e@56.38:56.39VARIABLEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java8& 8('*e2~
+)java.util.concurrent.InterruptedExceptionTYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java8 8(%â
+Djl.multithread.CompletableFutureDemo.interruptWithoutException(long)METHODK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java> >(1"
+statictrue"
+finalfalse"
+access modifierprivate"
+type void*interruptWithoutException2†
+Kjl.multithread.CompletableFutureDemo.interruptWithoutException(long)!millisCALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java@ @(2ß
+Rjl.multithread.CompletableFutureDemo.interruptWithoutException(long)?e@65.27:65.28CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaB B(2•
+Kjl.multithread.CompletableFutureDemo.interruptWithoutException(long)!millis	PARAMETERK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java>7 >(=2Æ
+Rjl.multithread.CompletableFutureDemo.interruptWithoutException(long)?e@65.27:65.28DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaA A(2`
+voidRETURN_TYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java> >(à
+Kjl.multithread.CompletableFutureDemo.interruptWithoutException(long)!millis	PARAMETERK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java>7 >(=*millis2Y
+longTYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java>2 >(6£
+Rjl.multithread.CompletableFutureDemo.interruptWithoutException(long)?e@65.27:65.28VARIABLEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaA A(*e2s
+java.util.concurrent.ExceptionTYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaA A(Æ
+.jl.multithread.CompletableFutureDemo.allDemo()METHODK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaG G("
+statictrue"
+finalfalse"
+access modifierprivate"
+type void*allDemo2∆
+qjava.util.concurrent.CompletableFuture.supplyAsync(java.util.function.Supplier<U>, java.util.concurrent.Executor)CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaK8 K(C2ô
+Djl.multithread.CompletableFutureDemo.interruptWithoutException(long)CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaM M()2t
+java.util.ArrayList.ArrayList()CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaHE H(P2ë
+<jl.multithread.CompletableFutureDemo.allDemo()?i@73.17:73.18CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaI I(2ë
+<jl.multithread.CompletableFutureDemo.allDemo()?i@73.17:73.18CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaI! I("2ë
+<jl.multithread.CompletableFutureDemo.allDemo()?i@73.17:73.18CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaJ J( 2•
+Pjl.multithread.CompletableFutureDemo.allDemo()?completableFutureList@72.41:72.62CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaK K(!2ñ
+Ajl.multithread.CompletableFutureDemo.allDemo()?constA@74.22:74.28CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaL! L('2ñ
+Ajl.multithread.CompletableFutureDemo.allDemo()?constA@74.22:74.28CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaN N(2ñ
+Ajl.multithread.CompletableFutureDemo?EXECUTOR_SERVICE@20.41:20.57CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaO O(2•
+Pjl.multithread.CompletableFutureDemo.allDemo()?completableFutureList@72.41:72.62CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaR R(,2•
+Pjl.multithread.CompletableFutureDemo.allDemo()?voidCompletableFuture@81.32:81.53CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaS S(2¨
+Pjl.multithread.CompletableFutureDemo.allDemo()?completableFutureList@72.41:72.62DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaH) H(>2ò
+<jl.multithread.CompletableFutureDemo.allDemo()?i@73.17:73.18DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaI I(2ù
+Ajl.multithread.CompletableFutureDemo.allDemo()?constA@74.22:74.28DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaJ J(2¨
+Pjl.multithread.CompletableFutureDemo.allDemo()?voidCompletableFuture@81.32:81.53DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaQ  Q(52`
+voidRETURN_TYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaG G(…
+Pjl.multithread.CompletableFutureDemo.allDemo()?completableFutureList@72.41:72.62VARIABLEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaH) H(>")
+type  List<CompletableFuture<Integer>>*completableFutureList2c
+java.util.ListTYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaH H(2Ñ
+&java.util.concurrent.CompletableFutureTYPE_ARGUMENTK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaH H(2z
+java.util.concurrent.IntegerTYPE_ARGUMENTK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaH H(&2t
+java.util.ArrayList.ArrayList()CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaHE H(PÄ
+<jl.multithread.CompletableFutureDemo.allDemo()?i@73.17:73.18VARIABLEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaI I("
+type int*i2X
+intTYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaI I(õ
+Ajl.multithread.CompletableFutureDemo.allDemo()?constA@74.22:74.28VALUEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaJ J("
+type int*constA2X
+intTYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaJ J(2ë
+<jl.multithread.CompletableFutureDemo.allDemo()?i@73.17:73.18CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaJ J( Ä
+Pjl.multithread.CompletableFutureDemo.allDemo()?voidCompletableFuture@81.32:81.53VARIABLEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaQ  Q(5" 
+type CompletableFuture<Void>*voidCompletableFuture2{
+&java.util.concurrent.CompletableFutureTYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaQ Q(2w
+java.util.concurrent.VoidTYPE_ARGUMENTK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaQ Q(2•
+Pjl.multithread.CompletableFutureDemo.allDemo()?completableFutureList@72.41:72.62CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaR R(,÷
+Ajl.multithread.CompletableFutureDemo?EXECUTOR_SERVICE@20.41:20.57VALUEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java) (9"
+type ExecutorService*EXECUTOR_SERVICE2y
+$java.util.concurrent.ExecutorServiceTYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java ((2ï
+?java.util.concurrent.ArrayBlockingQueue.ArrayBlockingQueue(int)CALLL
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javau (â™
+&jl.multithread.CompletableFutureDemo.ACLASSK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaW W("
+inner classfalse*A2í
+6jl.multithread.CompletableFutureDemo.A?age@88.20:88.23DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaX X(¸
+6jl.multithread.CompletableFutureDemo.A?age@88.20:88.23VARIABLEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaX X("
+type int*age2X
+intTYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaX X(√
+,jl.multithread.CompletableFutureDemo.ThreadACLASSK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java[ [( "
+inner classfalse*ThreadA2é
+2jl.multithread.CompletableFutureDemo.ThreadA.run()DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java` `(2ò
+<jl.multithread.CompletableFutureDemo.ThreadA?log@92.36:92.39DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java\$ \('2t
+java.util.concurrent.RunnableEXTENDK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java[, [(4œ
+2jl.multithread.CompletableFutureDemo.ThreadA.run()METHODK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java` `("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*run2ë
+<jl.multithread.CompletableFutureDemo.ThreadA?log@92.36:92.39CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javab b(2`
+voidRETURN_TYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java` `(è
+<jl.multithread.CompletableFutureDemo.ThreadA?log@92.36:92.39VALUEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java\$ \('"
+type Logger*log2e
+org.slf4j.LoggerTYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.java\ \(#≈
+,jl.multithread.CompletableFutureDemo.ThreadBCLASSK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaf f( "
+inner classfalse*ThreadB2é
+2jl.multithread.CompletableFutureDemo.ThreadB.run()DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaj j(2ö
+>jl.multithread.CompletableFutureDemo.ThreadB?log@103.36:103.39DECLARATIONK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javag$ g('2t
+java.util.concurrent.RunnableEXTENDK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaf, f(4—
+2jl.multithread.CompletableFutureDemo.ThreadB.run()METHODK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaj j("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*run2ì
+>jl.multithread.CompletableFutureDemo.ThreadB?log@103.36:103.39CALLK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javak k(2`
+voidRETURN_TYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javaj j(ë
+>jl.multithread.CompletableFutureDemo.ThreadB?log@103.36:103.39VALUEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javag$ g('"
+type Logger*log2e
+org.slf4j.LoggerTYPEK
+Aknowledge/src/main/java/jl/multithread/CompletableFutureDemo.javag g(#

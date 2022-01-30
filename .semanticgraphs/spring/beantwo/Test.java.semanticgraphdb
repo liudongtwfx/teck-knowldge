@@ -1,0 +1,48 @@
+
+0knowledge/src/main/java/spring/beantwo/Test.javaÌ
+spring.beantwo.TestCLASS:
+0knowledge/src/main/java/spring/beantwo/Test.java	 	("
+inner classfalse*Test2w
+,spring.beantwo.Test.main(java.lang.String[])DECLARATION:
+0knowledge/src/main/java/spring/beantwo/Test.java
+ 
+(Ì
+,spring.beantwo.Test.main(java.lang.String[])METHOD:
+0knowledge/src/main/java/spring/beantwo/Test.java
+ 
+("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2q
+-java.io.PrintStream.println(java.lang.String)CALL:
+0knowledge/src/main/java/spring/beantwo/Test.java (2q
+-java.io.PrintStream.println(java.lang.String)CALL:
+0knowledge/src/main/java/spring/beantwo/Test.java (2]
+java.lang.Class.getName()CALL:
+0knowledge/src/main/java/spring/beantwo/Test.java& (-2Ü
+Bspring.beantwo.Test.main(java.lang.String[])?shortName@11.15:11.24CALL:
+0knowledge/src/main/java/spring/beantwo/Test.java ($2z
+1spring.beantwo.Test.main(java.lang.String[])!args	PARAMETER:
+0knowledge/src/main/java/spring/beantwo/Test.java
+% 
+()2ç
+Bspring.beantwo.Test.main(java.lang.String[])?shortName@11.15:11.24DECLARATION:
+0knowledge/src/main/java/spring/beantwo/Test.java (2O
+voidRETURN_TYPE:
+0knowledge/src/main/java/spring/beantwo/Test.java
+ 
+(¸
+Bspring.beantwo.Test.main(java.lang.String[])?shortName@11.15:11.24VARIABLE:
+0knowledge/src/main/java/spring/beantwo/Test.java ("
+type String*	shortName2T
+java.lang.StringTYPE:
+0knowledge/src/main/java/spring/beantwo/Test.java (ÿ
+1spring.beantwo.Test.main(java.lang.String[])!args	PARAMETER:
+0knowledge/src/main/java/spring/beantwo/Test.java
+% 
+()*args2V
+java.lang.String[]TYPE:
+0knowledge/src/main/java/spring/beantwo/Test.java
+ 
+($

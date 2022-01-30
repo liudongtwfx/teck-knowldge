@@ -1,0 +1,32 @@
+
+<knowledge/src/main/java/tools/guava/collection/MapUtils.java²
+tools.guava.collection.MapUtilsCLASSF
+<knowledge/src/main/java/tools/guava/collection/MapUtils.java ("
+inner classfalse*MapUtils2
+8tools.guava.collection.MapUtils.main(java.lang.String[])DECLARATIONF
+<knowledge/src/main/java/tools/guava/collection/MapUtils.java	 	(2
+6tools.guava.collection.MapUtils?CODE_MAPPING@7.39:7.51DECLARATIONF
+<knowledge/src/main/java/tools/guava/collection/MapUtils.java' (3Ì
+8tools.guava.collection.MapUtils.main(java.lang.String[])METHODF
+<knowledge/src/main/java/tools/guava/collection/MapUtils.java	 	("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2’
+=tools.guava.collection.MapUtils.main(java.lang.String[])!args	PARAMETERF
+<knowledge/src/main/java/tools/guava/collection/MapUtils.java	% 	()2[
+voidRETURN_TYPEF
+<knowledge/src/main/java/tools/guava/collection/MapUtils.java	 	(ü
+=tools.guava.collection.MapUtils.main(java.lang.String[])!args	PARAMETERF
+<knowledge/src/main/java/tools/guava/collection/MapUtils.java	% 	()*args2b
+java.lang.String[]TYPEF
+<knowledge/src/main/java/tools/guava/collection/MapUtils.java	 	($ê
+6tools.guava.collection.MapUtils?CODE_MAPPING@7.39:7.51VARIABLEF
+<knowledge/src/main/java/tools/guava/collection/MapUtils.java' (3"
+type Map<String,String>*CODE_MAPPING2]
+java.util.MapTYPEF
+<knowledge/src/main/java/tools/guava/collection/MapUtils.java (2i
+java.lang.StringTYPE_ARGUMENTF
+<knowledge/src/main/java/tools/guava/collection/MapUtils.java (2i
+java.lang.StringTYPE_ARGUMENTF
+<knowledge/src/main/java/tools/guava/collection/MapUtils.java (%

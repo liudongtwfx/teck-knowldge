@@ -1,0 +1,113 @@
+
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java÷
+Jalgorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737CLASSq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (E"
+inner classfalse*8ChangeMinimumCharactersToSatisfyOneOfThreeConditions17372Â
+calgorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.main(java.lang.String[])DECLARATIONq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (2’
+Salgorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.SolutionDECLARATIONq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java
+ (§
+calgorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.main(java.lang.String[])METHODq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2Ë
+halgorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.main(java.lang.String[])!args	PARAMETERq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java% ()2Ü
+voidRETURN_TYPEq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (˛
+halgorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.main(java.lang.String[])!args	PARAMETERq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java% ()*args2ç
+java.lang.String[]TYPEq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java ($Î
+Salgorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.SolutionCLASSq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java
+ ("
+inner classtrue*Solution2à
+Öalgorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.minCharacters(java.lang.String, java.lang.String)DECLARATIONq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java ( 2Ô
+malgorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)DECLARATIONq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (•	
+Öalgorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.minCharacters(java.lang.String, java.lang.String)METHODq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java ( "
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minCharacters2®
+-java.io.PrintStream.println(java.lang.String)CALLq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java	 	(2à
+áalgorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.minCharacters(java.lang.String, java.lang.String)!a	PARAMETERq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java( ()2à
+áalgorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.minCharacters(java.lang.String, java.lang.String)!b	PARAMETERq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java2 (32Ö
+intRETURN_TYPEq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (ô
+áalgorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.minCharacters(java.lang.String, java.lang.String)!a	PARAMETERq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java( ()*a2ã
+java.lang.StringTYPEq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java! ('ô
+áalgorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.minCharacters(java.lang.String, java.lang.String)!b	PARAMETERq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java2 (3*b2ã
+java.lang.StringTYPEq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java+ (1ã"
+malgorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)METHODq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type int[]*getDict2ô
+java.lang.String.toCharArray()CALLq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java ('2Í
+oalgorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)!sCALLq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (2¯
+}algorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)?res@14.18:14.21CALLq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (2ˆ
+{algorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)?c@15.22:15.23CALLq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (2ˆ
+{algorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)?i@18.21:18.22CALLq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (2¯
+}algorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)?res@14.18:14.21CALLq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java  (#2ˆ
+{algorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)?i@18.21:18.22CALLq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java, (-2¯
+}algorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)?res@14.18:14.21CALLq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (2ˆ
+{algorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)?i@18.21:18.22CALLq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (2¯
+}algorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)?res@14.18:14.21CALLq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (2ˆ
+{algorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)?i@18.21:18.22CALLq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (2¯
+}algorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)?res@14.18:14.21CALLq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (2Ô
+oalgorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)!s	PARAMETERq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java% (&2ˇ
+}algorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)?res@14.18:14.21DECLARATIONq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (2˝
+{algorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)?c@15.22:15.23DECLARATIONq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (2˝
+{algorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)?i@18.21:18.22DECLARATIONq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (2á
+int[]RETURN_TYPEq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (î
+}algorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)?res@14.18:14.21VARIABLEq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java ("
+type int[]*res2Ä
+int[]TYPEq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (ç
+{algorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)?c@15.22:15.23VARIABLEq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java ("
+type char*c2
+charTYPEq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (ã
+{algorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)?i@18.21:18.22VARIABLEq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java ("
+type int*i2~
+intTYPEq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java (Ä
+oalgorithme.greedy.ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.Solution.getDict(java.lang.String)!s	PARAMETERq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java% (&*s2ã
+java.lang.StringTYPEq
+galgorithm/src/main/java/algorithme/greedy/ChangeMinimumCharactersToSatisfyOneOfThreeConditions1737.java ($

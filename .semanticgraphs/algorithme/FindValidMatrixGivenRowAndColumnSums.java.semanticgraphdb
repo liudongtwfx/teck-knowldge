@@ -1,0 +1,153 @@
+
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java 
+/algorithme.FindValidMatrixGivenRowAndColumnSumsCLASSV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java
+ 
+(1"
+inner classfalse*$FindValidMatrixGivenRowAndColumnSums2¯
+Halgorithme.FindValidMatrixGivenRowAndColumnSums.main(java.lang.String[])DECLARATIONV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (2Ÿ
+8algorithme.FindValidMatrixGivenRowAndColumnSums.SolutionDECLARATIONV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java
+ (œ
+Halgorithme.FindValidMatrixGivenRowAndColumnSums.main(java.lang.String[])METHODV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2²
+Malgorithme.FindValidMatrixGivenRowAndColumnSums.main(java.lang.String[])!args	PARAMETERV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java% ()2k
+voidRETURN_TYPEV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (¬
+Malgorithme.FindValidMatrixGivenRowAndColumnSums.main(java.lang.String[])!args	PARAMETERV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java% ()*args2r
+java.lang.String[]TYPEV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java ($ö
+8algorithme.FindValidMatrixGivenRowAndColumnSums.SolutionCLASSV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java
+ ("
+inner classtrue*Solution2»
+Talgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])DECLARATIONV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java ($ï9
+Talgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])METHODV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java ($"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int[][]*restoreMatrix2|
+java.lang.Math.min(int, int)CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java% ((2»
+[algorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])!rowSumCALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (2»
+[algorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])!colSumCALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java' (-2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?m@23.16:23.17CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java" (#2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?n@23.35:23.36CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java% (&2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?i@25.21:25.22CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?m@23.16:23.17CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java  (!2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?i@25.21:25.22CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java# ($2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?j@26.25:26.26CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java  (!2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?n@23.35:23.36CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java$ (%2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?j@26.25:26.26CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java' ((2Ä
+dalgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?res@24.20:24.23CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?i@25.21:25.22CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?j@26.25:26.26CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (2»
+[algorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])!rowSumCALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java) (/2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?i@25.21:25.22CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java0 (12»
+[algorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])!colSumCALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java4 (:2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?j@26.25:26.26CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java; (<2»
+[algorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])!rowSumCALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?i@25.21:25.22CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (2Ä
+dalgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?res@24.20:24.23CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java! ($2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?i@25.21:25.22CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java% (&2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?j@26.25:26.26CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java( ()2»
+[algorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])!colSumCALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?j@26.25:26.26CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (2Ä
+dalgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?res@24.20:24.23CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java! ($2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?i@25.21:25.22CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java% (&2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?j@26.25:26.26CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java( ()2Ä
+dalgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?res@24.20:24.23CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java   (2À
+[algorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])!rowSum	PARAMETERV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java+ (12À
+[algorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])!colSum	PARAMETERV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java9 (?2É
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?m@23.16:23.17DECLARATIONV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (2É
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?n@23.35:23.36DECLARATIONV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java# ($2Ë
+dalgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?res@24.20:24.23DECLARATIONV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (2É
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?i@25.21:25.22DECLARATIONV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (2É
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?j@26.25:26.26DECLARATIONV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (2n
+int[][]RETURN_TYPEV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (ú
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?m@23.16:23.17VARIABLEV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java ("
+type int*m2c
+intTYPEV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (2»
+[algorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])!rowSumCALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (ú
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?n@23.35:23.36VARIABLEV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java# ($"
+type int*n2c
+intTYPEV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (2»
+[algorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])!colSumCALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java' (-Ò
+dalgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?res@24.20:24.23VARIABLEV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java ("
+type int[][]*res2g
+int[][]TYPEV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?m@23.16:23.17CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java" (#2Â
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?n@23.35:23.36CALLV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java% (&¼
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?i@25.21:25.22VARIABLEV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java ("
+type int*i2c
+intTYPEV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (¼
+balgorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])?j@26.25:26.26VARIABLEV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java ("
+type int*j2c
+intTYPEV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java (¯
+[algorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])!rowSum	PARAMETERV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java+ (1*rowSum2e
+int[]TYPEV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java% (*¯
+[algorithme.FindValidMatrixGivenRowAndColumnSums.Solution.restoreMatrix(int[], int[])!colSum	PARAMETERV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java9 (?*colSum2e
+int[]TYPEV
+Lalgorithm/src/main/java/algorithme/FindValidMatrixGivenRowAndColumnSums.java3 (8

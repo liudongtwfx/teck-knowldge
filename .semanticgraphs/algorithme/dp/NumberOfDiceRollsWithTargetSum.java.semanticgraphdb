@@ -1,0 +1,222 @@
+
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java§
+,algorithme.dp.NumberOfDiceRollsWithTargetSumCLASSS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (+"
+inner classfalse*NumberOfDiceRollsWithTargetSum2©
+Ealgorithme.dp.NumberOfDiceRollsWithTargetSum.main(java.lang.String[])DECLARATIONS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java	 	(2ô
+5algorithme.dp.NumberOfDiceRollsWithTargetSum.bridge()DECLARATIONS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2ô
+5algorithme.dp.NumberOfDiceRollsWithTargetSum.SolutionDECLARATIONS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java
+ (œ
+Ealgorithme.dp.NumberOfDiceRollsWithTargetSum.main(java.lang.String[])METHODS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java	 	("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2í
+5algorithme.dp.NumberOfDiceRollsWithTargetSum.bridge()CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java
+- 
+(32™
+Malgorithme.dp.NumberOfDiceRollsWithTargetSum.NumberOfDiceRollsWithTargetSum()CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java
+ 
+(*2¨
+Jalgorithme.dp.NumberOfDiceRollsWithTargetSum.main(java.lang.String[])!args	PARAMETERS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java	% 	()2h
+voidRETURN_TYPES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java	 	(£
+Jalgorithme.dp.NumberOfDiceRollsWithTargetSum.main(java.lang.String[])!args	PARAMETERS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java	% 	()*args2o
+java.lang.String[]TYPES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java	 	($ó
+5algorithme.dp.NumberOfDiceRollsWithTargetSum.bridge()METHODS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2}
+ java.io.PrintStream.println(int)CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2≤
+Ualgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java* (:2ù
+@algorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.Solution()CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java ('2†
+Calgorithme.dp.NumberOfDiceRollsWithTargetSum.bridge()?d@14.12:14.13CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java; (<2†
+Calgorithme.dp.NumberOfDiceRollsWithTargetSum.bridge()?f@15.12:15.13CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java> (?2•
+Halgorithme.dp.NumberOfDiceRollsWithTargetSum.bridge()?target@16.12:16.18CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.javaA (G2ß
+Calgorithme.dp.NumberOfDiceRollsWithTargetSum.bridge()?d@14.12:14.13DECLARATIONS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2ß
+Calgorithme.dp.NumberOfDiceRollsWithTargetSum.bridge()?f@15.12:15.13DECLARATIONS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2¨
+Halgorithme.dp.NumberOfDiceRollsWithTargetSum.bridge()?target@16.12:16.18DECLARATIONS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2h
+voidRETURN_TYPES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (ó
+Calgorithme.dp.NumberOfDiceRollsWithTargetSum.bridge()?d@14.12:14.13VARIABLES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java ("
+type int*d2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (ó
+Calgorithme.dp.NumberOfDiceRollsWithTargetSum.bridge()?f@15.12:15.13VARIABLES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java ("
+type int*f2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (°
+Halgorithme.dp.NumberOfDiceRollsWithTargetSum.bridge()?target@16.12:16.18VARIABLES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java ("
+type int*target2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (Ó
+5algorithme.dp.NumberOfDiceRollsWithTargetSum.SolutionCLASSS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java
+ ("
+inner classtrue*Solution2π
+Ualgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)DECLARATIONS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (#÷F
+Ualgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)METHODS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (#"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*numRollsToTarget2¥
+Walgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!dCALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2¥
+Walgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!fCALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2π
+\algorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!targetCALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2¥
+Walgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!dCALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java" (#2π
+\algorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!targetCALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java& (,2¥
+Walgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!dCALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java# ($2π
+\algorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!targetCALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java* (02¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?i@26.21:26.22CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2¥
+Walgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!fCALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java! ("2¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?i@26.21:26.22CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java$ (%2¡
+dalgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?dp@25.21:25.23CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?i@26.21:26.22CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?i@29.21:29.22CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2¥
+Walgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!dCALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java! ("2¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?i@29.21:29.22CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java$ (%2¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?i@29.21:29.22CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?k@30.25:30.26CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java  (!2π
+\algorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!targetCALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java% (+2¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?k@30.25:30.26CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java- (.2¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?j@31.29:31.30CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java$ (%2¥
+Walgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!fCALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java) (*2¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?j@31.29:31.30CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java, (-2¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?k@30.25:30.26CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java   (2¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?j@31.29:31.30CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java !  ("2¡
+dalgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?dp@25.21:25.23CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java! !(2¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?i@29.21:29.22CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java! !( 2¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?k@30.25:30.26CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java!" !(#2¡
+dalgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?dp@25.21:25.23CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java!( !(*2¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?i@29.21:29.22CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java!+ !(,2¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?k@30.25:30.26CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java!. !(/2¡
+dalgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?dp@25.21:25.23CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java!3 !(52¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?i@29.21:29.22CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java!6 !(72¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?k@30.25:30.26CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java!= !(>2¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?j@31.29:31.30CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java!A !(B2¡
+dalgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?dp@25.21:25.23CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java& &(2¥
+Walgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!dCALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java& &(2π
+\algorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!targetCALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java& &(%2π
+Walgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!d	PARAMETERS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java( ()2π
+Walgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!f	PARAMETERS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java/ (02æ
+\algorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!target	PARAMETERS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java6 (<2»
+dalgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?dp@25.21:25.23DECLARATIONS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2«
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?i@26.21:26.22DECLARATIONS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2«
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?i@29.21:29.22DECLARATIONS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2«
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?k@30.25:30.26DECLARATIONS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2«
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?j@31.29:31.30DECLARATIONS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2g
+intRETURN_TYPES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (∂
+dalgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?dp@25.21:25.23VARIABLES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java ("
+type long[][]*dp2e
+long[][]TYPES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2¥
+Walgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!dCALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java# ($2π
+\algorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!targetCALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java* (0∑
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?i@26.21:26.22VARIABLES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java ("
+type int*i2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (∑
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?i@29.21:29.22VARIABLES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java ("
+type int*i2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (˙
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?k@30.25:30.26VARIABLES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java ("
+type int*k2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (2¿
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?i@29.21:29.22CALLS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (∑
+calgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)?j@31.29:31.30VARIABLES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java ("
+type int*j2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java (û
+Walgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!d	PARAMETERS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java( ()*d2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java$ ('û
+Walgorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!f	PARAMETERS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java/ (0*f2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java+ (.®
+\algorithme.dp.NumberOfDiceRollsWithTargetSum.Solution.numRollsToTarget(int, int, int)!target	PARAMETERS
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java6 (<*target2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/dp/NumberOfDiceRollsWithTargetSum.java2 (5

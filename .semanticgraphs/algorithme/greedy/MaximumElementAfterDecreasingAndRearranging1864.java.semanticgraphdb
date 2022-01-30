@@ -1,0 +1,110 @@
+
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java—
+Aalgorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864CLASSh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (<"
+inner classfalse*/MaximumElementAfterDecreasingAndRearranging18642Ó
+Zalgorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.main(java.lang.String[])DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2Ã
+Jalgorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.SolutionDECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java	
+ 	(ö
+Zalgorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.main(java.lang.String[])METHODh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2Ö
+_algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.main(java.lang.String[])!args	PARAMETERh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java% ()2}
+voidRETURN_TYPEh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (ã
+_algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.main(java.lang.String[])!args	PARAMETERh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java% ()*args2„
+java.lang.String[]TYPEh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java ($×
+Jalgorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.SolutionCLASSh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java	
+ 	("
+inner classtrue*Solution2ø
+algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java
+ 
+(@þ0
+algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])METHODh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java
+ 
+(@"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*-maximumElementAfterDecrementingAndRearranging2Ž
+java.util.Arrays.sort(int[])CALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2ö
+ƒalgorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])!arrCALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2€
+algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])?i@13.21:13.22CALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2ö
+ƒalgorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])!arrCALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java  (#2€
+algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])?i@13.21:13.22CALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java, (-2ö
+ƒalgorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])!arrCALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2€
+algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])?i@13.21:13.22CALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2ö
+ƒalgorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])!arrCALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java ( 2€
+algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])?i@13.21:13.22CALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java! ("2‚
+algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])?max@12.16:12.19CALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2ö
+ƒalgorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])!arrCALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2€
+algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])?i@13.21:13.22CALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2ö
+ƒalgorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])!arrCALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2€
+algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])?i@13.21:13.22CALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2ö
+ƒalgorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])!arrCALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2€
+algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])?i@13.21:13.22CALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2‚
+algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])?max@12.16:12.19CALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2ö
+ƒalgorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])!arrCALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2€
+algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])?i@13.21:13.22CALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2‚
+algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])?max@12.16:12.19CALLh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2û
+ƒalgorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])!arr	PARAMETERh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java
+G 
+(J2‰
+algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])?max@12.16:12.19DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2‡
+algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])?i@13.21:13.22DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (2|
+intRETURN_TYPEh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java
+ 
+(
+algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])?max@12.16:12.19VARIABLEh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java ("
+type int*max2u
+intTYPEh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (Œ
+algorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])?i@13.21:13.22VARIABLEh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java ("
+type int*i2u
+intTYPEh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java (ù
+ƒalgorithme.greedy.MaximumElementAfterDecreasingAndRearranging1864.Solution.maximumElementAfterDecrementingAndRearranging(int[])!arr	PARAMETERh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java
+G 
+(J*arr2w
+int[]TYPEh
+^algorithm/src/main/java/algorithme/greedy/MaximumElementAfterDecreasingAndRearranging1864.java
+A 
+(F

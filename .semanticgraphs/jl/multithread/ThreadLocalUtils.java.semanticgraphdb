@@ -1,0 +1,173 @@
+
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.javaè
+jl.multithread.ThreadLocalUtilsCLASSF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java ("
+inner classfalse*ThreadLocalUtils2š
+Cjl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])DECLARATIONF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java (2‘
+:jl.multithread.ThreadLocalUtils?THREAD_LOCAL_MAP@9.45:9.61DECLARATIONF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java	- 	(=2ˆ
+1jl.multithread.ThreadLocalUtils?count@10.23:10.28DECLARATIONF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java
+ 
+(2‘
+:jl.multithread.ThreadLocalUtils?THREAD_FACTORY@11.39:11.53DECLARATIONF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java' (5’"
+Cjl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])METHODF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2–
+Åjava.util.concurrent.ThreadPoolExecutor.ThreadPoolExecutor(int, int, long, java.util.concurrent.TimeUnit, java.util.concurrent.BlockingQueue<java.lang.Runnable>, java.util.concurrent.ThreadFactory)CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java1 (C2Ž
+>java.util.concurrent.LinkedBlockingQueue.LinkedBlockingQueue()CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java ()2Ï
+jl.multithread.ThreadLocalUtils.Anonymous-88aaf64d-cd14-43f1-8f93-494135a9fb2a.Anonymous-88aaf64d-cd14-43f1-8f93-494135a9fb2a()CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java (!2„
+4jl.multithread.ThreadLocalUtils.MyClass.MyClass(int)CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java' (.2„
+4jl.multithread.ThreadLocalUtils.MyClass.MyClass(int)CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java&' &(.2Š
+:jl.multithread.ThreadLocalUtils?THREAD_LOCAL_MAP@9.45:9.61CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java (2
+1jl.multithread.ThreadLocalUtils?count@10.23:10.28CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.javaB (G2Š
+:jl.multithread.ThreadLocalUtils?THREAD_FACTORY@11.39:11.53CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java (-2É
+yjl.multithread.ThreadLocalUtils.Anonymous-77abbfe4-a361-4d8c-8623-b1f896f9c4fb.newThread(java.util.concurrent.Runnable)!rCALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java8 (92¯
+_jl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])?executorService@15.27:15.42CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java (2¡
+Qjl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])?i@28.17:28.18CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java (2¡
+Qjl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])?i@28.17:28.18CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java  (!2¯
+_jl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])?executorService@15.27:15.42CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java (2¡
+Qjl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])?i@28.17:28.18CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java/ (02Š
+:jl.multithread.ThreadLocalUtils?THREAD_LOCAL_MAP@9.45:9.61CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java" "(2¯
+_jl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])?executorService@15.27:15.42CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java$- $(<2¡
+Qjl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])?i@37.17:37.18CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java% %(2¡
+Qjl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])?i@37.17:37.18CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java%! %("2¯
+_jl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])?executorService@15.27:15.42CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java& &(2¡
+Qjl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])?i@37.17:37.18CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java&/ &(02
+Hjl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])!args	PARAMETERF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java% ()2¶
+_jl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])?executorService@15.27:15.42DECLARATIONF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java (*2¨
+Qjl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])?i@28.17:28.18DECLARATIONF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java (2¨
+Qjl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])?i@37.17:37.18DECLARATIONF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java% %(2[
+voidRETURN_TYPEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java (³
+_jl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])?executorService@15.27:15.42VARIABLEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java (*"
+type ThreadPoolExecutor*executorService2w
+'java.util.concurrent.ThreadPoolExecutorTYPEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java (2–
+Åjava.util.concurrent.ThreadPoolExecutor.ThreadPoolExecutor(int, int, long, java.util.concurrent.TimeUnit, java.util.concurrent.BlockingQueue<java.lang.Runnable>, java.util.concurrent.ThreadFactory)CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java1 (C2Ž
+>java.util.concurrent.LinkedBlockingQueue.LinkedBlockingQueue()CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java ()2Ï
+jl.multithread.ThreadLocalUtils.Anonymous-0f11d138-ebba-46a0-9308-35153932dcc8.Anonymous-0f11d138-ebba-46a0-9308-35153932dcc8()CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java (!2
+1jl.multithread.ThreadLocalUtils?count@10.23:10.28CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.javaB (G2Š
+:jl.multithread.ThreadLocalUtils?THREAD_FACTORY@11.39:11.53CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java (-2É
+yjl.multithread.ThreadLocalUtils.Anonymous-c182514d-3441-4dd8-9e32-9010f2603e51.newThread(java.util.concurrent.Runnable)!rCALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java8 (9‹
+Qjl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])?i@28.17:28.18VARIABLEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java ("
+type int*i2S
+intTYPEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java (‹
+Qjl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])?i@37.17:37.18VARIABLEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java% %("
+type int*i2S
+intTYPEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java% %(’
+Hjl.multithread.ThreadLocalUtils.main(java.util.concurrent.String[])!args	PARAMETERF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java% ()*args2m
+java.util.concurrent.String[]TYPEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java ($À
+yjl.multithread.ThreadLocalUtils.Anonymous-52dd7f12-e680-4bca-9112-ba5420db964a.newThread(java.util.concurrent.Runnable)!r	PARAMETERF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java5 (6*r2m
+java.util.concurrent.RunnableTYPEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java, (4£
+:jl.multithread.ThreadLocalUtils?THREAD_LOCAL_MAP@9.45:9.61VALUEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java	- 	(="
+type ThreadLocal<String>*THREAD_LOCAL_MAP2p
+ java.util.concurrent.ThreadLocalTYPEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java	 	($2t
+java.util.concurrent.StringTYPE_ARGUMENTF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java	% 	(+ï
+1jl.multithread.ThreadLocalUtils?count@10.23:10.28VARIABLEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java
+ 
+("
+type int*count2S
+intTYPEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java
+ 
+(¯
+:jl.multithread.ThreadLocalUtils?THREAD_FACTORY@11.39:11.53VALUEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java' (5"
+type ThreadFactory*THREAD_FACTORY2r
+"java.util.concurrent.ThreadFactoryTYPEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java (&2…
+5java.util.concurrent.Executors.defaultThreadFactory()CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.javaB (V¬
+'jl.multithread.ThreadLocalUtils.MyClassCLASSF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java* *( "
+inner classfalse*MyClass2‹
+4jl.multithread.ThreadLocalUtils.MyClass.MyClass(int)DECLARATIONF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java. .(2…
+.jl.multithread.ThreadLocalUtils.MyClass.call()DECLARATIONF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java3 3(2Ž
+7jl.multithread.ThreadLocalUtils.MyClass?num@44.26:44.29DECLARATIONF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java, ,(2o
+java.util.concurrent.CallableEXTENDF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java*, *(42{
+java.util.concurrent.StringEXTEND_TYPE_ARGUMENTF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java*5 *(;¹
+4jl.multithread.ThreadLocalUtils.MyClass.MyClass(int)CONSTRUCTORF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java. .(*MyClass2ˆ
+8jl.multithread.ThreadLocalUtils.MyClass.MyClass(int)!numCALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java/ /(2‡
+7jl.multithread.ThreadLocalUtils.MyClass?num@44.26:44.29CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java/ /(2
+8jl.multithread.ThreadLocalUtils.MyClass.MyClass(int)!num	PARAMETERF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java. .(2~
+'jl.multithread.ThreadLocalUtils.MyClassRETURN_TYPEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java. .(ç
+8jl.multithread.ThreadLocalUtils.MyClass.MyClass(int)!num	PARAMETERF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java. .(*num2S
+intTYPEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java. .(Þ
+.jl.multithread.ThreadLocalUtils.MyClass.call()METHODF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java3 3("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*call2Š
+:jl.multithread.ThreadLocalUtils?THREAD_LOCAL_MAP@9.45:9.61CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java4 4(/2‡
+7jl.multithread.ThreadLocalUtils.MyClass?num@44.26:44.29CALLF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java6" 6(%2r
+java.util.concurrent.StringRETURN_TYPEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java3 3(ð
+7jl.multithread.ThreadLocalUtils.MyClass?num@44.26:44.29VALUEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java, ,("
+type int*num2S
+intTYPEF
+<knowledge/src/main/java/jl/multithread/ThreadLocalUtils.java, ,(

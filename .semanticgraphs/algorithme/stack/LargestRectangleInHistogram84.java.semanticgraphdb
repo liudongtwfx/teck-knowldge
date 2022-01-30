@@ -1,0 +1,41 @@
+
+Kalgorithm/src/main/java/algorithme/stack/LargestRectangleInHistogram84.java„
+.algorithme.stack.LargestRectangleInHistogram84CLASSU
+Kalgorithm/src/main/java/algorithme/stack/LargestRectangleInHistogram84.java (*"
+inner classfalse*LargestRectangleInHistogram842ù
+7algorithme.stack.LargestRectangleInHistogram84.SolutionDECLARATIONU
+Kalgorithm/src/main/java/algorithme/stack/LargestRectangleInHistogram84.java
+ (Ú
+7algorithme.stack.LargestRectangleInHistogram84.SolutionCLASSU
+Kalgorithm/src/main/java/algorithme/stack/LargestRectangleInHistogram84.java
+ ("
+inner classtrue*Solution2π
+Salgorithme.stack.LargestRectangleInHistogram84.Solution.largestRectangleArea(int[])DECLARATIONU
+Kalgorithm/src/main/java/algorithme/stack/LargestRectangleInHistogram84.java ('ç
+Salgorithme.stack.LargestRectangleInHistogram84.Solution.largestRectangleArea(int[])METHODU
+Kalgorithm/src/main/java/algorithme/stack/LargestRectangleInHistogram84.java ('"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*largestRectangleArea2~
+java.util.ArrayList.ArrayList()CALLU
+Kalgorithm/src/main/java/algorithme/stack/LargestRectangleInHistogram84.java	& 	(12ø
+[algorithme.stack.LargestRectangleInHistogram84.Solution.largestRectangleArea(int[])!heights	PARAMETERU
+Kalgorithm/src/main/java/algorithme/stack/LargestRectangleInHistogram84.java. (52…
+calgorithme.stack.LargestRectangleInHistogram84.Solution.largestRectangleArea(int[])?stack@9.26:9.31DECLARATIONU
+Kalgorithm/src/main/java/algorithme/stack/LargestRectangleInHistogram84.java	 	(2i
+intRETURN_TYPEU
+Kalgorithm/src/main/java/algorithme/stack/LargestRectangleInHistogram84.java (œ
+calgorithme.stack.LargestRectangleInHistogram84.Solution.largestRectangleArea(int[])?stack@9.26:9.31VARIABLEU
+Kalgorithm/src/main/java/algorithme/stack/LargestRectangleInHistogram84.java	 	("
+type List<Integer>*stack2m
+java.util.ListTYPEU
+Kalgorithm/src/main/java/algorithme/stack/LargestRectangleInHistogram84.java	 	(2y
+java.lang.IntegerTYPE_ARGUMENTU
+Kalgorithm/src/main/java/algorithme/stack/LargestRectangleInHistogram84.java	 	(2~
+java.util.ArrayList.ArrayList()CALLU
+Kalgorithm/src/main/java/algorithme/stack/LargestRectangleInHistogram84.java	& 	(1Æ
+[algorithme.stack.LargestRectangleInHistogram84.Solution.largestRectangleArea(int[])!heights	PARAMETERU
+Kalgorithm/src/main/java/algorithme/stack/LargestRectangleInHistogram84.java. (5*heights2d
+int[]TYPEU
+Kalgorithm/src/main/java/algorithme/stack/LargestRectangleInHistogram84.java( (-

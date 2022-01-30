@@ -1,0 +1,192 @@
+
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.javaÓ
+$algorithme.MakingFileNamesUnique1487CLASSK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (&"
+inner classfalse*MakingFileNamesUnique14872™
+=algorithme.MakingFileNamesUnique1487.main(java.lang.String[])DECLARATIONK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2‰
+-algorithme.MakingFileNamesUnique1487.SolutionDECLARATIONK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java
+
+ 
+(å
+=algorithme.MakingFileNamesUnique1487.main(java.lang.String[])METHODK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2œ
+Balgorithme.MakingFileNamesUnique1487.main(java.lang.String[])!args	PARAMETERK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java% ()2`
+voidRETURN_TYPEK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (‹
+Balgorithme.MakingFileNamesUnique1487.main(java.lang.String[])!args	PARAMETERK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java% ()*args2g
+java.lang.String[]TYPEK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java ($Ñ
+-algorithme.MakingFileNamesUnique1487.SolutionCLASSK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java
+
+ 
+("
+inner classtrue*Solution2¬
+Palgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])DECLARATIONK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (&äB
+Palgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])METHODK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (&"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String[]*getFolderNames2€
++java.util.Map.containsKey(java.lang.Object)CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java  (+2l
+java.util.Map.put(K, V)CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java ("2x
+#java.util.Map.get(java.lang.Object)CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java/ (22€
++java.util.Map.containsKey(java.lang.Object)CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java" (-2l
+java.util.Map.put(K, V)CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2l
+java.util.Map.put(K, V)CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2p
+java.util.HashMap.HashMap()CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java2 (;2«
+Valgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])!namesCALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java& (+2³
+^algorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?i@14.21:14.22CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2«
+Valgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])!namesCALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java  (%2³
+^algorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?i@14.21:14.22CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java. (/2«
+Valgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])!namesCALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java$ ()2³
+^algorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?i@14.21:14.22CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java* (+2¼
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?nameMaxMap@12.33:12.43CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2¼
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?originName@15.23:15.33CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java, (62µ
+`algorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?ans@13.21:13.24CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2³
+^algorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?i@14.21:14.22CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2¼
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?originName@15.23:15.33CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java ('2¼
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?nameMaxMap@12.33:12.43CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2¼
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?originName@15.23:15.33CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java# (-2¼
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?nameMaxMap@12.33:12.43CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java$ (.2¼
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?originName@15.23:15.33CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java3 (=2¼
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?originName@15.23:15.33CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java! (+2¿
+jalgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?currentNumber@21.20:21.33CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java4 (A2¼
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?nameMaxMap@12.33:12.43CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (!2¹
+dalgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?current@22.23:22.30CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java. (52¿
+jalgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?currentNumber@21.20:21.33CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (!2¹
+dalgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?current@22.23:22.30CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2¼
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?originName@15.23:15.33CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java ((2¿
+jalgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?currentNumber@21.20:21.33CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java1 (>2¼
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?nameMaxMap@12.33:12.43CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2¼
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?originName@15.23:15.33CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java ()2¿
+jalgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?currentNumber@21.20:21.33CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java+ (82¼
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?nameMaxMap@12.33:12.43CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2¹
+dalgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?current@22.23:22.30CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (&2µ
+`algorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?ans@13.21:13.24CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2³
+^algorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?i@14.21:14.22CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2¹
+dalgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?current@22.23:22.30CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java ( 2µ
+`algorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?ans@13.21:13.24CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2°
+Valgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])!names	PARAMETERK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java0 (52Ã
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?nameMaxMap@12.33:12.43DECLARATIONK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java! (+2¼
+`algorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?ans@13.21:13.24DECLARATIONK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2º
+^algorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?i@14.21:14.22DECLARATIONK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2Ã
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?originName@15.23:15.33DECLARATIONK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (!2Æ
+jalgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?currentNumber@21.20:21.33DECLARATIONK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (!2À
+dalgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?current@22.23:22.30DECLARATIONK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2n
+java.lang.String[]RETURN_TYPEK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (¡
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?nameMaxMap@12.33:12.43VARIABLEK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java! (+"
+type Map<String,Integer>*
+nameMaxMap2b
+java.util.MapTYPEK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2n
+java.lang.StringTYPE_ARGUMENTK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2o
+java.lang.IntegerTYPE_ARGUMENTK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2p
+java.util.HashMap.HashMap()CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java2 (;è
+`algorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?ans@13.21:13.24VARIABLEK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java ("
+type String[]*ans2g
+java.lang.String[]TYPEK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2«
+Valgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])!namesCALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java& (+¢
+^algorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?i@14.21:14.22VARIABLEK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java ("
+type int*i2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (¨
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?originName@15.23:15.33VARIABLEK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (!"
+type String*
+originName2e
+java.lang.StringTYPEK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2«
+Valgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])!namesCALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java$ ()2³
+^algorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?i@14.21:14.22CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java* (+²
+jalgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?currentNumber@21.20:21.33VARIABLEK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (!"
+type int*currentNumber2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2x
+#java.util.Map.get(java.lang.Object)CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java/ (22¼
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?nameMaxMap@12.33:12.43CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java$ (.2¼
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?originName@15.23:15.33CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java3 (=¿
+dalgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?current@22.23:22.30VARIABLEK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java ("
+type String*current2e
+java.lang.StringTYPEK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java (2¼
+galgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?originName@15.23:15.33CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java! (+2¿
+jalgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])?currentNumber@21.20:21.33CALLK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java4 (A 
+Valgorithme.MakingFileNamesUnique1487.Solution.getFolderNames(java.lang.String[])!names	PARAMETERK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java0 (5*names2g
+java.lang.String[]TYPEK
+Aalgorithm/src/main/java/algorithme/MakingFileNamesUnique1487.java' (/

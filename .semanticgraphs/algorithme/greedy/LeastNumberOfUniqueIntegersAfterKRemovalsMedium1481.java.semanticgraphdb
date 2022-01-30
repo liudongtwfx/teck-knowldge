@@ -1,0 +1,169 @@
+
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java≥
+Ealgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481CLASSl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (@"
+inner classfalse*3LeastNumberOfUniqueIntegersAfterKRemovalsMedium14812€
+^algorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.main(java.lang.String[])DECLARATIONl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java	 	(2À
+Nalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.SolutionDECLARATIONl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java
+ (ã
+^algorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.main(java.lang.String[])METHODl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java	 	("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2ﬁ
+calgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.main(java.lang.String[])!args	PARAMETERl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java	% 	()2Å
+voidRETURN_TYPEl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java	 	(Ô
+calgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.main(java.lang.String[])!args	PARAMETERl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java	% 	()*args2à
+java.lang.String[]TYPEl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java	 	($◊
+Nalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.SolutionCLASSl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java
+ ("
+inner classtrue*Solution2
+salgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)DECLARATIONl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (+˝;
+salgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)METHODl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (+"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*findLeastNumOfUniqueInts2—
+[java.util.Map.merge(K, V, java.util.function.BiFunction<? super V, ? super V, ? extends V>)CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (!2¬
+Ljava.util.stream.Stream.collect(java.util.stream.Collector<? super T, A, R>)CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2µ
+?java.util.stream.Stream.sorted(java.util.Comparator<? super T>)CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2ì
+java.util.Collection.stream()CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.javaS (Y2é
+java.util.Map.entrySet()CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.javaH (P2ƒ
+Njava.util.Comparator.comparingInt(java.util.function.ToIntFunction<? super T>)CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java' (32ö
+$java.util.stream.Collectors.toList()CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java( (.2ä
+java.util.Map.size()CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java$ ((2î
+java.util.Map.Entry.getValue()CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java- (52î
+java.util.Map.Entry.getValue()CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java) (12ë
+java.util.HashMap.HashMap()CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java4 (=2Ì
+walgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)!arrCALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java ("2Ç
+ãalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?numCountMap@15.34:15.45CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2˙
+Éalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?num@16.25:16.28CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java" (%2Ç
+ãalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?numCountMap@15.34:15.45CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java< (G2Ç
+ãalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?numCountMap@15.34:15.45CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (#2Ç
+ãalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?sortedEntry@19.46:19.57CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.javaC (N2Î
+ualgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)!kCALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2¸
+Öalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?total@22.16:22.21CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java ( 2Î
+ualgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)!kCALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2ä
+ìalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?integerIntegerEntry@23.45:23.64CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (,2¸
+Öalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?total@22.16:22.21CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2Î
+ualgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)!kCALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2ä
+ìalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?integerIntegerEntry@23.45:23.64CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java ((2¸
+Öalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?total@22.16:22.21CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java   (2Ú
+walgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)!arr	PARAMETERl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java2 (52
+ualgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)!k	PARAMETERl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java; (<2â
+ãalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?numCountMap@15.34:15.45DECLARATIONl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java" (-2Å
+Éalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?num@16.25:16.28DECLARATIONl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2â
+ãalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?sortedEntry@19.46:19.57DECLARATIONl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java. (92É
+Öalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?total@22.16:22.21DECLARATIONl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2ë
+ìalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?integerIntegerEntry@23.45:23.64DECLARATIONl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java- (@2Ä
+intRETURN_TYPEl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (Ú
+ãalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?numCountMap@15.34:15.45VARIABLEl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java" (-"
+type Map<Integer,Integer>*numCountMap2É
+java.util.MapTYPEl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2ê
+java.lang.IntegerTYPE_ARGUMENTl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2ê
+java.lang.IntegerTYPE_ARGUMENTl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java ( 2ë
+java.util.HashMap.HashMap()CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java4 (=ü
+Éalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?num@16.25:16.28VARIABLEl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java ("
+type Integer*num2á
+java.lang.IntegerTYPEl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (ç
+ãalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?sortedEntry@19.46:19.57VARIABLEl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java. (9")
+type  List<Map.Entry<Integer,Integer>>*sortedEntry2Ñ
+java.util.ListTYPEl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2í
+java.util.Map.EntryTYPE_ARGUMENTl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2ê
+java.lang.IntegerTYPE_ARGUMENTl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2ê
+java.lang.IntegerTYPE_ARGUMENTl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java ("2¬
+Ljava.util.stream.Stream.collect(java.util.stream.Collector<? super T, A, R>)CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2µ
+?java.util.stream.Stream.sorted(java.util.Comparator<? super T>)CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2ì
+java.util.Collection.stream()CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.javaS (Y2é
+java.util.Map.entrySet()CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.javaH (P2ƒ
+Njava.util.Comparator.comparingInt(java.util.function.ToIntFunction<? super T>)CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java' (32ö
+$java.util.stream.Collectors.toList()CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java( (.2Ç
+ãalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?numCountMap@15.34:15.45CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java< (G¢
+Öalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?total@22.16:22.21VARIABLEl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java ("
+type int*total2y
+intTYPEl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2ä
+java.util.Map.size()CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java$ ((2Ç
+ãalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?numCountMap@15.34:15.45CALLl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (#˙
+ìalgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)?integerIntegerEntry@23.45:23.64VARIABLEl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java- (@"#
+type Map.Entry<Integer,Integer>*integerIntegerEntry2â
+java.util.Map.EntryTYPEl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2ê
+java.lang.IntegerTYPE_ARGUMENTl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java (2ê
+java.lang.IntegerTYPE_ARGUMENTl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java ("Ù
+walgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)!arr	PARAMETERl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java2 (5*arr2{
+int[]TYPEl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java, (1Ó
+ualgorithme.greedy.LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.Solution.findLeastNumOfUniqueInts(int[], int)!k	PARAMETERl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java; (<*k2y
+intTYPEl
+balgorithm/src/main/java/algorithme/greedy/LeastNumberOfUniqueIntegersAfterKRemovalsMedium1481.java7 (:

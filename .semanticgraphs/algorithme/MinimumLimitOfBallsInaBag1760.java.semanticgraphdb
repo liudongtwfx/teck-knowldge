@@ -1,0 +1,184 @@
+
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.javaÔ
+(algorithme.MinimumLimitOfBallsInaBag1760CLASSO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (*"
+inner classfalse*MinimumLimitOfBallsInaBag17602°
+Aalgorithme.MinimumLimitOfBallsInaBag1760.main(java.lang.String[])DECLARATIONO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2ë
+1algorithme.MinimumLimitOfBallsInaBag1760.SolutionDECLARATIONO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java
+ (˘
+Aalgorithme.MinimumLimitOfBallsInaBag1760.main(java.lang.String[])METHODO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2§
+Falgorithme.MinimumLimitOfBallsInaBag1760.main(java.lang.String[])!args	PARAMETERO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java% ()2d
+voidRETURN_TYPEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (ó
+Falgorithme.MinimumLimitOfBallsInaBag1760.main(java.lang.String[])!args	PARAMETERO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java% ()*args2k
+java.lang.String[]TYPEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java ($Ç
+1algorithme.MinimumLimitOfBallsInaBag1760.SolutionCLASSO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java
+ ("
+inner classtrue*Solution2©
+Ialgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)DECLARATIONO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2©
+Ialgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)DECLARATIONO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (Å
+Ialgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)METHODO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type boolean*check2ß
+Nalgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)!numsCALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java
+ 
+(2≤
+Yalgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)?cur@10.21:10.24CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2ß
+Nalgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)!costCALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2∞
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)?ans@9.17:9.20CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2≤
+Yalgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)?cur@10.21:10.24CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2ß
+Nalgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)!costCALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java! (%2∞
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)?ans@9.17:9.20CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2≤
+Yalgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)?cur@10.21:10.24CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2ß
+Nalgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)!costCALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java! (%2∞
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)?ans@9.17:9.20CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2∞
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)!maxOperationsCALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java ('2¨
+Nalgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)!nums	PARAMETERO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java# ('2¨
+Nalgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)!cost	PARAMETERO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java. (22µ
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)!maxOperations	PARAMETERO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java8 (E2∑
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)?ans@9.17:9.20DECLARATIONO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java	 	(2π
+Yalgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)?cur@10.21:10.24DECLARATIONO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java
+ 
+(2g
+booleanRETURN_TYPEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (ß
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)?ans@9.17:9.20VARIABLEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java	 	("
+type long*ans2]
+longTYPEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java	 	(ß
+Yalgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)?cur@10.21:10.24VARIABLEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java
+ 
+("
+type int*cur2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java
+ 
+(í
+Nalgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)!nums	PARAMETERO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java# ('*nums2^
+int[]TYPEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java ("ë
+Nalgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)!cost	PARAMETERO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java. (2*cost2]
+longTYPEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java) (-¢
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)!maxOperations	PARAMETERO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java8 (E*maxOperations2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java4 (7• 
+Ialgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)METHODO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minimumSize2¢
+Ialgorithme.MinimumLimitOfBallsInaBag1760.Solution.check(int[], long, int)CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2∞
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?l@21.17:21.18CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2∞
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?r@21.24:21.25CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2∞
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?l@21.17:21.18CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2∞
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?r@21.24:21.25CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java  (!2ß
+Nalgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)!numsCALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2≤
+Yalgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?mid@24.21:24.24CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java  (#2∞
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)!maxOperationsCALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java% (22∞
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?r@21.24:21.25CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2≤
+Yalgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?mid@24.21:24.24CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2≤
+Yalgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?ret@22.17:22.20CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2≤
+Yalgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?mid@24.21:24.24CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2∞
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?l@21.17:21.18CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2≤
+Yalgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?mid@24.21:24.24CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2≤
+Yalgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?ret@22.17:22.20CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java   (2¨
+Nalgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)!nums	PARAMETERO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java% ()2µ
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)!maxOperations	PARAMETERO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java/ (<2∑
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?l@21.17:21.18DECLARATIONO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2∑
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?r@21.24:21.25DECLARATIONO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2π
+Yalgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?ret@22.17:22.20DECLARATIONO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2π
+Yalgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?mid@24.21:24.24DECLARATIONO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2c
+intRETURN_TYPEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (•
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?l@21.17:21.18VARIABLEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java ("
+type long*l2]
+longTYPEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (•
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?r@21.24:21.25VARIABLEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java ("
+type long*r2]
+longTYPEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (©
+Yalgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?ret@22.17:22.20VARIABLEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java ("
+type long*ret2]
+longTYPEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (è
+Yalgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?mid@24.21:24.24VARIABLEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java ("
+type long*mid2]
+longTYPEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2∞
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?l@21.17:21.18CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java (2∞
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)?r@21.24:21.25CALLO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java  (!í
+Nalgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)!nums	PARAMETERO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java% ()*nums2^
+int[]TYPEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java ($¢
+Walgorithme.MinimumLimitOfBallsInaBag1760.Solution.minimumSize(int[], int)!maxOperations	PARAMETERO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java/ (<*maxOperations2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/MinimumLimitOfBallsInaBag1760.java+ (.

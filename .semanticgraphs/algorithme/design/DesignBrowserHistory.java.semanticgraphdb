@@ -1,0 +1,467 @@
+
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java€
+&algorithme.design.DesignBrowserHistoryCLASSM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (!"
+inner classfalse*DesignBrowserHistory2ù
+?algorithme.design.DesignBrowserHistory.main(java.lang.String[])DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (2é
+0algorithme.design.DesignBrowserHistory.process()DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (˘
+?algorithme.design.DesignBrowserHistory.main(java.lang.String[])METHODM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2á
+0algorithme.design.DesignBrowserHistory.process()CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (2†
+Dalgorithme.design.DesignBrowserHistory.main(java.lang.String[])!args	PARAMETERM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java% ()2b
+voidRETURN_TYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (ë
+Dalgorithme.design.DesignBrowserHistory.main(java.lang.String[])!args	PARAMETERM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java% ()*args2i
+java.lang.String[]TYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java ($›4
+0algorithme.design.DesignBrowserHistory.process()METHODM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java ("
+statictrue"
+finalfalse"
+access modifierprivate"
+type void*process2r
+java.lang.Object.getClass()CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java+ (32≤
+[java.lang.Class.getMethod(java.lang.String, java.lang.Class<? extends java.lang.Object>...)CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java 5  (>2r
+java.util.List.toArray(T[])CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java U  (\2ù
+Fjava.lang.reflect.Method.invoke(java.lang.Object, java.lang.Object...)CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java! !(2|
+%java.lang.Throwable.printStackTrace()CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java$ $(2ø
+halgorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.BrowserHistoryMethodInterceptor()CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java! (@2v
+java.util.ArrayList.ArrayList()CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java/ (:2ú
+Ealgorithme.design.DesignBrowserHistory.process()?enhancer@18.17:18.25CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (2ú
+Ealgorithme.design.DesignBrowserHistory.process()?enhancer@18.17:18.25CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (2ú
+Ealgorithme.design.DesignBrowserHistory.process()?enhancer@18.17:18.25CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java9 (A2ò
+Aalgorithme.design.DesignBrowserHistory.process()?args@19.19:19.23CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javad (h2ï
+>algorithme.design.DesignBrowserHistory.process()?i@25.21:25.22CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (2õ
+Dalgorithme.design.DesignBrowserHistory.process()?methods@20.17:20.24CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java  ('2ï
+>algorithme.design.DesignBrowserHistory.process()?i@25.21:25.22CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java0 (12ò
+Aalgorithme.design.DesignBrowserHistory.process()?args@19.19:19.23CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java  ($2ï
+>algorithme.design.DesignBrowserHistory.process()?i@25.21:25.22CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java% (&2ï
+>algorithme.design.DesignBrowserHistory.process()?o@27.28:27.29CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java) (*2ù
+Falgorithme.design.DesignBrowserHistory.process()?clazzType@28.29:28.38CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaH (Q2ù
+Falgorithme.design.DesignBrowserHistory.process()?argsClazz@26.31:26.40CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (2ü
+Halgorithme.design.DesignBrowserHistory.process()?isPrimitive@29.28:29.39CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java" (-2ù
+Falgorithme.design.DesignBrowserHistory.process()?clazzType@28.29:28.38CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaN (W2ù
+Falgorithme.design.DesignBrowserHistory.process()?clazzType@28.29:28.38CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java[ (d2õ
+Dalgorithme.design.DesignBrowserHistory.process()?methods@20.17:20.24CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java ?  (F2ï
+>algorithme.design.DesignBrowserHistory.process()?i@25.21:25.22CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java G  (H2ù
+Falgorithme.design.DesignBrowserHistory.process()?argsClazz@26.31:26.40CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java K  (T2ö
+Calgorithme.design.DesignBrowserHistory.process()?method@32.23:32.29CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java! !(2¢
+Kalgorithme.design.DesignBrowserHistory.process()?browserHistory@23.23:23.37CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java! !(,2ò
+Aalgorithme.design.DesignBrowserHistory.process()?args@19.19:19.23CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java!. !(22ï
+>algorithme.design.DesignBrowserHistory.process()?i@25.21:25.22CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java!3 !(42ï
+>algorithme.design.DesignBrowserHistory.process()?e@35.27:35.28CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java$ $(2£
+Ealgorithme.design.DesignBrowserHistory.process()?enhancer@18.17:18.25DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (2ü
+Aalgorithme.design.DesignBrowserHistory.process()?args@19.19:19.23DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (2¢
+Dalgorithme.design.DesignBrowserHistory.process()?methods@20.17:20.24DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (2©
+Kalgorithme.design.DesignBrowserHistory.process()?browserHistory@23.23:23.37DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (%2ú
+>algorithme.design.DesignBrowserHistory.process()?i@25.21:25.22DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (2§
+Falgorithme.design.DesignBrowserHistory.process()?argsClazz@26.31:26.40DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java ((2ú
+>algorithme.design.DesignBrowserHistory.process()?o@27.28:27.29DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (2§
+Falgorithme.design.DesignBrowserHistory.process()?clazzType@28.29:28.38DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (&2¶
+Halgorithme.design.DesignBrowserHistory.process()?isPrimitive@29.28:29.39DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java ('2°
+Calgorithme.design.DesignBrowserHistory.process()?method@32.23:32.29DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java   (2ú
+>algorithme.design.DesignBrowserHistory.process()?e@35.27:35.28DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java# #(2b
+voidRETURN_TYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (æ
+Ealgorithme.design.DesignBrowserHistory.process()?enhancer@18.17:18.25VARIABLEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java ("
+type Enhancer*enhancer2
+(org.springframework.cglib.proxy.EnhancerTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (§
+Aalgorithme.design.DesignBrowserHistory.process()?args@19.19:19.23VARIABLEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java ("
+type 
+Object[][]*args2k
+java.lang.Object[][]TYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (¶
+Dalgorithme.design.DesignBrowserHistory.process()?methods@20.17:20.24VARIABLEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java ("
+type String[]*methods2i
+java.lang.String[]TYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (ò
+Kalgorithme.design.DesignBrowserHistory.process()?browserHistory@23.23:23.37VARIABLEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (%"
+type BrowserHistory*browserHistory2å
+5algorithme.design.DesignBrowserHistory.BrowserHistoryTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (2ú
+Ealgorithme.design.DesignBrowserHistory.process()?enhancer@18.17:18.25CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java9 (A2ò
+Aalgorithme.design.DesignBrowserHistory.process()?args@19.19:19.23CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javad (hÜ
+>algorithme.design.DesignBrowserHistory.process()?i@25.21:25.22VARIABLEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java ("
+type int*i2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (ï
+Falgorithme.design.DesignBrowserHistory.process()?argsClazz@26.31:26.40VARIABLEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (("
+type List<Class<?>>*	argsClazz2e
+java.util.ListTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (2o
+java.lang.ClassTYPE_ARGUMENTM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (2v
+java.util.ArrayList.ArrayList()CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java/ (:ñ
+>algorithme.design.DesignBrowserHistory.process()?o@27.28:27.29VARIABLEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java ("
+type Object*o2g
+java.lang.ObjectTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (≥
+Falgorithme.design.DesignBrowserHistory.process()?clazzType@28.29:28.38VARIABLEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (&"
+type Class<?>*	clazzType2f
+java.lang.ClassTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (2r
+java.lang.Object.getClass()CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java+ (32ï
+>algorithme.design.DesignBrowserHistory.process()?o@27.28:27.29CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java) (*¬
+Halgorithme.design.DesignBrowserHistory.process()?isPrimitive@29.28:29.39VARIABLEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java ('"
+type boolean*isPrimitive2^
+booleanTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java (2ù
+Falgorithme.design.DesignBrowserHistory.process()?clazzType@28.29:28.38CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaH (Qß
+Calgorithme.design.DesignBrowserHistory.process()?method@32.23:32.29VARIABLEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java   ("
+type Method*method2o
+java.lang.reflect.MethodTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java   (2≤
+[java.lang.Class.getMethod(java.lang.String, java.lang.Class<? extends java.lang.Object>...)CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java 5  (>2r
+java.util.List.toArray(T[])CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java U  (\2õ
+Dalgorithme.design.DesignBrowserHistory.process()?methods@20.17:20.24CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java ?  (F2ï
+>algorithme.design.DesignBrowserHistory.process()?i@25.21:25.22CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java G  (H2ù
+Falgorithme.design.DesignBrowserHistory.process()?argsClazz@26.31:26.40CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java K  (Tà
+>algorithme.design.DesignBrowserHistory.process()?e@35.27:35.28VARIABLEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java# #(*e2j
+java.lang.ExceptionTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java# #(Å
+Falgorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptorCLASSM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java( ((0"
+inner classfalse*BrowserHistoryMethodInterceptor2ú
+Ωalgorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java+ +(2ä
+1org.springframework.cglib.proxy.MethodInterceptorEXTENDM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java(< ((M∑5
+Ωalgorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)METHODM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java+ +("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type Object*	intercept2Ñ
+-java.io.PrintStream.println(java.lang.String)CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java. .("2y
+"java.lang.reflect.Method.getName()CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java.* .(12Ñ
+-java.util.Arrays.toString(java.lang.Object[])CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java.E .(M2Ñ
+-java.io.PrintStream.println(java.lang.String)CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java0 0(&2Ñ
+-java.io.PrintStream.println(java.lang.String)CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java4 4("2w
+ java.lang.Throwable.getMessage()CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java4% 4(/2°
+…algorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!methodProxyCALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java-  -(+2ó
+øalgorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!oCALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java-8 -(92ù
+≈algorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!objectsCALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java-; -(B2ú
+ƒalgorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!methodCALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java.# .()2ù
+≈algorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!objectsCALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java.N .(U2®
+–algorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)?invoke@45.23:45.29CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java.a .(g2ó
+øalgorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!oCALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java/ /(2ó
+øalgorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!oCALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java09 0(:2ó
+øalgorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!oCALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java0k 0(l2®
+–algorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)?invoke@45.23:45.29CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java2 2(2£
+Àalgorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)?e@51.31:51.32CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java4# 4($2£
+Àalgorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)?e@51.31:51.32CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java5 5(2†
+Ialgorithme.design.DesignBrowserHistory.BrowserHistory?visited@59.29:59.36CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java0< 0(C2•
+Nalgorithme.design.DesignBrowserHistory.BrowserHistory?currentIndex@60.20:60.32CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java0n 0(z2ú
+øalgorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!o	PARAMETERM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java+' +((2°
+ƒalgorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!method	PARAMETERM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java+1 +(72¢
+≈algorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!objects	PARAMETERM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java+B +(I2¶
+…algorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!methodProxy	PARAMETERM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java+W +(b2Ø
+–algorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)?invoke@45.23:45.29DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java- -(2™
+Àalgorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)?e@51.31:51.32DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java3 3( 2n
+java.lang.ObjectRETURN_TYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java+ +(å
+
+–algorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)?invoke@45.23:45.29VARIABLEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java- -("
+type Object*invoke2g
+java.lang.ObjectTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java- -(2°
+…algorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!methodProxyCALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java-  -(+2ó
+øalgorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!oCALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java-8 -(92ù
+≈algorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!objectsCALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java-; -(Bà
+øalgorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!o	PARAMETERM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java+' +((*o2g
+java.lang.ObjectTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java+  +(&ö
+ƒalgorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!method	PARAMETERM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java+1 +(7*method2o
+java.lang.reflect.MethodTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java+* +(0ñ
+≈algorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!objects	PARAMETERM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java+B +(I*objects2i
+java.lang.Object[]TYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java+9 +(A∏
+…algorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)!methodProxy	PARAMETERM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java+W +(b*methodProxy2Ç
++org.springframework.cglib.proxy.MethodProxyTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java+K +(Vñ
+Àalgorithme.design.DesignBrowserHistory.BrowserHistoryMethodInterceptor.intercept(java.lang.Object, java.lang.reflect.Method, java.lang.Object[], org.springframework.cglib.proxy.MethodProxy)?e@51.31:51.32VARIABLEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java3 3( *e2j
+java.lang.ExceptionTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java3 3(¥	
+5algorithme.design.DesignBrowserHistory.BrowserHistoryCLASSM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java: :("
+inner classfalse*BrowserHistory2¥
+Valgorithme.design.DesignBrowserHistory.BrowserHistory.BrowserHistory(java.lang.String)DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java> >(2´
+Malgorithme.design.DesignBrowserHistory.BrowserHistory.visit(java.lang.String)DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaC C(2ù
+?algorithme.design.DesignBrowserHistory.BrowserHistory.back(int)DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaK K(2†
+Balgorithme.design.DesignBrowserHistory.BrowserHistory.forward(int)DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaP P(2ß
+Ialgorithme.design.DesignBrowserHistory.BrowserHistory?visited@59.29:59.36DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java; ;($2¨
+Nalgorithme.design.DesignBrowserHistory.BrowserHistory?currentIndex@60.20:60.32DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java< <( ä	
+Valgorithme.design.DesignBrowserHistory.BrowserHistory.BrowserHistory(java.lang.String)CONSTRUCTORM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java> >(*BrowserHistory2l
+java.util.List.add(E)CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java? ?(2†
+Ialgorithme.design.DesignBrowserHistory.BrowserHistory?visited@59.29:59.36CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java? ?(2∂
+_algorithme.design.DesignBrowserHistory.BrowserHistory.BrowserHistory(java.lang.String)!homepageCALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java? ?( 2•
+Nalgorithme.design.DesignBrowserHistory.BrowserHistory?currentIndex@60.20:60.32CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java@ @(2ª
+_algorithme.design.DesignBrowserHistory.BrowserHistory.BrowserHistory(java.lang.String)!homepage	PARAMETERM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java>% >(-2ì
+5algorithme.design.DesignBrowserHistory.BrowserHistoryRETURN_TYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java> >(Æ
+_algorithme.design.DesignBrowserHistory.BrowserHistory.BrowserHistory(java.lang.String)!homepage	PARAMETERM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java>% >(-*homepage2g
+java.lang.StringTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java> >($™
+Malgorithme.design.DesignBrowserHistory.BrowserHistory.visit(java.lang.String)METHODM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaC C("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*visit2l
+java.util.List.size()CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaD' D(+2w
+ java.util.List.subList(int, int)CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaE7 E(>2l
+java.util.List.add(E)CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaG G(2ó
+@java.util.ArrayList.ArrayList(java.util.Collection<? extends E>)CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaE# E(.2•
+Nalgorithme.design.DesignBrowserHistory.BrowserHistory?currentIndex@60.20:60.32CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaD D(2†
+Ialgorithme.design.DesignBrowserHistory.BrowserHistory?visited@59.29:59.36CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaD D(&2†
+Ialgorithme.design.DesignBrowserHistory.BrowserHistory?visited@59.29:59.36CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaE/ E(62•
+Nalgorithme.design.DesignBrowserHistory.BrowserHistory?currentIndex@60.20:60.32CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaEB E(N2†
+Ialgorithme.design.DesignBrowserHistory.BrowserHistory?visited@59.29:59.36CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaG G(2®
+Qalgorithme.design.DesignBrowserHistory.BrowserHistory.visit(java.lang.String)!urlCALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaG G(2•
+Nalgorithme.design.DesignBrowserHistory.BrowserHistory?currentIndex@60.20:60.32CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaH H(2†
+Ialgorithme.design.DesignBrowserHistory.BrowserHistory?visited@59.29:59.36CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaE E(2≠
+Qalgorithme.design.DesignBrowserHistory.BrowserHistory.visit(java.lang.String)!url	PARAMETERM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaC! C($2b
+voidRETURN_TYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaC C(õ
+Qalgorithme.design.DesignBrowserHistory.BrowserHistory.visit(java.lang.String)!url	PARAMETERM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaC! C($*url2g
+java.lang.StringTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaC C( 
+?algorithme.design.DesignBrowserHistory.BrowserHistory.back(int)METHODM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaK K("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*back2n
+java.util.List.get(int)CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaM M(2•
+Nalgorithme.design.DesignBrowserHistory.BrowserHistory?currentIndex@60.20:60.32CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaL L(2•
+Nalgorithme.design.DesignBrowserHistory.BrowserHistory?currentIndex@60.20:60.32CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaL L('2ú
+Ealgorithme.design.DesignBrowserHistory.BrowserHistory.back(int)!stepsCALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaL* L(/2•
+Nalgorithme.design.DesignBrowserHistory.BrowserHistory?currentIndex@60.20:60.32CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaL6 L(B2ú
+Ealgorithme.design.DesignBrowserHistory.BrowserHistory.back(int)!stepsCALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaLE L(J2†
+Ialgorithme.design.DesignBrowserHistory.BrowserHistory?visited@59.29:59.36CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaM M(2•
+Nalgorithme.design.DesignBrowserHistory.BrowserHistory?currentIndex@60.20:60.32CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaM M(+2°
+Ealgorithme.design.DesignBrowserHistory.BrowserHistory.back(int)!steps	PARAMETERM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaK K($2n
+java.lang.StringRETURN_TYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaK K(Ñ
+Ealgorithme.design.DesignBrowserHistory.BrowserHistory.back(int)!steps	PARAMETERM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaK K($*steps2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaK K(“
+Balgorithme.design.DesignBrowserHistory.BrowserHistory.forward(int)METHODM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaP P("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*forward2l
+java.util.List.size()CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaR' R(+2l
+java.util.List.size()CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaS' S(+2n
+java.util.List.get(int)CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaT T("2l
+java.util.List.size()CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaT+ T(/2n
+java.util.List.get(int)CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaW W(2•
+Nalgorithme.design.DesignBrowserHistory.BrowserHistory?currentIndex@60.20:60.32CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaQ Q(*2ü
+Halgorithme.design.DesignBrowserHistory.BrowserHistory.forward(int)!stepsCALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaQ- Q(22±
+Zalgorithme.design.DesignBrowserHistory.BrowserHistory.forward(int)?targetIndex@81.16:81.27CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaR R(2†
+Ialgorithme.design.DesignBrowserHistory.BrowserHistory?visited@59.29:59.36CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaR R(&2•
+Nalgorithme.design.DesignBrowserHistory.BrowserHistory?currentIndex@60.20:60.32CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaS S(2†
+Ialgorithme.design.DesignBrowserHistory.BrowserHistory?visited@59.29:59.36CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaS S(&2†
+Ialgorithme.design.DesignBrowserHistory.BrowserHistory?visited@59.29:59.36CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaT T(2†
+Ialgorithme.design.DesignBrowserHistory.BrowserHistory?visited@59.29:59.36CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaT# T(*2•
+Nalgorithme.design.DesignBrowserHistory.BrowserHistory?currentIndex@60.20:60.32CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaV V(2±
+Zalgorithme.design.DesignBrowserHistory.BrowserHistory.forward(int)?targetIndex@81.16:81.27CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaV V(&2†
+Ialgorithme.design.DesignBrowserHistory.BrowserHistory?visited@59.29:59.36CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaW W(2±
+Zalgorithme.design.DesignBrowserHistory.BrowserHistory.forward(int)?targetIndex@81.16:81.27CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaW W(*2§
+Halgorithme.design.DesignBrowserHistory.BrowserHistory.forward(int)!steps	PARAMETERM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaP" P('2∏
+Zalgorithme.design.DesignBrowserHistory.BrowserHistory.forward(int)?targetIndex@81.16:81.27DECLARATIONM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaQ Q(2n
+java.lang.StringRETURN_TYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaP P(ˆ
+Zalgorithme.design.DesignBrowserHistory.BrowserHistory.forward(int)?targetIndex@81.16:81.27VARIABLEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaQ Q("
+type int*targetIndex2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaQ Q(2•
+Nalgorithme.design.DesignBrowserHistory.BrowserHistory?currentIndex@60.20:60.32CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaQ Q(*2ü
+Halgorithme.design.DesignBrowserHistory.BrowserHistory.forward(int)!stepsCALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaQ- Q(2á
+Halgorithme.design.DesignBrowserHistory.BrowserHistory.forward(int)!steps	PARAMETERM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaP" P('*steps2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.javaP P(!ï
+Ialgorithme.design.DesignBrowserHistory.BrowserHistory?visited@59.29:59.36VARIABLEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java; ;($"
+type List<String>*visited2e
+java.util.ListTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java; ;(2p
+java.lang.StringTYPE_ARGUMENTM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java; ;(2v
+java.util.ArrayList.ArrayList()CALLM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java;+ ;(6°
+Nalgorithme.design.DesignBrowserHistory.BrowserHistory?currentIndex@60.20:60.32VARIABLEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java< <( "
+type int*currentIndex2Z
+intTYPEM
+Calgorithm/src/main/java/algorithme/design/DesignBrowserHistory.java< <(

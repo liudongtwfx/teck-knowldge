@@ -1,0 +1,167 @@
+
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.javaƒ
+7algorithme.greedy.FindTheMostCompetitiveSubsequence1673CLASS^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (2"
+inner classfalse*%FindTheMostCompetitiveSubsequence16732¿
+Palgorithme.greedy.FindTheMostCompetitiveSubsequence1673.main(java.lang.String[])DECLARATION^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (2¯
+@algorithme.greedy.FindTheMostCompetitiveSubsequence1673.bridge()DECLARATION^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java	 	(2¯
+@algorithme.greedy.FindTheMostCompetitiveSubsequence1673.SolutionDECLARATION^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java
+ (¹
+Palgorithme.greedy.FindTheMostCompetitiveSubsequence1673.main(java.lang.String[])METHOD^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2¨
+@algorithme.greedy.FindTheMostCompetitiveSubsequence1673.bridge()CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java4 (:2Ç
+_algorithme.greedy.FindTheMostCompetitiveSubsequence1673.FindTheMostCompetitiveSubsequence1673()CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (12Â
+Ualgorithme.greedy.FindTheMostCompetitiveSubsequence1673.main(java.lang.String[])!args	PARAMETER^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java% ()2s
+voidRETURN_TYPE^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (Ä
+Ualgorithme.greedy.FindTheMostCompetitiveSubsequence1673.main(java.lang.String[])!args	PARAMETER^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java% ()*args2z
+java.lang.String[]TYPE^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java ($€
+@algorithme.greedy.FindTheMostCompetitiveSubsequence1673.bridge()METHOD^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java	 	("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2•
+-java.io.PrintStream.println(java.lang.Object)CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (2Ä
+\algorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java* (92³
+Kalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.Solution()CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java ('2¹
+Qalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.bridge()?nums@10.14:10.18CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java: (>2¶
+Nalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.bridge()?k@11.12:11.13CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java@ (A2À
+Qalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.bridge()?nums@10.14:10.18DECLARATION^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java
+ 
+(2½
+Nalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.bridge()?k@11.12:11.13DECLARATION^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (2s
+voidRETURN_TYPE^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java	 	(Â
+Qalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.bridge()?nums@10.14:10.18VARIABLE^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java
+ 
+("
+type int[]*nums2m
+int[]TYPE^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java
+ 
+(¸
+Nalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.bridge()?k@11.12:11.13VARIABLE^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java ("
+type int*k2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (–
+@algorithme.greedy.FindTheMostCompetitiveSubsequence1673.SolutionCLASS^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java
+ ("
+inner classtrue*Solution2Ë
+\algorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)DECLARATION^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java ($Î2
+\algorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)METHOD^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java ($"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int[]*mostCompetitive2•
+-java.util.Arrays.copyOfRange(int[], int, int)CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (%2Æ
+^algorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)!kCALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java  (!2É
+aalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)!numsCALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java$ ((2Ò
+jalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?i@20.21:20.22CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (2É
+aalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)!numsCALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java  ($2Ò
+jalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?i@20.21:20.22CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java- (.2Ö
+nalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?start@18.16:18.21CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (2Ô
+lalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?ans@17.18:17.21CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java$ ('2Ö
+nalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?start@18.16:18.21CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java( (-2É
+aalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)!numsCALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java5 (92Ò
+jalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?i@20.21:20.22CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java: (;2Ö
+nalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?start@18.16:18.21CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java@ (E2É
+aalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)!numsCALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.javaH (L2Ò
+jalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?i@20.21:20.22CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.javaV (W2Æ
+^algorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)!kCALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.javaZ ([2Ö
+nalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?start@18.16:18.21CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (2Ö
+nalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?start@18.16:18.21CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (2Æ
+^algorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)!kCALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (2Ô
+lalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?ans@17.18:17.21CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (2Ö
+nalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?start@18.16:18.21CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (2É
+aalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)!numsCALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java# ('2Ò
+jalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?i@20.21:20.22CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java( ()2Ô
+lalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?ans@17.18:17.21CALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java& ()2Æ
+^algorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)!kCALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java. (/2Î
+aalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)!nums	PARAMETER^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java+ (/2Ë
+^algorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)!k	PARAMETER^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java5 (62Û
+lalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?ans@17.18:17.21DECLARATION^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (2Ý
+nalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?start@18.16:18.21DECLARATION^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (2Ù
+jalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?i@20.21:20.22DECLARATION^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (2t
+int[]RETURN_TYPE^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (ñ
+lalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?ans@17.18:17.21VARIABLE^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java ("
+type int[]*ans2m
+int[]TYPE^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (2Æ
+^algorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)!kCALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java  (!2É
+aalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)!numsCALL^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java$ ((Ü
+nalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?start@18.16:18.21VARIABLE^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java ("
+type int*start2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (Ô
+jalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)?i@20.21:20.22VARIABLE^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java ("
+type int*i2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java (Ã
+aalgorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)!nums	PARAMETER^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java+ (/*nums2m
+int[]TYPE^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java% (*»
+^algorithme.greedy.FindTheMostCompetitiveSubsequence1673.Solution.mostCompetitive(int[], int)!k	PARAMETER^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java5 (6*k2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/greedy/FindTheMostCompetitiveSubsequence1673.java1 (4

@@ -1,0 +1,131 @@
+
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java´
+jl.multithread.ThreadPoolUsesCLASSD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java ("
+inner classfalse*ThreadPoolUses2ñ
+Ajl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])DECLARATIOND
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (‰
+Ajl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])METHODD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2ç
+?java.util.concurrent.ArrayBlockingQueue.ArrayBlockingQueue(int)CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java
+0 
+(D2û
+Pjl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?unit@9.17:9.21CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.javaQ (U2•
+Wjl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?workQueue@10.32:10.41CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.javaW (`2¶
+Xjl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?executor@11.102:11.110CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.javas ({2ù
+Ojl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?i@12.17:12.18CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (2ù
+Ojl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?i@12.17:12.18CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java! ("2ù
+Ojl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?i@12.17:12.18CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (2Æ
+`jl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?threadPoolExecutor@11.27:11.45CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java$ (62ù
+Ojl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?e@18.35:18.36CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (2ù
+Ojl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?j@13.22:13.23CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java& ('2Æ
+`jl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?threadPoolExecutor@11.27:11.45CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (2ô
+Fjl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])!args	PARAMETERD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java% ()2•
+Pjl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?unit@9.17:9.21DECLARATIOND
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java	 	(2¨
+Wjl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?workQueue@10.32:10.41DECLARATIOND
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java
+  
+()2µ
+`jl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?threadPoolExecutor@11.27:11.45DECLARATIOND
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (-2§
+Ojl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?i@12.17:12.18DECLARATIOND
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (2§
+Ojl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?j@13.22:13.23DECLARATIOND
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (2©
+Tjl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?result@14.27:14.33DECLARATIOND
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (!2•
+Pjl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?r@11.99:11.100DECLARATIOND
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.javac (d2≠
+Xjl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?executor@11.102:11.110DECLARATIOND
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.javaf (n2§
+Ojl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?e@18.35:18.36DECLARATIOND
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java# ($2Y
+voidRETURN_TYPED
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (®
+Pjl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?unit@9.17:9.21VARIABLED
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java	 	("
+type TimeUnit*unit2k
+java.util.concurrent.TimeUnitTYPED
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java	 	(Œ
+Wjl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?workQueue@10.32:10.41VARIABLED
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java
+  
+()" 
+type BlockingQueue<Runnable>*	workQueue2p
+"java.util.concurrent.BlockingQueueTYPED
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java
+ 
+(2t
+java.util.concurrent.RunnableTYPE_ARGUMENTD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java
+ 
+(2ç
+?java.util.concurrent.ArrayBlockingQueue.ArrayBlockingQueue(int)CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java
+0 
+(DÃ
+`jl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?threadPoolExecutor@11.27:11.45VARIABLED
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (-"
+type ThreadPoolExecutor*threadPoolExecutor2u
+'java.util.concurrent.ThreadPoolExecutorTYPED
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (2û
+Pjl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?unit@9.17:9.21CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.javaQ (U2•
+Wjl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?workQueue@10.32:10.41CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.javaW (`2¶
+Xjl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?executor@11.102:11.110CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.javas ({Ö
+Ojl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?i@12.17:12.18VARIABLED
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java ("
+type int*i2Q
+intTYPED
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (¢
+Ojl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?j@13.22:13.23VALUED
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java ("
+type int*j2Q
+intTYPED
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (2ù
+Ojl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?i@12.17:12.18CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (ó
+Tjl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?result@14.27:14.33VARIABLED
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (!"
+type Future<String>*result2i
+java.util.concurrent.FutureTYPED
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (2r
+java.util.concurrent.StringTYPE_ARGUMENTD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (2Æ
+`jl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?threadPoolExecutor@11.27:11.45CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java$ (62ù
+Ojl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?e@18.35:18.36CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java (2ù
+Ojl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?j@13.22:13.23CALLD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java& ('å
+Fjl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])!args	PARAMETERD
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java% ()*args2k
+java.util.concurrent.String[]TYPED
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java ($≠
+Pjl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?r@11.99:11.100VARIABLED
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.javac (d*r2TYPEº
+Xjl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?executor@11.102:11.110VARIABLED
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.javaf (n*executor2TYPEí
+Ojl.multithread.ThreadPoolUses.main(java.util.concurrent.String[])?e@18.35:18.36VARIABLED
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java# ($*e2l
+java.util.concurrent.ExceptionTYPED
+:knowledge/src/main/java/jl/multithread/ThreadPoolUses.java ("

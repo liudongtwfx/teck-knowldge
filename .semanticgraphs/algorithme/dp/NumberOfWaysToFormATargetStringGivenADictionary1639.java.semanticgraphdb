@@ -1,0 +1,354 @@
+
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java·
+Aalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639CLASSh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (@"
+inner classfalse*3NumberOfWaysToFormATargetStringGivenADictionary16392”
+Zalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.main(java.lang.String[])DECLARATIONh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2√
+Jalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.bridge()DECLARATIONh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2√
+Jalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.SolutionDECLARATIONh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java
+ (°
+Zalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.main(java.lang.String[])METHODh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2º
+Jalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.bridge()CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.javaB (H2È
+walgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.NumberOfWaysToFormATargetStringGivenADictionary1639()CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (?2÷
+_algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.main(java.lang.String[])!args	PARAMETERh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java% ()2}
+voidRETURN_TYPEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java („
+_algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.main(java.lang.String[])!args	PARAMETERh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java% ()*args2Ñ
+java.lang.String[]TYPEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java ($Œ
+Jalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.bridge()METHODh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2Í
+xalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java
+! 
+((2í
+ java.io.PrintStream.println(int)CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2«
+Ualgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.Solution()CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java
+ 
+(2Ã
+Zalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.bridge()?words@8.17:8.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java
+) 
+(.2Õ
+[algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.bridge()?target@9.15:9.21CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java
+0 
+(62Ã
+Zalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.bridge()?ans@10.12:10.15CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2”
+Zalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.bridge()?words@8.17:8.22DECLARATIONh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2‘
+[algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.bridge()?target@9.15:9.21DECLARATIONh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java	 	(2”
+Zalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.bridge()?ans@10.12:10.15DECLARATIONh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java
+ 
+(2}
+voidRETURN_TYPEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (Ò
+Zalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.bridge()?words@8.17:8.22VARIABLEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java ("
+type String[]*words2Ñ
+java.lang.String[]TYPEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (Ô
+[algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.bridge()?target@9.15:9.21VARIABLEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java	 	("
+type String*target2Ç
+java.lang.StringTYPEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java	 	(∞	
+Zalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.bridge()?ans@10.12:10.15VARIABLEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java
+ 
+("
+type int*ans2u
+intTYPEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java
+ 
+(2Í
+xalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java
+! 
+((2«
+Ualgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.Solution()CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java
+ 
+(2Ã
+Zalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.bridge()?words@8.17:8.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java
+) 
+(.2Õ
+[algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.bridge()?target@9.15:9.21CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java
+0 
+(6¶
+Jalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.SolutionCLASSh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java
+ ("
+inner classtrue*Solution2Ò
+xalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)DECLARATIONh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2”
+Zalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution?MOD@16.18:16.21DECLARATIONh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (åò
+xalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)METHODh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*numWays2ã
+java.lang.String.length()CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java* (02ã
+java.lang.String.length()CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java= (C2ã
+java.lang.String.length()CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java. (42ã
+java.lang.String.length()CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java- (32é
+java.lang.String.charAt(int)CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java' (-2ã
+java.lang.String.length()CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java) (/2é
+java.lang.String.charAt(int)CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java, (22ã
+java.lang.String.length()CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java )  (/2ã
+java.lang.String.length()CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java!+ !(12é
+java.lang.String.charAt(int)CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java%- %(32ã
+java.lang.String.length()CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java*# *()2ã
+java.lang.String.length()CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java*: *(@2Ò
+algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!targetCALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java# ()2
+~algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!wordsCALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java4 (92
+~algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!wordsCALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java% (*2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@21.21:21.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2
+~algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!wordsCALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java  (%2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@21.21:21.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java. (/2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?j@22.25:22.26CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java  (!2
+~algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!wordsCALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java$ ()2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?j@22.25:22.26CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java7 (82˛
+ãalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?charDp@20.20:20.26CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?j@22.25:22.26CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2
+~algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!wordsCALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (#2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@21.21:21.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java$ (%2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?j@22.25:22.26CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java. (/2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@26.21:26.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2
+~algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!wordsCALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java  (%2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@26.21:26.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java3 (42˙
+áalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?dp@19.21:19.23CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@26.21:26.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2˛
+ãalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?charDp@20.20:20.26CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (!2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@26.21:26.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java" (#2Ò
+algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!targetCALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java% (+2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@26.21:26.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2˙
+áalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?dp@19.21:19.23CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@26.21:26.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2˙
+áalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?dp@19.21:19.23CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java  ("2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@26.21:26.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java& ('2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?j@32.21:32.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java   (2
+~algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!wordsCALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java    (%2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?j@32.21:32.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java 3  (42˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@33.25:33.26CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java!  !(!2Ò
+algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!targetCALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java!$ !(*2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@33.25:33.26CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java!5 !(62˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@33.25:33.26CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java" "(2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?j@32.21:32.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java" "(2˛
+ãalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?charDp@20.20:20.26CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java% %("2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?j@32.21:32.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java%# %($2Ò
+algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!targetCALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java%& %(,2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@33.25:33.26CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java%4 %(52˙
+áalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?dp@19.21:19.23CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java& &(2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@33.25:33.26CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java& &(2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?j@32.21:32.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java& &(2˙
+áalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?dp@19.21:19.23CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java&  &("2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@33.25:33.26CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java&# &($2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?j@32.21:32.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java&& &('2˙
+áalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?dp@19.21:19.23CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java' '(2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@33.25:33.26CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java' '(2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?j@32.21:32.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java' '(2˙
+áalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?dp@19.21:19.23CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java'  '("2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@33.25:33.26CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java'# '($2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?j@32.21:32.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java'& '('2˙
+áalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?dp@19.21:19.23CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java'+ '(-2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@33.25:33.26CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java'. '(/2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?j@32.21:32.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java'5 '(62˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?c@37.24:37.25CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java'> '(?2Ã
+Zalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution?MOD@16.18:16.21CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java'C '(F2˙
+áalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?dp@19.21:19.23CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java* *(2Ò
+algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!targetCALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java* *("2
+~algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!wordsCALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java*1 *(62ı
+~algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!words	PARAMETERh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java$ ()2ˆ
+algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!target	PARAMETERh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java2 (82Å
+áalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?dp@19.21:19.23DECLARATIONh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2Ö
+ãalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?charDp@20.20:20.26DECLARATIONh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2Ä
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@21.21:21.22DECLARATIONh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2Ä
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?j@22.25:22.26DECLARATIONh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2Ä
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@26.21:26.22DECLARATIONh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2Ä
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?j@32.21:32.22DECLARATIONh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java   (2Ä
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@33.25:33.26DECLARATIONh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java! !(2Ä
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?c@37.24:37.25DECLARATIONh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java% %(2|
+intRETURN_TYPEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (î	
+áalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?dp@19.21:19.23VARIABLEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java ("
+type long[][]*dp2z
+long[][]TYPEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2ã
+java.lang.String.length()CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java* (02ã
+java.lang.String.length()CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java= (C2Ò
+algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!targetCALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java# ()2
+~algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!wordsCALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java4 (9ò
+ãalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?charDp@20.20:20.26VARIABLEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java ("
+type int[][]*charDp2y
+int[][]TYPEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (2ã
+java.lang.String.length()CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java. (42
+~algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!wordsCALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java% (*Ö
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@21.21:21.22VARIABLEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java ("
+type int*i2u
+intTYPEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (Ö
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?j@22.25:22.26VARIABLEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java ("
+type int*j2u
+intTYPEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (Ö
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@26.21:26.22VARIABLEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java ("
+type int*i2u
+intTYPEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (Ö
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?j@32.21:32.22VARIABLEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java   ("
+type int*j2u
+intTYPEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java   (Ö
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@33.25:33.26VARIABLEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java! !("
+type int*i2u
+intTYPEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java! !(É
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?c@37.24:37.25VARIABLEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java% %("
+type int*c2u
+intTYPEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java% %(2é
+java.lang.String.charAt(int)CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java%- %(32˛
+ãalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?charDp@20.20:20.26CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java% %("2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?j@32.21:32.22CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java%# %($2Ò
+algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!targetCALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java%& %(,2˘
+Üalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)?i@33.25:33.26CALLh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java%4 %(5É
+~algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!words	PARAMETERh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java$ ()*words2Ñ
+java.lang.String[]TYPEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (#É
+algorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution.numWays(java.lang.String[], java.lang.String)!target	PARAMETERh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java2 (8*target2Ç
+java.lang.StringTYPEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java+ (1◊
+Zalgorithme.dp.NumberOfWaysToFormATargetStringGivenADictionary1639.Solution?MOD@16.18:16.21VALUEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java ("
+type int*MOD2u
+intTYPEh
+^algorithm/src/main/java/algorithme/dp/NumberOfWaysToFormATargetStringGivenADictionary1639.java (

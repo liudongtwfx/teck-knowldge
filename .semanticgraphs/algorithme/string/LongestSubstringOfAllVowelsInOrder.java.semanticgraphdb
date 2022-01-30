@@ -1,0 +1,425 @@
+
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaê
+4algorithme.string.LongestSubstringOfAllVowelsInOrderCLASS[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (/"
+inner classfalse*"LongestSubstringOfAllVowelsInOrder2π
+Malgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (û!
+Malgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])METHOD[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2â
+$java.lang.StringBuilder.append(char)CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2ï
+0java.lang.StringBuilder.append(java.lang.String)CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java
+ 
+(2–
+kalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java# (<2á
+"java.lang.StringBuilder.toString()CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java@ (H2Ö
+ java.io.PrintStream.println(int)CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2å
+'java.lang.StringBuilder.StringBuilder()CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (,2±
+Lalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.MySolution()CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java ( 2æ
+Yalgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])?i@7.17:7.18CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2æ
+Yalgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])?i@7.17:7.18CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java$ (%2ø
+Zalgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])?sb@6.22:6.24CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2ø
+Zalgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])?sb@6.22:6.24CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java
+ 
+(
+2»
+calgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])?stopWatch@11.18:11.27CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2ø
+Zalgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])?sb@6.22:6.24CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java= (?2»
+calgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])?stopWatch@11.18:11.27CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2»
+calgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])?stopWatch@11.18:11.27CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java ($2¬
+]algorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])?ans@13.12:13.15CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2º
+Ralgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])!args	PARAMETER[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java% ()2∆
+Zalgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])?sb@6.22:6.24DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2≈
+Yalgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])?i@7.17:7.18DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2œ
+calgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])?stopWatch@11.18:11.27DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2…
+]algorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])?ans@13.12:13.15DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2p
+voidRETURN_TYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (Ï
+Zalgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])?sb@6.22:6.24VARIABLE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java ("
+type StringBuilder*sb2|
+java.lang.StringBuilderTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2å
+'java.lang.StringBuilder.StringBuilder()CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (,Ω
+Yalgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])?i@7.17:7.18VARIABLE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java ("
+type int*i2h
+intTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (ı
+calgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])?stopWatch@11.18:11.27VARIABLE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java ("
+type 	StopWatch*	stopWatch2á
+"org.springframework.util.StopWatchTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (ñ
+]algorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])?ans@13.12:13.15VARIABLE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java ("
+type int*ans2h
+intTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2–
+kalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java# (<2á
+"java.lang.StringBuilder.toString()CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java@ (H2±
+Lalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.MySolution()CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java ( 2ø
+Zalgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])?sb@6.22:6.24CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java= (?ª
+Ralgorithme.string.LongestSubstringOfAllVowelsInOrder.main(java.lang.String[])!args	PARAMETER[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java% ()*args2w
+java.lang.String[]TYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java ($õ
+=algorithme.string.LongestSubstringOfAllVowelsInOrder.SolutionCLASS[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java ("
+inner classfalse*Solution2’
+ialgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (,◊E
+ialgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)METHOD[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (,"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*longestBeautifulSubstring2É
+java.lang.String.toCharArray()CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java ()2Ö
+ java.io.PrintStream.println(int)CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java ("2Å
+java.lang.Math.max(int, int)CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java"( "(+2Å
+java.lang.Math.max(int, int)CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java)- )(02”
+nalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)!wordCALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2‹
+walgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?i@25.21:25.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2ﬁ
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?arr@24.19:24.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java  (#2‹
+walgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?i@25.21:25.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java, (-2‹
+walgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?i@25.21:25.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java# ($2ﬁ
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?arr@24.19:24.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2‹
+walgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?i@25.21:25.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2ﬁ
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?arr@24.19:24.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (!2‹
+walgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?i@25.21:25.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java" (#2‡
+{algorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?count@23.16:23.21CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2ﬁ
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?arr@24.19:24.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2‹
+walgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?i@25.21:25.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2ﬁ
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?arr@24.19:24.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java" (%2‹
+walgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?i@25.21:25.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java& ('2È
+Éalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?letterChanged@22.16:22.29CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (%2ﬁ
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?arr@24.19:24.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java! !(2‹
+walgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?i@25.21:25.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java! !(2ﬁ
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?arr@24.19:24.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java!! !($2‹
+walgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?i@25.21:25.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java!% !(&2È
+Éalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?letterChanged@22.16:22.29CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java!/ !(<2„
+~algorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?maxCount@21.16:21.24CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java" "( 2„
+~algorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?maxCount@21.16:21.24CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java", "(42‡
+{algorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?count@23.16:23.21CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java"6 "(;2È
+Éalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?letterChanged@22.16:22.29CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java$ $(!2‡
+{algorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?count@23.16:23.21CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java% %(2È
+Éalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?letterChanged@22.16:22.29CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java) )( 2„
+~algorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?maxCount@21.16:21.24CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java)1 )(92‡
+{algorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?count@23.16:23.21CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java); )(@2„
+~algorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?maxCount@21.16:21.24CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java)D )(L2ÿ
+nalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)!word	PARAMETER[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java4 (82Í
+~algorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?maxCount@21.16:21.24DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2
+Éalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?letterChanged@22.16:22.29DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2Á
+{algorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?count@23.16:23.21DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2Â
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?arr@24.19:24.22DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2„
+walgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?i@25.21:25.22DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2o
+intRETURN_TYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (È
+~algorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?maxCount@21.16:21.24VARIABLE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java ("
+type int*maxCount2h
+intTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (Ù
+Éalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?letterChanged@22.16:22.29VARIABLE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java ("
+type int*letterChanged2h
+intTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java („
+{algorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?count@23.16:23.21VARIABLE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java ("
+type int*count2h
+intTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (¡
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?arr@24.19:24.22VARIABLE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java ("
+type char[]*arr2k
+char[]TYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (2É
+java.lang.String.toCharArray()CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java ()2”
+nalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)!wordCALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (€
+walgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)?i@25.21:25.22VARIABLE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java ("
+type int*i2h
+intTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java (’
+nalgorithme.string.LongestSubstringOfAllVowelsInOrder.Solution.longestBeautifulSubstring(java.lang.String)!word	PARAMETER[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java4 (8*word2u
+java.lang.StringTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java- (3‚
+?algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolutionCLASS[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java- -("
+inner classfalse*
+MySolution2◊
+kalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java. .(,2æ
+Ralgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.indexOfVowel(char)DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaP P( ÑW
+kalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)METHOD[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java. .(,"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*longestBeautifulSubstring2â
+$java.lang.System.currentTimeMillis()CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java/! /(22É
+java.lang.String.toCharArray()CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java3 3()2Å
+java.lang.String.charAt(int)CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java5 5($2∑
+Ralgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.indexOfVowel(char)CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java6 6((2Å
+java.lang.Math.max(int, int)CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java9# 9(&2Å
+java.lang.Math.max(int, int)CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaD# D(&2Ü
+!java.io.PrintStream.println(long)CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaK K(2Ü
+!java.io.PrintStream.println(long)CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaL L(2â
+$java.lang.System.currentTimeMillis()CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaL& L(72’
+palgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)!wordCALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java3 3(2ﬁ
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?i@52.21:52.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java4 4(2‡
+{algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?arr@51.19:51.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java4  4(#2ﬁ
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?i@52.21:52.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java4, 4(-2’
+palgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)!wordCALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java5 5(2ﬁ
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?i@52.21:52.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java5% 5(&2ﬁ
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?c@53.21:53.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java6) 6(*2‚
+}algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?index@54.20:54.25CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java7 7(2Ô
+âalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?currentVowelIndex@48.16:48.33CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java7 7(-2‚
+}algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?index@54.20:54.25CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java8 8(2‡
+{algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?ans@49.27:49.30CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java9 9(2‡
+{algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?ans@49.27:49.30CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java9' 9(*2ﬁ
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?i@52.21:52.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java9, 9(-2‚
+}algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?start@49.16:49.21CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java94 9(92ﬁ
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?c@53.21:53.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java= =(2‚
+}algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?start@49.16:49.21CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java> >(2ﬁ
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?i@52.21:52.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java> >(2Ô
+âalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?currentVowelIndex@48.16:48.33CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java? ?(%2‚
+}algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?index@54.20:54.25CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaB B(2Ô
+âalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?currentVowelIndex@48.16:48.33CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaB B(-2‚
+}algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?index@54.20:54.25CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaC C(2‡
+{algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?ans@49.27:49.30CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaD D(2‡
+{algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?ans@49.27:49.30CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaD' D(*2ﬁ
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?i@52.21:52.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaD, D(-2‚
+}algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?start@49.16:49.21CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaD4 D(92Ô
+âalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?currentVowelIndex@48.16:48.33CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaF F(%2‚
+}algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?index@54.20:54.25CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaF( F(-2Ô
+âalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?currentVowelIndex@48.16:48.33CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaI I(!2‰
+algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?totalMs@50.17:50.24CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaK K(&2„
+~algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?startC@47.17:47.23CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaL< L(B2‡
+{algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?ans@49.27:49.30CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaM M(2⁄
+palgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)!word	PARAMETER[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java.4 .(82Í
+~algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?startC@47.17:47.23DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java/ /(2ˆ
+âalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?currentVowelIndex@48.16:48.33DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java0 0(!2È
+}algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?start@49.16:49.21DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java1 1(2Á
+{algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?ans@49.27:49.30DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java1 1(2Î
+algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?totalMs@50.17:50.24DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java2 2(2Á
+{algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?arr@51.19:51.22DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java3 3(2Â
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?i@52.21:52.22DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java4 4(2Â
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?c@53.21:53.22DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java5 5(2È
+}algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?index@54.20:54.25DECLARATION[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java6 6(2o
+intRETURN_TYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java. .(ı
+~algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?startC@47.17:47.23VARIABLE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java/ /("
+type long*startC2i
+longTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java/ /(2â
+$java.lang.System.currentTimeMillis()CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java/! /(2˛
+âalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?currentVowelIndex@48.16:48.33VARIABLE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java0 0(!"
+type int*currentVowelIndex2h
+intTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java0 0(Â
+}algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?start@49.16:49.21VARIABLE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java1 1("
+type int*start2h
+intTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java1 1(·
+{algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?ans@49.27:49.30VARIABLE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java1 1("
+type int*ans2h
+intTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java1 1(Î
+algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?totalMs@50.17:50.24VARIABLE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java2 2("
+type long*totalMs2i
+longTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java2 2(≈
+{algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?arr@51.19:51.22VARIABLE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java3 3("
+type char[]*arr2k
+char[]TYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java3 3(2É
+java.lang.String.toCharArray()CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java3 3()2’
+palgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)!wordCALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java3 3(›
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?i@52.21:52.22VARIABLE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java4 4("
+type int*i2h
+intTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java4 4(ú
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?c@53.21:53.22VARIABLE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java5 5("
+type char*c2i
+charTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java5 5(2Å
+java.lang.String.charAt(int)CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java5 5($2’
+palgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)!wordCALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java5 5(2ﬁ
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?i@52.21:52.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java5% 5(&Ä
+}algorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?index@54.20:54.25VARIABLE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java6 6("
+type int*index2h
+intTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java6 6(2∑
+Ralgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.indexOfVowel(char)CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java6 6((2ﬁ
+yalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)?c@53.21:53.22CALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java6) 6(*◊
+palgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.longestBeautifulSubstring(java.lang.String)!word	PARAMETER[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java.4 .(8*word2u
+java.lang.StringTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java.- .(3à
+Ralgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.indexOfVowel(char)METHOD[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaP P( "
+staticfalse"
+finalfalse"
+access modifierprivate"
+type int*indexOfVowel2Ω
+Xalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.indexOfVowel(char)!vowelCALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaQ Q(2Ω
+Xalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.indexOfVowel(char)!vowelCALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaT T(2Ω
+Xalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.indexOfVowel(char)!vowelCALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaW W(2Ω
+Xalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.indexOfVowel(char)!vowelCALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaZ Z(2Ω
+Xalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.indexOfVowel(char)!vowelCALL[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.java] ](2¬
+Xalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.indexOfVowel(char)!vowel	PARAMETER[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaP& P(+2o
+intRETURN_TYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaP P(¥
+Xalgorithme.string.LongestSubstringOfAllVowelsInOrder.MySolution.indexOfVowel(char)!vowel	PARAMETER[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaP& P(+*vowel2i
+charTYPE[
+Qalgorithm/src/main/java/algorithme/string/LongestSubstringOfAllVowelsInOrder.javaP! P(%

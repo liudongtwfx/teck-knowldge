@@ -1,0 +1,369 @@
+
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.javaŸ
+2algorithme.bit.NumberOfValidWordsForEachPuzzle1178CLASSY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (0"
+inner classfalse*#NumberOfValidWordsForEachPuzzle11782µ
+Kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.main(java.lang.String[])DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (2•
+;algorithme.bit.NumberOfValidWordsForEachPuzzle1178.bridge()DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (2•
+;algorithme.bit.NumberOfValidWordsForEachPuzzle1178.SolutionDECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java
+ (ä
+Kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.main(java.lang.String[])METHODY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2û
+;algorithme.bit.NumberOfValidWordsForEachPuzzle1178.bridge()CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java2 (82ª
+Xalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.NumberOfValidWordsForEachPuzzle1178()CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (/2∏
+Palgorithme.bit.NumberOfValidWordsForEachPuzzle1178.main(java.lang.String[])!args	PARAMETERY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java% ()2n
+voidRETURN_TYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (µ
+Palgorithme.bit.NumberOfValidWordsForEachPuzzle1178.main(java.lang.String[])!args	PARAMETERY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java% ()*args2u
+java.lang.String[]TYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java ($ﬁ
+;algorithme.bit.NumberOfValidWordsForEachPuzzle1178.bridge()METHODY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2ê
+-java.io.PrintStream.println(java.lang.Object)CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (2¿
+]algorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java* (92ê
+-java.io.PrintStream.println(java.lang.Object)CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (2⁄
+walgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java* (=2©
+Falgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.Solution()CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java ('2©
+Falgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.Solution()CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java ('2∞
+Malgorithme.bit.NumberOfValidWordsForEachPuzzle1178.bridge()?words@20.17:20.22CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java> (C2±
+Nalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.bridge()?puzzle@21.17:21.23CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.javaE (K2∑
+Malgorithme.bit.NumberOfValidWordsForEachPuzzle1178.bridge()?words@20.17:20.22DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (2∏
+Nalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.bridge()?puzzle@21.17:21.23DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (2n
+voidRETURN_TYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (≈
+Malgorithme.bit.NumberOfValidWordsForEachPuzzle1178.bridge()?words@20.17:20.22VARIABLEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java ("
+type String[]*words2u
+java.lang.String[]TYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java («
+Nalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.bridge()?puzzle@21.17:21.23VARIABLEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java ("
+type String[]*puzzle2u
+java.lang.String[]TYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (≤
+;algorithme.bit.NumberOfValidWordsForEachPuzzle1178.SolutionCLASSY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java
+ ("
+inner classtrue*Solution2·
+walgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (02«
+]algorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java) )(-2√
+Yalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCount(java.lang.String)DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java8 8(«5
+walgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])METHODY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (0"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type List<Integer>*findNumOfValidWords2≥
+Pjava.util.stream.Stream.map(java.util.function.Function<? super T, ? extends R>)CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java= (@2
+java.util.Arrays.stream(T[])CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java/ (52ï
+±java.util.stream.Collectors.toMap(java.util.function.Function<? super T, ? extends K>, java.util.function.Function<? super T, ? extends U>, java.util.function.BinaryOperator<U>)CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java( (-2â
+&java.util.function.Function.identity()CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java7 (?2¿
+]algorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java) (82É
+ java.util.stream.IntStream.sum()CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java# #(2∞
+Mjava.util.stream.Stream.mapToInt(java.util.function.ToIntFunction<? super T>)CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java" "(!2≥
+Pjava.util.stream.Stream.map(java.util.function.Function<? super T, ? extends R>)CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java! !(2Ä
+java.util.Collection.stream()CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java %  (+2í
+/java.util.Map.getOrDefault(java.lang.Object, V)CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java!& !(22x
+java.util.List.add(E)CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java$ $(2Ç
+java.util.ArrayList.ArrayList()CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java$ (/2‡
+}algorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])!wordsCALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java6 (;2‚
+algorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])!puzzlesCALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java! ((2Ó
+äalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?puzzle@30.24:30.30CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java9 (?2
+åalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?bitCount@31.30:31.38CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java   ($2Î
+áalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?map@28.34:28.37CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java!" !(%2È
+Öalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?c@33.29:33.30CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java!3 !(42Î
+áalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?ans@27.26:27.29CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java$ $(2Ì
+âalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?count@32.20:32.25CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java$ $(2Î
+áalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?ans@27.26:27.29CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java& &(2Â
+}algorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])!words	PARAMETERY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java: (?2Á
+algorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])!puzzles	PARAMETERY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.javaJ (Q2Ú
+áalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?ans@27.26:27.29DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (2Ú
+áalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?map@28.34:28.37DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java" (%2ı
+äalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?puzzle@30.24:30.30DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (2˜
+åalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?bitCount@31.30:31.38DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (&2Ù
+âalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?count@32.20:32.25DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java   (2
+Öalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?v@29.67:29.68DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.javaC (D2
+Öalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?c@33.29:33.30DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java! !(2x
+java.util.ListRETURN_TYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (2Ñ
+java.lang.IntegerRETURN_TYPE_ARGUMENTY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (É
+áalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?ans@27.26:27.29VARIABLEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java ("
+type List<Integer>*ans2q
+java.util.ListTYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (2}
+java.lang.IntegerTYPE_ARGUMENTY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (2Ç
+java.util.ArrayList.ArrayList()CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java$ (/Û
+áalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?map@28.34:28.37VARIABLEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java" (%"
+type Map<Integer,Integer>*map2p
+java.util.MapTYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (2}
+java.lang.IntegerTYPE_ARGUMENTY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (2}
+java.lang.IntegerTYPE_ARGUMENTY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java ( 2Ø
+Ljava.util.stream.Stream.collect(java.util.stream.Collector<? super T, A, R>)CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (2≥
+Pjava.util.stream.Stream.map(java.util.function.Function<? super T, ? extends R>)CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java= (@2
+java.util.Arrays.stream(T[])CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java/ (52ï
+±java.util.stream.Collectors.toMap(java.util.function.Function<? super T, ? extends K>, java.util.function.Function<? super T, ? extends U>, java.util.function.BinaryOperator<U>)CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java( (-2â
+&java.util.function.Function.identity()CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java7 (?2‡
+}algorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])!wordsCALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java6 (;Ä
+äalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?puzzle@30.24:30.30VARIABLEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java ("
+type String*puzzle2s
+java.lang.StringTYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (º
+åalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?bitCount@31.30:31.38VARIABLEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (&"
+type List<Integer>*bitCount2q
+java.util.ListTYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (2}
+java.lang.IntegerTYPE_ARGUMENTY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java (2¿
+]algorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java) (82Ó
+äalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?puzzle@30.24:30.30CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java9 (?¬
+âalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?count@32.20:32.25VARIABLEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java   ("
+type int*count2f
+intTYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java   (2É
+ java.util.stream.IntStream.sum()CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java# #(2∞
+Mjava.util.stream.Stream.mapToInt(java.util.function.ToIntFunction<? super T>)CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java" "(!2≥
+Pjava.util.stream.Stream.map(java.util.function.Function<? super T, ? extends R>)CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java! !(2Ä
+java.util.Collection.stream()CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java %  (+2í
+/java.util.Map.getOrDefault(java.lang.Object, V)CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java!& !(22
+åalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?bitCount@31.30:31.38CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java   ($2Î
+áalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?map@28.34:28.37CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java!" !(%2È
+Öalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?c@33.29:33.30CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java!3 !(4„
+}algorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])!words	PARAMETERY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java: (?*words2u
+java.lang.String[]TYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java1 (9Á
+algorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])!puzzles	PARAMETERY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.javaJ (Q*puzzles2u
+java.lang.String[]TYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.javaA (I¯
+Öalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?v@29.67:29.68VARIABLEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.javaC (D*v2TYPE¯
+Öalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.findNumOfValidWords(java.lang.String[], java.lang.String[])?c@33.29:33.30VARIABLEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java! !(*c2TYPEÊ&
+]algorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)METHODY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java) )(-"
+staticfalse"
+finalfalse"
+access modifierprivate"
+type List<Integer>*getBitCountList2Å
+java.lang.String.toCharArray()CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java+" +(-2x
+java.util.List.add(E)CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java3 3(2Ç
+java.util.ArrayList.ArrayList()CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java*' *(22«
+dalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)!puzzleCALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java+ +(!2Œ
+kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?i@44.21:44.22CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java, ,(2Œ
+kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?i@44.21:44.22CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java,' ,((2Œ
+kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?j@46.25:46.26CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java.  .(!2Œ
+kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?j@46.25:46.26CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java.' .((2Œ
+kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?i@44.21:44.22CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java/ /(2Œ
+kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?j@46.25:46.26CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java/# /($2–
+malgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?res@45.20:45.23CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java0 0(2“
+oalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?chars@43.19:43.24CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java0& 0(+2Œ
+kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?j@46.25:46.26CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java00 0(12”
+palgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?result@42.26:42.32CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java3 3(2–
+malgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?res@45.20:45.23CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java3 3(2”
+palgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?result@42.26:42.32CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java5 5(2Ã
+dalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)!puzzle	PARAMETERY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java)5 )(;2⁄
+palgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?result@42.26:42.32DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java* *( 2Ÿ
+oalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?chars@43.19:43.24DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java+ +(2’
+kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?i@44.21:44.22DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java, ,(2◊
+malgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?res@45.20:45.23DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java- -(2’
+kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?j@46.25:46.26DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java. .(2x
+java.util.ListRETURN_TYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java) )(2Ñ
+java.lang.IntegerRETURN_TYPE_ARGUMENTY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java) )(Ó
+palgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?result@42.26:42.32VARIABLEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java* *( "
+type List<Integer>*result2q
+java.util.ListTYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java* *(2}
+java.lang.IntegerTYPE_ARGUMENTY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java* *(2Ç
+java.util.ArrayList.ArrayList()CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java*' *(2ß
+oalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?chars@43.19:43.24VARIABLEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java+ +("
+type char[]*chars2i
+char[]TYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java+ +(2Å
+java.lang.String.toCharArray()CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java+" +(-2«
+dalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)!puzzleCALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java+ +(!À
+kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?i@44.21:44.22VARIABLEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java, ,("
+type int*i2f
+intTYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java, ,(œ
+malgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?res@45.20:45.23VARIABLEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java- -("
+type int*res2f
+intTYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java- -(À
+kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)?j@46.25:46.26VARIABLEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java. .("
+type int*j2f
+intTYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java. .(…
+dalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCountList(java.lang.String)!puzzle	PARAMETERY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java)5 )(;*puzzle2s
+java.lang.StringTYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java). )(4÷
+Yalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCount(java.lang.String)METHODY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java8 8("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type int*getBitCount2Å
+java.lang.String.toCharArray()CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java: :((2æ
+[algorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCount(java.lang.String)!sCALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java: :(2Œ
+kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCount(java.lang.String)?chars@58.19:58.24CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java; ;(#2Ã
+ialgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCount(java.lang.String)?ans@57.16:57.19CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java< <(2Œ
+kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCount(java.lang.String)?aChar@59.22:59.27CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java< <(#2Ã
+ialgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCount(java.lang.String)?ans@57.16:57.19CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java> >(2√
+[algorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCount(java.lang.String)!s	PARAMETERY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java8' 8((2”
+ialgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCount(java.lang.String)?ans@57.16:57.19DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java9 9(2’
+kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCount(java.lang.String)?chars@58.19:58.24DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java: :(2’
+kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCount(java.lang.String)?aChar@59.22:59.27DECLARATIONY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java; ;(2m
+intRETURN_TYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java8 8(À
+ialgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCount(java.lang.String)?ans@57.16:57.19VARIABLEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java9 9("
+type int*ans2f
+intTYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java9 9(ö
+kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCount(java.lang.String)?chars@58.19:58.24VARIABLEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java: :("
+type char[]*chars2i
+char[]TYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java: :(2Å
+java.lang.String.toCharArray()CALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java: :((2æ
+[algorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCount(java.lang.String)!sCALLY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java: :(—
+kalgorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCount(java.lang.String)?aChar@59.22:59.27VARIABLEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java; ;("
+type char*aChar2g
+charTYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java; ;(ª
+[algorithme.bit.NumberOfValidWordsForEachPuzzle1178.Solution.getBitCount(java.lang.String)!s	PARAMETERY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java8' 8((*s2s
+java.lang.StringTYPEY
+Oalgorithm/src/main/java/algorithme/bit/NumberOfValidWordsForEachPuzzle1178.java8  8(&

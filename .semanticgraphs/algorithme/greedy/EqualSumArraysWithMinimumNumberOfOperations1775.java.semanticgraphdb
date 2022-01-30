@@ -1,0 +1,389 @@
+
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java›
+Aalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775CLASSh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (<"
+inner classfalse*/EqualSumArraysWithMinimumNumberOfOperations17752”
+Zalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.main(java.lang.String[])DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (2√
+Jalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.bridge()DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java	 	(2√
+Jalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.SolutionDECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java
+ (ù
+Zalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.main(java.lang.String[])METHODh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2º
+Jalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.bridge()CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java> (D2Â
+salgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.EqualSumArraysWithMinimumNumberOfOperations1775()CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (;2÷
+_algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.main(java.lang.String[])!args	PARAMETERh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java% ()2}
+voidRETURN_TYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java („
+_algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.main(java.lang.String[])!args	PARAMETERh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java% ()*args2Ñ
+java.lang.String[]TYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java ($ù
+Jalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.bridge()METHODh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java	 	("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2í
+ java.io.PrintStream.println(int)CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (2ÿ
+falgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java* (72«
+Ualgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.Solution()CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java ('2Œ
+\algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.bridge()?nums1@12.14:12.19CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java8 (=2Œ
+\algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.bridge()?nums2@13.14:13.19CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java? (D2’
+\algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.bridge()?nums1@12.14:12.19DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (2’
+\algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.bridge()?nums2@13.14:13.19DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (2}
+voidRETURN_TYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java	 	(‚
+\algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.bridge()?nums1@12.14:12.19VARIABLEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java ("
+type int[]*nums12w
+int[]TYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (‚
+\algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.bridge()?nums2@13.14:13.19VARIABLEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java ("
+type int[]*nums22w
+int[]TYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (•
+Jalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.SolutionCLASSh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java
+ ("
+inner classtrue*Solution2ﬂ
+falgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java ( 2‰
+kalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java   (˝1
+falgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])METHODh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java ( "
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minOperations2é
+java.util.Arrays.sort(int[])CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (2é
+java.util.Arrays.sort(int[])CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (2í
+ java.util.stream.IntStream.sum()CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java, (/2ê
+java.util.Arrays.stream(int[])CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java ($2í
+ java.util.stream.IntStream.sum()CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java, (/2ê
+java.util.Arrays.stream(int[])CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java ($2›
+kalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (2›
+kalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (2ﬁ
+lalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])!nums1CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (2ﬁ
+lalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])!nums2CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (2ﬁ
+lalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])!nums1CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java% (*2ﬁ
+lalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])!nums2CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java% (*2È
+walgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])?sum1@21.16:21.20CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (2È
+walgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])?sum2@22.16:22.20CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (2ﬁ
+lalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])!nums1CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java  (%2ﬁ
+lalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])!nums2CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java' (,2È
+walgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])?sum1@21.16:21.20CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java. (22È
+walgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])?sum2@22.16:22.20CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java4 (82È
+walgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])?sum1@21.16:21.20CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (2È
+walgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])?sum2@22.16:22.20CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (2ﬁ
+lalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])!nums2CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java  (%2ﬁ
+lalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])!nums1CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java' (,2È
+walgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])?sum2@22.16:22.20CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java. (22È
+walgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])?sum1@21.16:21.20CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java4 (82„
+lalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])!nums1	PARAMETERh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java' (,2„
+lalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])!nums2	PARAMETERh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java4 (92
+walgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])?sum1@21.16:21.20DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (2
+walgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])?sum2@22.16:22.20DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (2|
+intRETURN_TYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (Å
+walgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])?sum1@21.16:21.20VARIABLEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java ("
+type int*sum12u
+intTYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (2í
+ java.util.stream.IntStream.sum()CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java, (/2ê
+java.util.Arrays.stream(int[])CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java ($2ﬁ
+lalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])!nums1CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java% (*Å
+walgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])?sum2@22.16:22.20VARIABLEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java ("
+type int*sum22u
+intTYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java (2í
+ java.util.stream.IntStream.sum()CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java, (/2ê
+java.util.Arrays.stream(int[])CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java ($2ﬁ
+lalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])!nums2CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java% (*„
+lalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])!nums1	PARAMETERh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java' (,*nums12w
+int[]TYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java! (&„
+lalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.minOperations(int[], int[])!nums2	PARAMETERh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java4 (9*nums22w
+int[]TYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java. (3ˇå
+kalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)METHODh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java   ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type int*doAnswer2Â
+salgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!maxNumsCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java! !("2Û
+Äalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?maxIndex@33.16:33.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java$ $(2Û
+Äalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?minIndex@34.16:34.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java$$ $(,2Â
+salgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!minNumsCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java$/ $(62·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!maxCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java% %(2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!minCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java% %(2Ì
+{algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?ans@35.16:35.19CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java& &(2Â
+salgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!maxNumsCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java( ((%2Û
+Äalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?maxIndex@33.16:33.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java(& ((.2Â
+salgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!minNumsCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java)" )()2Û
+Äalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?minIndex@34.16:34.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java)* )(22Ò
+algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?maxDiff@40.20:40.27CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java* *(2Ò
+algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?minDiff@41.20:41.27CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java* *(&2Ò
+algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?maxDiff@40.20:40.27CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java+ +(2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!maxCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java+# +(&2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!minCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java+) +(,2Ì
+{algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?ans@35.16:35.19CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java, ,("2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!maxCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java. .(2Ò
+algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?maxDiff@40.20:40.27CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java. .("2Û
+Äalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?maxIndex@33.16:33.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java/ /(2Ì
+{algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?ans@35.16:35.19CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java0 0(2Ò
+algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?maxDiff@40.20:40.27CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java0 0("2Ò
+algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?minDiff@41.20:41.27CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java2 2(2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!maxCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java2# 2(&2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!minCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java2) 2(,2Ì
+{algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?ans@35.16:35.19CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java3 3("2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!minCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java5 5(2Ò
+algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?minDiff@41.20:41.27CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java5 5("2Û
+Äalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?minIndex@34.16:34.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java6 6(2Ì
+{algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?ans@35.16:35.19CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java7 7(2Ò
+algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?minDiff@41.20:41.27CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java7 7("2Û
+Äalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?maxIndex@33.16:33.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java: :(2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!maxCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java; ;(2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!minCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java; ;(2Ì
+{algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?ans@35.16:35.19CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java< <(2Â
+salgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!maxNumsCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java> >(#2Û
+Äalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?maxIndex@33.16:33.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java>$ >(,2Ó
+|algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?diff@62.20:62.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java? ?(2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!maxCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java? ?(2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!minCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java?" ?(%2Ì
+{algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?ans@35.16:35.19CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java@ @(2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!maxCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaB B(2Ó
+|algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?diff@62.20:62.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaB B(2Ì
+{algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?ans@35.16:35.19CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaC C(2Ó
+|algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?diff@62.20:62.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaC C(2Û
+Äalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?minIndex@34.16:34.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaE E(2Â
+salgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!minNumsCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaE E(%2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!maxCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaF F(2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!minCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaF F(2Ì
+{algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?ans@35.16:35.19CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaG G(2Â
+salgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!minNumsCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaI  I('2Û
+Äalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?minIndex@34.16:34.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaI( I(02Ó
+|algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?diff@73.20:73.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaJ J(2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!maxCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaJ J(2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!minCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaJ" J(%2Ì
+{algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?ans@35.16:35.19CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaK K(2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!minCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaM M(2Ó
+|algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?diff@73.20:73.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaM M(2Ì
+{algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?ans@35.16:35.19CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaN N(2Ó
+|algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?diff@73.20:73.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaN N(2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!maxCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaP P(2·
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!minCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaP P(2Ì
+{algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?ans@35.16:35.19CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaQ Q(2Í
+salgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!maxNums	PARAMETERh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java #  (*2Í
+salgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!minNums	PARAMETERh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java 2  (92Ê
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!max	PARAMETERh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java ?  (B2Ê
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!min	PARAMETERh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java H  (K2˙
+Äalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?maxIndex@33.16:33.24DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java! !(2˙
+Äalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?minIndex@34.16:34.24DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java" "(2Ù
+{algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?ans@35.16:35.19DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java# #(2¯
+algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?maxDiff@40.20:40.27DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java( ((2¯
+algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?minDiff@41.20:41.27DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java) )(2ı
+|algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?diff@62.20:62.24DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java> >(2ı
+|algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?diff@73.20:73.24DECLARATIONh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaI I(2|
+intRETURN_TYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java   (Ó
+Äalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?maxIndex@33.16:33.24VARIABLEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java! !("
+type int*maxIndex2u
+intTYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java! !(2Â
+salgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!maxNumsCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java! !("Ü
+Äalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?minIndex@34.16:34.24VARIABLEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java" "("
+type int*minIndex2u
+intTYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java" "(˚
+{algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?ans@35.16:35.19VARIABLEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java# #("
+type int*ans2u
+intTYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java# #(·
+algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?maxDiff@40.20:40.27VARIABLEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java( (("
+type int*maxDiff2u
+intTYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java( ((2Â
+salgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!maxNumsCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java( ((%2Û
+Äalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?maxIndex@33.16:33.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java(& ((.·
+algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?minDiff@41.20:41.27VARIABLEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java) )("
+type int*minDiff2u
+intTYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java) )(2Â
+salgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!minNumsCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java)" )()2Û
+Äalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?minIndex@34.16:34.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java)* )(2€
+|algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?diff@62.20:62.24VARIABLEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java> >("
+type int*diff2u
+intTYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java> >(2Â
+salgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!maxNumsCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java> >(#2Û
+Äalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?maxIndex@33.16:33.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java>$ >(,€
+|algorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?diff@73.20:73.24VARIABLEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaI I("
+type int*diff2u
+intTYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaI I(2Â
+salgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!minNumsCALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaI  I('2Û
+Äalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)?minIndex@34.16:34.24CALLh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.javaI( I(0Ï
+salgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!maxNums	PARAMETERh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java #  (**maxNums2w
+int[]TYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java   ("Ï
+salgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!minNums	PARAMETERh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java 2  (9*minNums2w
+int[]TYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java ,  (1‚
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!max	PARAMETERh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java ?  (B*max2u
+intTYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java ;  (>‚
+oalgorithme.greedy.EqualSumArraysWithMinimumNumberOfOperations1775.Solution.doAnswer(int[], int[], int, int)!min	PARAMETERh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java H  (K*min2u
+intTYPEh
+^algorithm/src/main/java/algorithme/greedy/EqualSumArraysWithMinimumNumberOfOperations1775.java D  (G

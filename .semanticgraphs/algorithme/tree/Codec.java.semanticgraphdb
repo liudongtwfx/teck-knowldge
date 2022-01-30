@@ -1,0 +1,320 @@
+
+2algorithm/src/main/java/algorithme/tree/Codec.java…
+algorithme.tree.CodecCLASS<
+2algorithm/src/main/java/algorithme/tree/Codec.java ("
+inner classfalse*Codec2†
+9algorithme.tree.Codec.serialize(algorithme.tree.TreeNode)DECLARATION<
+2algorithm/src/main/java/algorithme/tree/Codec.java
+ 
+(2€
+3algorithme.tree.Codec.deserialize(java.lang.String)DECLARATION<
+2algorithm/src/main/java/algorithme/tree/Codec.java (–
+9algorithme.tree.Codec.serialize(algorithme.tree.TreeNode)METHOD<
+2algorithm/src/main/java/algorithme/tree/Codec.java
+ 
+("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*	serialize2^
+java.util.Queue.offer(E)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2d
+java.util.Collection.isEmpty()CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (!2\
+java.util.Queue.poll()CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java& (*2[
+java.util.List.add(E)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2c
+java.lang.String.valueOf(int)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (&2^
+java.util.Queue.offer(E)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2^
+java.util.Queue.offer(E)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2[
+java.util.List.add(E)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2©
+cjava.lang.String.join(java.lang.CharSequence, java.lang.Iterable<? extends java.lang.CharSequence>)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java ( 2e
+java.util.ArrayList.ArrayList()CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (*2g
+!java.util.LinkedList.LinkedList()CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java( (42•
+Oalgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?nodeQueue@12.24:12.33CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2„
+>algorithme.tree.Codec.serialize(algorithme.tree.TreeNode)!rootCALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2•
+Oalgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?nodeQueue@12.24:12.33CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2•
+Oalgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?nodeQueue@12.24:12.33CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (%2
+Jalgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?head@15.21:15.25CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2
+Ialgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?str@11.21:11.24CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2
+Jalgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?head@15.21:15.25CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java' (+2•
+Oalgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?nodeQueue@12.24:12.33CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2
+Jalgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?head@15.21:15.25CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java  ($2•
+Oalgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?nodeQueue@12.24:12.33CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2
+Jalgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?head@15.21:15.25CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java  ($2
+Ialgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?str@11.21:11.24CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2
+Ialgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?str@11.21:11.24CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java& ()2‰
+>algorithme.tree.Codec.serialize(algorithme.tree.TreeNode)!root	PARAMETER<
+2algorithm/src/main/java/algorithme/tree/Codec.java
+% 
+()2–
+Ialgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?str@11.21:11.24DECLARATION<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2œ
+Oalgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?nodeQueue@12.24:12.33DECLARATION<
+2algorithm/src/main/java/algorithme/tree/Codec.java (!2—
+Jalgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?head@15.21:15.25DECLARATION<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2]
+java.lang.StringRETURN_TYPE<
+2algorithm/src/main/java/algorithme/tree/Codec.java
+ 
+(Í
+Ialgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?str@11.21:11.24VARIABLE<
+2algorithm/src/main/java/algorithme/tree/Codec.java ("
+type List<String>*str2T
+java.util.ListTYPE<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2_
+java.lang.StringTYPE_ARGUMENT<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2e
+java.util.ArrayList.ArrayList()CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (*ç
+Oalgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?nodeQueue@12.24:12.33VARIABLE<
+2algorithm/src/main/java/algorithme/tree/Codec.java (!"
+type Queue<TreeNode>*	nodeQueue2U
+java.util.QueueTYPE<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2g
+algorithme.tree.TreeNodeTYPE_ARGUMENT<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2g
+!java.util.LinkedList.LinkedList()CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java( (4ƒ
+Jalgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?head@15.21:15.25VARIABLE<
+2algorithm/src/main/java/algorithme/tree/Codec.java ("
+type TreeNode*head2^
+algorithme.tree.TreeNodeTYPE<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2\
+java.util.Queue.poll()CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java& (*2•
+Oalgorithme.tree.Codec.serialize(algorithme.tree.TreeNode)?nodeQueue@12.24:12.33CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (%ï
+>algorithme.tree.Codec.serialize(algorithme.tree.TreeNode)!root	PARAMETER<
+2algorithm/src/main/java/algorithme/tree/Codec.java
+% 
+()*root2^
+algorithme.tree.TreeNodeTYPE<
+2algorithm/src/main/java/algorithme/tree/Codec.java
+ 
+($Ÿ>
+3algorithme.tree.Codec.deserialize(java.lang.String)METHOD<
+2algorithm/src/main/java/algorithme/tree/Codec.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type TreeNode*deserialize2n
+(java.lang.String.split(java.lang.String)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java@ (E2j
+$java.lang.String.substring(int, int)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java  ()2_
+java.lang.String.length()CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java2 (82o
+)java.lang.String.equals(java.lang.Object)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2r
+,java.lang.Integer.parseInt(java.lang.String)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java!- !(52\
+java.util.Queue.add(E)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java# #(2\
+java.util.Queue.poll()CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java&' &(+2o
+)java.lang.String.equals(java.lang.Object)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java( ((!2r
+,java.lang.Integer.parseInt(java.lang.String)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java+5 +(=2^
+java.util.Queue.offer(E)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java- -( 2o
+)java.lang.String.equals(java.lang.Object)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java3 3(!2r
+,java.lang.Integer.parseInt(java.lang.String)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java66 6(>2^
+java.util.Queue.offer(E)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java8 8( 2l
+&algorithme.tree.TreeNode.TreeNode(int)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java! !($2g
+!java.util.LinkedList.LinkedList()CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java") "(52l
+&algorithme.tree.TreeNode.TreeNode(int)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java+$ +(,2l
+&algorithme.tree.TreeNode.TreeNode(int)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java6% 6(-2~
+8algorithme.tree.Codec.deserialize(java.lang.String)!dataCALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2~
+8algorithme.tree.Codec.deserialize(java.lang.String)!dataCALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java- (12
+Galgorithme.tree.Codec.deserialize(java.lang.String)?numStrs@29.17:29.24CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2
+Galgorithme.tree.Codec.deserialize(java.lang.String)?numStrs@29.17:29.24CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java!6 !(=2
+Jalgorithme.tree.Codec.deserialize(java.lang.String)?buildQueue@34.24:34.34CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java# #(2Š
+Dalgorithme.tree.Codec.deserialize(java.lang.String)?root@33.17:33.21CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java# #(2‡
+Aalgorithme.tree.Codec.deserialize(java.lang.String)?i@36.12:36.13CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java% %(2
+Galgorithme.tree.Codec.deserialize(java.lang.String)?numStrs@29.17:29.24CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java% %(2
+Jalgorithme.tree.Codec.deserialize(java.lang.String)?buildQueue@34.24:34.34CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java& &(&2Š
+Dalgorithme.tree.Codec.deserialize(java.lang.String)?head@38.21:38.25CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java' '(2
+Galgorithme.tree.Codec.deserialize(java.lang.String)?numStrs@29.17:29.24CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java( ((2‡
+Aalgorithme.tree.Codec.deserialize(java.lang.String)?i@36.12:36.13CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java( ((2Š
+Dalgorithme.tree.Codec.deserialize(java.lang.String)?head@38.21:38.25CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java) )(2
+Galgorithme.tree.Codec.deserialize(java.lang.String)?numStrs@29.17:29.24CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java+> +(E2‡
+Aalgorithme.tree.Codec.deserialize(java.lang.String)?i@36.12:36.13CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java+F +(G2Š
+Dalgorithme.tree.Codec.deserialize(java.lang.String)?head@38.21:38.25CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java, ,(2Š
+Dalgorithme.tree.Codec.deserialize(java.lang.String)?left@43.25:43.29CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java, ,( 2
+Jalgorithme.tree.Codec.deserialize(java.lang.String)?buildQueue@34.24:34.34CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java- -(2Š
+Dalgorithme.tree.Codec.deserialize(java.lang.String)?left@43.25:43.29CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java-! -(%2‡
+Aalgorithme.tree.Codec.deserialize(java.lang.String)?i@36.12:36.13CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java/ /(2‡
+Aalgorithme.tree.Codec.deserialize(java.lang.String)?i@36.12:36.13CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java0 0(2
+Galgorithme.tree.Codec.deserialize(java.lang.String)?numStrs@29.17:29.24CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java0 0(2
+Galgorithme.tree.Codec.deserialize(java.lang.String)?numStrs@29.17:29.24CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java3 3(2‡
+Aalgorithme.tree.Codec.deserialize(java.lang.String)?i@36.12:36.13CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java3 3(2Š
+Dalgorithme.tree.Codec.deserialize(java.lang.String)?head@38.21:38.25CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java4 4(2
+Galgorithme.tree.Codec.deserialize(java.lang.String)?numStrs@29.17:29.24CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java6? 6(F2‡
+Aalgorithme.tree.Codec.deserialize(java.lang.String)?i@36.12:36.13CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java6G 6(H2Š
+Dalgorithme.tree.Codec.deserialize(java.lang.String)?head@38.21:38.25CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java7 7(2‹
+Ealgorithme.tree.Codec.deserialize(java.lang.String)?right@54.25:54.30CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java7 7("2
+Jalgorithme.tree.Codec.deserialize(java.lang.String)?buildQueue@34.24:34.34CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java8 8(2‹
+Ealgorithme.tree.Codec.deserialize(java.lang.String)?right@54.25:54.30CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java8! 8(&2‡
+Aalgorithme.tree.Codec.deserialize(java.lang.String)?i@36.12:36.13CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java: :(2Š
+Dalgorithme.tree.Codec.deserialize(java.lang.String)?root@33.17:33.21CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java< <(2ƒ
+8algorithme.tree.Codec.deserialize(java.lang.String)!data	PARAMETER<
+2algorithm/src/main/java/algorithme/tree/Codec.java' (+2”
+Galgorithme.tree.Codec.deserialize(java.lang.String)?numStrs@29.17:29.24DECLARATION<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2‘
+Dalgorithme.tree.Codec.deserialize(java.lang.String)?root@33.17:33.21DECLARATION<
+2algorithm/src/main/java/algorithme/tree/Codec.java! !(2—
+Jalgorithme.tree.Codec.deserialize(java.lang.String)?buildQueue@34.24:34.34DECLARATION<
+2algorithm/src/main/java/algorithme/tree/Codec.java" "("2Ž
+Aalgorithme.tree.Codec.deserialize(java.lang.String)?i@36.12:36.13DECLARATION<
+2algorithm/src/main/java/algorithme/tree/Codec.java$ $(2‘
+Dalgorithme.tree.Codec.deserialize(java.lang.String)?head@38.21:38.25DECLARATION<
+2algorithm/src/main/java/algorithme/tree/Codec.java& &(2‘
+Dalgorithme.tree.Codec.deserialize(java.lang.String)?left@43.25:43.29DECLARATION<
+2algorithm/src/main/java/algorithme/tree/Codec.java+ +(2’
+Ealgorithme.tree.Codec.deserialize(java.lang.String)?right@54.25:54.30DECLARATION<
+2algorithm/src/main/java/algorithme/tree/Codec.java6 6(2e
+algorithme.tree.TreeNodeRETURN_TYPE<
+2algorithm/src/main/java/algorithme/tree/Codec.java (Ä
+Galgorithme.tree.Codec.deserialize(java.lang.String)?numStrs@29.17:29.24VARIABLE<
+2algorithm/src/main/java/algorithme/tree/Codec.java ("
+type String[]*numStrs2X
+java.lang.String[]TYPE<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2n
+(java.lang.String.split(java.lang.String)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java@ (E2j
+$java.lang.String.substring(int, int)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java  ()2_
+java.lang.String.length()CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java2 (82~
+8algorithme.tree.Codec.deserialize(java.lang.String)!dataCALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java (2~
+8algorithme.tree.Codec.deserialize(java.lang.String)!dataCALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java- (1ù
+Dalgorithme.tree.Codec.deserialize(java.lang.String)?root@33.17:33.21VARIABLE<
+2algorithm/src/main/java/algorithme/tree/Codec.java! !("
+type TreeNode*root2^
+algorithme.tree.TreeNodeTYPE<
+2algorithm/src/main/java/algorithme/tree/Codec.java! !(2r
+,java.lang.Integer.parseInt(java.lang.String)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java!- !(52l
+&algorithme.tree.TreeNode.TreeNode(int)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java! !($2
+Galgorithme.tree.Codec.deserialize(java.lang.String)?numStrs@29.17:29.24CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java!6 !(=ã
+Jalgorithme.tree.Codec.deserialize(java.lang.String)?buildQueue@34.24:34.34VARIABLE<
+2algorithm/src/main/java/algorithme/tree/Codec.java" "(""
+type Queue<TreeNode>*
+buildQueue2U
+java.util.QueueTYPE<
+2algorithm/src/main/java/algorithme/tree/Codec.java" "(2g
+algorithme.tree.TreeNodeTYPE_ARGUMENT<
+2algorithm/src/main/java/algorithme/tree/Codec.java" "(2g
+!java.util.LinkedList.LinkedList()CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java") "(5ç
+Aalgorithme.tree.Codec.deserialize(java.lang.String)?i@36.12:36.13VARIABLE<
+2algorithm/src/main/java/algorithme/tree/Codec.java$ $("
+type int*i2I
+intTYPE<
+2algorithm/src/main/java/algorithme/tree/Codec.java$ $(ø
+Dalgorithme.tree.Codec.deserialize(java.lang.String)?head@38.21:38.25VARIABLE<
+2algorithm/src/main/java/algorithme/tree/Codec.java& &("
+type TreeNode*head2^
+algorithme.tree.TreeNodeTYPE<
+2algorithm/src/main/java/algorithme/tree/Codec.java& &(2\
+java.util.Queue.poll()CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java&' &(+2
+Jalgorithme.tree.Codec.deserialize(java.lang.String)?buildQueue@34.24:34.34CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java& &(&ƒ
+Dalgorithme.tree.Codec.deserialize(java.lang.String)?left@43.25:43.29VARIABLE<
+2algorithm/src/main/java/algorithme/tree/Codec.java+ +("
+type TreeNode*left2^
+algorithme.tree.TreeNodeTYPE<
+2algorithm/src/main/java/algorithme/tree/Codec.java+ +(2r
+,java.lang.Integer.parseInt(java.lang.String)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java+5 +(=2l
+&algorithme.tree.TreeNode.TreeNode(int)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java+$ +(,2
+Galgorithme.tree.Codec.deserialize(java.lang.String)?numStrs@29.17:29.24CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java+> +(E2‡
+Aalgorithme.tree.Codec.deserialize(java.lang.String)?i@36.12:36.13CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java+F +(G…
+Ealgorithme.tree.Codec.deserialize(java.lang.String)?right@54.25:54.30VARIABLE<
+2algorithm/src/main/java/algorithme/tree/Codec.java6 6("
+type TreeNode*right2^
+algorithme.tree.TreeNodeTYPE<
+2algorithm/src/main/java/algorithme/tree/Codec.java6 6(2r
+,java.lang.Integer.parseInt(java.lang.String)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java66 6(>2l
+&algorithme.tree.TreeNode.TreeNode(int)CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java6% 6(-2
+Galgorithme.tree.Codec.deserialize(java.lang.String)?numStrs@29.17:29.24CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java6? 6(F2‡
+Aalgorithme.tree.Codec.deserialize(java.lang.String)?i@36.12:36.13CALL<
+2algorithm/src/main/java/algorithme/tree/Codec.java6G 6(Há
+8algorithme.tree.Codec.deserialize(java.lang.String)!data	PARAMETER<
+2algorithm/src/main/java/algorithme/tree/Codec.java' (+*data2V
+java.lang.StringTYPE<
+2algorithm/src/main/java/algorithme/tree/Codec.java  (&

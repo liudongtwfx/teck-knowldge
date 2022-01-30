@@ -1,0 +1,173 @@
+
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java‡
+$algorithme.dp.KthAncestorOfATreeNodeCLASSK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (#"
+inner classfalse*KthAncestorOfATreeNode2ô
+=algorithme.dp.KthAncestorOfATreeNode.main(java.lang.String[])DECLARATIONK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (2â
+-algorithme.dp.KthAncestorOfATreeNode.bridge()DECLARATIONK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (2ç
+1algorithme.dp.KthAncestorOfATreeNode.TreeAncestorDECLARATIONK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java
+ (ˇ
+=algorithme.dp.KthAncestorOfATreeNode.main(java.lang.String[])METHODK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2Ç
+-algorithme.dp.KthAncestorOfATreeNode.bridge()CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java% (+2í
+=algorithme.dp.KthAncestorOfATreeNode.KthAncestorOfATreeNode()CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java ("2ú
+Balgorithme.dp.KthAncestorOfATreeNode.main(java.lang.String[])!args	PARAMETERK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java% ()2`
+voidRETURN_TYPEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (ã
+Balgorithme.dp.KthAncestorOfATreeNode.main(java.lang.String[])!args	PARAMETERK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java% ()*args2g
+java.lang.String[]TYPEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java ($©
+-algorithme.dp.KthAncestorOfATreeNode.bridge()METHODK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2u
+ java.io.PrintStream.println(int)CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (2ü
+Jalgorithme.dp.KthAncestorOfATreeNode.TreeAncestor.getKthAncestor(int, int)CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java, (:2ü
+Jalgorithme.dp.KthAncestorOfATreeNode.TreeAncestor.TreeAncestor(int, int[])CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java( (42é
+9algorithme.dp.KthAncestorOfATreeNode.bridge()?n@8.12:8.13CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java	 	( 2ê
+;algorithme.dp.KthAncestorOfATreeNode.bridge()?i@10.17:10.18CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java
+ 
+(2é
+9algorithme.dp.KthAncestorOfATreeNode.bridge()?n@8.12:8.13CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java
+ 
+(2ê
+;algorithme.dp.KthAncestorOfATreeNode.bridge()?i@10.17:10.18CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java
+ 
+( 2ì
+>algorithme.dp.KthAncestorOfATreeNode.bridge()?parent@9.14:9.20CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (2ê
+;algorithme.dp.KthAncestorOfATreeNode.bridge()?i@10.17:10.18CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (2ê
+;algorithme.dp.KthAncestorOfATreeNode.bridge()?i@10.17:10.18CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (2é
+9algorithme.dp.KthAncestorOfATreeNode.bridge()?n@8.12:8.13CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java5 (62ì
+>algorithme.dp.KthAncestorOfATreeNode.bridge()?parent@9.14:9.20CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java8 (>2ê
+;algorithme.dp.KthAncestorOfATreeNode.bridge()?i@14.17:14.18CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (2é
+9algorithme.dp.KthAncestorOfATreeNode.bridge()?n@8.12:8.13CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (2ê
+;algorithme.dp.KthAncestorOfATreeNode.bridge()?i@14.17:14.18CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java ( 2õ
+Falgorithme.dp.KthAncestorOfATreeNode.bridge()?treeAncestor@13.21:13.33CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (+2ê
+;algorithme.dp.KthAncestorOfATreeNode.bridge()?i@14.17:14.18CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java; (<2ê
+;algorithme.dp.KthAncestorOfATreeNode.bridge()?i@14.17:14.18CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java> (?2ï
+9algorithme.dp.KthAncestorOfATreeNode.bridge()?n@8.12:8.13DECLARATIONK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (2ö
+>algorithme.dp.KthAncestorOfATreeNode.bridge()?parent@9.14:9.20DECLARATIONK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java	 	(2ó
+;algorithme.dp.KthAncestorOfATreeNode.bridge()?i@10.17:10.18DECLARATIONK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java
+ 
+(2¢
+Falgorithme.dp.KthAncestorOfATreeNode.bridge()?treeAncestor@13.21:13.33DECLARATIONK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (!2ó
+;algorithme.dp.KthAncestorOfATreeNode.bridge()?i@14.17:14.18DECLARATIONK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (2`
+voidRETURN_TYPEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (˝
+9algorithme.dp.KthAncestorOfATreeNode.bridge()?n@8.12:8.13VARIABLEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java ("
+type int*n2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (ú
+>algorithme.dp.KthAncestorOfATreeNode.bridge()?parent@9.14:9.20VARIABLEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java	 	("
+type int[]*parent2Z
+int[]TYPEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java	 	(2é
+9algorithme.dp.KthAncestorOfATreeNode.bridge()?n@8.12:8.13CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java	 	( ˇ
+;algorithme.dp.KthAncestorOfATreeNode.bridge()?i@10.17:10.18VARIABLEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java
+ 
+("
+type int*i2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java
+ 
+(ñ
+Falgorithme.dp.KthAncestorOfATreeNode.bridge()?treeAncestor@13.21:13.33VARIABLEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (!"
+type TreeAncestor*treeAncestor2Ü
+1algorithme.dp.KthAncestorOfATreeNode.TreeAncestorTYPEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (2ü
+Jalgorithme.dp.KthAncestorOfATreeNode.TreeAncestor.TreeAncestor(int, int[])CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java( (42é
+9algorithme.dp.KthAncestorOfATreeNode.bridge()?n@8.12:8.13CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java5 (62ì
+>algorithme.dp.KthAncestorOfATreeNode.bridge()?parent@9.14:9.20CALLK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java8 (>ˇ
+;algorithme.dp.KthAncestorOfATreeNode.bridge()?i@14.17:14.18VARIABLEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java ("
+type int*i2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (¸
+1algorithme.dp.KthAncestorOfATreeNode.TreeAncestorCLASSK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java
+ ("
+inner classtrue*TreeAncestor2¶
+Jalgorithme.dp.KthAncestorOfATreeNode.TreeAncestor.TreeAncestor(int, int[])DECLARATIONK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (2¶
+Jalgorithme.dp.KthAncestorOfATreeNode.TreeAncestor.getKthAncestor(int, int)DECLARATIONK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (!õ
+Jalgorithme.dp.KthAncestorOfATreeNode.TreeAncestor.TreeAncestor(int, int[])CONSTRUCTORK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (*TreeAncestor2¶
+Lalgorithme.dp.KthAncestorOfATreeNode.TreeAncestor.TreeAncestor(int, int[])!n	PARAMETERK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java  (!2´
+Qalgorithme.dp.KthAncestorOfATreeNode.TreeAncestor.TreeAncestor(int, int[])!parent	PARAMETERK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java) (/2ç
+1algorithme.dp.KthAncestorOfATreeNode.TreeAncestorRETURN_TYPEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (É
+Lalgorithme.dp.KthAncestorOfATreeNode.TreeAncestor.TreeAncestor(int, int[])!n	PARAMETERK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java  (!*n2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (è
+Qalgorithme.dp.KthAncestorOfATreeNode.TreeAncestor.TreeAncestor(int, int[])!parent	PARAMETERK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java) (/*parent2Z
+int[]TYPEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java# ((±
+Jalgorithme.dp.KthAncestorOfATreeNode.TreeAncestor.getKthAncestor(int, int)METHODK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (!"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*getKthAncestor2©
+Oalgorithme.dp.KthAncestorOfATreeNode.TreeAncestor.getKthAncestor(int, int)!node	PARAMETERK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java& (*2¶
+Lalgorithme.dp.KthAncestorOfATreeNode.TreeAncestor.getKthAncestor(int, int)!k	PARAMETERK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java0 (12_
+intRETURN_TYPEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java (â
+Oalgorithme.dp.KthAncestorOfATreeNode.TreeAncestor.getKthAncestor(int, int)!node	PARAMETERK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java& (**node2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java" (%É
+Lalgorithme.dp.KthAncestorOfATreeNode.TreeAncestor.getKthAncestor(int, int)!k	PARAMETERK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java0 (1*k2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/dp/KthAncestorOfATreeNode.java, (/

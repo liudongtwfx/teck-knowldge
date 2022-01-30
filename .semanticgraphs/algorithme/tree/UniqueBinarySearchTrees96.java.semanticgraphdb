@@ -1,0 +1,127 @@
+
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java‡
+)algorithme.tree.UniqueBinarySearchTrees96CLASSP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (&"
+inner classfalse*UniqueBinarySearchTrees962£
+Balgorithme.tree.UniqueBinarySearchTrees96.main(java.lang.String[])DECLARATIONP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2“
+2algorithme.tree.UniqueBinarySearchTrees96.bridge()DECLARATIONP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2“
+2algorithme.tree.UniqueBinarySearchTrees96.SolutionDECLARATIONP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java
+ (¯
+Balgorithme.tree.UniqueBinarySearchTrees96.main(java.lang.String[])METHODP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2Œ
+2algorithme.tree.UniqueBinarySearchTrees96.bridge()CALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java( (.2Ÿ
+Ealgorithme.tree.UniqueBinarySearchTrees96.UniqueBinarySearchTrees96()CALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (%2¦
+Galgorithme.tree.UniqueBinarySearchTrees96.main(java.lang.String[])!args	PARAMETERP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java% ()2e
+voidRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (š
+Galgorithme.tree.UniqueBinarySearchTrees96.main(java.lang.String[])!args	PARAMETERP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java% ()*args2l
+java.lang.String[]TYPEP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java ($ü
+2algorithme.tree.UniqueBinarySearchTrees96.bridge()METHODP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2z
+ java.io.PrintStream.println(int)CALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2š
+@algorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)CALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java* (22—
+=algorithme.tree.UniqueBinarySearchTrees96.Solution.Solution()CALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java ('2e
+voidRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (ù
+2algorithme.tree.UniqueBinarySearchTrees96.SolutionCLASSP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java
+ ("
+inner classtrue*Solution2¡
+@algorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)DECLARATIONP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2¦
+Ealgorithme.tree.UniqueBinarySearchTrees96.Solution?values@12.22:12.28DECLARATIONP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (§!
+@algorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)METHODP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*numTrees2z
+ java.io.PrintStream.println(int)CALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2š
+@algorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)CALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2š
+@algorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)CALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java% (-2œ
+Balgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)!nCALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2œ
+Balgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)!nCALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2Ÿ
+Ealgorithme.tree.UniqueBinarySearchTrees96.Solution?values@12.22:12.28CALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2œ
+Balgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)!nCALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2Ÿ
+Ealgorithme.tree.UniqueBinarySearchTrees96.Solution?values@12.22:12.28CALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2œ
+Balgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)!nCALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2œ
+Balgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)!nCALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java ( 2¨
+Nalgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)?i@23.21:23.22CALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2œ
+Balgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)!nCALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java  (!2¨
+Nalgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)?i@23.21:23.22CALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java# ($2ª
+Palgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)?ans@21.16:21.19CALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2¨
+Nalgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)?i@23.21:23.22CALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java  (!2œ
+Balgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)!nCALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java. (/2¨
+Nalgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)?i@23.21:23.22CALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java2 (32Ÿ
+Ealgorithme.tree.UniqueBinarySearchTrees96.Solution?values@12.22:12.28CALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2œ
+Balgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)!nCALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2ª
+Palgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)?ans@21.16:21.19CALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2ª
+Palgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)?ans@21.16:21.19CALLP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2¡
+Balgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)!n	PARAMETERP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java  (!2±
+Palgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)?ans@21.16:21.19DECLARATIONP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2¯
+Nalgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)?i@23.21:23.22DECLARATIONP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (2d
+intRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java ( 
+Palgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)?ans@21.16:21.19VARIABLEP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java ("
+type int*ans2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (œ
+Nalgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)?i@23.21:23.22VARIABLEP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java ("
+type int*i2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (ƒ
+Balgorithme.tree.UniqueBinarySearchTrees96.Solution.numTrees(int)!n	PARAMETERP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java  (!*n2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (œ
+Ealgorithme.tree.UniqueBinarySearchTrees96.Solution?values@12.22:12.28VARIABLEP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java ("
+type int[]*values2_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/tree/UniqueBinarySearchTrees96.java (

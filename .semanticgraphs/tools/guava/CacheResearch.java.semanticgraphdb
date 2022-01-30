@@ -1,0 +1,87 @@
+
+6knowledge/src/main/java/tools/guava/CacheResearch.java‰
+tools.guava.CacheResearchCLASS@
+6knowledge/src/main/java/tools/guava/CacheResearch.java ("
+inner classfalse*CacheResearch2ƒ
+2tools.guava.CacheResearch.main(java.lang.String[])DECLARATION@
+6knowledge/src/main/java/tools/guava/CacheResearch.java (2x
+'tools.guava.CacheResearch.withWeigher()DECLARATION@
+6knowledge/src/main/java/tools/guava/CacheResearch.java (#
+2tools.guava.CacheResearch.main(java.lang.String[])METHOD@
+6knowledge/src/main/java/tools/guava/CacheResearch.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2j
+ java.io.PrintStream.println(int)CALL@
+6knowledge/src/main/java/tools/guava/CacheResearch.java (2q
+'tools.guava.CacheResearch.withWeigher()CALL@
+6knowledge/src/main/java/tools/guava/CacheResearch.java (2†
+7tools.guava.CacheResearch.main(java.lang.String[])!args	PARAMETER@
+6knowledge/src/main/java/tools/guava/CacheResearch.java% ()2U
+voidRETURN_TYPE@
+6knowledge/src/main/java/tools/guava/CacheResearch.java (ê
+7tools.guava.CacheResearch.main(java.lang.String[])!args	PARAMETER@
+6knowledge/src/main/java/tools/guava/CacheResearch.java% ()*args2\
+java.lang.String[]TYPE@
+6knowledge/src/main/java/tools/guava/CacheResearch.java ($Œ
+'tools.guava.CacheResearch.withWeigher()METHOD@
+6knowledge/src/main/java/tools/guava/CacheResearch.java (#"
+statictrue"
+finalfalse"
+access modifierprivate"
+type void*withWeigher2
+7tools.guava.CacheResearch.withWeigher()?key@22.53:22.56CALL@
+6knowledge/src/main/java/tools/guava/CacheResearch.javaD (G2Š
+@tools.guava.CacheResearch.withWeigher()?notification@23.33:23.45CALL@
+6knowledge/src/main/java/tools/guava/CacheResearch.java2 (>2Š
+@tools.guava.CacheResearch.withWeigher()?notification@23.33:23.45CALL@
+6knowledge/src/main/java/tools/guava/CacheResearch.javaK (W2
+5tools.guava.CacheResearch.withWeigher()?i@28.17:28.18CALL@
+6knowledge/src/main/java/tools/guava/CacheResearch.java (2
+5tools.guava.CacheResearch.withWeigher()?i@28.17:28.18CALL@
+6knowledge/src/main/java/tools/guava/CacheResearch.java! ("2ƒ
+9tools.guava.CacheResearch.withWeigher()?cache@20.31:20.36CALL@
+6knowledge/src/main/java/tools/guava/CacheResearch.java (2
+5tools.guava.CacheResearch.withWeigher()?i@28.17:28.18CALL@
+6knowledge/src/main/java/tools/guava/CacheResearch.java (2
+5tools.guava.CacheResearch.withWeigher()?i@28.17:28.18CALL@
+6knowledge/src/main/java/tools/guava/CacheResearch.java+ (,2Š
+9tools.guava.CacheResearch.withWeigher()?cache@20.31:20.36DECLARATION@
+6knowledge/src/main/java/tools/guava/CacheResearch.java ($2†
+5tools.guava.CacheResearch.withWeigher()?i@28.17:28.18DECLARATION@
+6knowledge/src/main/java/tools/guava/CacheResearch.java (2ˆ
+7tools.guava.CacheResearch.withWeigher()?key@22.53:22.56DECLARATION@
+6knowledge/src/main/java/tools/guava/CacheResearch.java5 (82Š
+9tools.guava.CacheResearch.withWeigher()?value@22.58:22.63DECLARATION@
+6knowledge/src/main/java/tools/guava/CacheResearch.java: (?2‘
+@tools.guava.CacheResearch.withWeigher()?notification@23.33:23.45DECLARATION@
+6knowledge/src/main/java/tools/guava/CacheResearch.java! (-2U
+voidRETURN_TYPE@
+6knowledge/src/main/java/tools/guava/CacheResearch.java (€
+9tools.guava.CacheResearch.withWeigher()?cache@20.31:20.36VARIABLE@
+6knowledge/src/main/java/tools/guava/CacheResearch.java ($"
+type Cache<Integer,String>*cache2g
+com.google.common.cache.CacheTYPE@
+6knowledge/src/main/java/tools/guava/CacheResearch.java (2d
+java.lang.IntegerTYPE_ARGUMENT@
+6knowledge/src/main/java/tools/guava/CacheResearch.java (2c
+java.lang.StringTYPE_ARGUMENT@
+6knowledge/src/main/java/tools/guava/CacheResearch.java (2
+7tools.guava.CacheResearch.withWeigher()?key@22.53:22.56CALL@
+6knowledge/src/main/java/tools/guava/CacheResearch.javaD (G2Š
+@tools.guava.CacheResearch.withWeigher()?notification@23.33:23.45CALL@
+6knowledge/src/main/java/tools/guava/CacheResearch.java2 (>2Š
+@tools.guava.CacheResearch.withWeigher()?notification@23.33:23.45CALL@
+6knowledge/src/main/java/tools/guava/CacheResearch.javaK (Wã
+5tools.guava.CacheResearch.withWeigher()?i@28.17:28.18VARIABLE@
+6knowledge/src/main/java/tools/guava/CacheResearch.java ("
+type int*i2M
+intTYPE@
+6knowledge/src/main/java/tools/guava/CacheResearch.java (’
+7tools.guava.CacheResearch.withWeigher()?key@22.53:22.56VARIABLE@
+6knowledge/src/main/java/tools/guava/CacheResearch.java5 (8*key2TYPE–
+9tools.guava.CacheResearch.withWeigher()?value@22.58:22.63VARIABLE@
+6knowledge/src/main/java/tools/guava/CacheResearch.java: (?*value2TYPE¤
+@tools.guava.CacheResearch.withWeigher()?notification@23.33:23.45VARIABLE@
+6knowledge/src/main/java/tools/guava/CacheResearch.java! (-*notification2TYPE

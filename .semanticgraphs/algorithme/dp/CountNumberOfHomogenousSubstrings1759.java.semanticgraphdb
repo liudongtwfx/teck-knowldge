@@ -1,0 +1,166 @@
+
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.javaã
+3algorithme.dp.CountNumberOfHomogenousSubstrings1759CLASSZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2"
+inner classfalse*%CountNumberOfHomogenousSubstrings17592·
+Lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.main(java.lang.String[])DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2§
+<algorithme.dp.CountNumberOfHomogenousSubstrings1759.bridge()DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2§
+<algorithme.dp.CountNumberOfHomogenousSubstrings1759.SolutionDECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java
+ (•
+Lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.main(java.lang.String[])METHODZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2 
+<algorithme.dp.CountNumberOfHomogenousSubstrings1759.bridge()CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java4 (:2¿
+[algorithme.dp.CountNumberOfHomogenousSubstrings1759.CountNumberOfHomogenousSubstrings1759()CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (12º
+Qalgorithme.dp.CountNumberOfHomogenousSubstrings1759.main(java.lang.String[])!args	PARAMETERZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java% ()2o
+voidRETURN_TYPEZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (¸
+Qalgorithme.dp.CountNumberOfHomogenousSubstrings1759.main(java.lang.String[])!args	PARAMETERZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java% ()*args2v
+java.lang.String[]TYPEZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java ($Æ	
+<algorithme.dp.CountNumberOfHomogenousSubstrings1759.bridge()METHODZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2„
+ java.io.PrintStream.println(int)CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java	 	(2Â
+^algorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java	* 	(92«
+Galgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.Solution()CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java	 	('2¬
+Halgorithme.dp.CountNumberOfHomogenousSubstrings1759.bridge()?s@8.15:8.16CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java	: 	(;2³
+Halgorithme.dp.CountNumberOfHomogenousSubstrings1759.bridge()?s@8.15:8.16DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2o
+voidRETURN_TYPEZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (º
+Halgorithme.dp.CountNumberOfHomogenousSubstrings1759.bridge()?s@8.15:8.16VARIABLEZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java ("
+type String*s2t
+java.lang.StringTYPEZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (Œ
+<algorithme.dp.CountNumberOfHomogenousSubstrings1759.SolutionCLASSZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java
+ ("
+inner classtrue*Solution2É
+^algorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java ("…1
+^algorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)METHODZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (""
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*countHomogenous2‚
+java.lang.String.toCharArray()CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java ((2Ä
+`algorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)!sCALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2Ð
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?i@16.16:16.17CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2Ô
+palgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?chars@15.19:15.24CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2Ð
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?i@16.16:16.17CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2Ð
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?j@18.20:18.21CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2Ô
+palgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?chars@15.19:15.24CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java ( 2Ô
+palgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?chars@15.19:15.24CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java/ (42Ð
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?j@18.20:18.21CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java5 (62Ô
+palgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?chars@15.19:15.24CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java; (@2Ð
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?j@18.20:18.21CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.javaA (B2Ð
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?j@18.20:18.21CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2Ð
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?j@18.20:18.21CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java# ($2Ð
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?i@16.16:16.17CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java' ((2Ð
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?j@18.20:18.21CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java1 (22Ð
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?i@16.16:16.17CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java5 (62Ò
+nalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?ans@14.17:14.20CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2Ò
+nalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?ans@14.17:14.20CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2Ò
+nalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?tmp@22.21:22.24CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java ( 2Ð
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?i@16.16:16.17CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2Ð
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?j@18.20:18.21CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2Ò
+nalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?ans@14.17:14.20CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2É
+`algorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)!s	PARAMETERZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java* (+2Ù
+nalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?ans@14.17:14.20DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2Û
+palgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?chars@15.19:15.24DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2×
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?i@16.16:16.17DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2×
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?j@18.20:18.21DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2Ù
+nalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?tmp@22.21:22.24DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2n
+intRETURN_TYPEZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (Ô
+nalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?ans@14.17:14.20VARIABLEZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java ("
+type long*ans2h
+longTYPEZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (¨
+palgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?chars@15.19:15.24VARIABLEZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java ("
+type char[]*chars2j
+char[]TYPEZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2‚
+java.lang.String.toCharArray()CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java ((2Ä
+`algorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)!sCALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (Î
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?i@16.16:16.17VARIABLEZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java ("
+type int*i2g
+intTYPEZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (¡
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?j@18.20:18.21VARIABLEZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java ("
+type int*j2g
+intTYPEZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2Ð
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?i@16.16:16.17CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java ( 	
+nalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?tmp@22.21:22.24VARIABLEZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java ("
+type long*tmp2h
+longTYPEZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java (2Ð
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?j@18.20:18.21CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java# ($2Ð
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?i@16.16:16.17CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java' ((2Ð
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?j@18.20:18.21CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java1 (22Ð
+lalgorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)?i@16.16:16.17CALLZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java5 (6Â
+`algorithme.dp.CountNumberOfHomogenousSubstrings1759.Solution.countHomogenous(java.lang.String)!s	PARAMETERZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java* (+*s2t
+java.lang.StringTYPEZ
+Palgorithm/src/main/java/algorithme/dp/CountNumberOfHomogenousSubstrings1759.java# ()

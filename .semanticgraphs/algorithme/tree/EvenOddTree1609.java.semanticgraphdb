@@ -1,0 +1,213 @@
+
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java«
+algorithme.tree.EvenOddTree1609CLASSF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java ("
+inner classfalse*EvenOddTree16092
+8algorithme.tree.EvenOddTree1609.main(java.lang.String[])DECLARATIONF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2
+(algorithme.tree.EvenOddTree1609.bridge()DECLARATIONF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java
+ 
+(2
+(algorithme.tree.EvenOddTree1609.SolutionDECLARATIONF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java
+ (Ê
+8algorithme.tree.EvenOddTree1609.main(java.lang.String[])METHODF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2x
+(algorithme.tree.EvenOddTree1609.bridge()CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java ($2
+1algorithme.tree.EvenOddTree1609.EvenOddTree1609()CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2’
+=algorithme.tree.EvenOddTree1609.main(java.lang.String[])!args	PARAMETERF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java% ()2[
+voidRETURN_TYPEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (ü
+=algorithme.tree.EvenOddTree1609.main(java.lang.String[])!args	PARAMETERF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java% ()*args2b
+java.lang.String[]TYPEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java ($ž
+(algorithme.tree.EvenOddTree1609.bridge()METHODF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java
+ 
+("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2ƒ
+3algorithme.tree.Codec.deserialize(java.lang.String)CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java ()2t
+$java.io.PrintStream.println(boolean)CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2 
+Palgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java* (72m
+algorithme.tree.Codec.Codec()CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2ƒ
+3algorithme.tree.EvenOddTree1609.Solution.Solution()CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java ('2Š
+:algorithme.tree.EvenOddTree1609.bridge()?codec@12.14:12.19CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2‰
+9algorithme.tree.EvenOddTree1609.bridge()?code@11.15:11.19CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java* (.2‰
+9algorithme.tree.EvenOddTree1609.bridge()?root@13.17:13.21CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java8 (<2
+9algorithme.tree.EvenOddTree1609.bridge()?code@11.15:11.19DECLARATIONF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2‘
+:algorithme.tree.EvenOddTree1609.bridge()?codec@12.14:12.19DECLARATIONF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2
+9algorithme.tree.EvenOddTree1609.bridge()?root@13.17:13.21DECLARATIONF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2[
+voidRETURN_TYPEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java
+ 
+(†
+9algorithme.tree.EvenOddTree1609.bridge()?code@11.15:11.19VARIABLEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java ("
+type String*code2`
+java.lang.StringTYPEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (û
+:algorithme.tree.EvenOddTree1609.bridge()?codec@12.14:12.19VARIABLEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java ("
+type Codec*codec2e
+algorithme.tree.CodecTYPEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2m
+algorithme.tree.Codec.Codec()CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (¯
+9algorithme.tree.EvenOddTree1609.bridge()?root@13.17:13.21VARIABLEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java ("
+type TreeNode*root2h
+algorithme.tree.TreeNodeTYPEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2ƒ
+3algorithme.tree.Codec.deserialize(java.lang.String)CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java ()2Š
+:algorithme.tree.EvenOddTree1609.bridge()?codec@12.14:12.19CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2‰
+9algorithme.tree.EvenOddTree1609.bridge()?code@11.15:11.19CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java* (.Â
+(algorithme.tree.EvenOddTree1609.SolutionCLASSF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java
+ ("
+inner classtrue*Solution2§
+Palgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)DECLARATIONF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java ($ê2
+Palgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)METHODF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java ($"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type boolean*isEvenOddTree2e
+java.util.List.add(E)CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2h
+java.util.List.isEmpty()CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java ($2e
+java.util.List.add(E)CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java(  ((#2e
+java.util.List.add(E)CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java+  +(#2o
+java.util.ArrayList.ArrayList()CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java* (52o
+java.util.ArrayList.ArrayList()CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java- (82µ
+ealgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?nodeList@19.27:19.35CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2¥
+Ualgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)!rootCALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2µ
+ealgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?nodeList@19.27:19.35CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2µ
+ealgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?nodeList@19.27:19.35CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java) (12·
+galgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?currentRow@21.16:21.26CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java ("2µ
+ealgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?treeNode@25.30:25.38CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java) (12±
+aalgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?last@24.24:24.28CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2·
+galgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?currentRow@21.16:21.26CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (&2±
+aalgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?last@24.24:24.28CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java3 (72µ
+ealgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?treeNode@25.30:25.38CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java; (C2·
+galgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?currentRow@21.16:21.26CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java" "(&2±
+aalgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?last@24.24:24.28CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java"3 "(72µ
+ealgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?treeNode@25.30:25.38CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java"; "(C2±
+aalgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?last@24.24:24.28CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java& &(2µ
+ealgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?treeNode@25.30:25.38CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java& &(#2µ
+ealgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?treeNode@25.30:25.38CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java' '( 2´
+dalgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?nextRow@23.31:23.38CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java( ((2µ
+ealgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?treeNode@25.30:25.38CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java($ ((,2µ
+ealgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?treeNode@25.30:25.38CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java* *( 2´
+dalgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?nextRow@23.31:23.38CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java+ +(2µ
+ealgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?treeNode@25.30:25.38CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java+$ +(,2µ
+ealgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?nodeList@19.27:19.35CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java. .(2´
+dalgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?nextRow@23.31:23.38CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java. .("2·
+galgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?currentRow@21.16:21.26CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java/ /(2ª
+Ualgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)!root	PARAMETERF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java. (22¼
+ealgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?nodeList@19.27:19.35DECLARATIONF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (#2¾
+galgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?currentRow@21.16:21.26DECLARATIONF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2»
+dalgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?nextRow@23.31:23.38DECLARATIONF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (&2¸
+aalgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?last@24.24:24.28DECLARATIONF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2¼
+ealgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?treeNode@25.30:25.38DECLARATIONF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (&2^
+booleanRETURN_TYPEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java ( 
+ealgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?nodeList@19.27:19.35VARIABLEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (#"
+type List<TreeNode>*nodeList2^
+java.util.ListTYPEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2q
+algorithme.tree.TreeNodeTYPE_ARGUMENTF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2o
+java.util.ArrayList.ArrayList()CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java* (5ª
+galgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?currentRow@21.16:21.26VARIABLEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java ("
+type int*
+currentRow2S
+intTYPEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (ž
+dalgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?nextRow@23.31:23.38VARIABLEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (&"
+type List<TreeNode>*nextRow2^
+java.util.ListTYPEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2q
+algorithme.tree.TreeNodeTYPE_ARGUMENTF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (2o
+java.util.ArrayList.ArrayList()CALLF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java- (8°
+aalgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?last@24.24:24.28VARIABLEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java ("
+type Integer*last2a
+java.lang.IntegerTYPEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (À
+ealgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)?treeNode@25.30:25.38VARIABLEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (&"
+type TreeNode*treeNode2h
+algorithme.tree.TreeNodeTYPEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java (š
+Ualgorithme.tree.EvenOddTree1609.Solution.isEvenOddTree(algorithme.tree.TreeNode)!root	PARAMETERF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java. (2*root2h
+algorithme.tree.TreeNodeTYPEF
+<algorithm/src/main/java/algorithme/tree/EvenOddTree1609.java% (-

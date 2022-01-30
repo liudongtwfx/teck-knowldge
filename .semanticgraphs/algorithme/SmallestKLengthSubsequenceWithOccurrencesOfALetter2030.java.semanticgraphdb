@@ -1,0 +1,467 @@
+
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java±
+Aalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030CLASSh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (C"
+inner classfalse*6SmallestKLengthSubsequenceWithOccurrencesOfALetter20302”
+Zalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.main(java.util.String[])DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2√
+Jalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.bridge()DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java	 	(2√
+Jalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.SolutionDECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java
+ (2 
+Qalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.WapperDECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaI I(§
+Zalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.main(java.util.String[])METHODh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2º
+Jalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.bridge()CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaE (K2Ï
+zalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030()CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (B2÷
+_algorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.main(java.util.String[])!args	PARAMETERh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java% ()2}
+voidRETURN_TYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java („
+_algorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.main(java.util.String[])!args	PARAMETERh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java% ()*args2Ñ
+java.util.String[]TYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java ($Ò
+Jalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.bridge()METHODh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java	 	("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2Û
+Äalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java* (=2«
+Ualgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Solution()CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java ('2 
+Xalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.bridge()?s@10.15:10.16CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java> (?2 
+Xalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.bridge()?k@11.12:11.13CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaA (B2œ
+]algorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.bridge()?letter@12.13:12.19CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaD (J2”
+aalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.bridge()?repetition@13.12:13.22CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaL (V2—
+Xalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.bridge()?s@10.15:10.16DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java
+ 
+(2—
+Xalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.bridge()?k@11.12:11.13DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2÷
+]algorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.bridge()?letter@12.13:12.19DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2⁄
+aalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.bridge()?repetition@13.12:13.22DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2}
+voidRETURN_TYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java	 	(Á
+Xalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.bridge()?s@10.15:10.16VARIABLEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java
+ 
+("
+type String*s2Ç
+java.util.StringTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java
+ 
+(÷
+Xalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.bridge()?k@11.12:11.13VARIABLEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java ("
+type int*k2u
+intTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (‚
+]algorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.bridge()?letter@12.13:12.19VARIABLEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java ("
+type char*letter2v
+charTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (Ë
+aalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.bridge()?repetition@13.12:13.22VARIABLEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java ("
+type int*
+repetition2u
+intTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (¶
+Jalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.SolutionCLASSh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java
+ ("
+inner classtrue*Solution2˙
+Äalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java ()2 
+Qalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.WapperDECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaI I(¡ª
+Äalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)METHODh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java ()"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*smallestSubsequence2ï
+#java.util.Arrays.fill(char[], char)CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2¿
+Njava.util.Comparator.comparingInt(java.util.function.ToIntFunction<? super T>)CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaA% A(12ë
+java.util.ArrayList.ArrayList()CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java( (:2ô
+'java.util.PriorityQueue.PriorityQueue()CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java& (52ç
+java.util.HashSet.HashSet()CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java% (.2≤
+@java.util.ArrayList.ArrayList(java.util.Collection<? extends E>)CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java@( @(32Å
+éalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?i@20.21:20.22CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2ı
+Çalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!sCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java  (!2Å
+éalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?i@20.21:20.22CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java, (-2ı
+Çalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!sCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2Å
+éalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?i@20.21:20.22CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2˙
+áalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!letterCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java# ()2á
+îalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?indices@19.26:19.33CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java+ (22Å
+éalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?i@20.21:20.22CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java7 (82á
+îalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?indices@19.26:19.33CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2˛
+ãalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!repetitionCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java" (,2˛
+ãalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!repetitionCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java( (22Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?chars@24.23:24.28CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (!2˙
+áalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!letterCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java# ()2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?chars@24.23:24.28CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java" ('2Å
+éalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?i@30.21:30.22CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2˛
+ãalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!repetitionCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java  (*2Å
+éalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?i@30.21:30.22CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java, (-2á
+îalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?indices@19.26:19.33CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (#2Å
+éalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?i@30.21:30.22CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java( ()2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?queue@28.26:28.31CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java   (2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?index@31.20:31.25CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java '  (,2ı
+Çalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!sCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java .  (/2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?index@31.20:31.25CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java 7  (<2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?added@29.25:29.30CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java! !(2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?index@31.20:31.25CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java! !(2˛
+ãalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!repetitionCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java#  #(*2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?index@36.16:36.21CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java% %(2ı
+Çalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!sCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java% %(2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?queue@28.26:28.31CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java& &(2ı
+Çalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!kCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java&# &($2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?added@29.25:29.30CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java' '(2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?index@36.16:36.21CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java'( '(-2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?queue@28.26:28.31CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java( ((2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?index@36.16:36.21CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java(/ ((42ı
+Çalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!sCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java(6 ((72Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?index@36.16:36.21CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java(? ((D2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?added@29.25:29.30CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java) )(2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?index@36.16:36.21CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java)" )('2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?index@36.16:36.21CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java+ +(2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?queue@28.26:28.31CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java. .(#2Ñ
+ëalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?poll@46.23:46.27CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java/ /(2ı
+Çalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!sCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java/ /(2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?index@36.16:36.21CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java/& /(+2ç
+öalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?currentLetter@35.16:35.29CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java0 0(%2˛
+ãalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!repetitionCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java0( 0(22Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?queue@28.26:28.31CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java1 1(2Ñ
+ëalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?poll@46.23:46.27CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java1$ 1((2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?queue@28.26:28.31CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java3 3(2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?index@36.16:36.21CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java3/ 3(42ı
+Çalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!sCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java36 3(72Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?index@36.16:36.21CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java3? 3(D2Ñ
+ëalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?poll@46.23:46.27CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java4 4( 2˙
+áalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!letterCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java4& 4(,2ç
+öalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?currentLetter@35.16:35.29CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java5 5()2ı
+Çalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!sCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java7 7(2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?index@36.16:36.21CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java7% 7(*2˙
+áalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!letterCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java7/ 7(52ç
+öalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?currentLetter@35.16:35.29CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java8 8()2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?queue@28.26:28.31CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java< <(2Ñ
+ëalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?poll@46.23:46.27CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java<  <($2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?index@36.16:36.21CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java> >(2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?queue@28.26:28.31CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java@4 @(92à
+ïalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?wrapList@64.25:64.33CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaA A(2Å
+éalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?o@65.50:65.51CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaA7 A(82à
+ïalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?wrapList@64.25:64.33CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaC! C()2Ç
+èalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?sb@66.26:66.28CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaD D(2Ü
+ìalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?wapper@67.24:67.30CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaD D( 2Ç
+èalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?sb@66.26:66.28CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaF F(2˙
+Çalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!s	PARAMETERh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java1 (22˙
+Çalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!k	PARAMETERh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java8 (92ˇ
+áalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!letter	PARAMETERh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java@ (F2É
+ãalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!repetition	PARAMETERh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaL (V2é
+îalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?indices@19.26:19.33DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (!2à
+éalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?i@20.21:20.22DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2å
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?chars@24.23:24.28DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2å
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?queue@28.26:28.31DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2å
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?added@29.25:29.30DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2à
+éalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?i@30.21:30.22DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2å
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?index@31.20:31.25DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2î
+öalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?currentLetter@35.16:35.29DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java# #(2å
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?index@36.16:36.21DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java$ $(2ã
+ëalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?poll@46.23:46.27DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java. .(2è
+ïalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?wrapList@64.25:64.33DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java@ @(!2â
+èalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?sb@66.26:66.28DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaB B(2ç
+ìalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?wapper@67.24:67.30DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaC C(2à
+éalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?o@65.50:65.51DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaA2 A(32â
+java.util.StringRETURN_TYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (“
+îalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?indices@19.26:19.33VARIABLEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (!"
+type List<Integer>*indices2Ä
+java.util.ListTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2å
+java.util.IntegerTYPE_ARGUMENTh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2ë
+java.util.ArrayList.ArrayList()CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java( (:ç
+éalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?i@20.21:20.22VARIABLEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java ("
+type int*i2u
+intTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (ú
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?chars@24.23:24.28VARIABLEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java ("
+type char[]*chars2x
+char[]TYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2˛
+ãalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!repetitionCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java( (2ó
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?queue@28.26:28.31VARIABLEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java ("
+type Queue<Wapper>*queue2Å
+java.util.QueueTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2Ã
+Qalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.WapperTYPE_ARGUMENTh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2ô
+'java.util.PriorityQueue.PriorityQueue()CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java& (5«
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?added@29.25:29.30VARIABLEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java ("
+type Set<Integer>*added2
+java.util.SetTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2å
+java.util.IntegerTYPE_ARGUMENTh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2ç
+java.util.HashSet.HashSet()CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java% (.ç
+éalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?i@30.21:30.22VARIABLEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java ("
+type int*i2u
+intTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (£
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?index@31.20:31.25VARIABLEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java ("
+type int*index2u
+intTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (2á
+îalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?indices@19.26:19.33CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java (#2Å
+éalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?i@30.21:30.22CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java( ()¶
+öalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?currentLetter@35.16:35.29VARIABLEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java# #("
+type int*currentLetter2u
+intTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java# #(2˛
+ãalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!repetitionCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java#  #(*ï
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?index@36.16:36.21VARIABLEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java$ $("
+type int*index2u
+intTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java$ $(Ì
+ëalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?poll@46.23:46.27VARIABLEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java. .("
+type Wapper*poll2√
+Qalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.WapperTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java. .(2Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?queue@28.26:28.31CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java. .(#º
+ïalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?wrapList@64.25:64.33VARIABLEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java@ @(!"
+type List<Wapper>*wrapList2Ä
+java.util.ListTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java@ @(2Ã
+Qalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.WapperTYPE_ARGUMENTh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java@ @(2≤
+@java.util.ArrayList.ArrayList(java.util.Collection<? extends E>)CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java@( @(32Ö
+íalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?queue@28.26:28.31CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java@4 @(9Æ
+èalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?sb@66.26:66.28VARIABLEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaB B("
+type StringBuilder*sb2â
+java.util.StringBuilderTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaB B(È
+ìalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?wapper@67.24:67.30VARIABLEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaC C("
+type Wapper*wapper2√
+Qalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.WapperTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaC C(Ç
+Çalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!s	PARAMETERh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java1 (2*s2Ç
+java.util.StringTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java* (0Ù
+Çalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!k	PARAMETERh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java8 (9*k2u
+intTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java4 (7ˇ
+áalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!letter	PARAMETERh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java@ (F*letter2v
+charTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.java; (?Ü
+ãalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)!repetition	PARAMETERh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaL (V*
+repetition2u
+intTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaH (Kê
+éalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.smallestSubsequence(java.util.String, int, char, int)?o@65.50:65.51VARIABLEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaA2 A(3*o2TYPEÜ
+Qalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.WapperCLASSh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaI I("
+inner classtrue*Wapper2‹
+calgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper.Wapper(int, char)DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaM M(2®
+Æalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper.compareTo(algorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper)DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaS S( 2‹
+calgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper?index@74.30:74.35DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaJ J(#2ÿ
+_algorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper?c@75.31:75.32DECLARATIONh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaK K( 2à
+java.util.ComparableEXTENDh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaI  I(*2”
+Qalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.WapperEXTEND_TYPE_ARGUMENTh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaI+ I(1◊
+calgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper.Wapper(int, char)CONSTRUCTORh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaM M(*Wapper2€
+ialgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper.Wapper(int, char)!indexCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaN N("2◊
+ealgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper.Wapper(int, char)!cCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaO O(2’
+calgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper?index@74.30:74.35CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaN N(2—
+_algorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper?c@75.31:75.32CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaO O(2‡
+ialgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper.Wapper(int, char)!index	PARAMETERh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaM M(#2‹
+ealgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper.Wapper(int, char)!c	PARAMETERh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaM* M(+2 
+Qalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.WapperRETURN_TYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaM M(ﬁ
+ialgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper.Wapper(int, char)!index	PARAMETERh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaM M(#*index2u
+intTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaM M(◊
+ealgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper.Wapper(int, char)!c	PARAMETERh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaM* M(+*c2v
+charTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaM% M()õ
+
+Æalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper.compareTo(algorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper)METHODh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaS S( "
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*	compareTo2£
+∞algorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper.compareTo(algorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper)!oCALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaT  T(!2—
+_algorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper?c@75.31:75.32CALLh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaT T(2®
+∞algorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper.compareTo(algorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper)!o	PARAMETERh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaS( S()2|
+intRETURN_TYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaS S(Ò
+∞algorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper.compareTo(algorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper)!o	PARAMETERh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaS( S()*o2√
+Qalgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.WapperTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaS! S('‚
+calgorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper?index@74.30:74.35VALUEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaJ J(#"
+type int*index2u
+intTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaJ J(‹
+_algorithme.SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.Solution.Wapper?c@75.31:75.32VALUEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaK K( "
+type char*c2v
+charTYPEh
+^algorithm/src/main/java/algorithme/SmallestKLengthSubsequenceWithOccurrencesOfALetter2030.javaK K(

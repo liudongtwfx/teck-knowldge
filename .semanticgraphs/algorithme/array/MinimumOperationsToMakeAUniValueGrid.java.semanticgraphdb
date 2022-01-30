@@ -1,0 +1,260 @@
+
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.javaò
+5algorithme.array.MinimumOperationsToMakeAUniValueGridCLASS\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (1"
+inner classfalse*$MinimumOperationsToMakeAUniValueGrid2»
+Nalgorithme.array.MinimumOperationsToMakeAUniValueGrid.main(java.lang.String[])DECLARATION\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2«
+>algorithme.array.MinimumOperationsToMakeAUniValueGrid.bridge()DECLARATION\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java	 	(2«
+>algorithme.array.MinimumOperationsToMakeAUniValueGrid.SolutionDECLARATION\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java
+ (¦
+Nalgorithme.array.MinimumOperationsToMakeAUniValueGrid.main(java.lang.String[])METHOD\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2¤
+>algorithme.array.MinimumOperationsToMakeAUniValueGrid.bridge()CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java3 (92Â
+\algorithme.array.MinimumOperationsToMakeAUniValueGrid.MinimumOperationsToMakeAUniValueGrid()CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (02¾
+Salgorithme.array.MinimumOperationsToMakeAUniValueGrid.main(java.lang.String[])!args	PARAMETER\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java% ()2q
+voidRETURN_TYPE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (¾
+Salgorithme.array.MinimumOperationsToMakeAUniValueGrid.main(java.lang.String[])!args	PARAMETER\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java% ()*args2x
+java.lang.String[]TYPE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java ($Ó
+>algorithme.array.MinimumOperationsToMakeAUniValueGrid.bridge()METHOD\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java	 	("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2†
+ java.io.PrintStream.println(int)CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2À
+Zalgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java* (72¯
+Ialgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.Solution()CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java ('2µ
+Oalgorithme.array.MinimumOperationsToMakeAUniValueGrid.bridge()?grid@10.16:10.20CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java8 (<2²
+Lalgorithme.array.MinimumOperationsToMakeAUniValueGrid.bridge()?x@11.12:11.13CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java> (?2¼
+Oalgorithme.array.MinimumOperationsToMakeAUniValueGrid.bridge()?grid@10.16:10.20DECLARATION\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java
+ 
+(2¹
+Lalgorithme.array.MinimumOperationsToMakeAUniValueGrid.bridge()?x@11.12:11.13DECLARATION\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2q
+voidRETURN_TYPE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java	 	(À
+Oalgorithme.array.MinimumOperationsToMakeAUniValueGrid.bridge()?grid@10.16:10.20VARIABLE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java
+ 
+("
+type int[][]*grid2m
+int[][]TYPE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java
+ 
+(²
+Lalgorithme.array.MinimumOperationsToMakeAUniValueGrid.bridge()?x@11.12:11.13VARIABLE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java ("
+type int*x2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (Ž
+>algorithme.array.MinimumOperationsToMakeAUniValueGrid.SolutionCLASS\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java
+ ("
+inner classtrue*Solution2Ç
+Zalgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)DECLARATION\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java ( ±U
+Zalgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)METHOD\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java ( "
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minOperations2‚
+java.util.Arrays.sort(int[])CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2}
+java.lang.Math.abs(int)CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java" "(2Å
+_algorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)!gridCALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Å
+_algorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)!gridCALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?m@17.16:17.17CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java ( 2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?n@18.16:18.17CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java# ($2Å
+_algorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)!gridCALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java ( 2Â
+\algorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)!xCALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java) (*2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?i@22.21:22.22CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?m@17.16:17.17CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java  (!2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?i@22.21:22.22CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java# ($2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?j@23.25:23.26CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java  (!2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?n@18.16:18.17CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java$ (%2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?j@23.25:23.26CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java' ((2Å
+_algorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)!gridCALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?i@22.21:22.22CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?j@23.25:23.26CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java  (!2Â
+\algorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)!xCALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java% (&2Ö
+palgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?remainder@20.16:20.25CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java* (32Ï
+ialgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?dp@19.18:19.20CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Ò
+lalgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?index@21.16:21.21CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Å
+_algorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)!gridCALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java# ('2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?i@22.21:22.22CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java( ()2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?j@23.25:23.26CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java+ (,2Ö
+palgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?remainder@20.16:20.25CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java0 (92Â
+\algorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)!xCALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java= (>2Ï
+ialgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?dp@19.18:19.20CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Ï
+ialgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?dp@19.18:19.20CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?m@17.16:17.17CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?n@18.16:18.17CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java  (!2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?i@33.21:33.22CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java! !(2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?m@17.16:17.17CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java!  !(!2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?n@18.16:18.17CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java!$ !(%2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?i@33.21:33.22CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java!' !((2Ð
+jalgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?ans@32.16:32.19CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java" "(2Ï
+ialgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?dp@19.18:19.20CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java"  "("2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?i@33.21:33.22CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java"# "($2Ó
+malgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?medium@31.16:31.22CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java"( "(.2Ð
+jalgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?ans@32.16:32.19CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java$ $(2Ê
+_algorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)!grid	PARAMETER\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java) (-2Ç
+\algorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)!x	PARAMETER\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java3 (42Õ
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?m@17.16:17.17DECLARATION\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Õ
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?n@18.16:18.17DECLARATION\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Ö
+ialgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?dp@19.18:19.20DECLARATION\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Ý
+palgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?remainder@20.16:20.25DECLARATION\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Ù
+lalgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?index@21.16:21.21DECLARATION\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Õ
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?i@22.21:22.22DECLARATION\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Õ
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?j@23.25:23.26DECLARATION\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Ú
+malgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?medium@31.16:31.22DECLARATION\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2×
+jalgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?ans@32.16:32.19DECLARATION\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java   (2Õ
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?i@33.21:33.22DECLARATION\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java! !(2p
+intRETURN_TYPE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (–
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?m@17.16:17.17VARIABLE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java ("
+type int*m2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Å
+_algorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)!gridCALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (–
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?n@18.16:18.17VARIABLE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java ("
+type int*n2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Å
+_algorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)!gridCALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (ö
+ialgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?dp@19.18:19.20VARIABLE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java ("
+type int[]*dp2k
+int[]TYPE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?m@17.16:17.17CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java ( 2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?n@18.16:18.17CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java# ($ë
+palgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?remainder@20.16:20.25VARIABLE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java ("
+type int*	remainder2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Å
+_algorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)!gridCALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java ( 2Â
+\algorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)!xCALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java) (*Ö
+lalgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?index@21.16:21.21VARIABLE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java ("
+type int*index2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?i@22.21:22.22VARIABLE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java ("
+type int*i2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?j@23.25:23.26VARIABLE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java ("
+type int*j2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (Ì
+malgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?medium@31.16:31.22VARIABLE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java ("
+type int*medium2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Ï
+ialgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?dp@19.18:19.20CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?m@17.16:17.17CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java (2Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?n@18.16:18.17CALL\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java  (!Ò
+jalgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?ans@32.16:32.19VARIABLE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java   ("
+type int*ans2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java   (Î
+halgorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)?i@33.21:33.22VARIABLE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java! !("
+type int*i2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java! !(¿
+_algorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)!grid	PARAMETER\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java) (-*grid2m
+int[][]TYPE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java! (&µ
+\algorithme.array.MinimumOperationsToMakeAUniValueGrid.Solution.minOperations(int[][], int)!x	PARAMETER\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java3 (4*x2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeAUniValueGrid.java/ (2

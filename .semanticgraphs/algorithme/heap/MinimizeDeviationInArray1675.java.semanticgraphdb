@@ -1,0 +1,402 @@
+
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaƒ
+,algorithme.heap.MinimizeDeviationInArray1675CLASSS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java ()"
+inner classfalse*MinimizeDeviationInArray16752©
+Ealgorithme.heap.MinimizeDeviationInArray1675.main(java.util.String[])DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (2ô
+5algorithme.heap.MinimizeDeviationInArray1675.bridge()DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (2ô
+5algorithme.heap.MinimizeDeviationInArray1675.SolutionDECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java
+ (2ü
+;algorithme.heap.MinimizeDeviationInArray1675.Solution.PointDECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaB B(Õ
+Ealgorithme.heap.MinimizeDeviationInArray1675.main(java.util.String[])METHODS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2í
+5algorithme.heap.MinimizeDeviationInArray1675.bridge()CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java	+ 	(12®
+Kalgorithme.heap.MinimizeDeviationInArray1675.MinimizeDeviationInArray1675()CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java	 	((2¨
+Jalgorithme.heap.MinimizeDeviationInArray1675.main(java.util.String[])!args	PARAMETERS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java% ()2h
+voidRETURN_TYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (£
+Jalgorithme.heap.MinimizeDeviationInArray1675.main(java.util.String[])!args	PARAMETERS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java% ()*args2o
+java.util.String[]TYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java ($Ú
+5algorithme.heap.MinimizeDeviationInArray1675.bridge()METHODS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2™
+Malgorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java* (:2ù
+@algorithme.heap.MinimizeDeviationInArray1675.Solution.Solution()CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java ('2£
+Falgorithme.heap.MinimizeDeviationInArray1675.bridge()?nums@13.14:13.18CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java; (?2™
+Falgorithme.heap.MinimizeDeviationInArray1675.bridge()?nums@13.14:13.18DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (2h
+voidRETURN_TYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (°
+Falgorithme.heap.MinimizeDeviationInArray1675.bridge()?nums@13.14:13.18VARIABLES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java ("
+type int[]*nums2b
+int[]TYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (Â
+5algorithme.heap.MinimizeDeviationInArray1675.SolutionCLASSS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java
+ ("
+inner classtrue*Solution2±
+Malgorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (#2⁄
+valgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java& &("2ü
+;algorithme.heap.MinimizeDeviationInArray1675.Solution.PointDECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaB B(Õ)
+Malgorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])METHODS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (#"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minimumDeviation2z
+java.util.Arrays.asList(T...)CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java( (.2¶
+Ijava.util.Collections.reverse(java.util.List<? extends java.lang.Object>)CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (#2”
+valgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java" "(&2|
+java.util.ArrayList.ArrayList()CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java/ (:2|
+java.util.ArrayList.ArrayList()CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java) (42Ø
+Ralgorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])!numsCALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (2∫
+]algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?num@20.21:20.24CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (2ø
+balgorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?numsList@19.32:19.40CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (2∫
+]algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?num@20.21:20.24CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java/ (22∫
+]algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?num@20.21:20.24CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java4 (72∫
+]algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?num@20.21:20.24CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (2ª
+^algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?list@25.30:25.34CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (2∫
+]algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?num@20.21:20.24CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java ( 2∫
+]algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?num@20.21:20.24CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (2ª
+^algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?list@25.30:25.34CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (2∫
+]algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?num@20.21:20.24CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (2ª
+^algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?list@25.30:25.34CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java$ ((2ø
+balgorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?numsList@19.32:19.40CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java   (2ª
+^algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?list@25.30:25.34CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java   (!2ø
+balgorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?numsList@19.32:19.40CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java"' "(/2ª
+^algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?ints@34.18:34.22CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java# #(2ª
+^algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?ints@34.18:34.22CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java# #(!2¥
+Ralgorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])!nums	PARAMETERS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java* (.2∆
+balgorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?numsList@19.32:19.40DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java  ((2¡
+]algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?num@20.21:20.24DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (2¬
+^algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?list@25.30:25.34DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java ("2¬
+^algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?ints@34.18:34.22DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java" "(2g
+intRETURN_TYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (≈
+balgorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?numsList@19.32:19.40VARIABLES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java  (("
+type List<List<Integer>>*numsList2k
+java.util.ListTYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (2t
+java.util.ListTYPE_ARGUMENTS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (2w
+java.util.IntegerTYPE_ARGUMENTS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (2|
+java.util.ArrayList.ArrayList()CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java/ (:≥
+]algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?num@20.21:20.24VARIABLES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java ("
+type int*num2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (¡
+^algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?list@25.30:25.34VARIABLES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (""
+type List<Integer>*list2k
+java.util.ListTYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (2w
+java.util.IntegerTYPE_ARGUMENTS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java (2|
+java.util.ArrayList.ArrayList()CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java) (4—
+^algorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?ints@34.18:34.22VARIABLES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java" "("
+type int[]*ints2b
+int[]TYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java" "(2”
+valgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java" "(&2ø
+balgorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])?numsList@19.32:19.40CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java"' "(/û
+Ralgorithme.heap.MinimizeDeviationInArray1675.Solution.minimumDeviation(int[])!nums	PARAMETERS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java* (.*nums2b
+int[]TYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java$ ()∆k
+valgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)METHODS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java& &(""
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int[]*smallestRange2´
+Njava.util.Comparator.comparingInt(java.util.function.ToIntFunction<? super T>)CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java'@ '(L2‚
+Ñalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?a@39.77:39.78CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java'R '(S2‚
+Ñalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?i@41.21:41.22CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java) )(2ÿ
+{algorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)!numsCALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java)  )($2‚
+Ñalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?i@41.21:41.22CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java)- )(.2Ê
+àalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?queue@39.25:39.30CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java* *(2ÿ
+{algorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)!numsCALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java*$ *((2‚
+Ñalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?i@41.21:41.22CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java*- *(.2‚
+Ñalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?i@41.21:41.22CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java*8 *(92‰
+Üalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?max@40.16:40.19CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java+ +(2‰
+Üalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?max@40.16:40.19CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java+ +("2ÿ
+{algorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)!numsCALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java+$ +((2‚
+Ñalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?i@41.21:41.22CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java+- +(.2ÿ
+{algorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)!numsCALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java0# 0('2Ê
+àalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?queue@39.25:39.30CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java1 1(2ÿ
+{algorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)!numsCALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java1# 1('2Ê
+àalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?queue@39.25:39.30CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java2 2("2‰
+Üalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?max@40.16:40.19CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java3! 3($2Â
+áalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?head@50.22:50.26CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java3' 3(+2Î
+çalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?currentGap@51.20:51.30CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java4 4(2‰
+Üalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?gap@47.16:47.19CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java4! 4($2Ê
+àalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?start@45.16:45.21CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java5 5(2Â
+áalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?head@50.22:50.26CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java5 5( 2‰
+Üalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?end@46.16:46.19CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java6 6(2‰
+Üalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?max@40.16:40.19CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java6 6(2‰
+Üalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?gap@47.16:47.19CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java7 7(2Î
+çalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?currentGap@51.20:51.30CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java7 7($2Á
+âalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?idxArr@48.18:48.24CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java9 9(2Â
+áalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?head@50.22:50.26CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java9 9(2ÿ
+{algorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)!numsCALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java9) 9(-2Â
+áalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?head@50.22:50.26CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java92 9(62Á
+âalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?idxArr@48.18:48.24CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java: :(2Â
+áalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?head@50.22:50.26CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java: :(2Ê
+àalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?queue@39.25:39.30CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java; ;(2ÿ
+{algorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)!numsCALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java;( ;(,2Â
+áalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?head@50.22:50.26CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java;1 ;(52Á
+âalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?idxArr@48.18:48.24CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java;A ;(G2Â
+áalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?head@50.22:50.26CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java;H ;(L2Â
+áalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?head@50.22:50.26CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java;V ;(Z2‰
+Üalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?max@40.16:40.19CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java< <(2‰
+Üalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?max@40.16:40.19CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java<# <(&2ÿ
+{algorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)!numsCALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java<( <(,2Â
+áalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?head@50.22:50.26CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java<1 <(52Á
+âalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?idxArr@48.18:48.24CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java<A <(G2Â
+áalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?head@50.22:50.26CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java<H <(L2Ê
+àalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?start@45.16:45.21CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java? ?("2‰
+Üalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?end@46.16:46.19CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java?$ ?('2›
+{algorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)!nums	PARAMETERS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java&7 &(;2Ì
+àalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?queue@39.25:39.30DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java' '(2Î
+Üalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?max@40.16:40.19DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java( ((2È
+Ñalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?i@41.21:41.22DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java) )(2Ì
+àalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?start@45.16:45.21DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java- -(2Î
+Üalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?end@46.16:46.19DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java. .(2Î
+Üalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?gap@47.16:47.19DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java/ /(2Ó
+âalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?idxArr@48.18:48.24DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java0 0(2Ï
+áalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?head@50.22:50.26DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java2 2(2Ú
+çalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?currentGap@51.20:51.30DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java3 3(2È
+Ñalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?a@39.77:39.78DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java'M '(N2i
+int[]RETURN_TYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java& &(”
+àalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?queue@39.25:39.30VARIABLES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java' '("
+type Queue<Point>*queue2l
+java.util.QueueTYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java' '(2°
+;algorithme.heap.MinimizeDeviationInArray1675.Solution.PointTYPE_ARGUMENTS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java' '(2´
+Njava.util.Comparator.comparingInt(java.util.function.ToIntFunction<? super T>)CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java'@ '(L2£
+Fjava.util.PriorityQueue.PriorityQueue(java.util.Comparator<? super E>)CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java'% '(42‚
+Ñalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?a@39.77:39.78CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java'R '(S›
+Üalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?max@40.16:40.19VARIABLES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java( (("
+type int*max2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java( ((Ÿ
+Ñalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?i@41.21:41.22VARIABLES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java) )("
+type int*i2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java) )(·
+àalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?start@45.16:45.21VARIABLES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java- -("
+type int*start2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java- -(›
+Üalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?end@46.16:46.19VARIABLES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java. .("
+type int*end2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java. .(›
+Üalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?gap@47.16:47.19VARIABLES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java/ /("
+type int*gap2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java/ /(¬
+âalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?idxArr@48.18:48.24VARIABLES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java0 0("
+type int[]*idxArr2b
+int[]TYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java0 0(2ÿ
+{algorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)!numsCALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java0# 0('É
+áalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?head@50.22:50.26VARIABLES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java2 2("
+type Point*head2ò
+;algorithme.heap.MinimizeDeviationInArray1675.Solution.PointTYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java2 2(2Ê
+àalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?queue@39.25:39.30CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java2 2("∫
+çalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?currentGap@51.20:51.30VARIABLES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java3 3("
+type int*
+currentGap2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java3 3(2‰
+Üalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?max@40.16:40.19CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java3! 3($2Â
+áalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?head@50.22:50.26CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java3' 3(+ø
+{algorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)!nums	PARAMETERS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java&7 &(;*nums2k
+java.util.ListTYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java&# &('2t
+java.util.ListTYPE_ARGUMENTS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java&( &(,2w
+java.util.IntegerTYPE_ARGUMENTS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java&- &(4Ò
+Ñalgorithme.heap.MinimizeDeviationInArray1675.Solution.smallestRange(java.util.List<java.util.List<java.util.Integer>>)?a@39.77:39.78VARIABLES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.java'M '(N*a2TYPE÷
+;algorithme.heap.MinimizeDeviationInArray1675.Solution.PointCLASSS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaB B("
+inner classtrue*Point2Ø
+Kalgorithme.heap.MinimizeDeviationInArray1675.Solution.Point.Point(int, int)DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaF F(2∏
+Talgorithme.heap.MinimizeDeviationInArray1675.Solution.Point?currentValue@67.30:67.42DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaC C(*2±
+Malgorithme.heap.MinimizeDeviationInArray1675.Solution.Point?index@68.30:68.35DECLARATIONS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaD D(#ï
+Kalgorithme.heap.MinimizeDeviationInArray1675.Solution.Point.Point(int, int)CONSTRUCTORS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaF F(*Point2µ
+Xalgorithme.heap.MinimizeDeviationInArray1675.Solution.Point.Point(int, int)!currentValueCALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaG$ G(02Æ
+Qalgorithme.heap.MinimizeDeviationInArray1675.Solution.Point.Point(int, int)!indexCALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaH H("2±
+Talgorithme.heap.MinimizeDeviationInArray1675.Solution.Point?currentValue@67.30:67.42CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaG G(!2™
+Malgorithme.heap.MinimizeDeviationInArray1675.Solution.Point?index@68.30:68.35CALLS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaH H(2∫
+Xalgorithme.heap.MinimizeDeviationInArray1675.Solution.Point.Point(int, int)!currentValue	PARAMETERS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaF F()2≥
+Qalgorithme.heap.MinimizeDeviationInArray1675.Solution.Point.Point(int, int)!index	PARAMETERS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaF/ F(42ü
+;algorithme.heap.MinimizeDeviationInArray1675.Solution.PointRETURN_TYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaF F(™
+Xalgorithme.heap.MinimizeDeviationInArray1675.Solution.Point.Point(int, int)!currentValue	PARAMETERS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaF F()*currentValue2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaF F(ú
+Qalgorithme.heap.MinimizeDeviationInArray1675.Solution.Point.Point(int, int)!index	PARAMETERS
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaF/ F(4*index2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaF+ F(.∞
+Talgorithme.heap.MinimizeDeviationInArray1675.Solution.Point?currentValue@67.30:67.42VALUES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaC C(*"
+type int*currentValue2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaC C(¢
+Malgorithme.heap.MinimizeDeviationInArray1675.Solution.Point?index@68.30:68.35VALUES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaD D(#"
+type int*index2`
+intTYPES
+Ialgorithm/src/main/java/algorithme/heap/MinimizeDeviationInArray1675.javaD D(

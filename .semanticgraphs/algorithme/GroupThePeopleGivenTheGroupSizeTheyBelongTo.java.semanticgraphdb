@@ -1,0 +1,228 @@
+
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java—
+6algorithme.GroupThePeopleGivenTheGroupSizeTheyBelongToCLASS]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (8"
+inner classfalse*+GroupThePeopleGivenTheGroupSizeTheyBelongTo2Ω
+Oalgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.main(java.lang.String[])DECLARATION]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2≠
+?algorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.SolutionDECLARATION]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java
+ (ø
+Oalgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.main(java.lang.String[])METHOD]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2¿
+Talgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.main(java.lang.String[])!args	PARAMETER]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java% ()2r
+voidRETURN_TYPE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (¡
+Talgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.main(java.lang.String[])!args	PARAMETER]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java% ()*args2y
+java.lang.String[]TYPE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java ($å
+?algorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.SolutionCLASS]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java
+ ("
+inner classtrue*Solution2√
+Ualgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])DECLARATION]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java# (1±L
+Ualgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])METHOD]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java# (1"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type List<List<Integer>>*groupThePeople2ñ
+/java.util.Map.getOrDefault(java.lang.Object, V)CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java4 (@2|
+java.util.List.add(E)CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2~
+java.util.Map.put(K, V)CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2
+java.util.Map.entrySet()CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.javaD (L2É
+java.util.Map.Entry.getKey()CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java* (02|
+java.util.List.size()CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java- (12Ö
+java.util.Map.Entry.getValue()CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java" (*2|
+java.util.List.add(E)CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2á
+ java.util.List.subList(int, int)CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java- (42Ö
+java.util.Map.Entry.getValue()CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java" (*2Ç
+java.util.HashMap.HashMap()CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java7 (@2Ü
+java.util.ArrayList.ArrayList()CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.javaT (_2Ü
+java.util.ArrayList.ArrayList()CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java* (52 
+calgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?i@16.21:16.22CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2«
+`algorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])!groupSizesCALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java  (*2 
+calgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?i@16.21:16.22CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java3 (42—
+jalgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?countMap@14.40:14.48CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java+ (32«
+`algorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])!groupSizesCALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.javaA (K2 
+calgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?i@16.21:16.22CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.javaL (M2”
+lalgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?sizeGroups@17.30:17.40CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2 
+calgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?i@16.21:16.22CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java ( 2—
+jalgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?countMap@14.40:14.48CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2«
+`algorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])!groupSizesCALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java ('2 
+calgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?i@16.21:16.22CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java( ()2”
+lalgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?sizeGroups@17.30:17.40CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java, (62—
+jalgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?countMap@14.40:14.48CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java; (C2Œ
+galgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?entry@24.51:24.56CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java$ ()2Œ
+galgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?entry@24.51:24.56CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (!2“
+kalgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?groupSize@25.24:25.33CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java6 (?2 
+calgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?i@27.25:27.26CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java  (!2Œ
+galgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?count@26.20:26.25CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java$ ()2 
+calgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?i@27.25:27.26CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java+ (,2Ã
+ealgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?res@22.32:22.35CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2Œ
+galgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?entry@24.51:24.56CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (!2 
+calgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?i@27.25:27.26CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java5 (62“
+kalgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?groupSize@25.24:25.33CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java9 (B2 
+calgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?i@27.25:27.26CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.javaE (F2“
+kalgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?groupSize@25.24:25.33CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.javaN (W2Ã
+ealgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?res@22.32:22.35CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2Ã
+`algorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])!groupSizes	PARAMETER]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java8 (B2ÿ
+jalgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?countMap@14.40:14.48DECLARATION]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java( (02—
+calgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?i@16.21:16.22DECLARATION]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2⁄
+lalgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?sizeGroups@17.30:17.40DECLARATION]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java ((2”
+ealgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?res@22.32:22.35DECLARATION]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java  (#2’
+galgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?entry@24.51:24.56DECLARATION]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java3 (82Ÿ
+kalgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?groupSize@25.24:25.33DECLARATION]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (!2’
+galgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?count@26.20:26.25DECLARATION]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2—
+calgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?i@27.25:27.26DECLARATION]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2|
+java.util.ListRETURN_TYPE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2Ö
+java.util.ListRETURN_TYPE_ARGUMENT]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2à
+java.lang.IntegerRETURN_TYPE_ARGUMENT]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java ( á
+jalgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?countMap@14.40:14.48VARIABLE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java( (0"#
+type Map<Integer,List<Integer>>*countMap2t
+java.util.MapTYPE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2Å
+java.lang.IntegerTYPE_ARGUMENT]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2~
+java.util.ListTYPE_ARGUMENT]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2Å
+java.lang.IntegerTYPE_ARGUMENT]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (%2Ç
+java.util.HashMap.HashMap()CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java7 (@À
+calgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?i@16.21:16.22VARIABLE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java ("
+type int*i2j
+intTYPE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (É
+lalgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?sizeGroups@17.30:17.40VARIABLE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (("
+type List<Integer>*
+sizeGroups2u
+java.util.ListTYPE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2Å
+java.lang.IntegerTYPE_ARGUMENT]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2ñ
+/java.util.Map.getOrDefault(java.lang.Object, V)CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java4 (@2Ü
+java.util.ArrayList.ArrayList()CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.javaT (_2—
+jalgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?countMap@14.40:14.48CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java+ (32«
+`algorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])!groupSizesCALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.javaA (K2 
+calgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?i@16.21:16.22CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.javaL (M˜
+ealgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?res@22.32:22.35VARIABLE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java  (#"
+type List<List<Integer>>*res2u
+java.util.ListTYPE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2~
+java.util.ListTYPE_ARGUMENT]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2Å
+java.lang.IntegerTYPE_ARGUMENT]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2Ü
+java.util.ArrayList.ArrayList()CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java* (5à
+galgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?entry@24.51:24.56VARIABLE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java3 (8")
+type  Map.Entry<Integer,List<Integer>>*entry2z
+java.util.Map.EntryTYPE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2Å
+java.lang.IntegerTYPE_ARGUMENT]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2~
+java.util.ListTYPE_ARGUMENT]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java ("2Å
+java.lang.IntegerTYPE_ARGUMENT]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java$ ((ƒ
+kalgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?groupSize@25.24:25.33VARIABLE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (!"
+type Integer*	groupSize2x
+java.lang.IntegerTYPE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2É
+java.util.Map.Entry.getKey()CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java* (02Œ
+galgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?entry@24.51:24.56CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java$ ()ˇ
+galgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?count@26.20:26.25VARIABLE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java ("
+type int*count2j
+intTYPE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (2|
+java.util.List.size()CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java- (12Ö
+java.util.Map.Entry.getValue()CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java" (*2Œ
+galgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?entry@24.51:24.56CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (!2“
+kalgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?groupSize@25.24:25.33CALL]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java6 (?À
+calgorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])?i@27.25:27.26VARIABLE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java ("
+type int*i2j
+intTYPE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java (∆
+`algorithme.GroupThePeopleGivenTheGroupSizeTheyBelongTo.Solution.groupThePeople(int[])!groupSizes	PARAMETER]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java8 (B*
+groupSizes2l
+int[]TYPE]
+Salgorithm/src/main/java/algorithme/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java2 (7

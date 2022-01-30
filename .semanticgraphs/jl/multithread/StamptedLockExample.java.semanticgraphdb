@@ -1,0 +1,228 @@
+
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.javaŒ
+"jl.multithread.StamptedLockExampleCLASSI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java ( "
+inner classfalse*StamptedLockExample2ï
+;jl.multithread.StamptedLockExample.main(java.lang.String[])DECLARATIONI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java
+ 
+(2í
+8jl.multithread.StamptedLockExample?stampedLock@8.29:8.40DECLARATIONI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java ((≠
+;jl.multithread.StamptedLockExample.main(java.lang.String[])METHODI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java
+ 
+("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2k
+java.lang.Thread.start()CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java, (12k
+java.lang.Thread.start()CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java5 (:2o
+java.lang.Thread.sleep(long)CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (2ã
+8jl.multithread.StamptedLockExample.DemoClass.DemoClass()CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java" (+2~
++java.lang.Thread.Thread(java.lang.Runnable)CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (2≠
+Zjl.multithread.StamptedLockExample.Read.Read(jl.multithread.StamptedLockExample.DemoClass)CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (2~
++java.lang.Thread.Thread(java.lang.Runnable)CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (2ø
+ljl.multithread.StamptedLockExample.UpdateVersion.UpdateVersion(jl.multithread.StamptedLockExample.DemoClass)CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java ((2ú
+Ijl.multithread.StamptedLockExample.main(java.lang.String[])?i@12.17:12.18CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (2ú
+Ijl.multithread.StamptedLockExample.main(java.lang.String[])?i@12.17:12.18CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java" (#2§
+Qjl.multithread.StamptedLockExample.main(java.lang.String[])?demoClass@11.18:11.27CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java  ()2§
+Qjl.multithread.StamptedLockExample.main(java.lang.String[])?demoClass@11.18:11.27CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java) (22§
+Qjl.multithread.StamptedLockExample.main(java.lang.String[])?demoClass@11.18:11.27CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java( (12ò
+@jl.multithread.StamptedLockExample.main(java.lang.String[])!args	PARAMETERI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java
+% 
+()2´
+Qjl.multithread.StamptedLockExample.main(java.lang.String[])?demoClass@11.18:11.27DECLARATIONI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (2£
+Ijl.multithread.StamptedLockExample.main(java.lang.String[])?i@12.17:12.18DECLARATIONI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (2^
+voidRETURN_TYPEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java
+ 
+(÷
+Qjl.multithread.StamptedLockExample.main(java.lang.String[])?demoClass@11.18:11.27VARIABLEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java ("
+type 	DemoClass*	demoClass2
+,jl.multithread.StamptedLockExample.DemoClassTYPEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (2ã
+8jl.multithread.StamptedLockExample.DemoClass.DemoClass()CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java" (+â
+Ijl.multithread.StamptedLockExample.main(java.lang.String[])?i@12.17:12.18VARIABLEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java ("
+type int*i2V
+intTYPEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (Ö
+@jl.multithread.StamptedLockExample.main(java.lang.String[])!args	PARAMETERI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java
+% 
+()*args2e
+java.lang.String[]TYPEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java
+ 
+($¥
+8jl.multithread.StamptedLockExample?stampedLock@8.29:8.40VALUEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (("
+type StampedLock*stampedLock2y
+&java.util.concurrent.locks.StampedLockTYPEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (2á
+4java.util.concurrent.locks.StampedLock.StampedLock()CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java/ (:€
+'jl.multithread.StamptedLockExample.ReadCLASSI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java ("
+inner classfalse*Read2¥
+Zjl.multithread.StamptedLockExample.Read.Read(jl.multithread.StamptedLockExample.DemoClass)DECLARATIONI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (2á
+-jl.multithread.StamptedLockExample.Read.run()DECLARATIONI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (2ó
+=jl.multithread.StamptedLockExample.Read?demoClass@21.24:21.33DECLARATIONI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (!2g
+java.lang.RunnableEXTENDI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java! () 
+Zjl.multithread.StamptedLockExample.Read.Read(jl.multithread.StamptedLockExample.DemoClass)CONSTRUCTORI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (*Read2∑
+djl.multithread.StamptedLockExample.Read.Read(jl.multithread.StamptedLockExample.DemoClass)!demoClassCALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (&2ê
+=jl.multithread.StamptedLockExample.Read?demoClass@21.24:21.33CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (2º
+djl.multithread.StamptedLockExample.Read.Read(jl.multithread.StamptedLockExample.DemoClass)!demoClass	PARAMETERI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java ( 2Å
+'jl.multithread.StamptedLockExample.ReadRETURN_TYPEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (»
+djl.multithread.StamptedLockExample.Read.Read(jl.multithread.StamptedLockExample.DemoClass)!demoClass	PARAMETERI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java ( *	demoClass2
+,jl.multithread.StamptedLockExample.DemoClassTYPEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (Ñ
+-jl.multithread.StamptedLockExample.Read.run()METHODI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*run2ç
+:java.util.concurrent.locks.StampedLock.tryOptimisticRead()CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java+ (<2à
+5java.util.concurrent.locks.StampedLock.validate(long)CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (%2î
+Ajava.util.concurrent.locks.StampedLock.tryConvertToReadLock(long)CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java   (02s
+ java.io.PrintStream.println(int)CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java! !("2ã
+8jl.multithread.StamptedLockExample?stampedLock@8.29:8.40CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (*2ã
+8jl.multithread.StamptedLockExample?stampedLock@8.29:8.40CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (2ò
+Ejl.multithread.StamptedLockExample.Read.run()?readStamped@30.17:30.28CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java& (12ã
+8jl.multithread.StamptedLockExample?stampedLock@8.29:8.40CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java   (2ò
+Ejl.multithread.StamptedLockExample.Read.run()?readStamped@30.17:30.28CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java 1  (<2ê
+=jl.multithread.StamptedLockExample.Read?demoClass@21.24:21.33CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java!# !(,2ì
+@jl.multithread.StamptedLockExample.DemoClass?version@55.20:55.27CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java!- !(42ü
+Ejl.multithread.StamptedLockExample.Read.run()?readStamped@30.17:30.28DECLARATIONI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (2^
+voidRETURN_TYPEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (Ø
+Ejl.multithread.StamptedLockExample.Read.run()?readStamped@30.17:30.28VARIABLEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java ("
+type long*readStamped2W
+longTYPEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (2ç
+:java.util.concurrent.locks.StampedLock.tryOptimisticRead()CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java+ (<2ã
+8jl.multithread.StamptedLockExample?stampedLock@8.29:8.40CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (*±
+=jl.multithread.StamptedLockExample.Read?demoClass@21.24:21.33VALUEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (!"
+type 	DemoClass*	demoClass2
+,jl.multithread.StamptedLockExample.DemoClassTYPEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java (ë
+0jl.multithread.StamptedLockExample.UpdateVersionCLASSI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java& &("
+inner classfalse*UpdateVersion2∆
+ljl.multithread.StamptedLockExample.UpdateVersion.UpdateVersion(jl.multithread.StamptedLockExample.DemoClass)DECLARATIONI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java) )(2ê
+6jl.multithread.StamptedLockExample.UpdateVersion.run()DECLARATIONI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java. .(2†
+Fjl.multithread.StamptedLockExample.UpdateVersion?demoClass@39.32:39.41DECLARATIONI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java'  '()2g
+java.lang.RunnableEXTENDI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java&* &(2õ
+ljl.multithread.StamptedLockExample.UpdateVersion.UpdateVersion(jl.multithread.StamptedLockExample.DemoClass)CONSTRUCTORI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java) )(*UpdateVersion2…
+vjl.multithread.StamptedLockExample.UpdateVersion.UpdateVersion(jl.multithread.StamptedLockExample.DemoClass)!demoClassCALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java* *(&2ô
+Fjl.multithread.StamptedLockExample.UpdateVersion?demoClass@39.32:39.41CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java* *(2Œ
+vjl.multithread.StamptedLockExample.UpdateVersion.UpdateVersion(jl.multithread.StamptedLockExample.DemoClass)!demoClass	PARAMETERI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java)  )()2ä
+0jl.multithread.StamptedLockExample.UpdateVersionRETURN_TYPEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java) )(⁄
+vjl.multithread.StamptedLockExample.UpdateVersion.UpdateVersion(jl.multithread.StamptedLockExample.DemoClass)!demoClass	PARAMETERI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java)  )()*	demoClass2
+,jl.multithread.StamptedLockExample.DemoClassTYPEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java) )(
+6jl.multithread.StamptedLockExample.UpdateVersion.run()METHODI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java. .("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*run2Ö
+2java.util.concurrent.locks.StampedLock.writeLock()CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java/, /(52ã
+8java.util.concurrent.locks.StampedLock.unlockWrite(long)CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java1 1(#2ã
+8jl.multithread.StamptedLockExample?stampedLock@8.29:8.40CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java/  /(+2ô
+Fjl.multithread.StamptedLockExample.UpdateVersion?demoClass@39.32:39.41CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java0 0(2ã
+8jl.multithread.StamptedLockExample?stampedLock@8.29:8.40CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java1 1(2¢
+Ojl.multithread.StamptedLockExample.UpdateVersion.run()?writeStamped@47.17:47.29CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java1$ 1(02ì
+@jl.multithread.StamptedLockExample.DemoClass?version@55.20:55.27CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java0 0(2©
+Ojl.multithread.StamptedLockExample.UpdateVersion.run()?writeStamped@47.17:47.29DECLARATIONI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java/ /(2^
+voidRETURN_TYPEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java. .(≤
+Ojl.multithread.StamptedLockExample.UpdateVersion.run()?writeStamped@47.17:47.29VARIABLEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java/ /("
+type long*writeStamped2W
+longTYPEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java/ /(2Ö
+2java.util.concurrent.locks.StampedLock.writeLock()CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java/, /(52ã
+8jl.multithread.StamptedLockExample?stampedLock@8.29:8.40CALLI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java/  /(+∫
+Fjl.multithread.StamptedLockExample.UpdateVersion?demoClass@39.32:39.41VALUEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java'  '()"
+type 	DemoClass*	demoClass2
+,jl.multithread.StamptedLockExample.DemoClassTYPEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java' '(æ
+,jl.multithread.StamptedLockExample.DemoClassCLASSI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java6 6(""
+inner classfalse*	DemoClass2ö
+@jl.multithread.StamptedLockExample.DemoClass?version@55.20:55.27DECLARATIONI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java7 7(Ü
+@jl.multithread.StamptedLockExample.DemoClass?version@55.20:55.27VARIABLEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java7 7("
+type int*version2V
+intTYPEI
+?knowledge/src/main/java/jl/multithread/StamptedLockExample.java7 7(

@@ -1,0 +1,239 @@
+
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.javaÎ
+1algorithme.array.RangeSumOfSortedSubarraySums1508CLASSX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (-"
+inner classfalse* RangeSumOfSortedSubarraySums15082³
+Jalgorithme.array.RangeSumOfSortedSubarraySums1508.main(java.lang.String[])DECLARATIONX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2£
+:algorithme.array.RangeSumOfSortedSubarraySums1508.bridge()DECLARATIONX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java
+ 
+(2£
+:algorithme.array.RangeSumOfSortedSubarraySums1508.SolutionDECLARATIONX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java
+ (þ
+Jalgorithme.array.RangeSumOfSortedSubarraySums1508.main(java.lang.String[])METHODX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2œ
+:algorithme.array.RangeSumOfSortedSubarraySums1508.bridge()CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java/ (52¶
+Talgorithme.array.RangeSumOfSortedSubarraySums1508.RangeSumOfSortedSubarraySums1508()CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (,2¶
+Oalgorithme.array.RangeSumOfSortedSubarraySums1508.main(java.lang.String[])!args	PARAMETERX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java% ()2m
+voidRETURN_TYPEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (²
+Oalgorithme.array.RangeSumOfSortedSubarraySums1508.main(java.lang.String[])!args	PARAMETERX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java% ()*args2t
+java.lang.String[]TYPEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java ($æ
+:algorithme.array.RangeSumOfSortedSubarraySums1508.bridge()METHODX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java
+ 
+("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2‚
+ java.io.PrintStream.println(int)CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2»
+Yalgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java* (22§
+Ealgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.Solution()CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java ('2­
+Kalgorithme.array.RangeSumOfSortedSubarraySums1508.bridge()?nums@11.14:11.18CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java3 (72ª
+Halgorithme.array.RangeSumOfSortedSubarraySums1508.bridge()?n@12.12:12.13CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java9 (:2­
+Kalgorithme.array.RangeSumOfSortedSubarraySums1508.bridge()?left@12.19:12.23CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java< (@2®
+Lalgorithme.array.RangeSumOfSortedSubarraySums1508.bridge()?right@12.29:12.34CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.javaB (G2´
+Kalgorithme.array.RangeSumOfSortedSubarraySums1508.bridge()?nums@11.14:11.18DECLARATIONX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2±
+Halgorithme.array.RangeSumOfSortedSubarraySums1508.bridge()?n@12.12:12.13DECLARATIONX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2´
+Kalgorithme.array.RangeSumOfSortedSubarraySums1508.bridge()?left@12.19:12.23DECLARATIONX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2µ
+Lalgorithme.array.RangeSumOfSortedSubarraySums1508.bridge()?right@12.29:12.34DECLARATIONX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java ("2m
+voidRETURN_TYPEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java
+ 
+(°
+Kalgorithme.array.RangeSumOfSortedSubarraySums1508.bridge()?nums@11.14:11.18VARIABLEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java ("
+type int[]*nums2g
+int[]TYPEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (¦
+Halgorithme.array.RangeSumOfSortedSubarraySums1508.bridge()?n@12.12:12.13VARIABLEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java ("
+type int*n2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (¬
+Kalgorithme.array.RangeSumOfSortedSubarraySums1508.bridge()?left@12.19:12.23VARIABLEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java ("
+type int*left2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (®
+Lalgorithme.array.RangeSumOfSortedSubarraySums1508.bridge()?right@12.29:12.34VARIABLEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (""
+type int*right2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (
+:algorithme.array.RangeSumOfSortedSubarraySums1508.SolutionCLASSX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java
+ ("
+inner classtrue*Solution2Â
+Yalgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)DECLARATIONX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (¯@
+Yalgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)METHODX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*rangeSum2 
+>java.util.List.replaceAll(java.util.function.UnaryOperator<E>)CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2w
+java.util.List.add(E)CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2š
+8java.util.List.addAll(java.util.Collection<? extends E>)CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2w
+java.util.List.add(E)CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2–
+4java.util.List.sort(java.util.Comparator<? super E>)CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2…
+#java.util.OptionalLong.orElse(long)CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.javaj (p2«
+Ijava.util.stream.LongStream.reduce(java.util.function.LongBinaryOperator)CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.javaX (^2±
+Ojava.util.stream.Stream.mapToLong(java.util.function.ToLongFunction<? super T>)CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java? (H2
+java.util.Collection.stream()CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java6 (<2‚
+ java.util.List.subList(int, int)CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java ($2ƒ
+!java.util.LinkedList.LinkedList()CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java$ (02ƒ
+!java.util.LinkedList.LinkedList()CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java$ (02À
+^algorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)!numsCALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2É
+galgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?i@21.21:21.22CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java* (+2É
+galgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?i@21.21:21.22CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java2 (32É
+galgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?i@21.21:21.22CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2Ë
+ialgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?cur@19.26:19.29CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2É
+galgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?a@23.31:23.32CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java$ (%2À
+^algorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)!numsCALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java( (,2Î
+lalgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?finalI@22.20:22.26CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java- (32Ë
+ialgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?res@20.26:20.29CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2À
+^algorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)!numsCALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2É
+galgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?i@21.21:21.22CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2Ë
+ialgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?res@20.26:20.29CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2Ë
+ialgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?cur@19.26:19.29CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2Ë
+ialgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?cur@19.26:19.29CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2À
+^algorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)!numsCALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2É
+galgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?i@21.21:21.22CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2Ë
+ialgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?res@20.26:20.29CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2Ë
+ialgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?res@20.26:20.29CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2À
+^algorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)!leftCALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java% ()2Á
+_algorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)!rightCALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java/ (42Å
+^algorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)!nums	PARAMETERX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java" (&2Â
+[algorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)!n	PARAMETERX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java, (-2Å
+^algorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)!left	PARAMETERX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java3 (72Æ
+_algorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)!right	PARAMETERX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java= (B2Ò
+ialgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?cur@19.26:19.29DECLARATIONX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2Ò
+ialgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?res@20.26:20.29DECLARATIONX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2Ð
+galgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?i@21.21:21.22DECLARATIONX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2Õ
+lalgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?finalI@22.20:22.26DECLARATIONX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2Ò
+ialgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?ans@29.17:29.20DECLARATIONX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2Ð
+galgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?a@23.31:23.32DECLARATIONX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java ( 2l
+intRETURN_TYPEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (â
+ialgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?cur@19.26:19.29VARIABLEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java ("
+type List<Integer>*cur2p
+java.util.ListTYPEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2|
+java.lang.IntegerTYPE_ARGUMENTX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2ƒ
+!java.util.LinkedList.LinkedList()CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java$ (0â
+ialgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?res@20.26:20.29VARIABLEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java ("
+type List<Integer>*res2p
+java.util.ListTYPEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2|
+java.lang.IntegerTYPE_ARGUMENTX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2ƒ
+!java.util.LinkedList.LinkedList()CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java$ (0ˆ
+galgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?i@21.21:21.22VARIABLEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java ("
+type int*i2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2À
+^algorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)!numsCALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (›
+lalgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?finalI@22.20:22.26VARIABLEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java ("
+type int*finalI2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (2É
+galgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?i@21.21:21.22CALLX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (Ë
+ialgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?ans@29.17:29.20VARIABLEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java ("
+type long*ans2f
+longTYPEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (´
+^algorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)!nums	PARAMETERX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java" (&*nums2g
+int[]TYPEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java (!¬
+[algorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)!n	PARAMETERX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java, (-*n2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java( (+²
+^algorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)!left	PARAMETERX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java3 (7*left2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java/ (2´
+_algorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)!right	PARAMETERX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java= (B*right2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java9 (<Ø
+galgorithme.array.RangeSumOfSortedSubarraySums1508.Solution.rangeSum(int[], int, int, int)?a@23.31:23.32VARIABLEX
+Nalgorithm/src/main/java/algorithme/array/RangeSumOfSortedSubarraySums1508.java ( *a2TYPE

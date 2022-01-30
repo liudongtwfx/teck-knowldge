@@ -1,0 +1,436 @@
+
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java≥
+!algorithme.trie.TopKFrequentWordsCLASSH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java ("
+inner classfalse*TopKFrequentWords2ì
+:algorithme.trie.TopKFrequentWords.main(java.util.String[])DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java	 	(Â	
+:algorithme.trie.TopKFrequentWords.main(java.util.String[])METHODH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java	 	("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2î
+Bjava.lang.Iterable.forEach(java.util.function.Consumer<? super T>)CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java. (52¢
+Palgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (#2á
+5algorithme.trie.TopKFrequentWords.Solution.Solution()CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2û
+Lalgorithme.trie.TopKFrequentWords.main(java.util.String[])?words@10.17:10.22CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java$ ()2ñ
+?algorithme.trie.TopKFrequentWords.main(java.util.String[])!args	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java	% 	()2•
+Lalgorithme.trie.TopKFrequentWords.main(java.util.String[])?words@10.17:10.22DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java
+ 
+(2]
+voidRETURN_TYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java	 	(¢
+Lalgorithme.trie.TopKFrequentWords.main(java.util.String[])?words@10.17:10.22VARIABLEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java
+ 
+("
+type String[]*words2d
+java.util.String[]TYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java
+ 
+(Ç
+?algorithme.trie.TopKFrequentWords.main(java.util.String[])!args	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java	% 	()*args2d
+java.util.String[]TYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java	 	($Ω
+*algorithme.trie.TopKFrequentWords.SolutionCLASSH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (!"
+inner classfalse*Solution2©
+Palgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java ((2∆
+malgorithme.trie.TopKFrequentWords.Solution.getStringsFromTrieRoot(algorithme.trie.TopKFrequentWords.TrieNode)DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java( ((32’
+|algorithme.trie.TopKFrequentWords.Solution.dfs(algorithme.trie.TopKFrequentWords.TrieNode, java.util.List<java.util.String>)DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java3 3(2–
+walgorithme.trie.TopKFrequentWords.Solution.appendWordTrie(algorithme.trie.TopKFrequentWords.TrieNode, java.util.String)DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaB B('≈:
+Palgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)METHODH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type List<String>*topKFrequent2s
+!java.util.Collections.emptyList()CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java# (,2…
+walgorithme.trie.TopKFrequentWords.Solution.appendWordTrie(algorithme.trie.TopKFrequentWords.TrieNode, java.util.String)CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (-2ø
+malgorithme.trie.TopKFrequentWords.Solution.getStringsFromTrieRoot(algorithme.trie.TopKFrequentWords.TrieNode)CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java   (12m
+java.util.HashMap.HashMap()CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java3 (<2q
+java.util.ArrayList.ArrayList()CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java# (.2q
+java.util.ArrayList.ArrayList()CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java% %("2®
+Valgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)!wordsCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2®
+Valgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)!wordsCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java ($2∫
+halgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?strCountMap@20.33:20.44CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2≥
+aalgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?word@21.24:21.28CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java" (&2®
+Valgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)!wordsCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java, (12®
+Valgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)!wordsCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java ($2∫
+halgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?strCountMap@20.33:20.44CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java ('2≥
+aalgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?word@25.24:25.28CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java, (02¥
+balgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?nodes@24.23:24.28CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java  (%2¥
+balgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?count@26.20:26.25CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java& (+2¥
+balgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?nodes@24.23:24.28CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2¥
+balgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?count@26.20:26.25CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2≥
+aalgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?node@27.25:27.29CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java. (22≥
+aalgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?word@25.24:25.28CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java4 (82®
+Valgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)!wordsCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2∞
+^algorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?i@31.21:31.22CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java+ (,2∞
+^algorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?i@31.21:31.22CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java3 (42≤
+`algorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?res@30.25:30.28CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java   (2¥
+balgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?nodes@24.23:24.28CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java 2  (72∞
+^algorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?i@31.21:31.22CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java 8  (92≤
+`algorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?res@30.25:30.28CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java! !(2§
+Ralgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)!kCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java!" !(#2≤
+`algorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?res@30.25:30.28CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java" "(2§
+Ralgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)!kCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java"* "(+2≠
+Valgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)!words	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java2 (72©
+Ralgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)!k	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java= (>2¡
+halgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?strCountMap@20.33:20.44DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java! (,2∫
+aalgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?word@21.24:21.28DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2ª
+balgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?nodes@24.23:24.28DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2∫
+aalgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?word@25.24:25.28DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2ª
+balgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?count@26.20:26.25DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2∫
+aalgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?node@27.25:27.29DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2π
+`algorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?res@30.25:30.28DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2∑
+^algorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?i@31.21:31.22DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2g
+java.util.ListRETURN_TYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2r
+java.util.StringRETURN_TYPE_ARGUMENTH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (î
+halgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?strCountMap@20.33:20.44VARIABLEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java! (,"
+type Map<String,Integer>*strCountMap2_
+java.util.MapTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2k
+java.util.StringTYPE_ARGUMENTH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2l
+java.util.IntegerTYPE_ARGUMENTH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2m
+java.util.HashMap.HashMap()CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java3 (<≤
+aalgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?word@21.24:21.28VARIABLEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java ("
+type String*word2b
+java.util.StringTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (ˇ
+balgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?nodes@24.23:24.28VARIABLEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java ("
+type 
+TrieNode[]*nodes2~
+,algorithme.trie.TopKFrequentWords.TrieNode[]TYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2®
+Valgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)!wordsCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java, (1≤
+aalgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?word@25.24:25.28VARIABLEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java ("
+type String*word2b
+java.util.StringTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (ó
+balgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?count@26.20:26.25VARIABLEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java ("
+type int*count2U
+intTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2∫
+halgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?strCountMap@20.33:20.44CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java ('2≥
+aalgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?word@25.24:25.28CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java, (0º
+aalgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?node@27.25:27.29VARIABLEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java ("
+type TrieNode*node2|
+*algorithme.trie.TopKFrequentWords.TrieNodeTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2¥
+balgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?nodes@24.23:24.28CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java  (%2¥
+balgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?count@26.20:26.25CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java& (+î
+`algorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?res@30.25:30.28VARIABLEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java ("
+type List<String>*res2`
+java.util.ListTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2k
+java.util.StringTYPE_ARGUMENTH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2q
+java.util.ArrayList.ArrayList()CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java# (.«
+^algorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)?i@31.21:31.22VARIABLEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java ("
+type int*i2U
+intTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (2®
+Valgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)!wordsCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java (ö
+Valgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)!words	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java2 (7*words2d
+java.util.String[]TYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java) (1É
+Ralgorithme.trie.TopKFrequentWords.Solution.topKFrequent(java.util.String[], int)!k	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java= (>*k2U
+intTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java9 (<ñ
+malgorithme.trie.TopKFrequentWords.Solution.getStringsFromTrieRoot(algorithme.trie.TopKFrequentWords.TrieNode)METHODH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java( ((3"
+staticfalse"
+finalfalse"
+access modifierprivate"
+type List<String>*getStringsFromTrieRoot2s
+!java.util.Collections.emptyList()CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java*# *(,2Œ
+|algorithme.trie.TopKFrequentWords.Solution.dfs(algorithme.trie.TopKFrequentWords.TrieNode, java.util.List<java.util.String>)CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java. .(2q
+java.util.ArrayList.ArrayList()CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java,% ,(02ƒ
+ralgorithme.trie.TopKFrequentWords.Solution.getStringsFromTrieRoot(algorithme.trie.TopKFrequentWords.TrieNode)!nodeCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java) )(2ƒ
+ralgorithme.trie.TopKFrequentWords.Solution.getStringsFromTrieRoot(algorithme.trie.TopKFrequentWords.TrieNode)!nodeCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java)  )($2ƒ
+ralgorithme.trie.TopKFrequentWords.Solution.getStringsFromTrieRoot(algorithme.trie.TopKFrequentWords.TrieNode)!nodeCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java-" -(&2—
+algorithme.trie.TopKFrequentWords.Solution.getStringsFromTrieRoot(algorithme.trie.TopKFrequentWords.TrieNode)?child@45.26:45.31CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java. .(2—
+algorithme.trie.TopKFrequentWords.Solution.getStringsFromTrieRoot(algorithme.trie.TopKFrequentWords.TrieNode)?words@44.25:44.30CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java. .( 2—
+algorithme.trie.TopKFrequentWords.Solution.getStringsFromTrieRoot(algorithme.trie.TopKFrequentWords.TrieNode)?words@44.25:44.30CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java0 0(2…
+ralgorithme.trie.TopKFrequentWords.Solution.getStringsFromTrieRoot(algorithme.trie.TopKFrequentWords.TrieNode)!node	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java(= ((A2ÿ
+algorithme.trie.TopKFrequentWords.Solution.getStringsFromTrieRoot(algorithme.trie.TopKFrequentWords.TrieNode)?words@44.25:44.30DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java, ,(2ÿ
+algorithme.trie.TopKFrequentWords.Solution.getStringsFromTrieRoot(algorithme.trie.TopKFrequentWords.TrieNode)?child@45.26:45.31DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java- -(2g
+java.util.ListRETURN_TYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java( ((2r
+java.util.StringRETURN_TYPE_ARGUMENTH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java( ((µ
+algorithme.trie.TopKFrequentWords.Solution.getStringsFromTrieRoot(algorithme.trie.TopKFrequentWords.TrieNode)?words@44.25:44.30VARIABLEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java, ,("
+type List<String>*words2`
+java.util.ListTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java, ,(2k
+java.util.StringTYPE_ARGUMENTH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java, ,(2q
+java.util.ArrayList.ArrayList()CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java,% ,(0Ì
+algorithme.trie.TopKFrequentWords.Solution.getStringsFromTrieRoot(algorithme.trie.TopKFrequentWords.TrieNode)?child@45.26:45.31VARIABLEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java- -("
+type TrieNode*child2|
+*algorithme.trie.TopKFrequentWords.TrieNodeTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java- -(Õ
+ralgorithme.trie.TopKFrequentWords.Solution.getStringsFromTrieRoot(algorithme.trie.TopKFrequentWords.TrieNode)!node	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java(= ((A*node2|
+*algorithme.trie.TopKFrequentWords.TrieNodeTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java(4 ((<º
+|algorithme.trie.TopKFrequentWords.Solution.dfs(algorithme.trie.TopKFrequentWords.TrieNode, java.util.List<java.util.String>)METHODH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java3 3("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*dfs2Œ
+|algorithme.trie.TopKFrequentWords.Solution.dfs(algorithme.trie.TopKFrequentWords.TrieNode, java.util.List<java.util.String>)CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java> >(2‘
+Åalgorithme.trie.TopKFrequentWords.Solution.dfs(algorithme.trie.TopKFrequentWords.TrieNode, java.util.List<java.util.String>)!nodeCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java4 4(2‘
+Åalgorithme.trie.TopKFrequentWords.Solution.dfs(algorithme.trie.TopKFrequentWords.TrieNode, java.util.List<java.util.String>)!nodeCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java7 7(2’
+Çalgorithme.trie.TopKFrequentWords.Solution.dfs(algorithme.trie.TopKFrequentWords.TrieNode, java.util.List<java.util.String>)!wordsCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java8 8(2‘
+Åalgorithme.trie.TopKFrequentWords.Solution.dfs(algorithme.trie.TopKFrequentWords.TrieNode, java.util.List<java.util.String>)!nodeCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java8 8(2‘
+Åalgorithme.trie.TopKFrequentWords.Solution.dfs(algorithme.trie.TopKFrequentWords.TrieNode, java.util.List<java.util.String>)!nodeCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java: :(2‘
+Åalgorithme.trie.TopKFrequentWords.Solution.dfs(algorithme.trie.TopKFrequentWords.TrieNode, java.util.List<java.util.String>)!nodeCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java=" =(&2·
+éalgorithme.trie.TopKFrequentWords.Solution.dfs(algorithme.trie.TopKFrequentWords.TrieNode, java.util.List<java.util.String>)?child@61.26:61.31CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java> >(2’
+Çalgorithme.trie.TopKFrequentWords.Solution.dfs(algorithme.trie.TopKFrequentWords.TrieNode, java.util.List<java.util.String>)!wordsCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java> >( 2Ÿ
+Åalgorithme.trie.TopKFrequentWords.Solution.dfs(algorithme.trie.TopKFrequentWords.TrieNode, java.util.List<java.util.String>)!node	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java3" 3(&2⁄
+Çalgorithme.trie.TopKFrequentWords.Solution.dfs(algorithme.trie.TopKFrequentWords.TrieNode, java.util.List<java.util.String>)!words	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java35 3(:2Ë
+éalgorithme.trie.TopKFrequentWords.Solution.dfs(algorithme.trie.TopKFrequentWords.TrieNode, java.util.List<java.util.String>)?child@61.26:61.31DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java= =(2]
+voidRETURN_TYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java3 3(˝
+éalgorithme.trie.TopKFrequentWords.Solution.dfs(algorithme.trie.TopKFrequentWords.TrieNode, java.util.List<java.util.String>)?child@61.26:61.31VARIABLEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java= =("
+type TrieNode*child2|
+*algorithme.trie.TopKFrequentWords.TrieNodeTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java= =(›
+Åalgorithme.trie.TopKFrequentWords.Solution.dfs(algorithme.trie.TopKFrequentWords.TrieNode, java.util.List<java.util.String>)!node	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java3" 3(&*node2|
+*algorithme.trie.TopKFrequentWords.TrieNodeTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java3 3(!∞
+Çalgorithme.trie.TopKFrequentWords.Solution.dfs(algorithme.trie.TopKFrequentWords.TrieNode, java.util.List<java.util.String>)!words	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java35 3(:*words2`
+java.util.ListTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java3( 3(,2k
+java.util.StringTYPE_ARGUMENTH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java3- 3(3¸
+walgorithme.trie.TopKFrequentWords.Solution.appendWordTrie(algorithme.trie.TopKFrequentWords.TrieNode, java.util.String)METHODH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaB B('"
+staticfalse"
+finalfalse"
+access modifierprivate"
+type TrieNode*appendWordTrie2á
+5algorithme.trie.TopKFrequentWords.TrieNode.TrieNode()CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaD D(#2Œ
+|algorithme.trie.TopKFrequentWords.Solution.appendWordTrie(algorithme.trie.TopKFrequentWords.TrieNode, java.util.String)!nodeCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaC C(2Œ
+|algorithme.trie.TopKFrequentWords.Solution.appendWordTrie(algorithme.trie.TopKFrequentWords.TrieNode, java.util.String)!nodeCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaD D(2Œ
+|algorithme.trie.TopKFrequentWords.Solution.appendWordTrie(algorithme.trie.TopKFrequentWords.TrieNode, java.util.String)!nodeCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaF F(2Œ
+|algorithme.trie.TopKFrequentWords.Solution.appendWordTrie(algorithme.trie.TopKFrequentWords.TrieNode, java.util.String)!wordCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaF" F(&2Œ
+|algorithme.trie.TopKFrequentWords.Solution.appendWordTrie(algorithme.trie.TopKFrequentWords.TrieNode, java.util.String)!nodeCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaG G(2”
+|algorithme.trie.TopKFrequentWords.Solution.appendWordTrie(algorithme.trie.TopKFrequentWords.TrieNode, java.util.String)!node	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaB1 B(52”
+|algorithme.trie.TopKFrequentWords.Solution.appendWordTrie(algorithme.trie.TopKFrequentWords.TrieNode, java.util.String)!word	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaB> B(B2É
+*algorithme.trie.TopKFrequentWords.TrieNodeRETURN_TYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaB B(◊
+|algorithme.trie.TopKFrequentWords.Solution.appendWordTrie(algorithme.trie.TopKFrequentWords.TrieNode, java.util.String)!node	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaB1 B(5*node2|
+*algorithme.trie.TopKFrequentWords.TrieNodeTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaB( B(0Ω
+|algorithme.trie.TopKFrequentWords.Solution.appendWordTrie(algorithme.trie.TopKFrequentWords.TrieNode, java.util.String)!word	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaB> B(B*word2b
+java.util.StringTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaB7 B(=˛
+*algorithme.trie.TopKFrequentWords.TrieNodeCLASSH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaL L(!"
+inner classfalse*TrieNode2´
+Ralgorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaP P(%2ï
+<algorithme.trie.TopKFrequentWords.TrieNode?value@77.15:77.20DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaM M(2ò
+?algorithme.trie.TopKFrequentWords.TrieNode?children@78.19:78.27DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaN N(√ 
+Ralgorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)METHODH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaP P(%"
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*appendCharToTrie2§
+Ralgorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java_ _(.2á
+5algorithme.trie.TopKFrequentWords.TrieNode.TrieNode()CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java]( ](02¶
+Talgorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)!iCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaQ Q(2©
+Walgorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)!wordCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaQ Q(2¶
+Talgorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)!iCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaT T(2©
+Walgorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)!wordCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaT T(2é
+<algorithme.trie.TopKFrequentWords.TrieNode?value@77.15:77.20CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaU U(2©
+Walgorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)!wordCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaU U(2©
+Walgorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)!wordCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaX X(2¶
+Talgorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)!iCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaX! X("2ë
+?algorithme.trie.TopKFrequentWords.TrieNode?children@78.19:78.27CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaY Y(2ë
+?algorithme.trie.TopKFrequentWords.TrieNode?children@78.19:78.27CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaZ Z(2ë
+?algorithme.trie.TopKFrequentWords.TrieNode?children@78.19:78.27CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java\ \(2≤
+`algorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)?c@88.17:88.18CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java\ \(2ë
+?algorithme.trie.TopKFrequentWords.TrieNode?children@78.19:78.27CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java] ](2≤
+`algorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)?c@88.17:88.18CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java] ](2ë
+?algorithme.trie.TopKFrequentWords.TrieNode?children@78.19:78.27CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java_ _(2≤
+`algorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)?c@88.17:88.18CALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java_ _(2©
+Walgorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)!wordCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java_/ _(32¶
+Talgorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)!iCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.java_5 _(62Æ
+Walgorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)!word	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaP- P(12´
+Talgorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)!i	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaP7 P(82π
+`algorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)?c@88.17:88.18DECLARATIONH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaX X(2]
+voidRETURN_TYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaP P(ı
+`algorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)?c@88.17:88.18VARIABLEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaX X("
+type char*c2V
+charTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaX X(2©
+Walgorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)!wordCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaX X(2¶
+Talgorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)!iCALLH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaX! X("ò
+Walgorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)!word	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaP- P(1*word2b
+java.util.StringTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaP& P(,Ö
+Talgorithme.trie.TopKFrequentWords.TrieNode.appendCharToTrie(java.util.String, int)!i	PARAMETERH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaP7 P(8*i2U
+intTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaP3 P(6é
+<algorithme.trie.TopKFrequentWords.TrieNode?value@77.15:77.20VARIABLEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaM M("
+type String*value2b
+java.util.StringTYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaM M(¥
+?algorithme.trie.TopKFrequentWords.TrieNode?children@78.19:78.27VARIABLEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaN N("
+type 
+TrieNode[]*children2~
+,algorithme.trie.TopKFrequentWords.TrieNode[]TYPEH
+>algorithm/src/main/java/algorithme/trie/TopKFrequentWords.javaN N(

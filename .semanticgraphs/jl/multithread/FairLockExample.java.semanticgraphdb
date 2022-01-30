@@ -1,0 +1,260 @@
+
+;knowledge/src/main/java/jl/multithread/FairLockExample.java∞
+jl.multithread.FairLockExampleCLASSE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java ("
+inner classfalse*FairLockExample2ç
+7jl.multithread.FairLockExample.main(java.lang.String[])DECLARATIONE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java	 	(2à
+2jl.multithread.FairLockExample?downLatch@7.40:7.49DECLARATIONE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java( (1±(
+7jl.multithread.FairLockExample.main(java.lang.String[])METHODE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java	 	("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2g
+java.lang.Thread.start()CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2ù
+Njava.util.concurrent.CountDownLatch.await(long, java.util.concurrent.TimeUnit)CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2|
+-java.io.PrintStream.println(java.lang.String)CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2g
+java.lang.Thread.start()CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2z
++java.lang.Thread.Thread(java.lang.Runnable)CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (#2ê
+Ajl.multithread.FairLockExample.FairLockRunner.FairLockRunner(int)CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java( (62z
++java.lang.Thread.Thread(java.lang.Runnable)CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (#2ñ
+Gjl.multithread.FairLockExample.NonFairLockRunner.NonFairLockRunner(int)CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java( (92î
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@11.17:11.18CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2î
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@11.17:11.18CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java  (!2ö
+Kjl.multithread.FairLockExample.main(java.lang.String[])?threads@10.17:10.24CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2î
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@11.17:11.18CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2î
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@11.17:11.18CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java7 (82î
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@14.17:14.18CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2î
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@14.17:14.18CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java  (!2ö
+Kjl.multithread.FairLockExample.main(java.lang.String[])?threads@10.17:10.24CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2î
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@14.17:14.18CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2Å
+2jl.multithread.FairLockExample?downLatch@7.40:7.49CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2î
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@20.17:20.18CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2î
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@20.17:20.18CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java  (!2ö
+Kjl.multithread.FairLockExample.main(java.lang.String[])?threads@10.17:10.24CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2î
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@20.17:20.18CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2î
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@20.17:20.18CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java: (;2î
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@24.17:24.18CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2î
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@24.17:24.18CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java  (!2ö
+Kjl.multithread.FairLockExample.main(java.lang.String[])?threads@10.17:10.24CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2î
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@24.17:24.18CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2ê
+<jl.multithread.FairLockExample.main(java.lang.String[])!args	PARAMETERE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java	% 	()2°
+Kjl.multithread.FairLockExample.main(java.lang.String[])?threads@10.17:10.24DECLARATIONE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java
+ 
+(2õ
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@11.17:11.18DECLARATIONE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2õ
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@14.17:14.18DECLARATIONE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2õ
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@20.17:20.18DECLARATIONE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2õ
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@24.17:24.18DECLARATIONE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (2Z
+voidRETURN_TYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java	 	(ù
+Kjl.multithread.FairLockExample.main(java.lang.String[])?threads@10.17:10.24VARIABLEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java
+ 
+("
+type Thread[]*threads2a
+java.lang.Thread[]TYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java
+ 
+(˝
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@11.17:11.18VARIABLEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java ("
+type int*i2R
+intTYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (˝
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@14.17:14.18VARIABLEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java ("
+type int*i2R
+intTYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (˝
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@20.17:20.18VARIABLEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java ("
+type int*i2R
+intTYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (˝
+Ejl.multithread.FairLockExample.main(java.lang.String[])?i@24.17:24.18VARIABLEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java ("
+type int*i2R
+intTYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (˘
+<jl.multithread.FairLockExample.main(java.lang.String[])!args	PARAMETERE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java	% 	()*args2a
+java.lang.String[]TYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java	 	($£
+2jl.multithread.FairLockExample?downLatch@7.40:7.49VALUEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java( (1"
+type CountDownLatch*	downLatch2r
+#java.util.concurrent.CountDownLatchTYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java ('2Ü
+7java.util.concurrent.CountDownLatch.CountDownLatch(int)CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java8 (F›
+-jl.multithread.FairLockExample.FairLockRunnerCLASSE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java ('"
+inner classfalse*FairLockRunner2ó
+Ajl.multithread.FairLockExample.FairLockRunner.FairLockRunner(int)DECLARATIONE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java# #(2â
+3jl.multithread.FairLockExample.FairLockRunner.run()DECLARATIONE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java( ((2î
+>jl.multithread.FairLockExample.FairLockRunner?LOCK@31.43:31.47DECLARATIONE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java+ (/2ï
+?jl.multithread.FairLockExample.FairLockRunner?index@33.26:33.31DECLARATIONE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java! !(2c
+java.lang.RunnableEXTENDE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java3 (;ı
+Ajl.multithread.FairLockExample.FairLockRunner.FairLockRunner(int)CONSTRUCTORE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java# #(*FairLockRunner2ñ
+Gjl.multithread.FairLockExample.FairLockRunner.FairLockRunner(int)!indexCALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java$ $(2é
+?jl.multithread.FairLockExample.FairLockRunner?index@33.26:33.31CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java$ $(2õ
+Gjl.multithread.FairLockExample.FairLockRunner.FairLockRunner(int)!index	PARAMETERE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java#" #('2É
+-jl.multithread.FairLockExample.FairLockRunnerRETURN_TYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java# #(ˆ
+Gjl.multithread.FairLockExample.FairLockRunner.FairLockRunner(int)!index	PARAMETERE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java#" #('*index2R
+intTYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java# #(!Ä
+3jl.multithread.FairLockExample.FairLockRunner.run()METHODE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java( (("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*run2~
+/java.util.concurrent.locks.ReentrantLock.lock()CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java+ +(2|
+-java.io.PrintStream.println(java.lang.String)CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java, ,("2Ä
+1java.util.concurrent.locks.ReentrantLock.unlock()CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java/ /(2~
+/java.util.concurrent.CountDownLatch.countDown()CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java0 0(#2ç
+>jl.multithread.FairLockExample.FairLockRunner?LOCK@31.43:31.47CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java+ +(2é
+?jl.multithread.FairLockExample.FairLockRunner?index@33.26:33.31CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java,. ,(32ç
+>jl.multithread.FairLockExample.FairLockRunner?LOCK@31.43:31.47CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java/ /(2Å
+2jl.multithread.FairLockExample?downLatch@7.40:7.49CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java0 0(2ó
+Ajl.multithread.FairLockExample.FairLockRunner.run()?e@45.31:45.32DECLARATIONE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java- -( 2Z
+voidRETURN_TYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java( ((˚
+Ajl.multithread.FairLockExample.FairLockRunner.run()?e@45.31:45.32VARIABLEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java- -( *e2b
+java.lang.ExceptionTYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java- -(∂
+>jl.multithread.FairLockExample.FairLockRunner?LOCK@31.43:31.47VALUEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java+ (/"
+type ReentrantLock*LOCK2w
+(java.util.concurrent.locks.ReentrantLockTYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java (*2é
+?java.util.concurrent.locks.ReentrantLock.ReentrantLock(boolean)CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java6 (C¯
+?jl.multithread.FairLockExample.FairLockRunner?index@33.26:33.31VALUEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java! !("
+type int*index2R
+intTYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java! !(Ú
+0jl.multithread.FairLockExample.NonFairLockRunnerCLASSE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java6 6(*"
+inner classfalse*NonFairLockRunner2ù
+Gjl.multithread.FairLockExample.NonFairLockRunner.NonFairLockRunner(int)DECLARATIONE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java: :( 2å
+6jl.multithread.FairLockExample.NonFairLockRunner.run()DECLARATIONE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java? ?(2ó
+Ajl.multithread.FairLockExample.NonFairLockRunner?LOCK@55.43:55.47DECLARATIONE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java7+ 7(/2ò
+Bjl.multithread.FairLockExample.NonFairLockRunner?index@56.26:56.31DECLARATIONE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java8 8(2c
+java.lang.RunnableEXTENDE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java66 6(>ê
+Gjl.multithread.FairLockExample.NonFairLockRunner.NonFairLockRunner(int)CONSTRUCTORE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java: :( *NonFairLockRunner2ú
+Mjl.multithread.FairLockExample.NonFairLockRunner.NonFairLockRunner(int)!indexCALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java; ;(2ë
+Bjl.multithread.FairLockExample.NonFairLockRunner?index@56.26:56.31CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java; ;(2°
+Mjl.multithread.FairLockExample.NonFairLockRunner.NonFairLockRunner(int)!index	PARAMETERE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java:% :(*2Ü
+0jl.multithread.FairLockExample.NonFairLockRunnerRETURN_TYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java: :( ¸
+Mjl.multithread.FairLockExample.NonFairLockRunner.NonFairLockRunner(int)!index	PARAMETERE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java:% :(**index2R
+intTYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java:! :($ã
+
+6jl.multithread.FairLockExample.NonFairLockRunner.run()METHODE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java? ?("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*run2~
+/java.util.concurrent.locks.ReentrantLock.lock()CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java@ @(2|
+-java.io.PrintStream.println(java.lang.String)CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.javaB B("2Ä
+1java.util.concurrent.locks.ReentrantLock.unlock()CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.javaE E(2ê
+Ajl.multithread.FairLockExample.NonFairLockRunner?LOCK@55.43:55.47CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java@ @(2ë
+Bjl.multithread.FairLockExample.NonFairLockRunner?index@56.26:56.31CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.javaB7 B(<2ê
+Ajl.multithread.FairLockExample.NonFairLockRunner?LOCK@55.43:55.47CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.javaE E(2ö
+Djl.multithread.FairLockExample.NonFairLockRunner.run()?e@67.31:67.32DECLARATIONE
+;knowledge/src/main/java/jl/multithread/FairLockExample.javaC C( 2Z
+voidRETURN_TYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java? ?(˛
+Djl.multithread.FairLockExample.NonFairLockRunner.run()?e@67.31:67.32VARIABLEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.javaC C( *e2b
+java.lang.ExceptionTYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.javaC C(π
+Ajl.multithread.FairLockExample.NonFairLockRunner?LOCK@55.43:55.47VALUEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java7+ 7(/"
+type ReentrantLock*LOCK2w
+(java.util.concurrent.locks.ReentrantLockTYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java7 7(*2é
+?java.util.concurrent.locks.ReentrantLock.ReentrantLock(boolean)CALLE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java76 7(C˚
+Bjl.multithread.FairLockExample.NonFairLockRunner?index@56.26:56.31VALUEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java8 8("
+type int*index2R
+intTYPEE
+;knowledge/src/main/java/jl/multithread/FairLockExample.java8 8(

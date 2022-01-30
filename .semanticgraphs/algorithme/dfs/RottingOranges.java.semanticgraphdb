@@ -1,0 +1,396 @@
+
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.javaù
+algorithme.dfs.RottingOrangesCLASSD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java ("
+inner classfalse*RottingOranges2ã
+6algorithme.dfs.RottingOranges.main(java.lang.String[])DECLARATIOND
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (2{
+&algorithme.dfs.RottingOranges.bridge()DECLARATIOND
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (∂
+6algorithme.dfs.RottingOranges.main(java.lang.String[])METHODD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2t
+&algorithme.dfs.RottingOranges.bridge()CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (#2|
+.algorithme.dfs.RottingOranges.RottingOranges()CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (2é
+;algorithme.dfs.RottingOranges.main(java.lang.String[])!args	PARAMETERD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java% ()2Y
+voidRETURN_TYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (ˆ
+;algorithme.dfs.RottingOranges.main(java.lang.String[])!args	PARAMETERD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java% ()*args2`
+java.lang.String[]TYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java ($Å
+&algorithme.dfs.RottingOranges.bridge()METHODD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2n
+ java.io.PrintStream.println(int)CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (2å
+>algorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java* (82
+1algorithme.dfs.RottingOranges.Solution.Solution()CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java ('2Ö
+7algorithme.dfs.RottingOranges.bridge()?gson@21.13:21.17CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (2Ö
+7algorithme.dfs.RottingOranges.bridge()?json@18.15:18.19CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java% ()2Ö
+7algorithme.dfs.RottingOranges.bridge()?type@19.13:19.17CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java+ (/2Ö
+7algorithme.dfs.RottingOranges.bridge()?grid@22.16:22.20CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java9 (=2å
+7algorithme.dfs.RottingOranges.bridge()?json@18.15:18.19DECLARATIOND
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (2å
+7algorithme.dfs.RottingOranges.bridge()?type@19.13:19.17DECLARATIOND
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (2å
+7algorithme.dfs.RottingOranges.bridge()?gson@21.13:21.17DECLARATIOND
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (2å
+7algorithme.dfs.RottingOranges.bridge()?grid@22.16:22.20DECLARATIOND
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (2Y
+voidRETURN_TYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (Ä
+7algorithme.dfs.RottingOranges.bridge()?json@18.15:18.19VARIABLED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java ("
+type String*json2^
+java.lang.StringTYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (Ñ
+7algorithme.dfs.RottingOranges.bridge()?type@19.13:19.17VARIABLED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java ("
+type Type*type2d
+java.lang.reflect.TypeTYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (Ç
+7algorithme.dfs.RottingOranges.bridge()?gson@21.13:21.17VARIABLED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java ("
+type Gson*gson2b
+com.google.gson.GsonTYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (ê
+7algorithme.dfs.RottingOranges.bridge()?grid@22.16:22.20VARIABLED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java ("
+type int[][]*grid2U
+int[][]TYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (2Ö
+7algorithme.dfs.RottingOranges.bridge()?gson@21.13:21.17CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (2Ö
+7algorithme.dfs.RottingOranges.bridge()?json@18.15:18.19CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java% ()2Ö
+7algorithme.dfs.RottingOranges.bridge()?type@19.13:19.17CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java+ (/€
+&algorithme.dfs.RottingOranges.SolutionCLASSD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java ("
+inner classfalse*Solution2ì
+>algorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])DECLARATIOND
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (!2≠
+Xalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)DECLARATIOND
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6 6(£B
+>algorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])METHODD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (!"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*orangesRotting2j
+java.util.Arrays.stream(T[])CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (2¶
+Xalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java# #(2j
+java.lang.Math.max(int, int)CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java0 0("2ë
+Calgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])!gridCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (2ë
+Calgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])!gridCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?m@28.16:28.17CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java+ (,2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?n@29.16:29.17CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java. (/2•
+Walgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?rottingSteps@30.20:30.32CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (&2ù
+Oalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?line@31.48:31.52CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.javaD (H2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?i@32.21:32.22CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java   (2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?m@28.16:28.17CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java    (!2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?i@32.21:32.22CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java #  ($2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?j@33.25:33.26CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java!  !(!2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?n@29.16:29.17CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java!$ !(%2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?j@33.25:33.26CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java!' !((2ë
+Calgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])!gridCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java" "(2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?i@32.21:32.22CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java" "(2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?j@33.25:33.26CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java"  "(!2ë
+Calgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])!gridCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java# #( 2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?m@28.16:28.17CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java#. #(/2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?n@29.16:29.17CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java#1 #(22•
+Walgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?rottingSteps@30.20:30.32CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java#5 #(A2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?i@32.21:32.22CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java#C #(D2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?j@33.25:33.26CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java#F #(G2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?i@40.21:40.22CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java( ((2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?m@28.16:28.17CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java(  ((!2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?i@40.21:40.22CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java(# (($2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?j@41.25:41.26CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java)  )(!2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?n@29.16:29.17CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java)$ )(%2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?j@41.25:41.26CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java)' )((2ë
+Calgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])!gridCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java* *(2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?i@40.21:40.22CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java* *(2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?j@41.25:41.26CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java*  *(!2•
+Walgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?rottingSteps@30.20:30.32CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java- -($2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?i@40.21:40.22CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java-% -(&2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?j@41.25:41.26CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java-( -()2ú
+Nalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?ans@39.16:39.19CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java0 0(2ú
+Nalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?ans@39.16:39.19CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java0# 0(&2•
+Walgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?rottingSteps@30.20:30.32CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java0( 0(42ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?i@40.21:40.22CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java05 0(62ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?j@41.25:41.26CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java08 0(92ú
+Nalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?ans@39.16:39.19CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java3 3(2ñ
+Calgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])!grid	PARAMETERD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java* (.2°
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?m@28.16:28.17DECLARATIOND
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (2°
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?n@29.16:29.17DECLARATIOND
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (2¨
+Walgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?rottingSteps@30.20:30.32DECLARATIOND
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java ( 2°
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?i@32.21:32.22DECLARATIOND
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java   (2°
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?j@33.25:33.26DECLARATIOND
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java! !(2£
+Nalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?ans@39.16:39.19DECLARATIOND
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java' '(2°
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?i@40.21:40.22DECLARATIOND
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java( ((2°
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?j@41.25:41.26DECLARATIOND
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java) )(2§
+Oalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?line@31.48:31.52DECLARATIOND
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java0 (42X
+intRETURN_TYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (ñ
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?m@28.16:28.17VARIABLED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java ("
+type int*m2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (2ë
+Calgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])!gridCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (ñ
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?n@29.16:29.17VARIABLED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java ("
+type int*n2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (2ë
+Calgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])!gridCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (⁄
+Walgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?rottingSteps@30.20:30.32VARIABLED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java ( "
+type int[][]*rottingSteps2U
+int[][]TYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java (2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?m@28.16:28.17CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java+ (,2ö
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?n@29.16:29.17CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java. (/Ç
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?i@32.21:32.22VARIABLED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java   ("
+type int*i2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java   (Ç
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?j@33.25:33.26VARIABLED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java! !("
+type int*j2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java! !(Ü
+Nalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?ans@39.16:39.19VARIABLED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java' '("
+type int*ans2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java' '(Ç
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?i@40.21:40.22VARIABLED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java( (("
+type int*i2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java( ((Ç
+Lalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?j@41.25:41.26VARIABLED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java) )("
+type int*j2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java) )(Û
+Calgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])!grid	PARAMETERD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java* (.*grid2U
+int[][]TYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java" ('Ø
+Oalgorithme.dfs.RottingOranges.Solution.orangesRotting(int[][])?line@31.48:31.52VARIABLED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java0 (4*line2TYPEÀL
+Xalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)METHODD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6 6("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*dfs2¶
+Xalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java? ?(2¶
+Xalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java@ @(2¶
+Xalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.javaA A(2¶
+Xalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)CALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.javaB B(2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!iCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java7 7(2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!jCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java7 7(2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!iCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java7" 7(#2´
+]algorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!gridCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java7' 7(+2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!jCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java76 7(72´
+]algorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!gridCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java7; 7(?2´
+]algorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!gridCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java: :(2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!iCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java: :(2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!jCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java: :(2≤
+dalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!currentStepCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java:# :(.2≥
+ealgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!rottingStepsCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java:2 :(>2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!iCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java:? :(@2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!jCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java:B :(C2Æ
+`algorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!visitedCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java= =(2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!iCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java= =(2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!jCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java= =(2≥
+ealgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!rottingStepsCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java> >(2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!iCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java> >(2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!jCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java> >(2≤
+dalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!currentStepCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java>! >(,2´
+]algorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!gridCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java? ?(2Æ
+`algorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!visitedCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java? ?(2≥
+ealgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!rottingStepsCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java? ?(+2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!iCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java?- ?(.2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!jCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java?4 ?(52≤
+dalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!currentStepCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java?7 ?(B2´
+]algorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!gridCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java@ @(2Æ
+`algorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!visitedCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java@ @(2≥
+ealgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!rottingStepsCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java@ @(+2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!iCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java@- @(.2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!jCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java@4 @(52≤
+dalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!currentStepCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java@7 @(B2´
+]algorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!gridCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.javaA A(2Æ
+`algorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!visitedCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.javaA A(2≥
+ealgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!rottingStepsCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.javaA A(+2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!iCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.javaA- A(.2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!jCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.javaA0 A(12≤
+dalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!currentStepCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.javaA7 A(B2´
+]algorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!gridCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.javaB B(2Æ
+`algorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!visitedCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.javaB B(2≥
+ealgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!rottingStepsCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.javaB B(+2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!iCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.javaB- B(.2®
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!jCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.javaB0 B(12≤
+dalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!currentStepCALLD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.javaB7 B(B2∞
+]algorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!grid	PARAMETERD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6! 6(%2≥
+`algorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!visited	PARAMETERD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java63 6(:2∏
+ealgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!rottingSteps	PARAMETERD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6D 6(P2≠
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!i	PARAMETERD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6V 6(W2≠
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!j	PARAMETERD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6] 6(^2∑
+dalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!currentStep	PARAMETERD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6d 6(o2Y
+voidRETURN_TYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6 6(ç
+]algorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!grid	PARAMETERD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6! 6(%*grid2U
+int[][]TYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6 6(ó
+`algorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!visited	PARAMETERD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java63 6(:*visited2Y
+boolean[][]TYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6' 6(0ù
+ealgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!rottingSteps	PARAMETERD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6D 6(P*rottingSteps2U
+int[][]TYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6< 6(AÉ
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!i	PARAMETERD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6V 6(W*i2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6R 6(UÉ
+Zalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!j	PARAMETERD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6] 6(^*j2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6Y 6(\ó
+dalgorithme.dfs.RottingOranges.Solution.dfs(int[][], boolean[][], int[][], int, int, int)!currentStep	PARAMETERD
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6d 6(o*currentStep2Q
+intTYPED
+:algorithm/src/main/java/algorithme/dfs/RottingOranges.java6` 6(c

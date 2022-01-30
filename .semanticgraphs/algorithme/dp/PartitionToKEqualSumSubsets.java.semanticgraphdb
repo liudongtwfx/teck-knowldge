@@ -1,0 +1,241 @@
+
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java‰
+)algorithme.dp.PartitionToKEqualSumSubsetsCLASSP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (("
+inner classfalse*PartitionToKEqualSumSubsets2£
+Balgorithme.dp.PartitionToKEqualSumSubsets.main(java.lang.String[])DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java	 	(2“
+2algorithme.dp.PartitionToKEqualSumSubsets.bridge()DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (2“
+2algorithme.dp.PartitionToKEqualSumSubsets.SolutionDECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java
+ (±
+Balgorithme.dp.PartitionToKEqualSumSubsets.main(java.lang.String[])METHODP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java	 	("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2Œ
+2algorithme.dp.PartitionToKEqualSumSubsets.bridge()CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java
+* 
+(02¡
+Galgorithme.dp.PartitionToKEqualSumSubsets.PartitionToKEqualSumSubsets()CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java
+ 
+('2¦
+Galgorithme.dp.PartitionToKEqualSumSubsets.main(java.lang.String[])!args	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java	% 	()2e
+voidRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java	 	(š
+Galgorithme.dp.PartitionToKEqualSumSubsets.main(java.lang.String[])!args	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java	% 	()*args2l
+java.lang.String[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java	 	($›
+2algorithme.dp.PartitionToKEqualSumSubsets.bridge()METHODP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2~
+$java.io.PrintStream.println(boolean)CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (2­
+Salgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java* (>2—
+=algorithme.dp.PartitionToKEqualSumSubsets.Solution.Solution()CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java ('2
+Calgorithme.dp.PartitionToKEqualSumSubsets.bridge()?nums@14.14:14.18CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java? (C2š
+@algorithme.dp.PartitionToKEqualSumSubsets.bridge()?k@15.12:15.13CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.javaE (F2¤
+Calgorithme.dp.PartitionToKEqualSumSubsets.bridge()?nums@14.14:14.18DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (2¡
+@algorithme.dp.PartitionToKEqualSumSubsets.bridge()?k@15.12:15.13DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (2e
+voidRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (˜
+Calgorithme.dp.PartitionToKEqualSumSubsets.bridge()?nums@14.14:14.18VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java ("
+type int[]*nums2_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (Ž
+@algorithme.dp.PartitionToKEqualSumSubsets.bridge()?k@15.12:15.13VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java ("
+type int*k2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (ž
+2algorithme.dp.PartitionToKEqualSumSubsets.SolutionCLASSP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java
+ ("
+inner classtrue*Solution2´
+Salgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (+2¸
+Walgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java   (’
+Salgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)METHODP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (+"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type boolean*canPartitionKSubsets2v
+java.util.Arrays.sort(int[])CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (2±
+Walgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (2²
+Xalgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)!numsCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (2½
+calgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)?sum@21.16:21.19CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (2½
+calgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)?num@22.21:22.24CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (2½
+calgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)?sum@21.16:21.19CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (2¯
+Ualgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)!kCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (2²
+Xalgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)!numsCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (2²
+Xalgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)!numsCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (2²
+Xalgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)!numsCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java) (-2½
+calgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)?sum@21.16:21.19CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java7 (:2¯
+Ualgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)!kCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java= (>2¯
+Ualgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)!kCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java@ (A2·
+Xalgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)!nums	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java2 (62´
+Ualgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)!k	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java< (=2Ä
+calgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)?sum@21.16:21.19DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (2Ä
+calgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)?num@22.21:22.24DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (2h
+booleanRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (³
+calgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)?sum@21.16:21.19VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java ("
+type int*sum2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (³
+calgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)?num@22.21:22.24VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java ("
+type int*num2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (ž
+Xalgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)!nums	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java2 (6*nums2_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java, (1–
+Ualgorithme.dp.PartitionToKEqualSumSubsets.Solution.canPartitionKSubsets(int[], int)!k	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java< (=*k2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java8 (;ñ7
+Walgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)METHODP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java   ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type boolean*dfs2±
+Walgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java( ((2±
+Walgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java. .(2¹
+_algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!currentCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java! !(2¸
+^algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!targetCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java! !( 2¸
+^algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!targetCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java$ $(2¹
+_algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!currentCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java$ $(!2³
+Yalgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!kCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java% %(2¶
+\algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!numsCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java( ((2¹
+_algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!visitedCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java(! (((2¸
+^algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!targetCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java(* ((02³
+Yalgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!kCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java(2 ((32¶
+\algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!numsCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java* *(2¿
+ealgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)?i@42.21:42.22CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java** *(+2¿
+ealgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)?i@42.21:42.22CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java*2 *(32¹
+_algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!visitedCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java+ +(2¿
+ealgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)?i@42.21:42.22CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java+ +(2¶
+\algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!numsCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java, ,(2¿
+ealgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)?i@42.21:42.22CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java, ,(2¸
+^algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!targetCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java,# ,()2¹
+_algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!visitedCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java- -(2¿
+ealgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)?i@42.21:42.22CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java-  -(!2¶
+\algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!numsCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java.  .($2¹
+_algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!visitedCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java.& .(-2¸
+^algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!targetCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java./ .(52³
+Yalgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!kCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java.7 .(82¹
+_algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!currentCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java.: .(A2¶
+\algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!numsCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java.D .(H2¿
+ealgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)?i@42.21:42.22CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java.I .(J2¹
+_algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!visitedCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java1 1(2¿
+ealgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)?i@42.21:42.22CALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java1  1(!2»
+\algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!nums	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java "  (&2¾
+_algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!visited	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java 2  (92½
+^algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!target	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java ?  (E2¸
+Yalgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!k	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java K  (L2¾
+_algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!current	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java R  (Y2Æ
+ealgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)?i@42.21:42.22DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java* *(2h
+booleanRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java   (ì
+ealgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)?i@42.21:42.22VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java* *("
+type int*i2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java* *(2¶
+\algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!numsCALLP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java* *(¢
+\algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!nums	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java "  (&*nums2_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java   (!¬
+_algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!visited	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java 2  (9*visited2c
+	boolean[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java (  (1¤
+^algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!target	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java ?  (E*target2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java ;  (>š
+Yalgorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!k	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java K  (L*k2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java G  (J¦
+_algorithme.dp.PartitionToKEqualSumSubsets.Solution.dfs(int[], boolean[], int, int, int)!current	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java R  (Y*current2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/PartitionToKEqualSumSubsets.java N  (Q

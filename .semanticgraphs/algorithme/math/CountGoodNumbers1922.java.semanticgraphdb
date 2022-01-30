@@ -1,0 +1,355 @@
+
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java¬
+$algorithme.math.CountGoodNumbers1922CLASSK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (!"
+inner classfalse*CountGoodNumbers19222ô
+=algorithme.math.CountGoodNumbers1922.main(java.lang.String[])DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (ó
+=algorithme.math.CountGoodNumbers1922.main(java.lang.String[])METHODK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2ô
+Dalgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (/2†
+Kalgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.javaL (\2v
+!java.io.PrintStream.println(long)CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java ("2ç
+8algorithme.math.CountGoodNumbers1922.Solution.Solution()CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2õ
+Falgorithme.math.CountGoodNumbers1922.CorrectSolution.CorrectSolution()CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java: (I2û
+Ialgorithme.math.CountGoodNumbers1922.main(java.lang.String[])?i@4.18:4.19CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2û
+Ialgorithme.math.CountGoodNumbers1922.main(java.lang.String[])?i@4.18:4.19CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java" (#2û
+Ialgorithme.math.CountGoodNumbers1922.main(java.lang.String[])?i@4.18:4.19CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java0 (12û
+Ialgorithme.math.CountGoodNumbers1922.main(java.lang.String[])?i@4.18:4.19CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java] (^2û
+Ialgorithme.math.CountGoodNumbers1922.main(java.lang.String[])?i@4.18:4.19CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java# ($2ú
+Balgorithme.math.CountGoodNumbers1922.main(java.lang.String[])!args	PARAMETERK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java% ()2•
+Ialgorithme.math.CountGoodNumbers1922.main(java.lang.String[])?i@4.18:4.19DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2`
+voidRETURN_TYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (è
+Ialgorithme.math.CountGoodNumbers1922.main(java.lang.String[])?i@4.18:4.19VARIABLEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java ("
+type long*i2Y
+longTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (ã
+Balgorithme.math.CountGoodNumbers1922.main(java.lang.String[])!args	PARAMETERK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java% ()*args2g
+java.lang.String[]TYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java ($˝
+-algorithme.math.CountGoodNumbers1922.SolutionCLASSK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java ("
+inner classfalse*Solution2ò
+<algorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2†
+Dalgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (#2ô
+=algorithme.math.CountGoodNumbers1922.Solution?MOD@12.34:12.37DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java" (%∏
+<algorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)METHODK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java ("
+statictrue"
+finalfalse"
+access modifierprivate"
+type long*dfs2ë
+<algorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2ó
+Balgorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)!countCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2ó
+Balgorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)!countCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2ï
+@algorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)!numCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2ó
+Balgorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)!countCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2ï
+@algorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)!numCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java. (12ï
+@algorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)!numCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2ó
+Balgorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)!countCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java! (&2¢
+Malgorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)?left@23.17:23.21CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2¢
+Malgorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)?left@23.17:23.21CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java ( 2í
+=algorithme.math.CountGoodNumbers1922.Solution?MOD@12.34:12.37CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java$ ('2£
+Nalgorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)?extra@22.17:22.22CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java* (/2í
+=algorithme.math.CountGoodNumbers1922.Solution?MOD@12.34:12.37CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java3 (62ö
+@algorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)!num	PARAMETERK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java$ ('2ú
+Balgorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)!count	PARAMETERK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java. (32™
+Nalgorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)?extra@22.17:22.22DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2©
+Malgorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)?left@23.17:23.21DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2`
+longRETURN_TYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java ( 
+Nalgorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)?extra@22.17:22.22VARIABLEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java ("
+type long*extra2Y
+longTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2ó
+Balgorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)!countCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2ï
+@algorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)!numCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java. (1‹
+Malgorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)?left@23.17:23.21VARIABLEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java ("
+type long*left2Y
+longTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2ë
+<algorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2ï
+@algorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)!numCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2ó
+Balgorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)!countCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java! (&˘
+@algorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)!num	PARAMETERK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java$ ('*num2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java  (#˛
+Balgorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)!count	PARAMETERK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java. (3*count2Y
+longTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java) (-ú
+Dalgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)METHODK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (#"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*countGoodNumbers2ë
+<algorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2õ
+Falgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)!nCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2¨
+Walgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)?twenty@29.17:29.23CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java  (&2í
+=algorithme.math.CountGoodNumbers1922.Solution?MOD@12.34:12.37CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java* (-2õ
+Falgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)!nCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2™
+Ualgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)?four@30.17:30.21CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java   (2™
+Ualgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)?five@31.17:31.21CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java "  (&2í
+=algorithme.math.CountGoodNumbers1922.Solution?MOD@12.34:12.37CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java *  (-2†
+Falgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)!n	PARAMETERK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java) (*2≥
+Walgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)?twenty@29.17:29.23DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2±
+Ualgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)?four@30.17:30.21DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2±
+Ualgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)?five@31.17:31.21DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2_
+intRETURN_TYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (¿
+Walgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)?twenty@29.17:29.23VARIABLEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java ("
+type long*twenty2Y
+longTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2õ
+Falgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)!nCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (ˆ
+Ualgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)?four@30.17:30.21VARIABLEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java ("
+type long*four2Y
+longTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2ë
+<algorithme.math.CountGoodNumbers1922.Solution.dfs(int, long)CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2¨
+Walgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)?twenty@29.17:29.23CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java  (&2í
+=algorithme.math.CountGoodNumbers1922.Solution?MOD@12.34:12.37CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java* (-º
+Ualgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)?five@31.17:31.21VARIABLEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java ("
+type long*five2Y
+longTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (2õ
+Falgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)!nCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (˛
+Falgorithme.math.CountGoodNumbers1922.Solution.countGoodNumbers(long)!n	PARAMETERK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java) (**n2Y
+longTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java$ ((Ç
+=algorithme.math.CountGoodNumbers1922.Solution?MOD@12.34:12.37VALUEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java" (%"
+type long*MOD2Y
+longTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java (!†
+4algorithme.math.CountGoodNumbers1922.CorrectSolutionCLASSK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java$ $( "
+inner classfalse*CorrectSolution2ü
+Calgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java' '(2ß
+Kalgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java3 3(#2†
+Dalgorithme.math.CountGoodNumbers1922.CorrectSolution?MOD@37.34:37.37DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java%" %(%∑
+Calgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)METHODK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java' '("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type long*dfs2ò
+Calgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java/ /(2û
+Ialgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)!countCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java( ((2û
+Ialgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)!countCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java+ +(2ú
+Galgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)!numCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java, ,(2û
+Ialgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)!countCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java. .(2ú
+Galgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)!numCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java.- .(02ú
+Galgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)!numCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java/ /(2û
+Ialgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)!countCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java/! /(&2ô
+Dalgorithme.math.CountGoodNumbers1922.CorrectSolution?MOD@37.34:37.37CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java/. /(12©
+Talgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)?left@47.17:47.21CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java0 0(2©
+Talgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)?left@47.17:47.21CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java0 0(2™
+Ualgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)?extra@46.16:46.21CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java0" 0('2ô
+Dalgorithme.math.CountGoodNumbers1922.CorrectSolution?MOD@37.34:37.37CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java0+ 0(.2°
+Galgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)!num	PARAMETERK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java' '( 2£
+Ialgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)!count	PARAMETERK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java'' '(,2±
+Ualgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)?extra@46.16:46.21DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java. .(2∞
+Talgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)?left@47.17:47.21DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java/ /(2`
+longRETURN_TYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java' '(›
+Ualgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)?extra@46.16:46.21VARIABLEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java. .("
+type int*extra2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java. .(2û
+Ialgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)!countCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java. .(2ú
+Galgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)!numCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java.- .(0î
+Talgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)?left@47.17:47.21VARIABLEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java/ /("
+type long*left2Y
+longTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java/ /(2ò
+Calgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java/ /(2ú
+Galgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)!numCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java/ /(2û
+Ialgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)!countCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java/! /(&2ô
+Dalgorithme.math.CountGoodNumbers1922.CorrectSolution?MOD@37.34:37.37CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java/. /(1Ä
+Galgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)!num	PARAMETERK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java' '( *num2X
+intTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java' '(Ö
+Ialgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)!count	PARAMETERK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java'' '(,*count2Y
+longTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java'" '(&ö
+Kalgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)METHODK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java3 3(#"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*countGoodNumbers2ò
+Calgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java6 6(2ò
+Calgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java7 7(2¢
+Malgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)!nCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java4 4(2¢
+Malgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)!nCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java5 5(2¢
+Malgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)!nCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java5! 5("2∂
+aalgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)?fourCount@52.17:52.26CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java6 6((2∂
+aalgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)?fiveCount@53.17:53.26CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java7 7((2±
+\algorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)?four@54.17:54.21CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java8 8(2±
+\algorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)?five@55.17:55.21CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java8" 8(&2ô
+Dalgorithme.math.CountGoodNumbers1922.CorrectSolution?MOD@37.34:37.37CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java8* 8(-2ß
+Malgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)!n	PARAMETERK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java3) 3(*2Ω
+aalgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)?fourCount@52.17:52.26DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java4 4(2Ω
+aalgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)?fiveCount@53.17:53.26DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java5 5(2∏
+\algorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)?four@54.17:54.21DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java6 6(2∏
+\algorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)?five@55.17:55.21DECLARATIONK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java7 7(2_
+intRETURN_TYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java3 3(‘
+aalgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)?fourCount@52.17:52.26VARIABLEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java4 4("
+type long*	fourCount2Y
+longTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java4 4(2¢
+Malgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)!nCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java4 4(˘
+aalgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)?fiveCount@53.17:53.26VARIABLEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java5 5("
+type long*	fiveCount2Y
+longTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java5 5(2¢
+Malgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)!nCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java5 5(2¢
+Malgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)!nCALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java5! 5("˘
+\algorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)?four@54.17:54.21VARIABLEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java6 6("
+type long*four2Y
+longTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java6 6(2ò
+Calgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java6 6(2∂
+aalgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)?fourCount@52.17:52.26CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java6 6((˘
+\algorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)?five@55.17:55.21VARIABLEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java7 7("
+type long*five2Y
+longTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java7 7(2ò
+Calgorithme.math.CountGoodNumbers1922.CorrectSolution.dfs(int, long)CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java7 7(2∂
+aalgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)?fiveCount@53.17:53.26CALLK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java7 7((Ö
+Malgorithme.math.CountGoodNumbers1922.CorrectSolution.countGoodNumbers(long)!n	PARAMETERK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java3) 3(**n2Y
+longTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java3$ 3((â
+Dalgorithme.math.CountGoodNumbers1922.CorrectSolution?MOD@37.34:37.37VALUEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java%" %(%"
+type long*MOD2Y
+longTYPEK
+Aalgorithm/src/main/java/algorithme/math/CountGoodNumbers1922.java% %(!

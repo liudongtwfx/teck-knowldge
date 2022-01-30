@@ -1,0 +1,250 @@
+
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java„
+3algorithme.dp.NumbersWithSameConsecutiveDifferencesCLASSZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2"
+inner classfalse*%NumbersWithSameConsecutiveDifferences2∑
+Lalgorithme.dp.NumbersWithSameConsecutiveDifferences.main(java.lang.String[])DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2ß
+<algorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2ß
+<algorithme.dp.NumbersWithSameConsecutiveDifferences.SolutionDECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java
+ (ï
+Lalgorithme.dp.NumbersWithSameConsecutiveDifferences.main(java.lang.String[])METHODZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2†
+<algorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java4 (:2ø
+[algorithme.dp.NumbersWithSameConsecutiveDifferences.NumbersWithSameConsecutiveDifferences()CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (12∫
+Qalgorithme.dp.NumbersWithSameConsecutiveDifferences.main(java.lang.String[])!args	PARAMETERZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java% ()2o
+voidRETURN_TYPEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (∏
+Qalgorithme.dp.NumbersWithSameConsecutiveDifferences.main(java.lang.String[])!args	PARAMETERZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java% ()*args2v
+java.lang.String[]TYPEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java ($‘
+<algorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()METHODZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2Ω
+Yalgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java, (>2ë
+-java.io.PrintStream.println(java.lang.String)CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java ("2´
+Galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.Solution()CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java! ()2Æ
+Jalgorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()?i@17.17:17.18CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2Æ
+Jalgorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()?i@17.17:17.18CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java  (!2Æ
+Jalgorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()?j@18.21:18.22CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2Æ
+Jalgorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()?j@18.21:18.22CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java$ (%2Æ
+Jalgorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()?i@17.17:17.18CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java? (@2Æ
+Jalgorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()?j@18.21:18.22CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.javaB (C2Æ
+Jalgorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()?i@17.17:17.18CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java* (+2Æ
+Jalgorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()?j@18.21:18.22CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java7 (82≥
+Oalgorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()?length@19.20:19.26CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.javaE (K2µ
+Jalgorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()?i@17.17:17.18DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2µ
+Jalgorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()?j@18.21:18.22DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2∫
+Oalgorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()?length@19.20:19.26DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2o
+voidRETURN_TYPEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (¨
+Jalgorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()?i@17.17:17.18VARIABLEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java ("
+type int*i2g
+intTYPEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (¨
+Jalgorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()?j@18.21:18.22VARIABLEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java ("
+type int*j2g
+intTYPEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (Ü
+Oalgorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()?length@19.20:19.26VARIABLEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java ("
+type int*length2g
+intTYPEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2Ω
+Yalgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java, (>2´
+Galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.Solution()CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java! ()2Æ
+Jalgorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()?i@17.17:17.18CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java? (@2Æ
+Jalgorithme.dp.NumbersWithSameConsecutiveDifferences.bridge()?j@18.21:18.22CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.javaB (Cá
+<algorithme.dp.NumbersWithSameConsecutiveDifferences.SolutionCLASSZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java
+ ("
+inner classtrue*Solution2ƒ
+Yalgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java ('«E
+Yalgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)METHODZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java ('"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int[]*numsSameConsecDiff2y
+java.util.List.add(E)CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2y
+java.util.List.add(E)CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java(  ((#2y
+java.util.List.add(E)CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java+  +(#2à
+$java.util.stream.IntStream.toArray()CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java0: 0(A2±
+Mjava.util.stream.Stream.mapToInt(java.util.function.ToIntFunction<? super T>)CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java0 0('2Å
+java.util.Collection.stream()CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java0 0(2É
+java.util.ArrayList.ArrayList()CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java# (.2É
+java.util.ArrayList.ArrayList()CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java!, !(72À
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?i@28.21:28.22CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2À
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?i@28.21:28.22CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java$ (%2Ã
+halgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?dp@27.26:27.28CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2À
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?i@28.21:28.22CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2À
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?i@31.21:31.22CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2ø
+[algorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)!NCALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java  (!2À
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?i@31.21:31.22CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java# ($2Ã
+halgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?dp@27.26:27.28CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java %  ('2Œ
+jalgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?last@32.30:32.34CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java"! "(%2À
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?s@34.29:34.30CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java# #(2À
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?s@34.29:34.30CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java& &(2À
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?n@38.24:38.25CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java' '(2ø
+[algorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)!KCALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java' '(2—
+malgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?newLine@33.30:33.37CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java( ((2À
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?s@34.29:34.30CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java($ ((%2À
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?n@38.24:38.25CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java(- ((.2ø
+[algorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)!KCALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java(1 ((22ø
+[algorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)!KCALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java* *(2À
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?n@38.24:38.25CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java*" *(#2ø
+[algorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)!KCALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java*& *('2—
+malgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?newLine@33.30:33.37CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java+ +(2À
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?s@34.29:34.30CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java+$ +(%2À
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?n@38.24:38.25CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java+- +(.2ø
+[algorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)!KCALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java+1 +(22Ã
+halgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?dp@27.26:27.28CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java. .(2—
+malgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?newLine@33.30:33.37CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java. .(2Ã
+halgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?dp@27.26:27.28CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java0 0(2ƒ
+[algorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)!N	PARAMETERZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java, (-2ƒ
+[algorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)!K	PARAMETERZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java3 (42”
+halgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?dp@27.26:27.28DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2“
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?i@28.21:28.22DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2“
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?i@31.21:31.22DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2’
+jalgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?last@32.30:32.34DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java   ("2ÿ
+malgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?newLine@33.30:33.37DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java! !(%2“
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?s@34.29:34.30DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java" "(2“
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?n@38.24:38.25DECLARATIONZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java& &(2p
+int[]RETURN_TYPEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (Ê
+halgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?dp@27.26:27.28VARIABLEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java ("
+type List<Integer>*dp2r
+java.util.ListTYPEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2~
+java.lang.IntegerTYPE_ARGUMENTZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (2É
+java.util.ArrayList.ArrayList()CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java# (.…
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?i@28.21:28.22VARIABLEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java ("
+type int*i2g
+intTYPEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (…
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?i@31.21:31.22VARIABLEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java ("
+type int*i2g
+intTYPEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java (≥
+jalgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?last@32.30:32.34VARIABLEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java   (""
+type List<Integer>*last2r
+java.util.ListTYPEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java   (2~
+java.lang.IntegerTYPE_ARGUMENTZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java   (2Ã
+halgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?dp@27.26:27.28CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java %  ('
+malgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?newLine@33.30:33.37VARIABLEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java! !(%"
+type List<Integer>*newLine2r
+java.util.ListTYPEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java! !(2~
+java.lang.IntegerTYPE_ARGUMENTZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java! !(2É
+java.util.ArrayList.ArrayList()CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java!, !(7€
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?s@34.29:34.30VARIABLEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java" "("
+type Integer*s2u
+java.lang.IntegerTYPEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java" "(ó
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?n@38.24:38.25VARIABLEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java& &("
+type int*n2g
+intTYPEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java& &(2À
+galgorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)?s@34.29:34.30CALLZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java& &(∞
+[algorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)!N	PARAMETERZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java, (-*N2g
+intTYPEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java( (+∞
+[algorithme.dp.NumbersWithSameConsecutiveDifferences.Solution.numsSameConsecDiff(int, int)!K	PARAMETERZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java3 (4*K2g
+intTYPEZ
+Palgorithm/src/main/java/algorithme/dp/NumbersWithSameConsecutiveDifferences.java/ (2

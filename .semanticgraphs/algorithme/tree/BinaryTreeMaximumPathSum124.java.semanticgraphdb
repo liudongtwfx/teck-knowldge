@@ -1,0 +1,272 @@
+
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.javaô
++algorithme.tree.BinaryTreeMaximumPathSum124CLASSR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (("
+inner classfalse*BinaryTreeMaximumPathSum1242ß
+Dalgorithme.tree.BinaryTreeMaximumPathSum124.main(java.lang.String[])DECLARATIONR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2ó
+4algorithme.tree.BinaryTreeMaximumPathSum124.SolutionDECLARATIONR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java
+ (2ó
+4algorithme.tree.BinaryTreeMaximumPathSum124.TreeNodeDECLARATIONR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (à
+Dalgorithme.tree.BinaryTreeMaximumPathSum124.main(java.lang.String[])METHODR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2™
+Ialgorithme.tree.BinaryTreeMaximumPathSum124.main(java.lang.String[])!args	PARAMETERR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java% ()2g
+voidRETURN_TYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (†
+Ialgorithme.tree.BinaryTreeMaximumPathSum124.main(java.lang.String[])!args	PARAMETERR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java% ()*args2n
+java.lang.String[]TYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java ($ì
+4algorithme.tree.BinaryTreeMaximumPathSum124.SolutionCLASSR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java
+ ("
+inner classtrue*Solution2ÿ
+ualgorithme.tree.BinaryTreeMaximumPathSum124.Solution.maxPathSum(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)DECLARATIONR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java
+ 
+(2ÿ
+ualgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)DECLARATIONR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2™
+Galgorithme.tree.BinaryTreeMaximumPathSum124.Solution?maxValue@8.20:8.28DECLARATIONR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (¡
+ualgorithme.tree.BinaryTreeMaximumPathSum124.Solution.maxPathSum(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)METHODR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java
+ 
+("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*
+maxPathSum2—
+ualgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2÷
+zalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.maxPathSum(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!rootCALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2£
+Galgorithme.tree.BinaryTreeMaximumPathSum124.Solution?maxValue@8.20:8.28CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2÷
+zalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.maxPathSum(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!rootCALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2£
+Galgorithme.tree.BinaryTreeMaximumPathSum124.Solution?maxValue@8.20:8.28CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2€
+zalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.maxPathSum(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!root	PARAMETERR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java
+' 
+(+2f
+intRETURN_TYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java
+ 
+(Ù
+zalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.maxPathSum(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!root	PARAMETERR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java
+' 
+(+*root2ê
+4algorithme.tree.BinaryTreeMaximumPathSum124.TreeNodeTYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java
+ 
+(&ù3
+ualgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)METHODR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type int*
+totalValue2—
+ualgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (&2—
+ualgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java ('2x
+java.lang.Math.max(int, int)CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2x
+java.lang.Math.max(int, int)CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2x
+java.lang.Math.max(int, int)CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2x
+java.lang.Math.max(int, int)CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java/ (22x
+java.lang.Math.max(int, int)CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2÷
+zalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!rootCALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2÷
+zalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!rootCALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java' (+2÷
+zalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!rootCALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java( (,2Ë
+ãalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)?leftValue@21.16:21.25CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (&2È
+åalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)?rightValue@22.16:22.26CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java( (22£
+Galgorithme.tree.BinaryTreeMaximumPathSum124.Solution?maxValue@8.20:8.28CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2£
+Galgorithme.tree.BinaryTreeMaximumPathSum124.Solution?maxValue@8.20:8.28CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java  ((2Ë
+ãalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)?leftValue@21.16:21.25CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java* (32È
+åalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)?rightValue@22.16:22.26CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java6 (@2÷
+zalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!rootCALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.javaC (G2£
+Galgorithme.tree.BinaryTreeMaximumPathSum124.Solution?maxValue@8.20:8.28CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2£
+Galgorithme.tree.BinaryTreeMaximumPathSum124.Solution?maxValue@8.20:8.28CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java  ((2‡
+Éalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)?a@24.16:24.17CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java6 (72÷
+zalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!rootCALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java; (?2‡
+Éalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)?a@24.16:24.17CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java ( 2÷
+zalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!rootCALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java$ ((2°
+Ealgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode?left@33.17:33.21CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java, (02¢
+Falgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode?right@34.17:34.22CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java- (22†
+Dalgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode?val@32.12:32.15CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.javaH (K2†
+Dalgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode?val@32.12:32.15CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java@ (C2†
+Dalgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode?val@32.12:32.15CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java) (,2€
+zalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!root	PARAMETERR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java( (,2Ô
+ãalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)?leftValue@21.16:21.25DECLARATIONR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2
+åalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)?rightValue@22.16:22.26DECLARATIONR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2Á
+Éalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)?a@24.16:24.17DECLARATIONR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2f
+intRETURN_TYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (∑
+ãalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)?leftValue@21.16:21.25VARIABLER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java ("
+type int*	leftValue2_
+intTYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2—
+ualgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (&2÷
+zalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!rootCALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java' (+2°
+Ealgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode?left@33.17:33.21CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java, (0∫
+åalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)?rightValue@22.16:22.26VARIABLER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java ("
+type int*
+rightValue2_
+intTYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2—
+ualgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java ('2÷
+zalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!rootCALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java( (,2¢
+Falgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode?right@34.17:34.22CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java- (2ß
+Éalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)?a@24.16:24.17VARIABLER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java ("
+type int*a2_
+intTYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2x
+java.lang.Math.max(int, int)CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (2Ë
+ãalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)?leftValue@21.16:21.25CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (&2È
+åalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)?rightValue@22.16:22.26CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java( (2Ù
+zalgorithme.tree.BinaryTreeMaximumPathSum124.Solution.totalValue(algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!root	PARAMETERR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java( (,*root2ê
+4algorithme.tree.BinaryTreeMaximumPathSum124.TreeNodeTYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java ('†
+Galgorithme.tree.BinaryTreeMaximumPathSum124.Solution?maxValue@8.20:8.28VARIABLER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java ("
+type int*maxValue2_
+intTYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java (ì
+
+4algorithme.tree.BinaryTreeMaximumPathSum124.TreeNodeCLASSR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java ("
+inner classtrue*TreeNode2¢
+?algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode.TreeNode()DECLARATIONR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java$ $(2•
+Balgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode.TreeNode(int)DECLARATIONR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java' '(2í
+Æalgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode.TreeNode(int, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)DECLARATIONR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java+ +(2ß
+Dalgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode?val@32.12:32.15DECLARATIONR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java   (2®
+Ealgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode?left@33.17:33.21DECLARATIONR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java! !(2©
+Falgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode?right@34.17:34.22DECLARATIONR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java" "(∆
+?algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode.TreeNode()CONSTRUCTORR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java$ $(*TreeNode2ó
+4algorithme.tree.BinaryTreeMaximumPathSum124.TreeNodeRETURN_TYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java$ $(ª
+Balgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode.TreeNode(int)CONSTRUCTORR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java' '(*TreeNode2¢
+Falgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode.TreeNode(int)!valCALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java( ((2†
+Dalgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode?val@32.12:32.15CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java( ((2ß
+Falgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode.TreeNode(int)!val	PARAMETERR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java' '(2ó
+4algorithme.tree.BinaryTreeMaximumPathSum124.TreeNodeRETURN_TYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java' '(ç
+Falgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode.TreeNode(int)!val	PARAMETERR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java' '(*val2_
+intTYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java' '(£
+Æalgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode.TreeNode(int, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)CONSTRUCTORR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java+ +(*TreeNode2è
+≤algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode.TreeNode(int, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!valCALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java, ,(2ê
+≥algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode.TreeNode(int, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!leftCALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java- -(2ë
+¥algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode.TreeNode(int, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!rightCALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java. .(2†
+Dalgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode?val@32.12:32.15CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java, ,(2°
+Ealgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode?left@33.17:33.21CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java- -(2¢
+Falgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode?right@34.17:34.22CALLR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java. .(2î
+≤algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode.TreeNode(int, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!val	PARAMETERR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java+ +(2ï
+≥algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode.TreeNode(int, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!left	PARAMETERR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java+# +('2ñ
+¥algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode.TreeNode(int, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!right	PARAMETERR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java+2 +(72ó
+4algorithme.tree.BinaryTreeMaximumPathSum124.TreeNodeRETURN_TYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java+ +(˙
+≤algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode.TreeNode(int, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!val	PARAMETERR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java+ +(*val2_
+intTYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java+ +(Æ
+≥algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode.TreeNode(int, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!left	PARAMETERR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java+# +('*left2ê
+4algorithme.tree.BinaryTreeMaximumPathSum124.TreeNodeTYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java+ +("∞
+¥algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode.TreeNode(int, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode, algorithme.tree.BinaryTreeMaximumPathSum124.TreeNode)!right	PARAMETERR
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java+2 +(7*right2ê
+4algorithme.tree.BinaryTreeMaximumPathSum124.TreeNodeTYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java+) +(1ò
+Dalgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode?val@32.12:32.15VARIABLER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java   ("
+type int*val2_
+intTYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java   (—
+Ealgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode?left@33.17:33.21VARIABLER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java! !("
+type TreeNode*left2ê
+4algorithme.tree.BinaryTreeMaximumPathSum124.TreeNodeTYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java! !(”
+Falgorithme.tree.BinaryTreeMaximumPathSum124.TreeNode?right@34.17:34.22VARIABLER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java" "("
+type TreeNode*right2ê
+4algorithme.tree.BinaryTreeMaximumPathSum124.TreeNodeTYPER
+Halgorithm/src/main/java/algorithme/tree/BinaryTreeMaximumPathSum124.java" "(

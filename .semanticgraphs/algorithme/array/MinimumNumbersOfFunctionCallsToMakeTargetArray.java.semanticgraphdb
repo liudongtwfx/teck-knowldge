@@ -1,0 +1,115 @@
+
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.javaä
+?algorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArrayCLASSf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (;"
+inner classfalse*.MinimumNumbersOfFunctionCallsToMakeTargetArray2œ
+Xalgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.main(java.lang.String[])DECLARATIONf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (2ø
+Halgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.SolutionDECLARATIONf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java
+ (å
+Xalgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.main(java.lang.String[])METHODf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2ù
+-java.io.PrintStream.println(java.lang.String)CALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (2“
+]algorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.main(java.lang.String[])!args	PARAMETERf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java% ()2{
+voidRETURN_TYPEf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (›
+]algorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.main(java.lang.String[])!args	PARAMETERf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java% ()*args2Ç
+java.lang.String[]TYPEf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java ($Ø
+Halgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.SolutionCLASSf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java
+ ("
+inner classtrue*Solution2‘
+]algorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])DECLARATIONf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java ( ¨.
+]algorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])METHODf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java ( "
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minOperations2Õ
+]algorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])CALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java' (42€
+kalgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?i@11.21:11.22CALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (2“
+balgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])!numsCALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java  ($2€
+kalgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?i@11.21:11.22CALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java- (.2“
+balgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])!numsCALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (2€
+kalgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?i@11.21:11.22CALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (2›
+malgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?count@9.16:9.21CALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (2“
+balgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])!numsCALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (2€
+kalgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?i@11.21:11.22CALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (2“
+balgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])!numsCALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (2€
+kalgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?i@11.21:11.22CALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (2ﬂ
+oalgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?halve@10.20:10.25CALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (2“
+balgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])!numsCALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (2€
+kalgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?i@11.21:11.22CALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (2“
+balgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])!numsCALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java ("2€
+kalgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?i@11.21:11.22CALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java# ($2ﬂ
+oalgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?halve@10.20:10.25CALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (2›
+malgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?count@9.16:9.21CALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (2›
+malgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?count@9.16:9.21CALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (2›
+malgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?count@9.16:9.21CALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java ($2“
+balgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])!numsCALLf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java5 (92◊
+balgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])!nums	PARAMETERf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java' (+2‰
+malgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?count@9.16:9.21DECLARATIONf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java	 	(2Ê
+oalgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?halve@10.20:10.25DECLARATIONf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java
+ 
+(2‚
+kalgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?i@11.21:11.22DECLARATIONf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (2z
+intRETURN_TYPEf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (Î
+malgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?count@9.16:9.21VARIABLEf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java	 	("
+type int*count2s
+intTYPEf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java	 	(ı
+oalgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?halve@10.20:10.25VARIABLEf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java
+ 
+("
+type boolean*halve2w
+booleanTYPEf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java
+ 
+(Â
+kalgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])?i@11.21:11.22VARIABLEf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java ("
+type int*i2s
+intTYPEf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java (‘
+balgorithme.array.MinimumNumbersOfFunctionCallsToMakeTargetArray.Solution.minOperations(int[])!nums	PARAMETERf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java' (+*nums2u
+int[]TYPEf
+\algorithm/src/main/java/algorithme/array/MinimumNumbersOfFunctionCallsToMakeTargetArray.java! (&

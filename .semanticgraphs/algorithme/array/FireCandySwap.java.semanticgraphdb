@@ -1,0 +1,182 @@
+
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java¢
+algorithme.array.FireCandySwapCLASSE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java ("
+inner classfalse*FireCandySwap2ç
+7algorithme.array.FireCandySwap.main(java.lang.String[])DECLARATIONE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2}
+'algorithme.array.FireCandySwap.SolutionDECLARATIONE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java
+
+ 
+(«
+7algorithme.array.FireCandySwap.main(java.lang.String[])METHODE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2ê
+<algorithme.array.FireCandySwap.main(java.lang.String[])!args	PARAMETERE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java% ()2Z
+voidRETURN_TYPEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (˘
+<algorithme.array.FireCandySwap.main(java.lang.String[])!args	PARAMETERE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java% ()*args2a
+java.lang.String[]TYPEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java ($≤
+'algorithme.array.FireCandySwap.SolutionCLASSE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java
+
+ 
+("
+inner classtrue*Solution2ô
+Calgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])DECLARATIONE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (".
+Calgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])METHODE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (""
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int[]*fairCandySwap2î
+Ealgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])!ACALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2î
+Ealgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])!BCALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2î
+Ealgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])!ACALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2•
+Valgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?aTotal@14.16:14.22CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2§
+Ualgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?value@16.21:16.26CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2î
+Ealgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])!BCALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2•
+Valgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?bTotal@14.28:14.34CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2§
+Ualgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?value@19.21:19.26CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2§
+Ualgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?exist@15.22:15.27CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2§
+Ualgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?value@19.21:19.26CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2•
+Valgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?aTotal@14.16:14.22CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java ( 2•
+Valgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?bTotal@14.28:14.34CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java# ()2î
+Ealgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])!ACALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2•
+Valgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?target@23.16:23.22CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (%2§
+Ualgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?value@24.21:24.26CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java( (-2•
+Valgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?aTotal@14.16:14.22CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java0 (62ß
+Xalgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?expected@26.20:26.28CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2ß
+Xalgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?expected@26.20:26.28CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java$ (,2§
+Ualgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?exist@15.22:15.27CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java: (?2ß
+Xalgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?expected@26.20:26.28CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java@ (H2§
+Ualgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?value@24.21:24.26CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java% (*2ß
+Xalgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?expected@26.20:26.28CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java, (42ô
+Ealgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])!A	PARAMETERE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java) (*2ô
+Ealgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])!B	PARAMETERE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java2 (32™
+Talgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?aLen@12.16:12.20DECLARATIONE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2™
+Talgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?bLen@13.16:13.20DECLARATIONE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2¨
+Valgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?aTotal@14.16:14.22DECLARATIONE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2¨
+Valgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?bTotal@14.28:14.34DECLARATIONE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java ("2´
+Ualgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?exist@15.22:15.27DECLARATIONE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2´
+Ualgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?value@16.21:16.26DECLARATIONE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2´
+Ualgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?value@19.21:19.26DECLARATIONE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2¨
+Valgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?target@23.16:23.22DECLARATIONE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2´
+Ualgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?value@24.21:24.26DECLARATIONE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2Æ
+Xalgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?expected@26.20:26.28DECLARATIONE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2[
+int[]RETURN_TYPEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (¶
+Talgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?aLen@12.16:12.20VARIABLEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java ("
+type int*aLen2R
+intTYPEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2î
+Ealgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])!ACALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (¶
+Talgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?bLen@13.16:13.20VARIABLEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java ("
+type int*bLen2R
+intTYPEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2î
+Ealgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])!BCALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (ì
+Valgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?aTotal@14.16:14.22VARIABLEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java ("
+type int*aTotal2R
+intTYPEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (ì
+Valgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?bTotal@14.28:14.34VARIABLEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (""
+type int*bTotal2R
+intTYPEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (ù
+Ualgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?exist@15.22:15.27VARIABLEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java ("
+type 	boolean[]*exist2X
+	boolean[]TYPEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (ë
+Ualgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?value@16.21:16.26VARIABLEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java ("
+type int*value2R
+intTYPEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (ë
+Ualgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?value@19.21:19.26VARIABLEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java ("
+type int*value2R
+intTYPEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java („
+Valgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?target@23.16:23.22VARIABLEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java ("
+type int*target2R
+intTYPEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2•
+Valgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?aTotal@14.16:14.22CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java ( 2•
+Valgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?bTotal@14.28:14.34CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java# ()ë
+Ualgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?value@24.21:24.26VARIABLEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java ("
+type int*value2R
+intTYPEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (é
+Xalgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?expected@26.20:26.28VARIABLEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java ("
+type int*expected2R
+intTYPEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (2•
+Valgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?target@23.16:23.22CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java (%2§
+Ualgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?value@24.21:24.26CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java( (-2•
+Valgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])?aTotal@14.16:14.22CALLE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java0 (6Ú
+Ealgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])!A	PARAMETERE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java) (**A2T
+int[]TYPEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java# ((Ú
+Ealgorithme.array.FireCandySwap.Solution.fairCandySwap(int[], int[])!B	PARAMETERE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java2 (3*B2T
+int[]TYPEE
+;algorithm/src/main/java/algorithme/array/FireCandySwap.java, (1

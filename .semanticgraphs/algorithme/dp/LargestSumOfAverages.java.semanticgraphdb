@@ -1,0 +1,237 @@
+
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java 
+"algorithme.dp.LargestSumOfAveragesCLASSI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (!"
+inner classfalse*LargestSumOfAverages2ï
+;algorithme.dp.LargestSumOfAverages.main(java.lang.String[])DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java	 	(2Ö
++algorithme.dp.LargestSumOfAverages.bridge()DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2Ö
++algorithme.dp.LargestSumOfAverages.SolutionDECLARATIONI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java
+ (Í
+;algorithme.dp.LargestSumOfAverages.main(java.lang.String[])METHODI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java	 	("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2~
++algorithme.dp.LargestSumOfAverages.bridge()CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java
+# 
+()2å
+9algorithme.dp.LargestSumOfAverages.LargestSumOfAverages()CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java
+ 
+( 2ò
+@algorithme.dp.LargestSumOfAverages.main(java.lang.String[])!args	PARAMETERI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java	% 	()2^
+voidRETURN_TYPEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java	 	(Ö
+@algorithme.dp.LargestSumOfAverages.main(java.lang.String[])!args	PARAMETERI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java	% 	()*args2e
+java.lang.String[]TYPEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java	 	($§
+
++algorithme.dp.LargestSumOfAverages.bridge()METHODI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2v
+#java.io.PrintStream.println(double)CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2ü
+Lalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java* (>2â
+6algorithme.dp.LargestSumOfAverages.Solution.Solution()CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java ('2å
+9algorithme.dp.LargestSumOfAverages.bridge()?A@14.14:14.15CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java? (@2å
+9algorithme.dp.LargestSumOfAverages.bridge()?K@15.12:15.13CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.javaB (C2ì
+9algorithme.dp.LargestSumOfAverages.bridge()?A@14.14:14.15DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2ì
+9algorithme.dp.LargestSumOfAverages.bridge()?K@15.12:15.13DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2^
+voidRETURN_TYPEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (˝
+9algorithme.dp.LargestSumOfAverages.bridge()?A@14.14:14.15VARIABLEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java ("
+type int[]*A2X
+int[]TYPEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (˘
+9algorithme.dp.LargestSumOfAverages.bridge()?K@15.12:15.13VARIABLEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java ("
+type int*K2V
+intTYPEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java («
++algorithme.dp.LargestSumOfAverages.SolutionCLASSI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java
+ ("
+inner classtrue*Solution2¶
+Lalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (*ïL
+Lalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)METHODI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (*"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type double*largestSumOfAverages2o
+java.lang.Math.min(int, int)CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java* (-2u
+"java.lang.Math.max(double, double)CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java( (+2°
+Nalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)!ACALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2Ø
+\algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?len@21.16:21.19CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java' (*2Ø
+\algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?len@21.16:21.19CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java, (/2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?i@24.21:24.22CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2Ø
+\algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?len@21.16:21.19CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java  (#2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?i@24.21:24.22CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java% (&2Ø
+\algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?sum@23.16:23.19CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2°
+Nalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)!ACALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?i@24.21:24.22CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2Æ
+[algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?dp@22.23:22.25CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?i@24.21:24.22CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?i@24.21:24.22CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2Ø
+\algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?sum@23.16:23.19CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java ("2Æ
+[algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?dp@22.23:22.25CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?i@24.21:24.22CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2Ø
+\algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?sum@23.16:23.19CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java$ ('2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?i@24.21:24.22CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java+ (,2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?j@28.25:28.26CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java  (!2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?i@24.21:24.22CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java. (/2°
+Nalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)!KCALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java1 (22≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?j@28.25:28.26CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java5 (62≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?i@24.21:24.22CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java! ("2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?k@29.29:29.30CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java$ (%2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?k@29.29:29.30CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java, (-2Æ
+[algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?dp@22.23:22.25CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?i@24.21:24.22CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?j@28.25:28.26CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2Æ
+[algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?dp@22.23:22.25CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java, (.2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?i@24.21:24.22CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java/ (02≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?j@28.25:28.26CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java2 (32Æ
+[algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?dp@22.23:22.25CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java6 (82≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?k@29.29:29.30CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java9 (:2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?j@28.25:28.26CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java@ (A2Æ
+[algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?dp@22.23:22.25CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.javaJ (L2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?i@24.21:24.22CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.javaM (N2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?i@24.21:24.22CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.javaP (Q2Æ
+[algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?dp@22.23:22.25CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.javaY ([2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?k@29.29:29.30CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java\ (]2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?k@29.29:29.30CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.javac (d2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?i@24.21:24.22CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.javaj (k2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?k@29.29:29.30CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.javan (o2Æ
+[algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?dp@22.23:22.25CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java" "(2Ø
+\algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?len@21.16:21.19CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java" "(2°
+Nalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)!KCALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java" "( 2¶
+Nalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)!A	PARAMETERI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java1 (22¶
+Nalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)!K	PARAMETERI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java8 (92∂
+\algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?len@21.16:21.19DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2µ
+[algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?dp@22.23:22.25DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2∂
+\algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?sum@23.16:23.19DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2¥
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?i@24.21:24.22DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2¥
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?j@28.25:28.26DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2¥
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?k@29.29:29.30DECLARATIONI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2`
+doubleRETURN_TYPEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (¬
+\algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?len@21.16:21.19VARIABLEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java ("
+type int*len2V
+intTYPEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2°
+Nalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)!ACALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (é
+[algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?dp@22.23:22.25VARIABLEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java ("
+type 
+double[][]*dp2]
+
+double[][]TYPEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2Ø
+\algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?len@21.16:21.19CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java' (*2Ø
+\algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?len@21.16:21.19CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java, (/û
+\algorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?sum@23.16:23.19VARIABLEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java ("
+type int*sum2V
+intTYPEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (ö
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?i@24.21:24.22VARIABLEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java ("
+type int*i2V
+intTYPEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (ö
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?j@28.25:28.26VARIABLEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java ("
+type int*j2V
+intTYPEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java ( 
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?k@29.29:29.30VARIABLEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java ("
+type int*k2V
+intTYPEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java (2≠
+Zalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)?i@24.21:24.22CALLI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java! ("É
+Nalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)!A	PARAMETERI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java1 (2*A2X
+int[]TYPEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java+ (0Å
+Nalgorithme.dp.LargestSumOfAverages.Solution.largestSumOfAverages(int[], int)!K	PARAMETERI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java8 (9*K2V
+intTYPEI
+?algorithm/src/main/java/algorithme/dp/LargestSumOfAverages.java4 (7

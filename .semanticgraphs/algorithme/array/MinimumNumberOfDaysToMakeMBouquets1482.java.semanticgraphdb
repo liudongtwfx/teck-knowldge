@@ -1,0 +1,65 @@
+
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java“
+7algorithme.array.MinimumNumberOfDaysToMakeMBouquets1482CLASS^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java (3"
+inner classfalse*&MinimumNumberOfDaysToMakeMBouquets14822ø
+Palgorithme.array.MinimumNumberOfDaysToMakeMBouquets1482.main(java.lang.String[])DECLARATION^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java (2Ø
+@algorithme.array.MinimumNumberOfDaysToMakeMBouquets1482.SolutionDECLARATION^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java
+ (ƒ
+Palgorithme.array.MinimumNumberOfDaysToMakeMBouquets1482.main(java.lang.String[])METHOD^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2¬
+Ualgorithme.array.MinimumNumberOfDaysToMakeMBouquets1482.main(java.lang.String[])!args	PARAMETER^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java% ()2s
+voidRETURN_TYPE^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java (ƒ
+Ualgorithme.array.MinimumNumberOfDaysToMakeMBouquets1482.main(java.lang.String[])!args	PARAMETER^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java% ()*args2z
+java.lang.String[]TYPE^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java ($ì
+@algorithme.array.MinimumNumberOfDaysToMakeMBouquets1482.SolutionCLASS^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java
+ ("
+inner classtrue*Solution2»
+Yalgorithme.array.MinimumNumberOfDaysToMakeMBouquets1482.Solution.minDays(int[], int, int)DECLARATION^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java (ù
+Yalgorithme.array.MinimumNumberOfDaysToMakeMBouquets1482.Solution.minDays(int[], int, int)METHOD^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minDays2œ
+galgorithme.array.MinimumNumberOfDaysToMakeMBouquets1482.Solution.minDays(int[], int, int)?ans@9.16:9.19CALL^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java (2œ
+balgorithme.array.MinimumNumberOfDaysToMakeMBouquets1482.Solution.minDays(int[], int, int)!bloomDay	PARAMETER^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java! ()2»
+[algorithme.array.MinimumNumberOfDaysToMakeMBouquets1482.Solution.minDays(int[], int, int)!m	PARAMETER^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java/ (02»
+[algorithme.array.MinimumNumberOfDaysToMakeMBouquets1482.Solution.minDays(int[], int, int)!k	PARAMETER^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java6 (72÷
+galgorithme.array.MinimumNumberOfDaysToMakeMBouquets1482.Solution.minDays(int[], int, int)?ans@9.16:9.19DECLARATION^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java	 	(2r
+intRETURN_TYPE^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java (”
+galgorithme.array.MinimumNumberOfDaysToMakeMBouquets1482.Solution.minDays(int[], int, int)?ans@9.16:9.19VARIABLE^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java	 	("
+type int*ans2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java	 	(»
+balgorithme.array.MinimumNumberOfDaysToMakeMBouquets1482.Solution.minDays(int[], int, int)!bloomDay	PARAMETER^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java! ()*bloomDay2m
+int[]TYPE^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java ( ∏
+[algorithme.array.MinimumNumberOfDaysToMakeMBouquets1482.Solution.minDays(int[], int, int)!m	PARAMETER^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java/ (0*m2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java+ (.∏
+[algorithme.array.MinimumNumberOfDaysToMakeMBouquets1482.Solution.minDays(int[], int, int)!k	PARAMETER^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java6 (7*k2k
+intTYPE^
+Talgorithm/src/main/java/algorithme/array/MinimumNumberOfDaysToMakeMBouquets1482.java2 (5

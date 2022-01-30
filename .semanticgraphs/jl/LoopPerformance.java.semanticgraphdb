@@ -1,0 +1,136 @@
+
+/knowledge/src/main/java/jl/LoopPerformance.javaô
+jl.LoopPerformanceCLASS9
+/knowledge/src/main/java/jl/LoopPerformance.java	 	("
+inner classfalse*LoopPerformance2u
++jl.LoopPerformance.main(java.lang.String[])DECLARATION9
+/knowledge/src/main/java/jl/LoopPerformance.java
+ 
+(û 
++jl.LoopPerformance.main(java.lang.String[])METHOD9
+/knowledge/src/main/java/jl/LoopPerformance.java
+ 
+("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2X
+java.util.List.add(E)CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java (2W
+java.util.Set.add(E)CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java (2b
+java.util.ArrayList.ArrayList()CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java! (,2^
+java.util.HashSet.HashSet()CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java ((2|
+9jl.LoopPerformance.main(java.lang.String[])?i@13.17:13.18CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java (2|
+9jl.LoopPerformance.main(java.lang.String[])?i@13.17:13.18CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java% (&2
+<jl.LoopPerformance.main(java.lang.String[])?list@11.22:11.26CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java (2|
+9jl.LoopPerformance.main(java.lang.String[])?i@13.17:13.18CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java (2~
+;jl.LoopPerformance.main(java.lang.String[])?set@12.21:12.24CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java (2|
+9jl.LoopPerformance.main(java.lang.String[])?i@13.17:13.18CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java (2„
+Ajl.LoopPerformance.main(java.lang.String[])?stopWatch@18.18:18.27CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java (2
+<jl.LoopPerformance.main(java.lang.String[])?list@11.22:11.26CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java (#2~
+;jl.LoopPerformance.main(java.lang.String[])?sum@20.13:20.16CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java (2‚
+?jl.LoopPerformance.main(java.lang.String[])?integer@21.21:21.28CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java (2„
+Ajl.LoopPerformance.main(java.lang.String[])?stopWatch@18.18:18.27CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java (2„
+Ajl.LoopPerformance.main(java.lang.String[])?stopWatch@18.18:18.27CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java ($2„
+Ajl.LoopPerformance.main(java.lang.String[])?stopWatch@18.18:18.27CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java (2„
+Ajl.LoopPerformance.main(java.lang.String[])?stopWatch@18.18:18.27CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java (2~
+;jl.LoopPerformance.main(java.lang.String[])?set@12.21:12.24CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java ("2~
+;jl.LoopPerformance.main(java.lang.String[])?sum@20.13:20.16CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java (2‚
+?jl.LoopPerformance.main(java.lang.String[])?integer@30.21:30.28CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java (2„
+Ajl.LoopPerformance.main(java.lang.String[])?stopWatch@18.18:18.27CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java! !(2„
+Ajl.LoopPerformance.main(java.lang.String[])?stopWatch@18.18:18.27CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java" "($2x
+0jl.LoopPerformance.main(java.lang.String[])!args	PARAMETER9
+/knowledge/src/main/java/jl/LoopPerformance.java
+% 
+()2†
+<jl.LoopPerformance.main(java.lang.String[])?list@11.22:11.26DECLARATION9
+/knowledge/src/main/java/jl/LoopPerformance.java (2…
+;jl.LoopPerformance.main(java.lang.String[])?set@12.21:12.24DECLARATION9
+/knowledge/src/main/java/jl/LoopPerformance.java (2ƒ
+9jl.LoopPerformance.main(java.lang.String[])?i@13.17:13.18DECLARATION9
+/knowledge/src/main/java/jl/LoopPerformance.java (2‹
+Ajl.LoopPerformance.main(java.lang.String[])?stopWatch@18.18:18.27DECLARATION9
+/knowledge/src/main/java/jl/LoopPerformance.java (2…
+;jl.LoopPerformance.main(java.lang.String[])?sum@20.13:20.16DECLARATION9
+/knowledge/src/main/java/jl/LoopPerformance.java (2‰
+?jl.LoopPerformance.main(java.lang.String[])?integer@21.21:21.28DECLARATION9
+/knowledge/src/main/java/jl/LoopPerformance.java (2‰
+?jl.LoopPerformance.main(java.lang.String[])?integer@30.21:30.28DECLARATION9
+/knowledge/src/main/java/jl/LoopPerformance.java (2N
+voidRETURN_TYPE9
+/knowledge/src/main/java/jl/LoopPerformance.java
+ 
+(·
+<jl.LoopPerformance.main(java.lang.String[])?list@11.22:11.26VARIABLE9
+/knowledge/src/main/java/jl/LoopPerformance.java ("
+type List<Integer>*list2Q
+java.util.ListTYPE9
+/knowledge/src/main/java/jl/LoopPerformance.java (2]
+java.lang.IntegerTYPE_ARGUMENT9
+/knowledge/src/main/java/jl/LoopPerformance.java (2b
+java.util.ArrayList.ArrayList()CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java! (,¯
+;jl.LoopPerformance.main(java.lang.String[])?set@12.21:12.24VARIABLE9
+/knowledge/src/main/java/jl/LoopPerformance.java ("
+type Set<Integer>*set2P
+java.util.SetTYPE9
+/knowledge/src/main/java/jl/LoopPerformance.java (2]
+java.lang.IntegerTYPE_ARGUMENT9
+/knowledge/src/main/java/jl/LoopPerformance.java (2^
+java.util.HashSet.HashSet()CALL9
+/knowledge/src/main/java/jl/LoopPerformance.java ((Ù
+9jl.LoopPerformance.main(java.lang.String[])?i@13.17:13.18VARIABLE9
+/knowledge/src/main/java/jl/LoopPerformance.java ("
+type int*i2F
+intTYPE9
+/knowledge/src/main/java/jl/LoopPerformance.java (“
+Ajl.LoopPerformance.main(java.lang.String[])?stopWatch@18.18:18.27VARIABLE9
+/knowledge/src/main/java/jl/LoopPerformance.java ("
+type 	StopWatch*	stopWatch2j
+'org.apache.commons.lang3.time.StopWatchTYPE9
+/knowledge/src/main/java/jl/LoopPerformance.java (ß
+;jl.LoopPerformance.main(java.lang.String[])?sum@20.13:20.16VARIABLE9
+/knowledge/src/main/java/jl/LoopPerformance.java ("
+type long*sum2G
+longTYPE9
+/knowledge/src/main/java/jl/LoopPerformance.java (÷
+?jl.LoopPerformance.main(java.lang.String[])?integer@21.21:21.28VARIABLE9
+/knowledge/src/main/java/jl/LoopPerformance.java ("
+type Integer*integer2T
+java.lang.IntegerTYPE9
+/knowledge/src/main/java/jl/LoopPerformance.java (÷
+?jl.LoopPerformance.main(java.lang.String[])?integer@30.21:30.28VARIABLE9
+/knowledge/src/main/java/jl/LoopPerformance.java ("
+type Integer*integer2T
+java.lang.IntegerTYPE9
+/knowledge/src/main/java/jl/LoopPerformance.java (Õ
+0jl.LoopPerformance.main(java.lang.String[])!args	PARAMETER9
+/knowledge/src/main/java/jl/LoopPerformance.java
+% 
+()*args2U
+java.lang.String[]TYPE9
+/knowledge/src/main/java/jl/LoopPerformance.java
+ 
+($

@@ -1,0 +1,86 @@
+
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.javaÉ
+"redis.cachestratege.StorageOperateTRAITI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java ("
+inner classfalse*StorageOperate2ñ
+<redis.cachestratege.StorageOperate.save(java.lang.String, T)DECLARATIONI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java	 (2ò
+>redis.cachestratege.StorageOperate.update(java.lang.String, T)DECLARATIONI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java	 (2î
+:redis.cachestratege.StorageOperate.query(java.lang.String)DECLARATIONI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (2ï
+;redis.cachestratege.StorageOperate.delete(java.lang.String)DECLARATIONI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java		 	(2Å
+$redis.cachestratege.StorageOperate.TTYPE_PARAMETERI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java  (!É
+<redis.cachestratege.StorageOperate.save(java.lang.String, T)METHODI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java	 ("
+staticfalse"
+finalfalse""
+access modifierpackage_private"
+type void*save2ò
+@redis.cachestratege.StorageOperate.save(java.lang.String, T)!key	PARAMETERI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (2ö
+Bredis.cachestratege.StorageOperate.save(java.lang.String, T)!value	PARAMETERI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (!2^
+voidRETURN_TYPEI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (Ç
+@redis.cachestratege.StorageOperate.save(java.lang.String, T)!key	PARAMETERI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (*key2c
+java.lang.StringTYPEI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (ö
+Bredis.cachestratege.StorageOperate.save(java.lang.String, T)!value	PARAMETERI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (!*value2w
+$redis.cachestratege.StorageOperate.TTYPEI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (ã
+>redis.cachestratege.StorageOperate.update(java.lang.String, T)METHODI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java	 ("
+staticfalse"
+finalfalse""
+access modifierpackage_private"
+type void*update2ö
+Bredis.cachestratege.StorageOperate.update(java.lang.String, T)!key	PARAMETERI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (2ú
+Dredis.cachestratege.StorageOperate.update(java.lang.String, T)!value	PARAMETERI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (#2^
+voidRETURN_TYPEI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (Ñ
+Bredis.cachestratege.StorageOperate.update(java.lang.String, T)!key	PARAMETERI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (*key2c
+java.lang.StringTYPEI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (ú
+Dredis.cachestratege.StorageOperate.update(java.lang.String, T)!value	PARAMETERI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (#*value2w
+$redis.cachestratege.StorageOperate.TTYPEI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (›
+:redis.cachestratege.StorageOperate.query(java.lang.String)METHODI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java ("
+staticfalse"
+finalfalse""
+access modifierpackage_private"
+
+type T*query2ñ
+>redis.cachestratege.StorageOperate.query(java.lang.String)!key	PARAMETERI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (2[
+TRETURN_TYPEI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (Ä
+>redis.cachestratege.StorageOperate.query(java.lang.String)!key	PARAMETERI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (*key2c
+java.lang.StringTYPEI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java (Ê
+;redis.cachestratege.StorageOperate.delete(java.lang.String)METHODI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java		 	("
+staticfalse"
+finalfalse""
+access modifierpackage_private"
+type void*delete2ó
+?redis.cachestratege.StorageOperate.delete(java.lang.String)!key	PARAMETERI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java	 	(2^
+voidRETURN_TYPEI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java	 	(Å
+?redis.cachestratege.StorageOperate.delete(java.lang.String)!key	PARAMETERI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java	 	(*key2c
+java.lang.StringTYPEI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java	 	(Ñ
+$redis.cachestratege.StorageOperate.TTYPE_PARAMETERI
+?knowledge/src/main/java/redis/cachestratege/StorageOperate.java  (!*T

@@ -1,0 +1,415 @@
+
+.knowledge/src/main/java/es/entity/Student.javaù
+es.entity.StudentCLASS8
+.knowledge/src/main/java/es/entity/Student.java ("
+inner classfalse*Student2ã
+Bes.entity.Student.Student(int, java.lang.String, java.lang.String)DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java (2d
+es.entity.Student.Student()DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java (2b
+es.entity.Student.getId()DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java (2c
+es.entity.Student.getAge()DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java (2d
+es.entity.Student.getName()DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java (2i
+ es.entity.Student.getStudentNo()DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java! !(2f
+es.entity.Student.setAge(int)DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java% %(2t
++es.entity.Student.setName(java.lang.String)DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java) )(2y
+0es.entity.Student.setStudentNo(java.lang.String)DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java- -(2s
+*es.entity.Student.equals(java.lang.Object)DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java1 1(2u
+,es.entity.Student.canEqual(java.lang.Object)DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java@ @(2e
+es.entity.Student.hashCode()DECLARATION8
+.knowledge/src/main/java/es/entity/Student.javaD D(2e
+es.entity.Student.toString()DECLARATION8
+.knowledge/src/main/java/es/entity/Student.javaO O(2j
+!es.entity.Student?INDEX@6.31:6.36DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java ($2h
+es.entity.Student?age@7.16:7.19DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java (2i
+ es.entity.Student?name@8.19:8.23DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java (2n
+%es.entity.Student?studentNo@9.19:9.28DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java	 	(2V
+es.entity.EsEntityEXTEND8
+.knowledge/src/main/java/es/entity/Student.java  ((ˇ
+
+Bes.entity.Student.Student(int, java.lang.String, java.lang.String)CONSTRUCTOR8
+.knowledge/src/main/java/es/entity/Student.java (*Student2à
+Fes.entity.Student.Student(int, java.lang.String, java.lang.String)!ageCALL8
+.knowledge/src/main/java/es/entity/Student.java (2â
+Ges.entity.Student.Student(int, java.lang.String, java.lang.String)!nameCALL8
+.knowledge/src/main/java/es/entity/Student.java (2é
+Les.entity.Student.Student(int, java.lang.String, java.lang.String)!studentNoCALL8
+.knowledge/src/main/java/es/entity/Student.java ("2a
+es.entity.Student?age@7.16:7.19CALL8
+.knowledge/src/main/java/es/entity/Student.java (2b
+ es.entity.Student?name@8.19:8.23CALL8
+.knowledge/src/main/java/es/entity/Student.java (2g
+%es.entity.Student?studentNo@9.19:9.28CALL8
+.knowledge/src/main/java/es/entity/Student.java (2ç
+Fes.entity.Student.Student(int, java.lang.String, java.lang.String)!age	PARAMETER8
+.knowledge/src/main/java/es/entity/Student.java (2é
+Ges.entity.Student.Student(int, java.lang.String, java.lang.String)!name	PARAMETER8
+.knowledge/src/main/java/es/entity/Student.java# ('2ì
+Les.entity.Student.Student(int, java.lang.String, java.lang.String)!studentNo	PARAMETER8
+.knowledge/src/main/java/es/entity/Student.java0 (92Z
+es.entity.StudentRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Student.java (Ÿ
+Fes.entity.Student.Student(int, java.lang.String, java.lang.String)!age	PARAMETER8
+.knowledge/src/main/java/es/entity/Student.java (*age2E
+intTYPE8
+.knowledge/src/main/java/es/entity/Student.java (Ë
+Ges.entity.Student.Student(int, java.lang.String, java.lang.String)!name	PARAMETER8
+.knowledge/src/main/java/es/entity/Student.java# ('*name2R
+java.lang.StringTYPE8
+.knowledge/src/main/java/es/entity/Student.java ("Ú
+Les.entity.Student.Student(int, java.lang.String, java.lang.String)!studentNo	PARAMETER8
+.knowledge/src/main/java/es/entity/Student.java0 (9*	studentNo2R
+java.lang.StringTYPE8
+.knowledge/src/main/java/es/entity/Student.java) (/…
+es.entity.Student.Student()CONSTRUCTOR8
+.knowledge/src/main/java/es/entity/Student.java (*Student2Z
+es.entity.StudentRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Student.java (ı
+es.entity.Student.getId()METHOD8
+.knowledge/src/main/java/es/entity/Student.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*getId2g
+%es.entity.Student?studentNo@9.19:9.28CALL8
+.knowledge/src/main/java/es/entity/Student.java (2Y
+java.lang.StringRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Student.java (·
+es.entity.Student.getAge()METHOD8
+.knowledge/src/main/java/es/entity/Student.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*getAge2a
+es.entity.Student?age@7.16:7.19CALL8
+.knowledge/src/main/java/es/entity/Student.java (2L
+intRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Student.java (Ù
+es.entity.Student.getName()METHOD8
+.knowledge/src/main/java/es/entity/Student.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*getName2b
+ es.entity.Student?name@8.19:8.23CALL8
+.knowledge/src/main/java/es/entity/Student.java (2Y
+java.lang.StringRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Student.java (É
+ es.entity.Student.getStudentNo()METHOD8
+.knowledge/src/main/java/es/entity/Student.java! !("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*getStudentNo2g
+%es.entity.Student?studentNo@9.19:9.28CALL8
+.knowledge/src/main/java/es/entity/Student.java" "(2Y
+java.lang.StringRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Student.java! !(µ
+es.entity.Student.setAge(int)METHOD8
+.knowledge/src/main/java/es/entity/Student.java% %("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*setAge2c
+!es.entity.Student.setAge(int)!ageCALL8
+.knowledge/src/main/java/es/entity/Student.java& &(2a
+es.entity.Student?age@7.16:7.19CALL8
+.knowledge/src/main/java/es/entity/Student.java& &(2h
+!es.entity.Student.setAge(int)!age	PARAMETER8
+.knowledge/src/main/java/es/entity/Student.java% %(2M
+voidRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Student.java% %(¥
+!es.entity.Student.setAge(int)!age	PARAMETER8
+.knowledge/src/main/java/es/entity/Student.java% %(*age2E
+intTYPE8
+.knowledge/src/main/java/es/entity/Student.java% %(„
++es.entity.Student.setName(java.lang.String)METHOD8
+.knowledge/src/main/java/es/entity/Student.java) )("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*setName2r
+0es.entity.Student.setName(java.lang.String)!nameCALL8
+.knowledge/src/main/java/es/entity/Student.java* *(2b
+ es.entity.Student?name@8.19:8.23CALL8
+.knowledge/src/main/java/es/entity/Student.java* *(2w
+0es.entity.Student.setName(java.lang.String)!name	PARAMETER8
+.knowledge/src/main/java/es/entity/Student.java) )(#2M
+voidRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Student.java) )(—
+0es.entity.Student.setName(java.lang.String)!name	PARAMETER8
+.knowledge/src/main/java/es/entity/Student.java) )(#*name2R
+java.lang.StringTYPE8
+.knowledge/src/main/java/es/entity/Student.java) )(á
+0es.entity.Student.setStudentNo(java.lang.String)METHOD8
+.knowledge/src/main/java/es/entity/Student.java- -("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*setStudentNo2|
+:es.entity.Student.setStudentNo(java.lang.String)!studentNoCALL8
+.knowledge/src/main/java/es/entity/Student.java. .("2g
+%es.entity.Student?studentNo@9.19:9.28CALL8
+.knowledge/src/main/java/es/entity/Student.java. .(2Å
+:es.entity.Student.setStudentNo(java.lang.String)!studentNo	PARAMETER8
+.knowledge/src/main/java/es/entity/Student.java-$ -(-2M
+voidRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Student.java- -(‡
+:es.entity.Student.setStudentNo(java.lang.String)!studentNo	PARAMETER8
+.knowledge/src/main/java/es/entity/Student.java-$ -(-*	studentNo2R
+java.lang.StringTYPE8
+.knowledge/src/main/java/es/entity/Student.java- -(#Î
+*es.entity.Student.equals(java.lang.Object)METHOD8
+.knowledge/src/main/java/es/entity/Student.java1 1("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type boolean*equals2n
+,es.entity.Student.canEqual(java.lang.Object)CALL8
+.knowledge/src/main/java/es/entity/Student.java5 5(2\
+es.entity.Student.getAge()CALL8
+.knowledge/src/main/java/es/entity/Student.java6 6(2\
+es.entity.Student.getAge()CALL8
+.knowledge/src/main/java/es/entity/Student.java6# 6()2]
+es.entity.Student.getName()CALL8
+.knowledge/src/main/java/es/entity/Student.java7& 7(-2]
+es.entity.Student.getName()CALL8
+.knowledge/src/main/java/es/entity/Student.java8( 8(/2k
+)java.lang.Object.equals(java.lang.Object)CALL8
+.knowledge/src/main/java/es/entity/Student.java9@ 9(F2b
+ es.entity.Student.getStudentNo()CALL8
+.knowledge/src/main/java/es/entity/Student.java:+ :(72b
+ es.entity.Student.getStudentNo()CALL8
+.knowledge/src/main/java/es/entity/Student.java;- ;(92k
+)java.lang.Object.equals(java.lang.Object)CALL8
+.knowledge/src/main/java/es/entity/Student.java<O <(U2n
+,es.entity.Student.equals(java.lang.Object)!oCALL8
+.knowledge/src/main/java/es/entity/Student.java2 2(2n
+,es.entity.Student.equals(java.lang.Object)!oCALL8
+.knowledge/src/main/java/es/entity/Student.java3 3(2n
+,es.entity.Student.equals(java.lang.Object)!oCALL8
+.knowledge/src/main/java/es/entity/Student.java4( 4()2~
+<es.entity.Student.equals(java.lang.Object)?other@52.22:52.27CALL8
+.knowledge/src/main/java/es/entity/Student.java5 5(2~
+<es.entity.Student.equals(java.lang.Object)?other@52.22:52.27CALL8
+.knowledge/src/main/java/es/entity/Student.java6 6("2~
+<es.entity.Student.equals(java.lang.Object)?other@52.22:52.27CALL8
+.knowledge/src/main/java/es/entity/Student.java8" 8('2Ç
+@es.entity.Student.equals(java.lang.Object)?this$name@55.21:55.30CALL8
+.knowledge/src/main/java/es/entity/Student.java9 9(2É
+Aes.entity.Student.equals(java.lang.Object)?other$name@56.21:56.31CALL8
+.knowledge/src/main/java/es/entity/Student.java9  9(*2Ç
+@es.entity.Student.equals(java.lang.Object)?this$name@55.21:55.30CALL8
+.knowledge/src/main/java/es/entity/Student.java96 9(?2É
+Aes.entity.Student.equals(java.lang.Object)?other$name@56.21:56.31CALL8
+.knowledge/src/main/java/es/entity/Student.java9G 9(Q2~
+<es.entity.Student.equals(java.lang.Object)?other@52.22:52.27CALL8
+.knowledge/src/main/java/es/entity/Student.java;' ;(,2á
+Ees.entity.Student.equals(java.lang.Object)?this$studentNo@58.21:58.35CALL8
+.knowledge/src/main/java/es/entity/Student.java< <(2à
+Fes.entity.Student.equals(java.lang.Object)?other$studentNo@59.21:59.36CALL8
+.knowledge/src/main/java/es/entity/Student.java<% <(42á
+Ees.entity.Student.equals(java.lang.Object)?this$studentNo@58.21:58.35CALL8
+.knowledge/src/main/java/es/entity/Student.java<@ <(N2à
+Fes.entity.Student.equals(java.lang.Object)?other$studentNo@59.21:59.36CALL8
+.knowledge/src/main/java/es/entity/Student.java<V <(e2s
+,es.entity.Student.equals(java.lang.Object)!o	PARAMETER8
+.knowledge/src/main/java/es/entity/Student.java1' 1((2Ö
+<es.entity.Student.equals(java.lang.Object)?other@52.22:52.27DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java4 4(2â
+@es.entity.Student.equals(java.lang.Object)?this$name@55.21:55.30DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java7 7(2ä
+Aes.entity.Student.equals(java.lang.Object)?other$name@56.21:56.31DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java8 8(2é
+Ees.entity.Student.equals(java.lang.Object)?this$studentNo@58.21:58.35DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java: :(#2è
+Fes.entity.Student.equals(java.lang.Object)?other$studentNo@59.21:59.36DECLARATION8
+.knowledge/src/main/java/es/entity/Student.java; ;($2P
+booleanRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Student.java1 1(›
+<es.entity.Student.equals(java.lang.Object)?other@52.22:52.27VALUE8
+.knowledge/src/main/java/es/entity/Student.java4 4("
+type Student*other2S
+es.entity.StudentTYPE8
+.knowledge/src/main/java/es/entity/Student.java4 4(2n
+,es.entity.Student.equals(java.lang.Object)!oCALL8
+.knowledge/src/main/java/es/entity/Student.java4( 4()“
+@es.entity.Student.equals(java.lang.Object)?this$name@55.21:55.30VALUE8
+.knowledge/src/main/java/es/entity/Student.java7 7("
+type Object*	this$name2R
+java.lang.ObjectTYPE8
+.knowledge/src/main/java/es/entity/Student.java7 7(2]
+es.entity.Student.getName()CALL8
+.knowledge/src/main/java/es/entity/Student.java7& 7(-‘
+Aes.entity.Student.equals(java.lang.Object)?other$name@56.21:56.31VALUE8
+.knowledge/src/main/java/es/entity/Student.java8 8("
+type Object*
+other$name2R
+java.lang.ObjectTYPE8
+.knowledge/src/main/java/es/entity/Student.java8 8(2]
+es.entity.Student.getName()CALL8
+.knowledge/src/main/java/es/entity/Student.java8( 8(/2~
+<es.entity.Student.equals(java.lang.Object)?other@52.22:52.27CALL8
+.knowledge/src/main/java/es/entity/Student.java8" 8('·
+Ees.entity.Student.equals(java.lang.Object)?this$studentNo@58.21:58.35VALUE8
+.knowledge/src/main/java/es/entity/Student.java: :(#"
+type Object*this$studentNo2R
+java.lang.ObjectTYPE8
+.knowledge/src/main/java/es/entity/Student.java: :(2b
+ es.entity.Student.getStudentNo()CALL8
+.knowledge/src/main/java/es/entity/Student.java:+ :(7„
+Fes.entity.Student.equals(java.lang.Object)?other$studentNo@59.21:59.36VALUE8
+.knowledge/src/main/java/es/entity/Student.java; ;($"
+type Object*other$studentNo2R
+java.lang.ObjectTYPE8
+.knowledge/src/main/java/es/entity/Student.java; ;(2b
+ es.entity.Student.getStudentNo()CALL8
+.knowledge/src/main/java/es/entity/Student.java;- ;(92~
+<es.entity.Student.equals(java.lang.Object)?other@52.22:52.27CALL8
+.knowledge/src/main/java/es/entity/Student.java;' ;(, 
+,es.entity.Student.equals(java.lang.Object)!o	PARAMETER8
+.knowledge/src/main/java/es/entity/Student.java1' 1((*o2R
+java.lang.ObjectTYPE8
+.knowledge/src/main/java/es/entity/Student.java1  1(&é
+,es.entity.Student.canEqual(java.lang.Object)METHOD8
+.knowledge/src/main/java/es/entity/Student.java@ @("
+staticfalse"
+finalfalse"
+access modifier	protected"
+type boolean*canEqual2t
+2es.entity.Student.canEqual(java.lang.Object)!otherCALL8
+.knowledge/src/main/java/es/entity/Student.javaA A(2y
+2es.entity.Student.canEqual(java.lang.Object)!other	PARAMETER8
+.knowledge/src/main/java/es/entity/Student.java@, @(12P
+booleanRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Student.java@ @(‘
+2es.entity.Student.canEqual(java.lang.Object)!other	PARAMETER8
+.knowledge/src/main/java/es/entity/Student.java@, @(1*other2R
+java.lang.ObjectTYPE8
+.knowledge/src/main/java/es/entity/Student.java@% @(+ò
+es.entity.Student.hashCode()METHOD8
+.knowledge/src/main/java/es/entity/Student.javaD D("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*hashCode2\
+es.entity.Student.getAge()CALL8
+.knowledge/src/main/java/es/entity/Student.javaG' G(-2]
+es.entity.Student.getName()CALL8
+.knowledge/src/main/java/es/entity/Student.javaH" H()2]
+java.lang.Object.hashCode()CALL8
+.knowledge/src/main/java/es/entity/Student.javaI> I(F2b
+ es.entity.Student.getStudentNo()CALL8
+.knowledge/src/main/java/es/entity/Student.javaJ' J(32]
+java.lang.Object.hashCode()CALL8
+.knowledge/src/main/java/es/entity/Student.javaKH K(P2q
+/es.entity.Student.hashCode()?result@70.12:70.18CALL8
+.knowledge/src/main/java/es/entity/Student.javaG G(2q
+/es.entity.Student.hashCode()?result@70.12:70.18CALL8
+.knowledge/src/main/java/es/entity/Student.javaG G(2p
+.es.entity.Student.hashCode()?PRIME@69.18:69.23CALL8
+.knowledge/src/main/java/es/entity/Student.javaG G(2q
+/es.entity.Student.hashCode()?result@70.12:70.18CALL8
+.knowledge/src/main/java/es/entity/Student.javaI I(2q
+/es.entity.Student.hashCode()?result@70.12:70.18CALL8
+.knowledge/src/main/java/es/entity/Student.javaI I(2p
+.es.entity.Student.hashCode()?PRIME@69.18:69.23CALL8
+.knowledge/src/main/java/es/entity/Student.javaI I(2p
+.es.entity.Student.hashCode()?$name@72.21:72.26CALL8
+.knowledge/src/main/java/es/entity/Student.javaI# I((2p
+.es.entity.Student.hashCode()?$name@72.21:72.26CALL8
+.knowledge/src/main/java/es/entity/Student.javaI8 I(=2q
+/es.entity.Student.hashCode()?result@70.12:70.18CALL8
+.knowledge/src/main/java/es/entity/Student.javaK K(2q
+/es.entity.Student.hashCode()?result@70.12:70.18CALL8
+.knowledge/src/main/java/es/entity/Student.javaK K(2p
+.es.entity.Student.hashCode()?PRIME@69.18:69.23CALL8
+.knowledge/src/main/java/es/entity/Student.javaK K(2u
+3es.entity.Student.hashCode()?$studentNo@74.21:74.31CALL8
+.knowledge/src/main/java/es/entity/Student.javaK# K(-2u
+3es.entity.Student.hashCode()?$studentNo@74.21:74.31CALL8
+.knowledge/src/main/java/es/entity/Student.javaK= K(G2q
+/es.entity.Student.hashCode()?result@70.12:70.18CALL8
+.knowledge/src/main/java/es/entity/Student.javaL L(2w
+.es.entity.Student.hashCode()?PRIME@69.18:69.23DECLARATION8
+.knowledge/src/main/java/es/entity/Student.javaE E(2x
+/es.entity.Student.hashCode()?result@70.12:70.18DECLARATION8
+.knowledge/src/main/java/es/entity/Student.javaF F(2w
+.es.entity.Student.hashCode()?$name@72.21:72.26DECLARATION8
+.knowledge/src/main/java/es/entity/Student.javaH H(2|
+3es.entity.Student.hashCode()?$studentNo@74.21:74.31DECLARATION8
+.knowledge/src/main/java/es/entity/Student.javaJ J(2L
+intRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Student.javaD D(Õ
+.es.entity.Student.hashCode()?PRIME@69.18:69.23VALUE8
+.knowledge/src/main/java/es/entity/Student.javaE E("
+type int*PRIME2E
+intTYPE8
+.knowledge/src/main/java/es/entity/Student.javaE E(“
+/es.entity.Student.hashCode()?result@70.12:70.18VARIABLE8
+.knowledge/src/main/java/es/entity/Student.javaF F("
+type int*result2E
+intTYPE8
+.knowledge/src/main/java/es/entity/Student.javaF F(º
+.es.entity.Student.hashCode()?$name@72.21:72.26VALUE8
+.knowledge/src/main/java/es/entity/Student.javaH H("
+type Object*$name2R
+java.lang.ObjectTYPE8
+.knowledge/src/main/java/es/entity/Student.javaH H(2]
+es.entity.Student.getName()CALL8
+.knowledge/src/main/java/es/entity/Student.javaH" H()À
+3es.entity.Student.hashCode()?$studentNo@74.21:74.31VALUE8
+.knowledge/src/main/java/es/entity/Student.javaJ J("
+type Object*
+$studentNo2R
+java.lang.ObjectTYPE8
+.knowledge/src/main/java/es/entity/Student.javaJ J(2b
+ es.entity.Student.getStudentNo()CALL8
+.knowledge/src/main/java/es/entity/Student.javaJ' J(3≥
+es.entity.Student.toString()METHOD8
+.knowledge/src/main/java/es/entity/Student.javaO O("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*toString2\
+es.entity.Student.getAge()CALL8
+.knowledge/src/main/java/es/entity/Student.javaP% P(+2]
+es.entity.Student.getName()CALL8
+.knowledge/src/main/java/es/entity/Student.javaPA P(H2b
+ es.entity.Student.getStudentNo()CALL8
+.knowledge/src/main/java/es/entity/Student.javaPc P(o2Y
+java.lang.StringRETURN_TYPE8
+.knowledge/src/main/java/es/entity/Student.javaO O(–
+!es.entity.Student?INDEX@6.31:6.36VALUE8
+.knowledge/src/main/java/es/entity/Student.java ($"
+type String*INDEX2R
+java.lang.StringTYPE8
+.knowledge/src/main/java/es/entity/Student.java (ø
+es.entity.Student?age@7.16:7.19VARIABLE8
+.knowledge/src/main/java/es/entity/Student.java ("
+type int*age2E
+intTYPE8
+.knowledge/src/main/java/es/entity/Student.java (—
+ es.entity.Student?name@8.19:8.23VARIABLE8
+.knowledge/src/main/java/es/entity/Student.java ("
+type String*name2R
+java.lang.StringTYPE8
+.knowledge/src/main/java/es/entity/Student.java (€
+%es.entity.Student?studentNo@9.19:9.28VARIABLE8
+.knowledge/src/main/java/es/entity/Student.java	 	("
+type String*	studentNo2R
+java.lang.StringTYPE8
+.knowledge/src/main/java/es/entity/Student.java	 	(

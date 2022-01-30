@@ -1,0 +1,21 @@
+
+5knowledge/src/main/java/jl/usage/spi/ServiceImpl.javaÙ
+jl.usage.spi.ServiceImplCLASS?
+5knowledge/src/main/java/jl/usage/spi/ServiceImpl.java ("
+inner classfalse*ServiceImpl2p
+ jl.usage.spi.ServiceImpl.print()DECLARATION?
+5knowledge/src/main/java/jl/usage/spi/ServiceImpl.java (2`
+jl.usage.spi.IServiceEXTEND?
+5knowledge/src/main/java/jl/usage/spi/ServiceImpl.java$ (,ï
+ jl.usage.spi.ServiceImpl.print()METHOD?
+5knowledge/src/main/java/jl/usage/spi/ServiceImpl.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*print2v
+-java.io.PrintStream.println(java.lang.String)CALL?
+5knowledge/src/main/java/jl/usage/spi/ServiceImpl.java (2b
+java.lang.Class.getName()CALL?
+5knowledge/src/main/java/jl/usage/spi/ServiceImpl.java? (F2T
+voidRETURN_TYPE?
+5knowledge/src/main/java/jl/usage/spi/ServiceImpl.java (

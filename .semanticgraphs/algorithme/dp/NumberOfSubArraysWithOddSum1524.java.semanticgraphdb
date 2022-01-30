@@ -1,0 +1,174 @@
+
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java­
+-algorithme.dp.NumberOfSubArraysWithOddSum1524CLASST
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (,"
+inner classfalse*NumberOfSubArraysWithOddSum15242«
+Falgorithme.dp.NumberOfSubArraysWithOddSum1524.main(java.lang.String[])DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2›
+6algorithme.dp.NumberOfSubArraysWithOddSum1524.bridge()DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2›
+6algorithme.dp.NumberOfSubArraysWithOddSum1524.SolutionDECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java
+ (Ù
+Falgorithme.dp.NumberOfSubArraysWithOddSum1524.main(java.lang.String[])METHODT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2”
+6algorithme.dp.NumberOfSubArraysWithOddSum1524.bridge()CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java. (42­
+Oalgorithme.dp.NumberOfSubArraysWithOddSum1524.NumberOfSubArraysWithOddSum1524()CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (+2®
+Kalgorithme.dp.NumberOfSubArraysWithOddSum1524.main(java.lang.String[])!args	PARAMETERT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java% ()2i
+voidRETURN_TYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (¦
+Kalgorithme.dp.NumberOfSubArraysWithOddSum1524.main(java.lang.String[])!args	PARAMETERT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java% ()*args2p
+java.lang.String[]TYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java ($Â
+6algorithme.dp.NumberOfSubArraysWithOddSum1524.bridge()METHODT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2ª
+Lalgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java	 	(-2~
+ java.io.PrintStream.println(int)CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java
+ 
+(2Ÿ
+Aalgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.Solution()CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java	 	(2¢
+Dalgorithme.dp.NumberOfSubArraysWithOddSum1524.bridge()?arr@8.14:8.17CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java	. 	(12 
+Balgorithme.dp.NumberOfSubArraysWithOddSum1524.bridge()?i@9.12:9.13CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java
+ 
+(2©
+Dalgorithme.dp.NumberOfSubArraysWithOddSum1524.bridge()?arr@8.14:8.17DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2§
+Balgorithme.dp.NumberOfSubArraysWithOddSum1524.bridge()?i@9.12:9.13DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java	 	(2i
+voidRETURN_TYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java ( 
+Dalgorithme.dp.NumberOfSubArraysWithOddSum1524.bridge()?arr@8.14:8.17VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java ("
+type int[]*arr2c
+int[]TYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (Œ
+Balgorithme.dp.NumberOfSubArraysWithOddSum1524.bridge()?i@9.12:9.13VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java	 	("
+type int*i2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java	 	(2ª
+Lalgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java	 	(-2Ÿ
+Aalgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.Solution()CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java	 	(2¢
+Dalgorithme.dp.NumberOfSubArraysWithOddSum1524.bridge()?arr@8.14:8.17CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java	. 	(1–
+6algorithme.dp.NumberOfSubArraysWithOddSum1524.SolutionCLASST
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java
+ ("
+inner classtrue*Solution2±
+Lalgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (!2«
+Falgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution?MOD@14.33:14.36DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java! ($×'
+Lalgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])METHODT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (!"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*numOfSubarrays2®
+Palgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])!arrCALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2¸
+Zalgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?i@20.21:20.22CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2º
+\algorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?len@17.16:17.19CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java  (#2¸
+Zalgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?i@20.21:20.22CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java% (&2º
+\algorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?sum@19.25:19.28CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2®
+Palgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])!arrCALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2¸
+Zalgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?i@20.21:20.22CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2º
+\algorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?sum@19.25:19.28CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2º
+\algorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?ans@19.16:19.19CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2º
+\algorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?ans@19.16:19.19CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2¸
+Zalgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?i@20.21:20.22CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java! ("2Ã
+ealgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?oddSumCounts@18.16:18.28CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java) (52¤
+Falgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution?MOD@14.33:14.36CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java9 (<2Ã
+ealgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?oddSumCounts@18.16:18.28CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java ( 2º
+\algorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?ans@19.16:19.19CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2º
+\algorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?ans@19.16:19.19CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2Ã
+ealgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?oddSumCounts@18.16:18.28CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java! (-2¤
+Falgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution?MOD@14.33:14.36CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java1 (42º
+\algorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?ans@19.16:19.19CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2³
+Palgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])!arr	PARAMETERT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java( (+2Á
+\algorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?len@17.16:17.19DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2Ê
+ealgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?oddSumCounts@18.16:18.28DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2Á
+\algorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?ans@19.16:19.19DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2Á
+\algorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?sum@19.25:19.28DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2¿
+Zalgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?i@20.21:20.22DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2h
+intRETURN_TYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (å
+\algorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?len@17.16:17.19VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java ("
+type int*len2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (2®
+Palgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])!arrCALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (Æ
+ealgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?oddSumCounts@18.16:18.28VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java ("
+type int*oddSumCounts2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (´
+\algorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?ans@19.16:19.19VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java ("
+type int*ans2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (´
+\algorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?sum@19.25:19.28VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java ("
+type int*sum2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (°
+Zalgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])?i@20.21:20.22VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java ("
+type int*i2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java (
+Palgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution.numOfSubarrays(int[])!arr	PARAMETERT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java( (+*arr2c
+int[]TYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java" ('›
+Falgorithme.dp.NumberOfSubArraysWithOddSum1524.Solution?MOD@14.33:14.36VALUET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java! ($"
+type int*MOD2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfSubArraysWithOddSum1524.java ( 

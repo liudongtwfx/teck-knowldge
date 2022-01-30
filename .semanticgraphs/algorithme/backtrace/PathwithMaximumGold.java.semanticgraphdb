@@ -1,0 +1,272 @@
+
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.javaå
+(algorithme.backtrace.PathwithMaximumGoldCLASSO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java ( "
+inner classfalse*PathwithMaximumGold2¡
+Aalgorithme.backtrace.PathwithMaximumGold.main(java.lang.String[])DECLARATIONO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2‘
+1algorithme.backtrace.PathwithMaximumGold.SolutionDECLARATIONO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java
+ (ù
+Aalgorithme.backtrace.PathwithMaximumGold.main(java.lang.String[])METHODO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2¤
+Falgorithme.backtrace.PathwithMaximumGold.main(java.lang.String[])!args	PARAMETERO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java% ()2d
+voidRETURN_TYPEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (—
+Falgorithme.backtrace.PathwithMaximumGold.main(java.lang.String[])!args	PARAMETERO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java% ()*args2k
+java.lang.String[]TYPEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java ($·
+1algorithme.backtrace.PathwithMaximumGold.SolutionCLASSO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java
+ ("
+inner classtrue*Solution2©
+Ialgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])DECLARATIONO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (!2º
+Zalgorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)DECLARATIONO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2¡
+Aalgorithme.backtrace.PathwithMaximumGold.Solution?max@12.20:12.23DECLARATIONO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (Ò%
+Ialgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])METHODO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (!"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*getMaximumGold2³
+Zalgorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2§
+Nalgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])!gridCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2§
+Nalgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])!gridCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2°
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?m@15.16:15.17CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java. (/2°
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?n@16.16:16.17CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java1 (22°
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?i@18.21:18.22CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2°
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?m@15.16:15.17CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java  (!2°
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?i@18.21:18.22CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java# ($2°
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?j@19.25:19.26CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java  (!2°
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?n@16.16:16.17CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java$ (%2°
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?j@19.25:19.26CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java' ((2§
+Nalgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])!gridCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2°
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?i@18.21:18.22CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2°
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?j@19.25:19.26CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java  (!2§
+Nalgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])!gridCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java ( 2¶
+]algorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?visited@17.24:17.31CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java" ()2°
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?i@18.21:18.22CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java+ (,2°
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?j@19.25:19.26CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java. (/2š
+Aalgorithme.backtrace.PathwithMaximumGold.Solution?max@12.20:12.23CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2¬
+Nalgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])!grid	PARAMETERO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java* (.2·
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?m@15.16:15.17DECLARATIONO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2·
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?n@16.16:16.17DECLARATIONO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2½
+]algorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?visited@17.24:17.31DECLARATIONO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2·
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?i@18.21:18.22DECLARATIONO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2·
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?j@19.25:19.26DECLARATIONO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2c
+intRETURN_TYPEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (Í
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?m@15.16:15.17VARIABLEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java ("
+type int*m2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2§
+Nalgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])!gridCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (Í
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?n@16.16:16.17VARIABLEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java ("
+type int*n2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2§
+Nalgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])!gridCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (¥
+]algorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?visited@17.24:17.31VARIABLEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java ("
+type boolean[][]*visited2d
+boolean[][]TYPEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2°
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?m@15.16:15.17CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java. (/2°
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?n@16.16:16.17CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java1 (2£
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?i@18.21:18.22VARIABLEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java ("
+type int*i2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (£
+Walgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])?j@19.25:19.26VARIABLEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java ("
+type int*j2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (”
+Nalgorithme.backtrace.PathwithMaximumGold.Solution.getMaximumGold(int[][])!grid	PARAMETERO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java* (.*grid2`
+int[][]TYPEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java" ('çQ
+Zalgorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)METHODO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*dfs2u
+java.lang.Math.max(int, int)CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java% %(2³
+Zalgorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java& &(2³
+Zalgorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java' '(2³
+Zalgorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java( ((2³
+Zalgorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java) )(2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!iCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!jCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!iCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java" (#2¸
+_algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!gridCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java' (+2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!jCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java6 (72¸
+_algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!gridCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java; (?2¸
+_algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!gridCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java   (2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!iCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java   (2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!jCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java   (2»
+balgorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!visitedCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java #  (*2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!iCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java +  (,2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!jCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java .  (/2»
+balgorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!visitedCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java# #(2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!iCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java# #(2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!jCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java# #(2·
+^algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!sumCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java$ $(2¸
+_algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!gridCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java$ $(2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!iCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java$ $(2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!jCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java$ $(2š
+Aalgorithme.backtrace.PathwithMaximumGold.Solution?max@12.20:12.23CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java% %(2š
+Aalgorithme.backtrace.PathwithMaximumGold.Solution?max@12.20:12.23CALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java% %(2·
+^algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!sumCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java%  %(#2¸
+_algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!gridCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java& &(2»
+balgorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!visitedCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java& &(2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!iCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java& &( 2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!jCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java&& &('2·
+^algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!sumCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java&) &(,2¸
+_algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!gridCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java' '(2»
+balgorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!visitedCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java' '(2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!iCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java' '( 2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!jCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java'& '('2·
+^algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!sumCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java') '(,2¸
+_algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!gridCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java( ((2»
+balgorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!visitedCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java( ((2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!iCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java( (( 2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!jCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java(" ((#2·
+^algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!sumCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java() ((,2¸
+_algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!gridCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java) )(2»
+balgorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!visitedCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java) )(2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!iCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java) )( 2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!jCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java)" )(#2·
+^algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!sumCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java)) )(,2»
+balgorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!visitedCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java* *(2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!iCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java* *(2µ
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!jCALLO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java* *(2½
+_algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!grid	PARAMETERO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java! (%2À
+balgorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!visited	PARAMETERO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java3 (:2º
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!i	PARAMETERO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java@ (A2º
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!j	PARAMETERO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.javaG (H2¼
+^algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!sum	PARAMETERO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.javaN (Q2d
+voidRETURN_TYPEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (¥
+_algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!grid	PARAMETERO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java! (%*grid2`
+int[][]TYPEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (¯
+balgorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!visited	PARAMETERO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java3 (:*visited2d
+boolean[][]TYPEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java' (0›
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!i	PARAMETERO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java@ (A*i2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java< (?›
+\algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!j	PARAMETERO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.javaG (H*j2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.javaC (FŸ
+^algorithme.backtrace.PathwithMaximumGold.Solution.dfs(int[][], boolean[][], int, int, int)!sum	PARAMETERO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.javaN (Q*sum2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.javaJ (M
+Aalgorithme.backtrace.PathwithMaximumGold.Solution?max@12.20:12.23VARIABLEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java ("
+type int*max2\
+intTYPEO
+Ealgorithm/src/main/java/algorithme/backtrace/PathwithMaximumGold.java (

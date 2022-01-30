@@ -1,0 +1,263 @@
+
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java®
+-algorithme.bfs.TimeNeededToInformAllEmployeesCLASST
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (+"
+inner classfalse*TimeNeededToInformAllEmployees2´
+Falgorithme.bfs.TimeNeededToInformAllEmployees.main(java.util.String[])DECLARATIONT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java	 	(2õ
+6algorithme.bfs.TimeNeededToInformAllEmployees.SolutionDECLARATIONT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java
+ (2ó
+2algorithme.bfs.TimeNeededToInformAllEmployees.NodeDECLARATIONT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java%
+ %(í
+Falgorithme.bfs.TimeNeededToInformAllEmployees.main(java.util.String[])METHODT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java	 	("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2Æ
+Kalgorithme.bfs.TimeNeededToInformAllEmployees.main(java.util.String[])!args	PARAMETERT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java	% 	()2i
+voidRETURN_TYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java	 	(¶
+Kalgorithme.bfs.TimeNeededToInformAllEmployees.main(java.util.String[])!args	PARAMETERT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java	% 	()*args2p
+java.util.String[]TYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java	 	($˜
+6algorithme.bfs.TimeNeededToInformAllEmployees.SolutionCLASST
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java
+ ("
+inner classtrue*Solution2¿
+[algorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])DECLARATIONT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (≥F
+[algorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])METHODT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*numOfMinutes2
+!java.util.Collections.emptyList()CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.javaW (`2y
+java.util.HashMap.HashMap()CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java; (D2}
+java.util.ArrayList.ArrayList()CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.javaZ (e2
+!java.util.ArrayDeque.ArrayDeque()CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java  (,2ü
+Aalgorithme.bfs.TimeNeededToInformAllEmployees.Node.Node(int, int)CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2«
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?i@16.21:16.22CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2ª
+]algorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])!nCALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java  (!2«
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?i@16.21:16.22CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java# ($2¡
+calgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])!managerCALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2«
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?i@16.21:16.22CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2“
+talgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?subordinates@15.40:15.52CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java( (42¡
+calgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])!managerCALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.javaE (L2«
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?i@16.21:16.22CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.javaM (N2…
+kalgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?sub@18.34:18.37CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2«
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?i@16.21:16.22CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2«
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?q@22.24:22.25CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2¿
+balgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])!headIDCALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (!2«
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?q@22.24:22.25CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2«
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?q@22.24:22.25CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2“
+talgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?subordinates@15.40:15.52CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java# (/2 
+lalgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?head@26.21:26.25CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java= (A2 
+lalgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?head@26.21:26.25CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java ( 2ƒ
+falgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])!informTimeCALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java( (22 
+lalgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?head@26.21:26.25CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java3 (72…
+kalgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?ans@24.16:24.19CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2«
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?t@28.24:28.25CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java# ($2…
+kalgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?ans@24.16:24.19CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java& ()2«
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?q@22.24:22.25CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2…
+kalgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?sub@27.29:27.32CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java# (&2«
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?t@28.24:28.25CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java( ()2…
+kalgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?ans@24.16:24.19CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java! !(2¿
+]algorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])!n	PARAMETERT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java$ (%2≈
+balgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])!headID	PARAMETERT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java+ (12∆
+calgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])!manager	PARAMETERT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java9 (@2…
+falgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])!informTime	PARAMETERT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.javaH (R2Ÿ
+talgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?subordinates@15.40:15.52DECLARATIONT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java( (42Œ
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?i@16.21:16.22DECLARATIONT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2–
+kalgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?sub@18.34:18.37DECLARATIONT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java" (%2Œ
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?q@22.24:22.25DECLARATIONT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2–
+kalgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?ans@24.16:24.19DECLARATIONT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2—
+lalgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?head@26.21:26.25DECLARATIONT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2–
+kalgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?sub@27.29:27.32DECLARATIONT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java ( 2Œ
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?t@28.24:28.25DECLARATIONT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2Œ
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?k@18.81:18.82DECLARATIONT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.javaQ (R2h
+intRETURN_TYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (‹
+talgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?subordinates@15.40:15.52VARIABLET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java( (4"#
+type Map<Integer,List<Integer>>*subordinates2k
+java.util.MapTYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2x
+java.util.IntegerTYPE_ARGUMENTT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2u
+java.util.ListTYPE_ARGUMENTT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2x
+java.util.IntegerTYPE_ARGUMENTT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (%2y
+java.util.HashMap.HashMap()CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java; (Dø
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?i@16.21:16.22VARIABLET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java ("
+type int*i2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (¥	
+kalgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?sub@18.34:18.37VARIABLET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java" (%"
+type List<Integer>*sub2l
+java.util.ListTYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2x
+java.util.IntegerTYPE_ARGUMENTT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java ( 2}
+java.util.ArrayList.ArrayList()CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.javaZ (e2“
+talgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?subordinates@15.40:15.52CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java( (42¡
+calgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])!managerCALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.javaE (L2«
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?i@16.21:16.22CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.javaM (N
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?q@22.24:22.25VARIABLET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java ("
+type Queue<Node>*q2m
+java.util.QueueTYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2ô
+2algorithme.bfs.TimeNeededToInformAllEmployees.NodeTYPE_ARGUMENTT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2
+!java.util.ArrayDeque.ArrayDeque()CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java  (,√
+kalgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?ans@24.16:24.19VARIABLET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java ("
+type int*ans2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (¿
+lalgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?head@26.21:26.25VARIABLET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java ("
+type Node*head2ê
+2algorithme.bfs.TimeNeededToInformAllEmployees.NodeTYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2«
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?q@22.24:22.25CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (’
+kalgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?sub@27.29:27.32VARIABLET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java ( "
+type Integer*sub2o
+java.util.IntegerTYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (†
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?t@28.24:28.25VARIABLET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java ("
+type int*t2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java (2 
+lalgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?head@26.21:26.25CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java ( 2ƒ
+falgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])!informTimeCALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java( (22 
+lalgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?head@26.21:26.25CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java3 (7¶
+]algorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])!n	PARAMETERT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java$ (%*n2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java  (#∞
+balgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])!headID	PARAMETERT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java+ (1*headID2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java' (*¥
+calgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])!manager	PARAMETERT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java9 (@*manager2c
+int[]TYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java3 (8∫
+falgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])!informTime	PARAMETERT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.javaH (R*
+informTime2c
+int[]TYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.javaB (G÷
+ialgorithme.bfs.TimeNeededToInformAllEmployees.Solution.numOfMinutes(int, int, int[], int[])?k@18.81:18.82VARIABLET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.javaQ (R*k2TYPEÆ
+2algorithme.bfs.TimeNeededToInformAllEmployees.NodeCLASST
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java%
+ %("
+inner classtrue*Node2¶
+Aalgorithme.bfs.TimeNeededToInformAllEmployees.Node.Node(int, int)DECLARATIONT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java) )(2´
+Falgorithme.bfs.TimeNeededToInformAllEmployees.Node?current@38.12:38.19DECLARATIONT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java& &(2®
+Calgorithme.bfs.TimeNeededToInformAllEmployees.Node?time@39.12:39.16DECLARATIONT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java' '(Ω
+
+Aalgorithme.bfs.TimeNeededToInformAllEmployees.Node.Node(int, int)CONSTRUCTORT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java) )(*Node2ß
+Ialgorithme.bfs.TimeNeededToInformAllEmployees.Node.Node(int, int)!currentCALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java* *("2§
+Falgorithme.bfs.TimeNeededToInformAllEmployees.Node.Node(int, int)!timeCALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java+ +(2§
+Falgorithme.bfs.TimeNeededToInformAllEmployees.Node?current@38.12:38.19CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java* *(2°
+Calgorithme.bfs.TimeNeededToInformAllEmployees.Node?time@39.12:39.16CALLT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java+ +(2¨
+Ialgorithme.bfs.TimeNeededToInformAllEmployees.Node.Node(int, int)!current	PARAMETERT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java) )(2©
+Falgorithme.bfs.TimeNeededToInformAllEmployees.Node.Node(int, int)!time	PARAMETERT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java)% )()2ó
+2algorithme.bfs.TimeNeededToInformAllEmployees.NodeRETURN_TYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java) )(ò
+Ialgorithme.bfs.TimeNeededToInformAllEmployees.Node.Node(int, int)!current	PARAMETERT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java) )(*current2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java) )(í
+Falgorithme.bfs.TimeNeededToInformAllEmployees.Node.Node(int, int)!time	PARAMETERT
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java)% )()*time2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java)! )($¢
+Falgorithme.bfs.TimeNeededToInformAllEmployees.Node?current@38.12:38.19VARIABLET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java& &("
+type int*current2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java& &(ú
+Calgorithme.bfs.TimeNeededToInformAllEmployees.Node?time@39.12:39.16VARIABLET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java' '("
+type int*time2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/bfs/TimeNeededToInformAllEmployees.java' '(

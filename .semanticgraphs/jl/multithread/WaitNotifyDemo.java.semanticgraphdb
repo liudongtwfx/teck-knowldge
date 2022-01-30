@@ -1,0 +1,146 @@
+
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java¥
+jl.multithread.WaitNotifyDemoCLASSD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java ("
+inner classfalse*WaitNotifyDemo2ã
+6jl.multithread.WaitNotifyDemo.main(java.lang.String[])DECLARATIOND
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java (2à
+3jl.multithread.WaitNotifyDemo?NUMBER_LOCK@5.32:5.43DECLARATIOND
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java  (+2Ü
+1jl.multithread.WaitNotifyDemo?CHAR_LOCK@6.32:6.41DECLARATIOND
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java  ()ò	
+6jl.multithread.WaitNotifyDemo.main(java.lang.String[])METHODD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2f
+java.lang.Thread.start()CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java' (,2f
+java.lang.Thread.start()CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java% (*2y
++java.lang.Thread.Thread(java.lang.Runnable)CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java (2á
+9jl.multithread.WaitNotifyDemo.NumberRunner.NumberRunner()CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java (#2y
++java.lang.Thread.Thread(java.lang.Runnable)CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java (2É
+5jl.multithread.WaitNotifyDemo.CharRunner.CharRunner()CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java (!2é
+;jl.multithread.WaitNotifyDemo.main(java.lang.String[])!args	PARAMETERD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java% ()2Y
+voidRETURN_TYPED
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java (ˆ
+;jl.multithread.WaitNotifyDemo.main(java.lang.String[])!args	PARAMETERD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java% ()*args2`
+java.lang.String[]TYPED
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java ($È
+3jl.multithread.WaitNotifyDemo?NUMBER_LOCK@5.32:5.43VALUED
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java  (+"
+type Object*NUMBER_LOCK2^
+java.lang.ObjectTYPED
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java (2g
+java.lang.Object.Object()CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java2 (8Â
+1jl.multithread.WaitNotifyDemo?CHAR_LOCK@6.32:6.41VALUED
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java  ()"
+type Object*	CHAR_LOCK2^
+java.lang.ObjectTYPED
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java (2g
+java.lang.Object.Object()CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java0 (6õ
+*jl.multithread.WaitNotifyDemo.NumberRunnerCLASSD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java ($"
+inner classfalse*NumberRunner2Ö
+0jl.multithread.WaitNotifyDemo.NumberRunner.run()DECLARATIOND
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java (2è
+:jl.multithread.WaitNotifyDemo.NumberRunner?num@19.27:19.30DECLARATIOND
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java (2b
+java.lang.RunnableEXTENDD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java0 (8Ù
+
+0jl.multithread.WaitNotifyDemo.NumberRunner.run()METHODD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*run2n
+ java.io.PrintStream.println(int)CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java (&2n
+ java.io.PrintStream.println(int)CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java (&2g
+java.lang.Object.notify()CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java ($2e
+java.lang.Object.wait()CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java ("2
+1jl.multithread.WaitNotifyDemo?CHAR_LOCK@6.32:6.41CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java (#2à
+:jl.multithread.WaitNotifyDemo.NumberRunner?num@19.27:19.30CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java' (*2à
+:jl.multithread.WaitNotifyDemo.NumberRunner?num@19.27:19.30CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java' (*2
+1jl.multithread.WaitNotifyDemo?CHAR_LOCK@6.32:6.41CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java (2
+1jl.multithread.WaitNotifyDemo?CHAR_LOCK@6.32:6.41CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java (2Y
+voidRETURN_TYPED
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java (Ú
+:jl.multithread.WaitNotifyDemo.NumberRunner?num@19.27:19.30VARIABLED
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java ("
+type int*num2Q
+intTYPED
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java (ì
+(jl.multithread.WaitNotifyDemo.CharRunnerCLASSD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java$ $(""
+inner classfalse*
+CharRunner2É
+.jl.multithread.WaitNotifyDemo.CharRunner.run()DECLARATIOND
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java) )(2ç
+8jl.multithread.WaitNotifyDemo.CharRunner?num@37.27:37.30DECLARATIOND
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java% %(2b
+java.lang.RunnableEXTENDD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java$. $(6ó
+.jl.multithread.WaitNotifyDemo.CharRunner.run()METHODD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java) )("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*run2o
+!java.io.PrintStream.println(char)CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java- -(&2h
+java.lang.System.exit(int)CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java/ /(#2g
+java.lang.Object.notify()CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java2 2($2e
+java.lang.Object.wait()CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java3 3("2
+1jl.multithread.WaitNotifyDemo?CHAR_LOCK@6.32:6.41CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java* *(#2Ü
+8jl.multithread.WaitNotifyDemo.CharRunner?num@37.27:37.30CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java,+ ,(.2ä
+<jl.multithread.WaitNotifyDemo.CharRunner.run()?c@44.25:44.26CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java-' -((2ä
+<jl.multithread.WaitNotifyDemo.CharRunner.run()?c@44.25:44.26CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java. .(2Ü
+8jl.multithread.WaitNotifyDemo.CharRunner?num@37.27:37.30CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java1 1(2
+1jl.multithread.WaitNotifyDemo?CHAR_LOCK@6.32:6.41CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java2 2(2
+1jl.multithread.WaitNotifyDemo?CHAR_LOCK@6.32:6.41CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java3 3(2ë
+<jl.multithread.WaitNotifyDemo.CharRunner.run()?c@44.25:44.26DECLARATIOND
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java, ,(2Y
+voidRETURN_TYPED
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java) )(˝
+<jl.multithread.WaitNotifyDemo.CharRunner.run()?c@44.25:44.26VARIABLED
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java, ,("
+type char*c2R
+charTYPED
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java, ,(2Ü
+8jl.multithread.WaitNotifyDemo.CharRunner?num@37.27:37.30CALLD
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java,+ ,(.
+8jl.multithread.WaitNotifyDemo.CharRunner?num@37.27:37.30VARIABLED
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java% %("
+type int*num2Q
+intTYPED
+:knowledge/src/main/java/jl/multithread/WaitNotifyDemo.java% %(

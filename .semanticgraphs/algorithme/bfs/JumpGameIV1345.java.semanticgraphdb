@@ -1,0 +1,337 @@
+
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.javaö
+algorithme.bfs.JumpGameIV1345CLASSD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java ("
+inner classfalse*JumpGameIV13452ã
+6algorithme.bfs.JumpGameIV1345.main(java.util.String[])DECLARATIOND
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2{
+&algorithme.bfs.JumpGameIV1345.bridge()DECLARATIOND
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java
+ 
+(2{
+&algorithme.bfs.JumpGameIV1345.SolutionDECLARATIOND
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java
+ (∂
+6algorithme.bfs.JumpGameIV1345.main(java.util.String[])METHODD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2t
+&algorithme.bfs.JumpGameIV1345.bridge()CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (#2|
+.algorithme.bfs.JumpGameIV1345.JumpGameIV1345()CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2é
+;algorithme.bfs.JumpGameIV1345.main(java.util.String[])!args	PARAMETERD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java% ()2Y
+voidRETURN_TYPED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (ˆ
+;algorithme.bfs.JumpGameIV1345.main(java.util.String[])!args	PARAMETERD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java% ()*args2`
+java.util.String[]TYPED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java ($∫
+&algorithme.bfs.JumpGameIV1345.bridge()METHODD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java
+ 
+("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2o
+!java.util.Arrays.fill(int[], int)CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2Ñ
+6algorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java* (22
+1algorithme.bfs.JumpGameIV1345.Solution.Solution()CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java ('2Ñ
+6algorithme.bfs.JumpGameIV1345.bridge()?arr@11.14:11.17CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2Ñ
+6algorithme.bfs.JumpGameIV1345.bridge()?arr@11.14:11.17CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java3 (62ã
+6algorithme.bfs.JumpGameIV1345.bridge()?arr@11.14:11.17DECLARATIOND
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2Y
+voidRETURN_TYPED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java
+ 
+(Ú
+6algorithme.bfs.JumpGameIV1345.bridge()?arr@11.14:11.17VARIABLED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java ("
+type int[]*arr2S
+int[]TYPED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (¢
+&algorithme.bfs.JumpGameIV1345.SolutionCLASSD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java
+ ("
+inner classtrue*Solution2ã
+6algorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])DECLARATIOND
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (≈a
+6algorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])METHODD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minJumps2o
+java.util.Comparator.reversed()CALLF
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.javaä (í2ú
+Njava.util.Comparator.comparingInt(java.util.function.ToIntFunction<? super T>)CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.javaT (`2o
+!java.util.Arrays.fill(int[], int)CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2i
+java.util.HashMap.HashMap()CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java< (E2î
+Fjava.util.PriorityQueue.PriorityQueue(java.util.Comparator<? super E>)CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java9 (H2o
+!java.util.LinkedList.LinkedList()CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java+ (72o
+!java.util.ArrayDeque.ArrayDeque()CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java$Y $(e2à
+:algorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])!arrCALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2í
+Dalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?i@20.21:20.22CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2ó
+Ialgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?length@18.16:18.22CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java  (&2í
+Dalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?i@20.21:20.22CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java( ()2ö
+Jalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?value@21.122:21.127CALLF
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.javaÉ (à2ú
+Nalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?priorityQue@21.39:21.50CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2í
+Dalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?i@20.21:20.22CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java" (#2ù
+Oalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?sameIndexMap@19.41:19.53CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2à
+:algorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])!arrCALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java# (&2í
+Dalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?i@20.21:20.22CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java' ((2ú
+Nalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?priorityQue@21.39:21.50CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java+ (62í
+Dalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?a@23.57:23.58CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2í
+Dalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?b@23.60:23.61CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2í
+Dalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?a@23.57:23.58CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2ó
+Ialgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?length@18.16:18.22CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java" ((2ñ
+Halgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?ansDp@28.18:28.23CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2ó
+Ialgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?length@18.16:18.22CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (%2ñ
+Halgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?ansDp@28.18:28.23CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?indexJump@31.27:31.36CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java   (2ó
+Ialgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?length@18.16:18.22CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java!, !(22ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?indexJump@31.27:31.36CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java" "(2ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?indexJump@31.27:31.36CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java#  #()2ù
+Oalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?sameIndexMap@19.41:19.53CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java$+ $(72à
+:algorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])!arrCALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java$E $(H2ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?headIndex@35.20:35.29CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java$I $(R2ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?headIndex@35.20:35.29CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java% %(2ò
+Jalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?process@33.22:33.29CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java%& %(-2ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?headIndex@35.20:35.29CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java%. %(72ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?sameIndex@36.31:36.40CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java& &(2ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?headIndex@35.20:35.29CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java&" &(+2ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?headIndex@35.20:35.29CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java( ((2ó
+Ialgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?length@18.16:18.22CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java(  ((&2ò
+Jalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?process@33.22:33.29CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java(/ ((62ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?headIndex@35.20:35.29CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java(7 ((@2ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?sameIndex@36.31:36.40CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java) )(2ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?headIndex@35.20:35.29CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java)" )(+2ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?sameIndex@36.31:36.40CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java+ +(!2ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?sameIndex@36.31:36.40CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java,$ ,(-2ò
+Jalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?process@33.22:33.29CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java- -( 2ñ
+Halgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?index@44.28:44.33CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java-! -(&2ñ
+Halgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?ansDp@28.18:28.23CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java-+ -(02ñ
+Halgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?index@44.28:44.33CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java-1 -(62ñ
+Halgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?ansDp@28.18:28.23CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java-: -(?2ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?headIndex@35.20:35.29CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java-@ -(I2ñ
+Halgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?ansDp@28.18:28.23CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java. .(2ñ
+Halgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?index@44.28:44.33CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java. .(#2ñ
+Halgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?ansDp@28.18:28.23CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java.0 .(52ñ
+Halgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?index@44.28:44.33CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java.6 .(;2ñ
+Halgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?ansDp@28.18:28.23CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java.> .(C2ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?headIndex@35.20:35.29CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java.D .(M2ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?indexJump@31.27:31.36CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java/ /(!2ñ
+Halgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?index@44.28:44.33CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java/( /(-2ò
+Jalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?process@33.22:33.29CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java0 0(2ñ
+Halgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?index@44.28:44.33CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java0  0(%2ù
+Oalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?sameIndexMap@19.41:19.53CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java3 3(2à
+:algorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])!arrCALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java3$ 3('2ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?headIndex@35.20:35.29CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java3( 3(12ñ
+Halgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?ansDp@28.18:28.23CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java5 5(2ó
+Ialgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?length@18.16:18.22CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java5 5(2ç
+:algorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])!arr	PARAMETERD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java" (%2û
+Ialgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?length@18.16:18.22DECLARATIOND
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2§
+Oalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?sameIndexMap@19.41:19.53DECLARATIOND
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java) (52ô
+Dalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?i@20.21:20.22DECLARATIOND
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2£
+Nalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?priorityQue@21.39:21.50DECLARATIOND
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java' (22ù
+Halgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?ansDp@28.18:28.23DECLARATIOND
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2°
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?indexJump@31.27:31.36DECLARATIOND
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java ($2ü
+Jalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?process@33.22:33.29DECLARATIOND
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java! !(2°
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?headIndex@35.20:35.29DECLARATIOND
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java# #(2°
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?sameIndex@36.31:36.40DECLARATIOND
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java$ $((2ù
+Halgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?index@44.28:44.33DECLARATIOND
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java, ,(!2ü
+Jalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?value@21.122:21.127DECLARATIOND
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.javaz (2ô
+Dalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?a@23.57:23.58DECLARATIOND
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java9 (:2ô
+Dalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?b@23.60:23.61DECLARATIOND
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java< (=2X
+intRETURN_TYPED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (è
+Ialgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?length@18.16:18.22VARIABLED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java ("
+type int*length2Q
+intTYPED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2à
+:algorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])!arrCALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (Ÿ
+Oalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?sameIndexMap@19.41:19.53VARIABLED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java) (5"$
+type Map<Integer,Queue<Integer>>*sameIndexMap2[
+java.util.MapTYPED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2h
+java.util.IntegerTYPE_ARGUMENTD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2f
+java.util.QueueTYPE_ARGUMENTD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2h
+java.util.IntegerTYPE_ARGUMENTD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (&2i
+java.util.HashMap.HashMap()CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java< (E˙
+Dalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?i@20.21:20.22VARIABLED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java ("
+type int*i2Q
+intTYPED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java („
+Nalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?priorityQue@21.39:21.50VARIABLED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java' (2"
+type PriorityQueue<Integer>*priorityQue2e
+java.util.PriorityQueueTYPED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2h
+java.util.IntegerTYPE_ARGUMENTD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (%2o
+java.util.Comparator.reversed()CALLF
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.javaä (í2ú
+Njava.util.Comparator.comparingInt(java.util.function.ToIntFunction<? super T>)CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.javaT (`2î
+Fjava.util.PriorityQueue.PriorityQueue(java.util.Comparator<? super E>)CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java9 (H2ö
+Jalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?value@21.122:21.127CALLF
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.javaÉ (à†
+Halgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?ansDp@28.18:28.23VARIABLED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java ("
+type int[]*ansDp2S
+int[]TYPED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2ó
+Ialgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?length@18.16:18.22CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java" ((¸
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?indexJump@31.27:31.36VARIABLED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java ($"
+type Queue<Integer>*	indexJump2]
+java.util.QueueTYPED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2h
+java.util.IntegerTYPE_ARGUMENTD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (2o
+!java.util.LinkedList.LinkedList()CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java+ (7¨
+Jalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?process@33.22:33.29VARIABLED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java! !("
+type 	boolean[]*process2W
+	boolean[]TYPED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java! !(2ó
+Ialgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?length@18.16:18.22CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java!, !(2ß
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?headIndex@35.20:35.29VARIABLED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java# #("
+type int*	headIndex2Q
+intTYPED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java# #(2ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?indexJump@31.27:31.36CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java#  #()ƒ
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?sameIndex@36.31:36.40VARIABLED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java$ $(("
+type Queue<Integer>*	sameIndex2]
+java.util.QueueTYPED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java$ $(2h
+java.util.IntegerTYPE_ARGUMENTD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java$ $(2o
+!java.util.ArrayDeque.ArrayDeque()CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java$Y $(e2ù
+Oalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?sameIndexMap@19.41:19.53CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java$+ $(72à
+:algorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])!arrCALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java$E $(H2ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?headIndex@35.20:35.29CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java$I $(R±
+Halgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?index@44.28:44.33VARIABLED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java, ,(!"
+type Integer*index2_
+java.util.IntegerTYPED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java, ,(2ö
+Lalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?sameIndex@36.31:36.40CALLD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java,$ ,(-Á
+:algorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])!arr	PARAMETERD
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java" (%*arr2S
+int[]TYPED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java (!´
+Jalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?value@21.122:21.127VARIABLED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.javaz (*value2TYPE°
+Dalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?a@23.57:23.58VARIABLED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java9 (:*a2TYPE°
+Dalgorithme.bfs.JumpGameIV1345.Solution.minJumps(int[])?b@23.60:23.61VARIABLED
+:algorithm/src/main/java/algorithme/bfs/JumpGameIV1345.java< (=*b2TYPE

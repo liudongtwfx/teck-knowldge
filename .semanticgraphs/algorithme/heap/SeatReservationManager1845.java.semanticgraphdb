@@ -1,0 +1,111 @@
+
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java˚
+*algorithme.heap.SeatReservationManager1845CLASSQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java ('"
+inner classfalse*SeatReservationManager18452•
+Calgorithme.heap.SeatReservationManager1845.main(java.lang.String[])DECLARATIONQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (2ò
+6algorithme.heap.SeatReservationManager1845.SeatManagerDECLARATIONQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java
+ (É
+Calgorithme.heap.SeatReservationManager1845.main(java.lang.String[])METHODQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2®
+Halgorithme.heap.SeatReservationManager1845.main(java.lang.String[])!args	PARAMETERQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java% ()2f
+voidRETURN_TYPEQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (ù
+Halgorithme.heap.SeatReservationManager1845.main(java.lang.String[])!args	PARAMETERQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java% ()*args2m
+java.lang.String[]TYPEQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java ($€
+6algorithme.heap.SeatReservationManager1845.SeatManagerCLASSQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java
+ ("
+inner classtrue*SeatManager2©
+Galgorithme.heap.SeatReservationManager1845.SeatManager.SeatManager(int)DECLARATIONQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (2¢
+@algorithme.heap.SeatReservationManager1845.SeatManager.reserve()DECLARATIONQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (2ß
+Ealgorithme.heap.SeatReservationManager1845.SeatManager.unreserve(int)DECLARATIONQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (2©
+Galgorithme.heap.SeatReservationManager1845.SeatManager?nums@12.31:12.35DECLARATIONQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (#ë
+Galgorithme.heap.SeatReservationManager1845.SeatManager.SeatManager(int)CONSTRUCTORQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (*SeatManager2s
+java.util.Queue.offer(E)CALLQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (2∞
+Ualgorithme.heap.SeatReservationManager1845.SeatManager.SeatManager(int)?i@15.21:15.22CALLQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (2§
+Ialgorithme.heap.SeatReservationManager1845.SeatManager.SeatManager(int)!nCALLQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java! ("2∞
+Ualgorithme.heap.SeatReservationManager1845.SeatManager.SeatManager(int)?i@15.21:15.22CALLQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java$ (%2¢
+Galgorithme.heap.SeatReservationManager1845.SeatManager?nums@12.31:12.35CALLQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (2∞
+Ualgorithme.heap.SeatReservationManager1845.SeatManager.SeatManager(int)?i@15.21:15.22CALLQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (2©
+Ialgorithme.heap.SeatReservationManager1845.SeatManager.SeatManager(int)!n	PARAMETERQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java ( 2∑
+Ualgorithme.heap.SeatReservationManager1845.SeatManager.SeatManager(int)?i@15.21:15.22DECLARATIONQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (2ò
+6algorithme.heap.SeatReservationManager1845.SeatManagerRETURN_TYPEQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (•
+Ualgorithme.heap.SeatReservationManager1845.SeatManager.SeatManager(int)?i@15.21:15.22VARIABLEQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java ("
+type int*i2^
+intTYPEQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (å
+Ialgorithme.heap.SeatReservationManager1845.SeatManager.SeatManager(int)!n	PARAMETERQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java ( *n2^
+intTYPEQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (è
+@algorithme.heap.SeatReservationManager1845.SeatManager.reserve()METHODQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*reserve2y
+java.util.Collection.isEmpty()CALLQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (2q
+java.util.Queue.poll()CALLQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (2¢
+Galgorithme.heap.SeatReservationManager1845.SeatManager?nums@12.31:12.35CALLQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (2¢
+Galgorithme.heap.SeatReservationManager1845.SeatManager?nums@12.31:12.35CALLQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (2e
+intRETURN_TYPEQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (€
+Ealgorithme.heap.SeatReservationManager1845.SeatManager.unreserve(int)METHODQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*	unreserve2s
+java.util.Queue.offer(E)CALLQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (2¢
+Galgorithme.heap.SeatReservationManager1845.SeatManager?nums@12.31:12.35CALLQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (2´
+Palgorithme.heap.SeatReservationManager1845.SeatManager.unreserve(int)!seatNumberCALLQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (!2∞
+Palgorithme.heap.SeatReservationManager1845.SeatManager.unreserve(int)!seatNumber	PARAMETERQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java" (,2f
+voidRETURN_TYPEQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (ú
+Palgorithme.heap.SeatReservationManager1845.SeatManager.unreserve(int)!seatNumber	PARAMETERQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java" (,*
+seatNumber2^
+intTYPEQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (!≠
+Galgorithme.heap.SeatReservationManager1845.SeatManager?nums@12.31:12.35VARIABLEQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (#"
+type Queue<Integer>*nums2j
+java.util.QueueTYPEQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (2u
+java.lang.IntegerTYPE_ARGUMENTQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java (2Ç
+'java.util.PriorityQueue.PriorityQueue()CALLQ
+Galgorithm/src/main/java/algorithme/heap/SeatReservationManager1845.java* (9

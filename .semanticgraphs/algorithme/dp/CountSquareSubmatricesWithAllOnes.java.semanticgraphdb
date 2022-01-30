@@ -1,0 +1,244 @@
+
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java
+/algorithme.dp.CountSquareSubmatricesWithAllOnesCLASSV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (."
+inner classfalse*!CountSquareSubmatricesWithAllOnes2¯
+Halgorithme.dp.CountSquareSubmatricesWithAllOnes.main(java.lang.String[])DECLARATIONV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java	 	(2Ÿ
+8algorithme.dp.CountSquareSubmatricesWithAllOnes.SolutionDECLARATIONV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java
+ (Î
+Halgorithme.dp.CountSquareSubmatricesWithAllOnes.main(java.lang.String[])METHODV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java	 	("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2y
+java.lang.String.intern()CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2„
+$java.io.PrintStream.println(boolean)CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2·
+Walgorithme.dp.CountSquareSubmatricesWithAllOnes.main(java.lang.String[])?s1@10.15:10.17CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (
+2·
+Walgorithme.dp.CountSquareSubmatricesWithAllOnes.main(java.lang.String[])?s1@10.15:10.17CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2·
+Walgorithme.dp.CountSquareSubmatricesWithAllOnes.main(java.lang.String[])?s2@12.15:12.17CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java! (#2²
+Malgorithme.dp.CountSquareSubmatricesWithAllOnes.main(java.lang.String[])!args	PARAMETERV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java	% 	()2¾
+Walgorithme.dp.CountSquareSubmatricesWithAllOnes.main(java.lang.String[])?s1@10.15:10.17DECLARATIONV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java
+ 
+(2¾
+Walgorithme.dp.CountSquareSubmatricesWithAllOnes.main(java.lang.String[])?s2@12.15:12.17DECLARATIONV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2k
+voidRETURN_TYPEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java	 	(Â
+Walgorithme.dp.CountSquareSubmatricesWithAllOnes.main(java.lang.String[])?s1@10.15:10.17VARIABLEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java
+ 
+("
+type String*s12p
+java.lang.StringTYPEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java
+ 
+(Â
+Walgorithme.dp.CountSquareSubmatricesWithAllOnes.main(java.lang.String[])?s2@12.15:12.17VARIABLEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java ("
+type String*s22p
+java.lang.StringTYPEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (¬
+Malgorithme.dp.CountSquareSubmatricesWithAllOnes.main(java.lang.String[])!args	PARAMETERV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java	% 	()*args2r
+java.lang.String[]TYPEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java	 	($ð
+8algorithme.dp.CountSquareSubmatricesWithAllOnes.SolutionCLASSV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java
+ ("
+inner classtrue*Solution2µ
+Nalgorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])DECLARATIONV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (·M
+Nalgorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])METHODV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*countSquares2|
+java.lang.Math.min(int, int)CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java' (*2µ
+Ualgorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])!matrixCALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2µ
+Ualgorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])!matrixCALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?m@18.16:18.17CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java! ("2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?n@19.16:19.17CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java$ (%2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?i@22.21:22.22CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?m@18.16:18.17CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java  (!2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?i@22.21:22.22CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java# ($2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?j@23.25:23.26CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java  (!2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?n@19.16:19.17CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java$ (%2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?j@23.25:23.26CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java' ((2µ
+Ualgorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])!matrixCALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?i@22.21:22.22CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java ( 2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?j@23.25:23.26CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java" (#2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?i@22.21:22.22CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java+ (,2½
+]algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?dp@20.20:20.22CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java3 (52¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?i@22.21:22.22CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java6 (72¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?j@23.25:23.26CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java= (>2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?j@23.25:23.26CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.javaE (F2½
+]algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?dp@20.20:20.22CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.javaM (O2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?i@22.21:22.22CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.javaP (Q2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?j@23.25:23.26CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.javaS (T2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?k@27.33:27.34CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java( ()2¾
+^algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?max@25.28:25.31CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java, (/2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?k@27.33:27.34CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java1 (22µ
+Ualgorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])!matrixCALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java  (&2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?i@22.21:22.22CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java' ((2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?k@27.33:27.34CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java+ (,2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?j@23.25:23.26CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java. (/2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?k@27.33:27.34CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java2 (32¾
+^algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?tmp@26.28:26.31CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java  (#2½
+]algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?dp@20.20:20.22CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java   (2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?i@22.21:22.22CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java   (2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?j@23.25:23.26CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java   (2¾
+^algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?tmp@26.28:26.31CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java #  (&2¾
+^algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?ans@21.16:21.19CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java! !(2½
+]algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?dp@20.20:20.22CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java! !(!2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?i@22.21:22.22CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java!" !(#2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?j@23.25:23.26CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java!% !(&2¾
+^algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?ans@21.16:21.19CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java% %(2º
+Ualgorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])!matrix	PARAMETERV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java( (.2Ã
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?m@18.16:18.17DECLARATIONV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2Ã
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?n@19.16:19.17DECLARATIONV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2Ä
+]algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?dp@20.20:20.22DECLARATIONV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2Å
+^algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?ans@21.16:21.19DECLARATIONV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2Ã
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?i@22.21:22.22DECLARATIONV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2Ã
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?j@23.25:23.26DECLARATIONV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2Å
+^algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?max@25.28:25.31DECLARATIONV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2Å
+^algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?tmp@26.28:26.31DECLARATIONV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2Ã
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?k@27.33:27.34DECLARATIONV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java! ("2j
+intRETURN_TYPEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (î
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?m@18.16:18.17VARIABLEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java ("
+type int*m2c
+intTYPEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2µ
+Ualgorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])!matrixCALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (î
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?n@19.16:19.17VARIABLEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java ("
+type int*n2c
+intTYPEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2µ
+Ualgorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])!matrixCALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (¾
+]algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?dp@20.20:20.22VARIABLEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java ("
+type int[][]*dp2g
+int[][]TYPEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?m@18.16:18.17CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java! ("2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?n@19.16:19.17CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java$ (%º
+^algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?ans@21.16:21.19VARIABLEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java ("
+type int*ans2c
+intTYPEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (¶
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?i@22.21:22.22VARIABLEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java ("
+type int*i2c
+intTYPEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (¶
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?j@23.25:23.26VARIABLEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java ("
+type int*j2c
+intTYPEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (²
+^algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?max@25.28:25.31VARIABLEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java ("
+type int*max2c
+intTYPEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (2|
+java.lang.Math.min(int, int)CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java' (*2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?i@22.21:22.22CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java+ (,2½
+]algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?dp@20.20:20.22CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java3 (52¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?i@22.21:22.22CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java6 (72¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?j@23.25:23.26CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java= (>2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?j@23.25:23.26CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.javaE (F2½
+]algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?dp@20.20:20.22CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.javaM (O2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?i@22.21:22.22CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.javaP (Q2¼
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?j@23.25:23.26CALLV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.javaS (Tº
+^algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?tmp@26.28:26.31VARIABLEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java ("
+type int*tmp2c
+intTYPEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java (¶
+\algorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])?k@27.33:27.34VARIABLEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java! (""
+type int*k2c
+intTYPEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java ( «
+Ualgorithme.dp.CountSquareSubmatricesWithAllOnes.Solution.countSquares(int[][])!matrix	PARAMETERV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java( (.*matrix2g
+int[][]TYPEV
+Lalgorithm/src/main/java/algorithme/dp/CountSquareSubmatricesWithAllOnes.java  (%

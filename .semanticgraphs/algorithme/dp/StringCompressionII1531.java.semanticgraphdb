@@ -1,0 +1,50 @@
+
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java×
+%algorithme.dp.StringCompressionII1531CLASSL
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java ($"
+inner classfalse*StringCompressionII15312›
+>algorithme.dp.StringCompressionII1531.main(java.lang.String[])DECLARATIONL
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java (2‹
+.algorithme.dp.StringCompressionII1531.SolutionDECLARATIONL
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java
+ (ê
+>algorithme.dp.StringCompressionII1531.main(java.lang.String[])METHODL
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2ž
+Calgorithme.dp.StringCompressionII1531.main(java.lang.String[])!args	PARAMETERL
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java% ()2a
+voidRETURN_TYPEL
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java (Ž
+Calgorithme.dp.StringCompressionII1531.main(java.lang.String[])!args	PARAMETERL
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java% ()*args2h
+java.lang.String[]TYPEL
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java ($ç
+.algorithme.dp.StringCompressionII1531.SolutionCLASSL
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java
+ ("
+inner classtrue*Solution2À
+calgorithme.dp.StringCompressionII1531.Solution.getLengthOfOptimalCompression(java.lang.String, int)DECLARATIONL
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java (0Œ
+calgorithme.dp.StringCompressionII1531.Solution.getLengthOfOptimalCompression(java.lang.String, int)METHODL
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java (0"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*getLengthOfOptimalCompression2À
+ealgorithme.dp.StringCompressionII1531.Solution.getLengthOfOptimalCompression(java.lang.String, int)!s	PARAMETERL
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java8 (92À
+ealgorithme.dp.StringCompressionII1531.Solution.getLengthOfOptimalCompression(java.lang.String, int)!k	PARAMETERL
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java? (@2`
+intRETURN_TYPEL
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java («
+ealgorithme.dp.StringCompressionII1531.Solution.getLengthOfOptimalCompression(java.lang.String, int)!s	PARAMETERL
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java8 (9*s2f
+java.lang.StringTYPEL
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java1 (7ž
+ealgorithme.dp.StringCompressionII1531.Solution.getLengthOfOptimalCompression(java.lang.String, int)!k	PARAMETERL
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java? (@*k2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/dp/StringCompressionII1531.java; (>

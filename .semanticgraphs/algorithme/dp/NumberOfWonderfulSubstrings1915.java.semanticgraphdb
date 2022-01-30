@@ -1,0 +1,193 @@
+
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java­
+-algorithme.dp.NumberOfWonderfulSubstrings1915CLASST
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (,"
+inner classfalse*NumberOfWonderfulSubstrings19152«
+Falgorithme.dp.NumberOfWonderfulSubstrings1915.main(java.lang.String[])DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2›
+6algorithme.dp.NumberOfWonderfulSubstrings1915.bridge()DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2›
+6algorithme.dp.NumberOfWonderfulSubstrings1915.SolutionDECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java
+ (Ù
+Falgorithme.dp.NumberOfWonderfulSubstrings1915.main(java.lang.String[])METHODT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2”
+6algorithme.dp.NumberOfWonderfulSubstrings1915.bridge()CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java. (42­
+Oalgorithme.dp.NumberOfWonderfulSubstrings1915.NumberOfWonderfulSubstrings1915()CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (+2®
+Kalgorithme.dp.NumberOfWonderfulSubstrings1915.main(java.lang.String[])!args	PARAMETERT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java% ()2i
+voidRETURN_TYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (¦
+Kalgorithme.dp.NumberOfWonderfulSubstrings1915.main(java.lang.String[])!args	PARAMETERT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java% ()*args2p
+java.lang.String[]TYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java ($Ù
+6algorithme.dp.NumberOfWonderfulSubstrings1915.bridge()METHODT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2º
+\algorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java	" 	(52
+!java.io.PrintStream.println(long)CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java
+ 
+(2Ÿ
+Aalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.Solution()CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java	 	(2£
+Ealgorithme.dp.NumberOfWonderfulSubstrings1915.bridge()?word@8.15:8.19CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java	6 	(:2¢
+Dalgorithme.dp.NumberOfWonderfulSubstrings1915.bridge()?ans@9.13:9.16CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java
+ 
+(2ª
+Ealgorithme.dp.NumberOfWonderfulSubstrings1915.bridge()?word@8.15:8.19DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2©
+Dalgorithme.dp.NumberOfWonderfulSubstrings1915.bridge()?ans@9.13:9.16DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java	 	(2i
+voidRETURN_TYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (®
+Ealgorithme.dp.NumberOfWonderfulSubstrings1915.bridge()?word@8.15:8.19VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java ("
+type String*word2n
+java.lang.StringTYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (£
+Dalgorithme.dp.NumberOfWonderfulSubstrings1915.bridge()?ans@9.13:9.16VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java	 	("
+type long*ans2b
+longTYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java	 	(2º
+\algorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java	" 	(52Ÿ
+Aalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.Solution()CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java	 	(2£
+Ealgorithme.dp.NumberOfWonderfulSubstrings1915.bridge()?word@8.15:8.19CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java	6 	(:ø
+6algorithme.dp.NumberOfWonderfulSubstrings1915.SolutionCLASST
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java
+ ("
+inner classtrue*Solution2Á
+\algorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java ('â2
+\algorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)METHODT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java ('"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type long*wonderfulSubstrings2|
+java.lang.String.toCharArray()CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java  (+2¿
+aalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)!wordCALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2É
+kalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?dp@15.19:15.21CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2È
+jalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?i@20.21:20.22CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2Ì
+nalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?chars@16.19:16.24CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java  (%2È
+jalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?i@20.21:20.22CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java. (/2Ì
+nalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?chars@16.19:16.24CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (!2È
+jalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?i@20.21:20.22CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java" (#2Í
+oalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?prefix@17.16:17.22CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2Ì
+nalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?index@22.20:22.25CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java  (%2Ê
+lalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?ans@18.17:18.20CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2É
+kalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?dp@15.19:15.21CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2Í
+oalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?prefix@17.16:17.22CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java ( 2È
+jalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?j@24.20:24.21CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2Ê
+lalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?ans@18.17:18.20CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2É
+kalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?dp@15.19:15.21CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2Í
+oalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?prefix@17.16:17.22CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java ($2È
+jalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?j@24.20:24.21CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java- (.2È
+jalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?j@24.20:24.21CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2É
+kalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?dp@15.19:15.21CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2Í
+oalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?prefix@17.16:17.22CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2Ê
+lalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?ans@18.17:18.20CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java   (2Ä
+aalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)!word	PARAMETERT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java/ (32Ð
+kalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?dp@15.19:15.21DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2Ó
+nalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?chars@16.19:16.24DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2Ô
+oalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?prefix@17.16:17.22DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2Ñ
+lalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?ans@18.17:18.20DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2Ï
+jalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?i@20.21:20.22DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2Ó
+nalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?index@22.20:22.25DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2Ï
+jalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?j@24.20:24.21DECLARATIONT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2i
+longRETURN_TYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (È
+kalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?dp@15.19:15.21VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java ("
+type long[]*dp2d
+long[]TYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (Ž
+nalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?chars@16.19:16.24VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java ("
+type char[]*chars2d
+char[]TYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2|
+java.lang.String.toCharArray()CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java  (+2¿
+aalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)!wordCALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (Ê
+oalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?prefix@17.16:17.22VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java ("
+type int*prefix2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (Æ
+lalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?ans@18.17:18.20VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java ("
+type long*ans2b
+longTYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (À
+jalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?i@20.21:20.22VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java ("
+type int*i2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (â
+nalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?index@22.20:22.25VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java ("
+type int*index2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (2Ì
+nalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?chars@16.19:16.24CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (!2È
+jalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?i@20.21:20.22CALLT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java" (#À
+jalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)?j@24.20:24.21VARIABLET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java ("
+type int*j2a
+intTYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java (º
+aalgorithme.dp.NumberOfWonderfulSubstrings1915.Solution.wonderfulSubstrings(java.lang.String)!word	PARAMETERT
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java/ (3*word2n
+java.lang.StringTYPET
+Jalgorithm/src/main/java/algorithme/dp/NumberOfWonderfulSubstrings1915.java( (.

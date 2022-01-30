@@ -1,0 +1,176 @@
+
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java¦
+1algorithme.CheckIfNumberIsASumOfPowersOfThree1780CLASSX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (3"
+inner classfalse*&CheckIfNumberIsASumOfPowersOfThree17802³
+Jalgorithme.CheckIfNumberIsASumOfPowersOfThree1780.main(java.lang.String[])DECLARATIONX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2£
+:algorithme.CheckIfNumberIsASumOfPowersOfThree1780.bridge()DECLARATIONX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2±
+Halgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?v@18.16:18.17DECLARATIONX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2±
+Halgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?i@19.21:19.22DECLARATIONX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2ª
+Halgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?i@19.21:19.22CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2ª
+Halgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?i@19.21:19.22CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java$ (%2¬
+Jalgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?tmp@15.21:15.24CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2ª
+Halgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?i@19.21:19.22CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2ª
+Halgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?v@18.16:18.17CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2ª
+Halgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?v@18.16:18.17CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java („
+Jalgorithme.CheckIfNumberIsASumOfPowersOfThree1780.main(java.lang.String[])METHODX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2œ
+:algorithme.CheckIfNumberIsASumOfPowersOfThree1780.bridge()CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java5 (;2¼
+Zalgorithme.CheckIfNumberIsASumOfPowersOfThree1780.CheckIfNumberIsASumOfPowersOfThree1780()CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (22¶
+Oalgorithme.CheckIfNumberIsASumOfPowersOfThree1780.main(java.lang.String[])!args	PARAMETERX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java% ()2m
+voidRETURN_TYPEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (²
+Oalgorithme.CheckIfNumberIsASumOfPowersOfThree1780.main(java.lang.String[])!args	PARAMETERX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java% ()*args2t
+java.lang.String[]TYPEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java ($“
+:algorithme.CheckIfNumberIsASumOfPowersOfThree1780.bridge()METHODX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2´
+Ralgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution.checkPowersOfThree(int)CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java	 	(/2†
+$java.io.PrintStream.println(boolean)CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java
+ 
+(2§
+Ealgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution.Solution()CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java  ((2¯
+Malgorithme.CheckIfNumberIsASumOfPowersOfThree1780.bridge()?solution@8.17:8.25CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java	 	(2¨
+Falgorithme.CheckIfNumberIsASumOfPowersOfThree1780.bridge()?b@9.16:9.17CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java
+ 
+(2¶
+Malgorithme.CheckIfNumberIsASumOfPowersOfThree1780.bridge()?solution@8.17:8.25DECLARATIONX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2¯
+Falgorithme.CheckIfNumberIsASumOfPowersOfThree1780.bridge()?b@9.16:9.17DECLARATIONX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java	 	(2m
+voidRETURN_TYPEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (™
+Malgorithme.CheckIfNumberIsASumOfPowersOfThree1780.bridge()?solution@8.17:8.25VARIABLEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java ("
+type Solution*solution2œ
+:algorithme.CheckIfNumberIsASumOfPowersOfThree1780.SolutionTYPEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2§
+Ealgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution.Solution()CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java  ((•
+Falgorithme.CheckIfNumberIsASumOfPowersOfThree1780.bridge()?b@9.16:9.17VARIABLEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java	 	("
+type boolean*b2i
+booleanTYPEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java	 	(2´
+Ralgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution.checkPowersOfThree(int)CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java	 	(/2¯
+Malgorithme.CheckIfNumberIsASumOfPowersOfThree1780.bridge()?solution@8.17:8.25CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java	 	(¦
+Halgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?v@18.16:18.17VARIABLEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java ("
+type int*v2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (¦
+Halgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?i@19.21:19.22VARIABLEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java ("
+type int*i2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (©
+:algorithme.CheckIfNumberIsASumOfPowersOfThree1780.SolutionCLASSX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java ("
+inner classfalse*Solution2»
+Ralgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution.checkPowersOfThree(int)DECLARATIONX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java ()2³
+Jalgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?tmp@15.21:15.24DECLARATIONX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2±
+Halgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?v@18.16:18.17DECLARATIONX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2±
+Halgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?i@19.21:19.22DECLARATIONX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2ª
+Halgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?i@19.21:19.22CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2ª
+Halgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?i@19.21:19.22CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java$ (%2¬
+Jalgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?tmp@15.21:15.24CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2ª
+Halgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?i@19.21:19.22CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2ª
+Halgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?v@18.16:18.17CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2ª
+Halgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?v@18.16:18.17CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (ï
+Ralgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution.checkPowersOfThree(int)METHODX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java ()"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type boolean*checkPowersOfThree2‚
+ java.io.PrintStream.println(int)CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java ("2Â
+`algorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution.checkPowersOfThree(int)?i@26.21:26.22CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2Â
+`algorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution.checkPowersOfThree(int)?i@26.21:26.22CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java$ (%2¬
+Jalgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?tmp@15.21:15.24CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2Â
+`algorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution.checkPowersOfThree(int)?i@26.21:26.22CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2¶
+Talgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution.checkPowersOfThree(int)!nCALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2¶
+Talgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution.checkPowersOfThree(int)!nCALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2¬
+Jalgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?tmp@15.21:15.24CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2Â
+`algorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution.checkPowersOfThree(int)?i@26.21:26.22CALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2¶
+Talgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution.checkPowersOfThree(int)!nCALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java# ($2¶
+Talgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution.checkPowersOfThree(int)!nCALLX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java   (2»
+Talgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution.checkPowersOfThree(int)!n	PARAMETERX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java. (/2É
+`algorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution.checkPowersOfThree(int)?i@26.21:26.22DECLARATIONX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (2p
+booleanRETURN_TYPEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (¾
+`algorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution.checkPowersOfThree(int)?i@26.21:26.22VARIABLEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java ("
+type int*i2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (¥
+Talgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution.checkPowersOfThree(int)!n	PARAMETERX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java. (/*n2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java* (-®
+Jalgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?tmp@15.21:15.24VARIABLEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java ("
+type int[]*tmp2g
+int[]TYPEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (¦
+Halgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?v@18.16:18.17VARIABLEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java ("
+type int*v2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (¦
+Halgorithme.CheckIfNumberIsASumOfPowersOfThree1780.Solution?i@19.21:19.22VARIABLEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java ("
+type int*i2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/CheckIfNumberIsASumOfPowersOfThree1780.java (

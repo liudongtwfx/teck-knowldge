@@ -1,0 +1,103 @@
+
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.javaæ
+)redis.cachestratege.MySqlStorageOperationCLASSP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java (""
+inner classfalse*MySqlStorageOperation2³
+Rredis.cachestratege.MySqlStorageOperation.save(java.lang.String, java.lang.String)DECLARATIONP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java (2µ
+Tredis.cachestratege.MySqlStorageOperation.update(java.lang.String, java.lang.String)DECLARATIONP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java
+ 
+(2¢
+Aredis.cachestratege.MySqlStorageOperation.query(java.lang.String)DECLARATIONP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java (2£
+Bredis.cachestratege.MySqlStorageOperation.delete(java.lang.String)DECLARATIONP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java (2~
+"redis.cachestratege.StorageOperateEXTENDP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java. (<2z
+java.lang.StringEXTEND_TYPE_ARGUMENTP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java= (CØ
+Rredis.cachestratege.MySqlStorageOperation.save(java.lang.String, java.lang.String)METHODP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*save2µ
+Vredis.cachestratege.MySqlStorageOperation.save(java.lang.String, java.lang.String)!key	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java (2·
+Xredis.cachestratege.MySqlStorageOperation.save(java.lang.String, java.lang.String)!value	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java( (-2e
+voidRETURN_TYPEP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java (¦
+Vredis.cachestratege.MySqlStorageOperation.save(java.lang.String, java.lang.String)!key	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java (*key2j
+java.lang.StringTYPEP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java (ª
+Xredis.cachestratege.MySqlStorageOperation.save(java.lang.String, java.lang.String)!value	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java( (-*value2j
+java.lang.StringTYPEP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java! ('à
+Tredis.cachestratege.MySqlStorageOperation.update(java.lang.String, java.lang.String)METHODP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java
+ 
+("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*update2·
+Xredis.cachestratege.MySqlStorageOperation.update(java.lang.String, java.lang.String)!key	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java
+ 
+(!2¹
+Zredis.cachestratege.MySqlStorageOperation.update(java.lang.String, java.lang.String)!value	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java
+* 
+(/2e
+voidRETURN_TYPEP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java
+ 
+(¨
+Xredis.cachestratege.MySqlStorageOperation.update(java.lang.String, java.lang.String)!key	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java
+ 
+(!*key2j
+java.lang.StringTYPEP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java
+ 
+(¬
+Zredis.cachestratege.MySqlStorageOperation.update(java.lang.String, java.lang.String)!value	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java
+* 
+(/*value2j
+java.lang.StringTYPEP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java
+# 
+()‹
+Aredis.cachestratege.MySqlStorageOperation.query(java.lang.String)METHODP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*query2¤
+Eredis.cachestratege.MySqlStorageOperation.query(java.lang.String)!key	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java ("2q
+java.lang.StringRETURN_TYPEP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java (•
+Eredis.cachestratege.MySqlStorageOperation.query(java.lang.String)!key	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java ("*key2j
+java.lang.StringTYPEP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java (€
+Bredis.cachestratege.MySqlStorageOperation.delete(java.lang.String)METHODP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*delete2¥
+Fredis.cachestratege.MySqlStorageOperation.delete(java.lang.String)!key	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java (!2e
+voidRETURN_TYPEP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java (–
+Fredis.cachestratege.MySqlStorageOperation.delete(java.lang.String)!key	PARAMETERP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java (!*key2j
+java.lang.StringTYPEP
+Fknowledge/src/main/java/redis/cachestratege/MySqlStorageOperation.java (

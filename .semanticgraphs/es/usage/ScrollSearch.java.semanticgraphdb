@@ -1,0 +1,426 @@
+
+2knowledge/src/main/java/es/usage/ScrollSearch.javaþ
+es.usage.ScrollSearchCLASS<
+2knowledge/src/main/java/es/usage/ScrollSearch.java ("
+inner classfalse*ScrollSearch2†
+9es.usage.ScrollSearch.main(java.util.concurrent.String[])DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java (2
+2es.usage.ScrollSearch?EXECUTOR_SERVICE@21.41:21.57DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java) (92r
+%es.usage.ScrollSearch?log@22.32:22.35DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java  (#ê%
+9es.usage.ScrollSearch.main(java.util.concurrent.String[])METHOD<
+2knowledge/src/main/java/es/usage/ScrollSearch.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2g
+!java.util.concurrent.Future.get()CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java) )(2g
+!java.util.concurrent.Future.get()CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java+ +(!2e
+java.util.ArrayList.ArrayList()CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java#2 #(=2x
+2es.usage.ScrollSearch?EXECUTOR_SERVICE@21.41:21.57CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java5 (E2’
+Les.usage.ScrollSearch.main(java.util.concurrent.String[])?submit@26.44:26.50CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java (2’
+Les.usage.ScrollSearch.main(java.util.concurrent.String[])?submit@26.44:26.50CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java6 (<2›
+Ues.usage.ScrollSearch.main(java.util.concurrent.String[])?stringObjectMap@30.36:30.51CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java (2k
+%es.usage.ScrollSearch?log@22.32:22.35CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java0 (32
+Ges.usage.ScrollSearch.main(java.util.concurrent.String[])?t@31.43:31.44CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaG (H2k
+%es.usage.ScrollSearch?log@22.32:22.35CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java! !(2›
+Ues.usage.ScrollSearch.main(java.util.concurrent.String[])?stringObjectMap@30.36:30.51CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java" "()2
+Ges.usage.ScrollSearch.main(java.util.concurrent.String[])?i@37.17:37.18CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java% %(2
+Ges.usage.ScrollSearch.main(java.util.concurrent.String[])?i@37.17:37.18CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java%  %(!2k
+%es.usage.ScrollSearch?log@22.32:22.35CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java& &(2”
+Nes.usage.ScrollSearch.main(java.util.concurrent.String[])?scrollId@34.15:34.23CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java&$ &(,2x
+2es.usage.ScrollSearch?EXECUTOR_SERVICE@21.41:21.57CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java'9 '(I2”
+Nes.usage.ScrollSearch.main(java.util.concurrent.String[])?scrollId@34.15:34.23CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java'j '(r2’
+Les.usage.ScrollSearch.main(java.util.concurrent.String[])?result@39.48:39.54CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java) )(2k
+%es.usage.ScrollSearch?log@22.32:22.35CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java)1 )(42
+Ges.usage.ScrollSearch.main(java.util.concurrent.String[])?s@41.44:41.45CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java)H )(I2k
+%es.usage.ScrollSearch?log@22.32:22.35CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java* *(2”
+Nes.usage.ScrollSearch.main(java.util.concurrent.String[])?scrollId@34.15:34.23CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java+ +(2’
+Les.usage.ScrollSearch.main(java.util.concurrent.String[])?result@39.48:39.54CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java+ +(2x
+2es.usage.ScrollSearch?EXECUTOR_SERVICE@21.41:21.57CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java- -(2‰
+>es.usage.ScrollSearch.main(java.util.concurrent.String[])!args	PARAMETER<
+2knowledge/src/main/java/es/usage/ScrollSearch.java% ()2™
+Les.usage.ScrollSearch.main(java.util.concurrent.String[])?submit@26.44:26.50DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java, (22¢
+Ues.usage.ScrollSearch.main(java.util.concurrent.String[])?stringObjectMap@30.36:30.51DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java$ (32›
+Nes.usage.ScrollSearch.main(java.util.concurrent.String[])?scrollId@34.15:34.23DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java" "(2š
+Mes.usage.ScrollSearch.main(java.util.concurrent.String[])?futures@35.36:35.43DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java#$ #(+2”
+Ges.usage.ScrollSearch.main(java.util.concurrent.String[])?i@37.17:37.18DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java% %(2™
+Les.usage.ScrollSearch.main(java.util.concurrent.String[])?result@39.48:39.54DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java'0 '(62”
+Ges.usage.ScrollSearch.main(java.util.concurrent.String[])?t@31.43:31.44DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java+ (,2”
+Ges.usage.ScrollSearch.main(java.util.concurrent.String[])?s@41.44:41.45DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java), )(-2Q
+voidRETURN_TYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java (É
+Les.usage.ScrollSearch.main(java.util.concurrent.String[])?submit@26.44:26.50VARIABLE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java, (2"+
+type "Future<Pair<String,List<Student>>>*submit2a
+java.util.concurrent.FutureTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java (2r
+#org.apache.commons.lang3.tuple.PairTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java (2j
+java.util.concurrent.StringTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java (2]
+java.util.ListTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java ( 2`
+es.entity.StudentTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java! ((2x
+2es.usage.ScrollSearch?EXECUTOR_SERVICE@21.41:21.57CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java5 (E‚
+Ues.usage.ScrollSearch.main(java.util.concurrent.String[])?stringObjectMap@30.36:30.51VARIABLE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java$ (3"#
+type Pair<String,List<Student>>*stringObjectMap2i
+#org.apache.commons.lang3.tuple.PairTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java (2j
+java.util.concurrent.StringTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java (2]
+java.util.ListTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java (2`
+es.entity.StudentTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java (!2’
+Les.usage.ScrollSearch.main(java.util.concurrent.String[])?submit@26.44:26.50CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java6 (<´
+Nes.usage.ScrollSearch.main(java.util.concurrent.String[])?scrollId@34.15:34.23VARIABLE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java" "("
+type String*scrollId2a
+java.util.concurrent.StringTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java" "(2›
+Ues.usage.ScrollSearch.main(java.util.concurrent.String[])?stringObjectMap@30.36:30.51CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java" "()°
+Mes.usage.ScrollSearch.main(java.util.concurrent.String[])?futures@35.36:35.43VARIABLE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java#$ #(+"$
+type List<Future<List<Student>>>*futures2T
+java.util.ListTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java# #(2j
+java.util.concurrent.FutureTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java# #(2]
+java.util.ListTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java# #(2`
+es.entity.StudentTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java# #( 2e
+java.util.ArrayList.ArrayList()CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java#2 #(=í
+Ges.usage.ScrollSearch.main(java.util.concurrent.String[])?i@37.17:37.18VARIABLE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java% %("
+type int*i2I
+intTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java% %(à
+Les.usage.ScrollSearch.main(java.util.concurrent.String[])?result@39.48:39.54VARIABLE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java'0 '(6"+
+type "Future<Pair<String,List<Student>>>*result2a
+java.util.concurrent.FutureTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java' '(2r
+#org.apache.commons.lang3.tuple.PairTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java' '(2j
+java.util.concurrent.StringTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java' '(2]
+java.util.ListTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java'  '($2`
+es.entity.StudentTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java'% '(,2x
+2es.usage.ScrollSearch?EXECUTOR_SERVICE@21.41:21.57CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java'9 '(I2”
+Nes.usage.ScrollSearch.main(java.util.concurrent.String[])?scrollId@34.15:34.23CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java'j '(rô
+>es.usage.ScrollSearch.main(java.util.concurrent.String[])!args	PARAMETER<
+2knowledge/src/main/java/es/usage/ScrollSearch.java% ()*args2c
+java.util.concurrent.String[]TYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java ($œ
+Ges.usage.ScrollSearch.main(java.util.concurrent.String[])?t@31.43:31.44VARIABLE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java+ (,*t2TYPEœ
+Ges.usage.ScrollSearch.main(java.util.concurrent.String[])?s@41.44:41.45VARIABLE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java), )(-*s2TYPE
+2es.usage.ScrollSearch?EXECUTOR_SERVICE@21.41:21.57VALUE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java) (9"
+type ExecutorService*EXECUTOR_SERVICE2j
+$java.util.concurrent.ExecutorServiceTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java ((2|
+6java.util.concurrent.Executors.newFixedThreadPool(int)CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaF (XÚ
+%es.usage.ScrollSearch?log@22.32:22.35VALUE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java  (#"
+type Logger*log2V
+org.slf4j.LoggerTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java (þ
+"es.usage.ScrollSearch.SearchThreadCLASS<
+2knowledge/src/main/java/es/usage/ScrollSearch.java0 0(%"
+inner classfalse*SearchThread2›
+Nes.usage.ScrollSearch.SearchThread.SearchThread(java.util.concurrent.Class<T>)DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java3 3(2v
+)es.usage.ScrollSearch.SearchThread.call()DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java8% 8()2€
+3es.usage.ScrollSearch.SearchThread?type@49.31:49.35DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java1 1(#2e
+java.util.concurrent.CallableEXTEND<
+2knowledge/src/main/java/es/usage/ScrollSearch.java04 0(<2t
+$es.usage.ScrollSearch.SearchThread.TTYPE_PARAMETER<
+2knowledge/src/main/java/es/usage/ScrollSearch.java0& 0('2y
+#org.apache.commons.lang3.tuple.PairEXTEND_TYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java0= 0(RÔ
+Nes.usage.ScrollSearch.SearchThread.SearchThread(java.util.concurrent.Class<T>)CONSTRUCTOR<
+2knowledge/src/main/java/es/usage/ScrollSearch.java3 3(*SearchThread2š
+Tes.usage.ScrollSearch.SearchThread.SearchThread(java.util.concurrent.Class<T>)!clazzCALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java4 4(2y
+3es.usage.ScrollSearch.SearchThread?type@49.31:49.35CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java4 4(2Ÿ
+Tes.usage.ScrollSearch.SearchThread.SearchThread(java.util.concurrent.Class<T>)!clazz	PARAMETER<
+2knowledge/src/main/java/es/usage/ScrollSearch.java3& 3(+2o
+"es.usage.ScrollSearch.SearchThreadRETURN_TYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java3 3(ý
+Tes.usage.ScrollSearch.SearchThread.SearchThread(java.util.concurrent.Class<T>)!clazz	PARAMETER<
+2knowledge/src/main/java/es/usage/ScrollSearch.java3& 3(+*clazz2`
+java.util.concurrent.ClassTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java3 3("2s
+$es.usage.ScrollSearch.SearchThread.TTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java3# 3($î
+)es.usage.ScrollSearch.SearchThread.call()METHOD<
+2knowledge/src/main/java/es/usage/ScrollSearch.java8% 8()"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type Pair<String, List<T>>*call2e
+java.util.ArrayList.ArrayList()CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java>" >(-2‰
+Ces.usage.ScrollSearch.SearchThread.call()?searchRequest@58.26:58.39CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java; ;(2ƒ
+=es.usage.ScrollSearch.SearchThread.call()?builder@57.32:57.39CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java;! ;((2‰
+Ces.usage.ScrollSearch.SearchThread.call()?searchRequest@58.26:58.39CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java<H <(U2„
+>es.usage.ScrollSearch.SearchThread.call()?response@60.27:60.35CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java= =(2„
+>es.usage.ScrollSearch.SearchThread.call()?response@60.27:60.35CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java?! ?()2k
+%es.usage.ScrollSearch?log@22.32:22.35CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java@ @(2
+9es.usage.ScrollSearch.SearchThread.call()?hit@63.27:63.30CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java@$ @('2ƒ
+=es.usage.ScrollSearch.SearchThread.call()?results@62.20:62.27CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaA A(2
+9es.usage.ScrollSearch.SearchThread.call()?hit@63.27:63.30CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaA> A(A2y
+3es.usage.ScrollSearch.SearchThread?type@49.31:49.35CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaAW A([2„
+>es.usage.ScrollSearch.SearchThread.call()?response@60.27:60.35CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaC C(#2ƒ
+=es.usage.ScrollSearch.SearchThread.call()?results@62.20:62.27CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaC3 C(:2Š
+=es.usage.ScrollSearch.SearchThread.call()?builder@57.32:57.39DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java9  9('2
+Ces.usage.ScrollSearch.SearchThread.call()?searchRequest@58.26:58.39DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java: :('2‹
+>es.usage.ScrollSearch.SearchThread.call()?response@60.27:60.35DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java< <(#2Š
+=es.usage.ScrollSearch.SearchThread.call()?results@62.20:62.27DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java> >(2†
+9es.usage.ScrollSearch.SearchThread.call()?hit@63.27:63.30DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.java? ?(2p
+#org.apache.commons.lang3.tuple.PairRETURN_TYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java8 8(2q
+java.util.concurrent.StringRETURN_TYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java8 8(2d
+java.util.ListRETURN_TYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java8 8( 2z
+$es.usage.ScrollSearch.SearchThread.TRETURN_TYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java8! 8("ª
+=es.usage.ScrollSearch.SearchThread.call()?builder@57.32:57.39VARIABLE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java9  9('"
+type SearchSourceBuilder*builder2z
+4org.elasticsearch.search.builder.SearchSourceBuilderTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java9 9(‰
+Ces.usage.ScrollSearch.SearchThread.call()?searchRequest@58.26:58.39VARIABLE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java: :('"
+type SearchRequest*searchRequest2S
+SearchRequestTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java: :(
+>es.usage.ScrollSearch.SearchThread.call()?response@60.27:60.35VARIABLE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java< <(#"
+type SearchResponse*response2T
+SearchResponseTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java< <(2‰
+Ces.usage.ScrollSearch.SearchThread.call()?searchRequest@58.26:58.39CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java<H <(UÔ
+=es.usage.ScrollSearch.SearchThread.call()?results@62.20:62.27VARIABLE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java> >("
+type List<T>*results2T
+java.util.ListTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java> >(2s
+$es.usage.ScrollSearch.SearchThread.TTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java> >(2e
+java.util.ArrayList.ArrayList()CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.java>" >(-†
+9es.usage.ScrollSearch.SearchThread.call()?hit@63.27:63.30VARIABLE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java? ?("
+type 	SearchHit*hit2h
+"org.elasticsearch.search.SearchHitTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java? ?(ê
+3es.usage.ScrollSearch.SearchThread?type@49.31:49.35VALUE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java1 1(#"
+type Class<T>*type2`
+java.util.concurrent.ClassTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.java1 1(2s
+$es.usage.ScrollSearch.SearchThread.TTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.java1 1(w
+$es.usage.ScrollSearch.SearchThread.TTYPE_PARAMETER<
+2knowledge/src/main/java/es/usage/ScrollSearch.java0& 0('*TÒ
+(es.usage.ScrollSearch.ScrollSearchThreadCLASS<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaG G(1"
+inner classfalse*ScrollSearchThread2Ä
+wes.usage.ScrollSearch.ScrollSearchThread.ScrollSearchThread(java.util.concurrent.String, java.util.concurrent.Class<T>)DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaK K("2|
+/es.usage.ScrollSearch.ScrollSearchThread.call()DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaQ% Q()2†
+9es.usage.ScrollSearch.ScrollSearchThread?type@72.31:72.35DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaH H(#2Š
+=es.usage.ScrollSearch.ScrollSearchThread?scrollId@73.29:73.37DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaI I(%2e
+java.util.concurrent.CallableEXTEND<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaG@ G(H2z
+*es.usage.ScrollSearch.ScrollSearchThread.TTYPE_PARAMETER<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaG2 G(32y
+#org.apache.commons.lang3.tuple.PairEXTEND_TYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaGI G(^þ
+
+wes.usage.ScrollSearch.ScrollSearchThread.ScrollSearchThread(java.util.concurrent.String, java.util.concurrent.Class<T>)CONSTRUCTOR<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaK K("*ScrollSearchThread2Â
+|es.usage.ScrollSearch.ScrollSearchThread.ScrollSearchThread(java.util.concurrent.String, java.util.concurrent.Class<T>)!typeCALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaL L(2Ç
+€es.usage.ScrollSearch.ScrollSearchThread.ScrollSearchThread(java.util.concurrent.String, java.util.concurrent.Class<T>)!scrollIdCALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaM M($2
+9es.usage.ScrollSearch.ScrollSearchThread?type@72.31:72.35CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaL L(2ƒ
+=es.usage.ScrollSearch.ScrollSearchThread?scrollId@73.29:73.37CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaM M(2Ì
+€es.usage.ScrollSearch.ScrollSearchThread.ScrollSearchThread(java.util.concurrent.String, java.util.concurrent.Class<T>)!scrollId	PARAMETER<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaK* K(22Ç
+|es.usage.ScrollSearch.ScrollSearchThread.ScrollSearchThread(java.util.concurrent.String, java.util.concurrent.Class<T>)!type	PARAMETER<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaK= K(A2u
+(es.usage.ScrollSearch.ScrollSearchThreadRETURN_TYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaK K("¹
+€es.usage.ScrollSearch.ScrollSearchThread.ScrollSearchThread(java.util.concurrent.String, java.util.concurrent.Class<T>)!scrollId	PARAMETER<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaK* K(2*scrollId2a
+java.util.concurrent.StringTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaK# K()ª
+|es.usage.ScrollSearch.ScrollSearchThread.ScrollSearchThread(java.util.concurrent.String, java.util.concurrent.Class<T>)!type	PARAMETER<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaK= K(A*type2`
+java.util.concurrent.ClassTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaK4 K(92y
+*es.usage.ScrollSearch.ScrollSearchThread.TTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaK: K(;¥
+/es.usage.ScrollSearch.ScrollSearchThread.call()METHOD<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaQ% Q()"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type Pair<String, List<T>>*call2e
+java.util.ArrayList.ArrayList()CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaT" T(-2ƒ
+=es.usage.ScrollSearch.ScrollSearchThread?scrollId@73.29:73.37CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaRH R(P2
+Ies.usage.ScrollSearch.ScrollSearchThread.call()?searchRequest@82.32:82.45CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaSH S(U2Š
+Des.usage.ScrollSearch.ScrollSearchThread.call()?response@83.27:83.35CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaU! U()2k
+%es.usage.ScrollSearch?log@22.32:22.35CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaV V(2…
+?es.usage.ScrollSearch.ScrollSearchThread.call()?hit@85.27:85.30CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaV$ V('2‰
+Ces.usage.ScrollSearch.ScrollSearchThread.call()?results@84.20:84.27CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaW W(2…
+?es.usage.ScrollSearch.ScrollSearchThread.call()?hit@85.27:85.30CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaW> W(A2
+9es.usage.ScrollSearch.ScrollSearchThread?type@72.31:72.35CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaWW W([2Š
+Des.usage.ScrollSearch.ScrollSearchThread.call()?response@83.27:83.35CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaY Y(#2‰
+Ces.usage.ScrollSearch.ScrollSearchThread.call()?results@84.20:84.27CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaY3 Y(:2–
+Ies.usage.ScrollSearch.ScrollSearchThread.call()?searchRequest@82.32:82.45DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaR  R(-2‘
+Des.usage.ScrollSearch.ScrollSearchThread.call()?response@83.27:83.35DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaS S(#2
+Ces.usage.ScrollSearch.ScrollSearchThread.call()?results@84.20:84.27DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaT T(2Œ
+?es.usage.ScrollSearch.ScrollSearchThread.call()?hit@85.27:85.30DECLARATION<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaU U(2p
+#org.apache.commons.lang3.tuple.PairRETURN_TYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaQ Q(2q
+java.util.concurrent.StringRETURN_TYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaQ Q(2d
+java.util.ListRETURN_TYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaQ Q( 2€
+*es.usage.ScrollSearch.ScrollSearchThread.TRETURN_TYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaQ! Q("¡
+Ies.usage.ScrollSearch.ScrollSearchThread.call()?searchRequest@82.32:82.45VARIABLE<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaR  R(-"
+type SearchScrollRequest*searchRequest2Y
+SearchScrollRequestTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaR R(2ƒ
+=es.usage.ScrollSearch.ScrollSearchThread?scrollId@73.29:73.37CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaRH R(P™
+Des.usage.ScrollSearch.ScrollSearchThread.call()?response@83.27:83.35VARIABLE<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaS S(#"
+type SearchResponse*response2T
+SearchResponseTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaS S(2
+Ies.usage.ScrollSearch.ScrollSearchThread.call()?searchRequest@82.32:82.45CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaSH S(Uà
+Ces.usage.ScrollSearch.ScrollSearchThread.call()?results@84.20:84.27VARIABLE<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaT T("
+type List<T>*results2T
+java.util.ListTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaT T(2y
+*es.usage.ScrollSearch.ScrollSearchThread.TTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaT T(2e
+java.util.ArrayList.ArrayList()CALL<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaT" T(-Œ
+?es.usage.ScrollSearch.ScrollSearchThread.call()?hit@85.27:85.30VARIABLE<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaU U("
+type 	SearchHit*hit2h
+"org.elasticsearch.search.SearchHitTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaU U(ö
+9es.usage.ScrollSearch.ScrollSearchThread?type@72.31:72.35VALUE<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaH H(#"
+type Class<T>*type2`
+java.util.concurrent.ClassTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaH H(2y
+*es.usage.ScrollSearch.ScrollSearchThread.TTYPE_ARGUMENT<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaH H(‚
+=es.usage.ScrollSearch.ScrollSearchThread?scrollId@73.29:73.37VALUE<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaI I(%"
+type String*scrollId2a
+java.util.concurrent.StringTYPE<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaI I(}
+*es.usage.ScrollSearch.ScrollSearchThread.TTYPE_PARAMETER<
+2knowledge/src/main/java/es/usage/ScrollSearch.javaG2 G(3*T

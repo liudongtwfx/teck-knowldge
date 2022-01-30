@@ -1,0 +1,307 @@
+
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java¶
+)algorithme.dp.BestTeamWithNoConflicts1626CLASSP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (("
+inner classfalse*BestTeamWithNoConflicts16262£
+Balgorithme.dp.BestTeamWithNoConflicts1626.main(java.lang.String[])DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2ì
+2algorithme.dp.BestTeamWithNoConflicts1626.bridge()DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java
+ 
+(2ì
+2algorithme.dp.BestTeamWithNoConflicts1626.SolutionDECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java
+ (2ö
+9algorithme.dp.BestTeamWithNoConflicts1626.Solution.AgeCmpDECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java+ +(±
+Balgorithme.dp.BestTeamWithNoConflicts1626.main(java.lang.String[])METHODP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2å
+2algorithme.dp.BestTeamWithNoConflicts1626.bridge()CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java* (02°
+Galgorithme.dp.BestTeamWithNoConflicts1626.BestTeamWithNoConflicts1626()CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java ('2¶
+Galgorithme.dp.BestTeamWithNoConflicts1626.main(java.lang.String[])!args	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java% ()2e
+voidRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (ö
+Galgorithme.dp.BestTeamWithNoConflicts1626.main(java.lang.String[])!args	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java% ()*args2l
+java.lang.String[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java ($Û
+2algorithme.dp.BestTeamWithNoConflicts1626.bridge()METHODP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java
+ 
+("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2z
+ java.io.PrintStream.println(int)CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2®
+Nalgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java* (72z
+ java.io.PrintStream.println(int)CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2®
+Nalgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java* (72ó
+=algorithme.dp.BestTeamWithNoConflicts1626.Solution.Solution()CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java ('2ó
+=algorithme.dp.BestTeamWithNoConflicts1626.Solution.Solution()CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java ('2ü
+Ealgorithme.dp.BestTeamWithNoConflicts1626.bridge()?scores@11.14:11.20CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java8 (>2ù
+Calgorithme.dp.BestTeamWithNoConflicts1626.bridge()?ages@12.14:12.18CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java@ (D2†
+Falgorithme.dp.BestTeamWithNoConflicts1626.bridge()?scores1@15.14:15.21CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java8 (?2û
+Dalgorithme.dp.BestTeamWithNoConflicts1626.bridge()?ages1@16.14:16.19CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.javaA (F2¶
+Ealgorithme.dp.BestTeamWithNoConflicts1626.bridge()?scores@11.14:11.20DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2§
+Calgorithme.dp.BestTeamWithNoConflicts1626.bridge()?ages@12.14:12.18DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2ß
+Falgorithme.dp.BestTeamWithNoConflicts1626.bridge()?scores1@15.14:15.21DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2•
+Dalgorithme.dp.BestTeamWithNoConflicts1626.bridge()?ages1@16.14:16.19DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2e
+voidRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java
+ 
+(ú
+Ealgorithme.dp.BestTeamWithNoConflicts1626.bridge()?scores@11.14:11.20VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java ("
+type int[]*scores2_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (ò
+Calgorithme.dp.BestTeamWithNoConflicts1626.bridge()?ages@12.14:12.18VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java ("
+type int[]*ages2_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (û
+Falgorithme.dp.BestTeamWithNoConflicts1626.bridge()?scores1@15.14:15.21VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java ("
+type int[]*scores12_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (ö
+Dalgorithme.dp.BestTeamWithNoConflicts1626.bridge()?ages1@16.14:16.19VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java ("
+type int[]*ages12_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (˚
+2algorithme.dp.BestTeamWithNoConflicts1626.SolutionCLASSP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java
+ ("
+inner classtrue*Solution2Ø
+Nalgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java ( 2ö
+9algorithme.dp.BestTeamWithNoConflicts1626.Solution.AgeCmpDECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java+ +(ﬁT
+Nalgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])METHODP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java ( "
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*bestTeamScore2ï
+;java.util.Arrays.sort(T[], java.util.Comparator<? super T>)CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2v
+java.lang.Math.max(int, int)CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java#& #()2v
+java.lang.Math.max(int, int)CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java& &(2ú
+Balgorithme.dp.BestTeamWithNoConflicts1626.Solution.AgeCmp.AgeCmp()CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java) (/2Ø
+Ualgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])!scoresCALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java* (02∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@23.21:23.22CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2Ø
+Ualgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])!scoresCALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java  (&2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@23.21:23.22CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java/ (02¿
+falgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?scoreAndAge@22.20:22.31CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@23.21:23.22CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2Ø
+Ualgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])!scoresCALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java$ (*2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@23.21:23.22CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java+ (,2¿
+falgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?scoreAndAge@22.20:22.31CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@23.21:23.22CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2≠
+Salgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])!agesCALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java$ ((2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@23.21:23.22CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java) (*2¿
+falgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?scoreAndAge@22.20:22.31CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (#2Ø
+Ualgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])!scoresCALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java  (&2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@30.21:30.22CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2¿
+falgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?scoreAndAge@22.20:22.31CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java  (+2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@30.21:30.22CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java4 (52∏
+^algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?ans@28.18:28.21CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@30.21:30.22CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2¿
+falgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?scoreAndAge@22.20:22.31CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java ($2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@30.21:30.22CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java% (&2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?j@32.25:32.26CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java    (!2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@30.21:30.22CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java $  (%2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?j@32.25:32.26CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java '  ((2¿
+falgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?scoreAndAge@22.20:22.31CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java" "(#2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?j@32.25:32.26CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java"$ "(%2¿
+falgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?scoreAndAge@22.20:22.31CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java"- "(82∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@30.21:30.22CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java"9 "(:2¿
+falgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?scoreAndAge@22.20:22.31CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java"B "(M2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?j@32.25:32.26CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java"N "(O2¿
+falgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?scoreAndAge@22.20:22.31CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java"V "(a2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@30.21:30.22CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java"b "(c2∏
+^algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?ans@28.18:28.21CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java# #(2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@30.21:30.22CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java# #(2∏
+^algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?ans@28.18:28.21CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java#* #(-2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@30.21:30.22CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java#. #(/2∏
+^algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?ans@28.18:28.21CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java#2 #(52∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?j@32.25:32.26CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java#6 #(72¿
+falgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?scoreAndAge@22.20:22.31CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java#; #(F2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@30.21:30.22CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java#G #(H2∏
+^algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?res@29.16:29.19CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java& &(2∏
+^algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?res@29.16:29.19CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java& &("2∏
+^algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?ans@28.18:28.21CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java&$ &('2∂
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@30.21:30.22CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java&( &()2∏
+^algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?res@29.16:29.19CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java( ((2¥
+Ualgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])!scores	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java' (-2≤
+Salgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])!ages	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java5 (92«
+falgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?scoreAndAge@22.20:22.31DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2Ω
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@23.21:23.22DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2ø
+^algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?ans@28.18:28.21DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2ø
+^algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?res@29.16:29.19DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2Ω
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@30.21:30.22DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2Ω
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?j@32.25:32.26DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java   (2d
+intRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (¯
+falgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?scoreAndAge@22.20:22.31VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java ("
+type int[][]*scoreAndAge2a
+int[][]TYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2Ø
+Ualgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])!scoresCALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java* (0™
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@23.21:23.22VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java ("
+type int*i2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (‰
+^algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?ans@28.18:28.21VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java ("
+type int[]*ans2_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (2Ø
+Ualgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])!scoresCALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java  (&Æ
+^algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?res@29.16:29.19VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java ("
+type int*res2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (™
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?i@30.21:30.22VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java ("
+type int*i2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java (™
+\algorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])?j@32.25:32.26VARIABLEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java   ("
+type int*j2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java   (ù
+Ualgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])!scores	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java' (-*scores2_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java! (&ô
+Salgorithme.dp.BestTeamWithNoConflicts1626.Solution.bestTeamScore(int[], int[])!ages	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java5 (9*ages2_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java/ (4«
+9algorithme.dp.BestTeamWithNoConflicts1626.Solution.AgeCmpCLASSP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java+ +("
+inner classtrue*AgeCmp2∞
+Oalgorithme.dp.BestTeamWithNoConflicts1626.Solution.AgeCmp.compare(int[], int[])DECLARATIONP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java- -(2p
+java.util.ComparatorEXTENDP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java+  +(*2o
+int[]EXTEND_TYPE_ARGUMENTP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java++ +(0Ê
+Oalgorithme.dp.BestTeamWithNoConflicts1626.Solution.AgeCmp.compare(int[], int[])METHODP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java- -("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*compare2¨
+Ralgorithme.dp.BestTeamWithNoConflicts1626.Solution.AgeCmp.compare(int[], int[])!o1CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java. .(2¨
+Ralgorithme.dp.BestTeamWithNoConflicts1626.Solution.AgeCmp.compare(int[], int[])!o2CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java. .(2¨
+Ralgorithme.dp.BestTeamWithNoConflicts1626.Solution.AgeCmp.compare(int[], int[])!o1CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java/ /(2¨
+Ralgorithme.dp.BestTeamWithNoConflicts1626.Solution.AgeCmp.compare(int[], int[])!o2CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java/# /(%2¨
+Ralgorithme.dp.BestTeamWithNoConflicts1626.Solution.AgeCmp.compare(int[], int[])!o1CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java1 1(2¨
+Ralgorithme.dp.BestTeamWithNoConflicts1626.Solution.AgeCmp.compare(int[], int[])!o2CALLP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java1 1(!2±
+Ralgorithme.dp.BestTeamWithNoConflicts1626.Solution.AgeCmp.compare(int[], int[])!o1	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java-% -('2±
+Ralgorithme.dp.BestTeamWithNoConflicts1626.Solution.AgeCmp.compare(int[], int[])!o2	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java-/ -(12d
+intRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java- -(ñ
+Ralgorithme.dp.BestTeamWithNoConflicts1626.Solution.AgeCmp.compare(int[], int[])!o1	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java-% -('*o12_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java- -($ñ
+Ralgorithme.dp.BestTeamWithNoConflicts1626.Solution.AgeCmp.compare(int[], int[])!o2	PARAMETERP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java-/ -(1*o22_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/dp/BestTeamWithNoConflicts1626.java-) -(.

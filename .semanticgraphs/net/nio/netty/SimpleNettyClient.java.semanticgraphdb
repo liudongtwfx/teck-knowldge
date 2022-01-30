@@ -1,0 +1,342 @@
+
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaÑ
+net.nio.netty.SimpleNettyClientCLASSF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java ("
+inner classfalse*SimpleNettyClient2–
+?net.nio.netty.SimpleNettyClient.main(io.netty.channel.String[])DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (2œ
+Enet.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java, ,(á
+?net.nio.netty.SimpleNettyClient.main(io.netty.channel.String[])METHODF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2
+Mnet.nio.netty.SimpleNettyClient.main(io.netty.channel.String[])?i@16.17:16.18CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (2
+Mnet.nio.netty.SimpleNettyClient.main(io.netty.channel.String[])?i@16.17:16.18CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java! ("2
+Mnet.nio.netty.SimpleNettyClient.main(io.netty.channel.String[])?i@16.17:16.18CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java< (=2™
+Dnet.nio.netty.SimpleNettyClient.main(io.netty.channel.String[])!args	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java% ()2¤
+Mnet.nio.netty.SimpleNettyClient.main(io.netty.channel.String[])?i@16.17:16.18DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (2[
+voidRETURN_TYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (‡
+Mnet.nio.netty.SimpleNettyClient.main(io.netty.channel.String[])?i@16.17:16.18VARIABLEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java ("
+type int*i2S
+intTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (Š
+Dnet.nio.netty.SimpleNettyClient.main(io.netty.channel.String[])!args	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java% ()*args2i
+io.netty.channel.String[]TYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java ($Ñ
+Enet.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)METHODF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java, ,("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*connect2£
+Snet.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.SimpleNettyClientHandler()CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaE. E(F2«
+[net.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)?bootstrap@48.22:48.31CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java4 4(2¨
+Xnet.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)?worker@45.23:45.29CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java4 4("2«
+[net.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)?bootstrap@48.22:48.31CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java8 8(2«
+[net.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)?bootstrap@48.22:48.31CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java= =(2«
+[net.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)?bootstrap@48.22:48.31CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaA A(2Õ
+„net.nio.netty.SimpleNettyClient.Anonymous-7aba5413-f713-46bf-8e8b-ecbb45e01c99.initChannel(io.netty.channel.socket.SocketChannel)!chCALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaE E(2«
+[net.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)?bootstrap@48.22:48.31CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaJ* J(32š
+Jnet.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)!hostCALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaJ< J(@2š
+Jnet.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)!portCALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaJB J(F2¯
+_net.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)?channelFuture@74.26:74.39CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaL L(2¨
+Xnet.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)?worker@45.23:45.29CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaN N(2Ÿ
+Jnet.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)!host	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java,& ,(*2Ÿ
+Jnet.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)!port	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java,0 ,(42¯
+Xnet.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)?worker@45.23:45.29DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java- -(2²
+[net.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)?bootstrap@48.22:48.31DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java0 0(2¶
+_net.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)?channelFuture@74.26:74.39DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaJ J('2[
+voidRETURN_TYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java, ,(¾
+Xnet.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)?worker@45.23:45.29VARIABLEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java- -("
+type EventLoopGroup*worker2o
+io.netty.channel.EventLoopGroupTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java- -(¼
+[net.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)?bootstrap@48.22:48.31VARIABLEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java0 0("
+type 	Bootstrap*	bootstrap2l
+io.netty.bootstrap.BootstrapTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java0 0(²
+_net.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)?channelFuture@74.26:74.39VARIABLEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaJ J('"
+type ChannelFuture*channelFuture2n
+io.netty.channel.ChannelFutureTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaJ J(2«
+[net.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)?bootstrap@48.22:48.31CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaJ* J(32š
+Jnet.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)!hostCALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaJ< J(@2š
+Jnet.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)!portCALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaJB J(FŽ
+Jnet.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)!host	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java,& ,(**host2g
+io.netty.channel.StringTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java, ,(%ú
+Jnet.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)!port	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java,0 ,(4*port2S
+intTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java,, ,(/Õ
+„net.nio.netty.SimpleNettyClient.Anonymous-8b2ff0ba-7bc8-4115-a150-2762903063c4.initChannel(io.netty.channel.socket.SocketChannel)!ch	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaC6 C(8*ch2u
+%io.netty.channel.socket.SocketChannelTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaC( C(5ž
+-net.nio.netty.SimpleNettyClient.ClientRequestCLASSF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (&"
+inner classfalse*ClientRequest2µ
+^net.nio.netty.SimpleNettyClient.ClientRequest.ClientRequest(io.netty.channel.String, int, int)DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (2Š
+3net.nio.netty.SimpleNettyClient.ClientRequest.run()DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java" "(2•
+>net.nio.netty.SimpleNettyClient.ClientRequest?host@23.29:23.33DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (!2•
+>net.nio.netty.SimpleNettyClient.ClientRequest?port@24.26:24.30DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (2–
+?net.nio.netty.SimpleNettyClient.ClientRequest?count@25.26:25.31DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (2k
+io.netty.channel.RunnableEXTENDF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java2 (:Ô
+^net.nio.netty.SimpleNettyClient.ClientRequest.ClientRequest(io.netty.channel.String, int, int)CONSTRUCTORF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (*ClientRequest2³
+cnet.nio.netty.SimpleNettyClient.ClientRequest.ClientRequest(io.netty.channel.String, int, int)!hostCALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (2³
+cnet.nio.netty.SimpleNettyClient.ClientRequest.ClientRequest(io.netty.channel.String, int, int)!portCALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (2´
+dnet.nio.netty.SimpleNettyClient.ClientRequest.ClientRequest(io.netty.channel.String, int, int)!indexCALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (2Ž
+>net.nio.netty.SimpleNettyClient.ClientRequest?host@23.29:23.33CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (2Ž
+>net.nio.netty.SimpleNettyClient.ClientRequest?port@24.26:24.30CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (2
+?net.nio.netty.SimpleNettyClient.ClientRequest?count@25.26:25.31CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (2¸
+cnet.nio.netty.SimpleNettyClient.ClientRequest.ClientRequest(io.netty.channel.String, int, int)!host	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (!2¸
+cnet.nio.netty.SimpleNettyClient.ClientRequest.ClientRequest(io.netty.channel.String, int, int)!port	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java' (+2¹
+dnet.nio.netty.SimpleNettyClient.ClientRequest.ClientRequest(io.netty.channel.String, int, int)!index	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java1 (62„
+-net.nio.netty.SimpleNettyClient.ClientRequestRETURN_TYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (§
+cnet.nio.netty.SimpleNettyClient.ClientRequest.ClientRequest(io.netty.channel.String, int, int)!host	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (!*host2g
+io.netty.channel.StringTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (“
+cnet.nio.netty.SimpleNettyClient.ClientRequest.ClientRequest(io.netty.channel.String, int, int)!port	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java' (+*port2S
+intTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java# (&•
+dnet.nio.netty.SimpleNettyClient.ClientRequest.ClientRequest(io.netty.channel.String, int, int)!index	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java1 (6*index2S
+intTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java- (0›
+3net.nio.netty.SimpleNettyClient.ClientRequest.run()METHODF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java" "("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*run2•
+Enet.nio.netty.SimpleNettyClient.connect(io.netty.channel.String, int)CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java$ $(2Ž
+>net.nio.netty.SimpleNettyClient.ClientRequest?host@23.29:23.33CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java$ $(2Ž
+>net.nio.netty.SimpleNettyClient.ClientRequest?port@24.26:24.30CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java$ $("2‘
+Anet.nio.netty.SimpleNettyClient.ClientRequest.run()?e@38.31:38.32CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java'' '((2˜
+Anet.nio.netty.SimpleNettyClient.ClientRequest.run()?e@38.31:38.32DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java& &( 2[
+voidRETURN_TYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java" "(„
+Anet.nio.netty.SimpleNettyClient.ClientRequest.run()?e@38.31:38.32VARIABLEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java& &( *e2j
+io.netty.channel.ExceptionTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java& &(
+>net.nio.netty.SimpleNettyClient.ClientRequest?host@23.29:23.33VALUEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (!"
+type String*host2g
+io.netty.channel.StringTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (ø
+>net.nio.netty.SimpleNettyClient.ClientRequest?port@24.26:24.30VALUEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java ("
+type int*port2S
+intTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (ú
+?net.nio.netty.SimpleNettyClient.ClientRequest?count@25.26:25.31VALUEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java ("
+type int*count2S
+intTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (í
+8net.nio.netty.SimpleNettyClient.SimpleNettyClientHandlerCLASSF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaR R(0"
+inner classfalse*SimpleNettyClientHandler2Ý
+…net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelRead(io.netty.channel.ChannelHandlerContext, io.netty.channel.Object)DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java] ](2ä
+Œnet.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.exceptionCaught(io.netty.channel.ChannelHandlerContext, io.netty.channel.Throwable)DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javan n(#2Å
+nnet.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelActive(io.netty.channel.ChannelHandlerContext)DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java{ {(!2¡
+Jnet.nio.netty.SimpleNettyClient.SimpleNettyClientHandler?INDEX@83.43:83.48DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaS+ S(02
+-io.netty.channel.ChannelInboundHandlerAdapterEXTENDF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaR9 R(U³
+…net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelRead(io.netty.channel.ChannelHandlerContext, io.netty.channel.Object)METHODF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java] ]("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*channelRead2Ú
+‰net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelRead(io.netty.channel.ChannelHandlerContext, io.netty.channel.Object)!msgCALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java_' _(*2é
+˜net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelRead(io.netty.channel.ChannelHandlerContext, io.netty.channel.Object)?result@95.20:95.26CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java`& `(,2é
+˜net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelRead(io.netty.channel.ChannelHandlerContext, io.netty.channel.Object)?result@95.20:95.26CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaa a(2ê
+™net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelRead(io.netty.channel.ChannelHandlerContext, io.netty.channel.Object)?result1@96.19:96.26CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaa a($2ê
+™net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelRead(io.netty.channel.ChannelHandlerContext, io.netty.channel.Object)?result1@96.19:96.26CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javab; b(B2é
+˜net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelRead(io.netty.channel.ChannelHandlerContext, io.netty.channel.Object)?result@95.20:95.26CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javac c(2ß
+‰net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelRead(io.netty.channel.ChannelHandlerContext, io.netty.channel.Object)!ctx	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java]6 ](92ß
+‰net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelRead(io.netty.channel.ChannelHandlerContext, io.netty.channel.Object)!msg	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java]B ](E2ð
+˜net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelRead(io.netty.channel.ChannelHandlerContext, io.netty.channel.Object)?result@95.20:95.26DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java_ _(2ñ
+™net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelRead(io.netty.channel.ChannelHandlerContext, io.netty.channel.Object)?result1@96.19:96.26DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java` `(2[
+voidRETURN_TYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java] ](Í
+˜net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelRead(io.netty.channel.ChannelHandlerContext, io.netty.channel.Object)?result@95.20:95.26VARIABLEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java_ _("
+type ByteBuf*result2g
+io.netty.buffer.ByteBufTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java_ _(2Ú
+‰net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelRead(io.netty.channel.ChannelHandlerContext, io.netty.channel.Object)!msgCALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java_' _(*Ì
+™net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelRead(io.netty.channel.ChannelHandlerContext, io.netty.channel.Object)?result1@96.19:96.26VARIABLEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java` `("
+type byte[]*result12V
+byte[]TYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java` `(2é
+˜net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelRead(io.netty.channel.ChannelHandlerContext, io.netty.channel.Object)?result@95.20:95.26CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java`& `(,Ü
+‰net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelRead(io.netty.channel.ChannelHandlerContext, io.netty.channel.Object)!ctx	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java]6 ](9*ctx2v
+&io.netty.channel.ChannelHandlerContextTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java]  ](5Í
+‰net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelRead(io.netty.channel.ChannelHandlerContext, io.netty.channel.Object)!msg	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java]B ](E*msg2g
+io.netty.channel.ObjectTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java]; ](A¶
+
+Œnet.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.exceptionCaught(io.netty.channel.ChannelHandlerContext, io.netty.channel.Throwable)METHODF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javan n(#"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*exceptionCaught2ã
+’net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.exceptionCaught(io.netty.channel.ChannelHandlerContext, io.netty.channel.Throwable)!causeCALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javap p(2á
+net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.exceptionCaught(io.netty.channel.ChannelHandlerContext, io.netty.channel.Throwable)!ctxCALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaq q(2æ
+net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.exceptionCaught(io.netty.channel.ChannelHandlerContext, io.netty.channel.Throwable)!ctx	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javan: n(=2è
+’net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.exceptionCaught(io.netty.channel.ChannelHandlerContext, io.netty.channel.Throwable)!cause	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javanI n(N2[
+voidRETURN_TYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javan n(ã
+net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.exceptionCaught(io.netty.channel.ChannelHandlerContext, io.netty.channel.Throwable)!ctx	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javan: n(=*ctx2v
+&io.netty.channel.ChannelHandlerContextTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javan$ n(9Û
+’net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.exceptionCaught(io.netty.channel.ChannelHandlerContext, io.netty.channel.Throwable)!cause	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javanI n(N*cause2j
+io.netty.channel.ThrowableTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javan? n(HÁ
+nnet.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelActive(io.netty.channel.ChannelHandlerContext)METHODF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java{ {(!"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*channelActive2š
+Jnet.nio.netty.SimpleNettyClient.SimpleNettyClientHandler?INDEX@83.43:83.48CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java|) |(.2Â
+rnet.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelActive(io.netty.channel.ChannelHandlerContext)!ctxCALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java} }(!2Ñ
+€net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelActive(io.netty.channel.ChannelHandlerContext)?msg@124.19:124.22CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java}5 }(82Õ
+„net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelActive(io.netty.channel.ChannelHandlerContext)?encoded@125.20:125.27CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java~ ~(2Ñ
+€net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelActive(io.netty.channel.ChannelHandlerContext)?msg@124.19:124.22CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java~ ~("2Â
+rnet.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelActive(io.netty.channel.ChannelHandlerContext)!ctxCALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (2Õ
+„net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelActive(io.netty.channel.ChannelHandlerContext)?encoded@125.20:125.27CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java (2Ä
+rnet.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelActive(io.netty.channel.ChannelHandlerContext)!ctxCALLH
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java€ €(2Ç
+rnet.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelActive(io.netty.channel.ChannelHandlerContext)!ctx	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java{8 {(;2Ø
+€net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelActive(io.netty.channel.ChannelHandlerContext)?msg@124.19:124.22DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java| |(2Ü
+„net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelActive(io.netty.channel.ChannelHandlerContext)?encoded@125.20:125.27DECLARATIONF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java} }(2[
+voidRETURN_TYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java{ {(ñ
+€net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelActive(io.netty.channel.ChannelHandlerContext)?msg@124.19:124.22VARIABLEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java| |("
+type String*msg2g
+io.netty.channel.StringTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java| |(2š
+Jnet.nio.netty.SimpleNettyClient.SimpleNettyClientHandler?INDEX@83.43:83.48CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java|) |(.ö
+„net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelActive(io.netty.channel.ChannelHandlerContext)?encoded@125.20:125.27VARIABLEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java} }("
+type ByteBuf*encoded2g
+io.netty.buffer.ByteBufTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java} }(2Â
+rnet.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelActive(io.netty.channel.ChannelHandlerContext)!ctxCALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java} }(!2Ñ
+€net.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelActive(io.netty.channel.ChannelHandlerContext)?msg@124.19:124.22CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java}5 }(8Ä
+rnet.nio.netty.SimpleNettyClient.SimpleNettyClientHandler.channelActive(io.netty.channel.ChannelHandlerContext)!ctx	PARAMETERF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java{8 {(;*ctx2v
+&io.netty.channel.ChannelHandlerContextTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.java{" {(7Á
+Jnet.nio.netty.SimpleNettyClient.SimpleNettyClientHandler?INDEX@83.43:83.48VALUEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaS+ S(0"
+type AtomicInteger*INDEX2y
+)java.util.concurrent.atomic.AtomicIntegerTYPEF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaS S(*2‰
+9java.util.concurrent.atomic.AtomicInteger.AtomicInteger()CALLF
+<knowledge/src/main/java/net/nio/netty/SimpleNettyClient.javaS7 S(D

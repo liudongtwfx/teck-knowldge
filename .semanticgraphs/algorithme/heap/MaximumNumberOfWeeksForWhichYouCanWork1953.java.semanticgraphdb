@@ -1,0 +1,115 @@
+
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.javaË
+:algorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953CLASSa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (7"
+inner classfalse**MaximumNumberOfWeeksForWhichYouCanWork19532≈
+Salgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.main(java.lang.String[])DECLARATIONa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (2µ
+Calgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.SolutionDECLARATIONa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java
+ (”
+Salgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.main(java.lang.String[])METHODa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2»
+Xalgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.main(java.lang.String[])!args	PARAMETERa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java% ()2v
+voidRETURN_TYPEa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (Õ
+Xalgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.main(java.lang.String[])!args	PARAMETERa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java% ()*args2}
+java.lang.String[]TYPEa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java ($õ
+Calgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.SolutionCLASSa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java
+ ("
+inner classtrue*Solution2 
+Xalgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])DECLARATIONa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (!·"
+Xalgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])METHODa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (!"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type long*numberOfWeeks2é
+#java.util.Comparator.reverseOrder()CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.javaB (N2Å
+java.util.Queue.add(E)CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (2â
+java.util.Collection.isEmpty()CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (!2Å
+java.util.Queue.poll()CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java ("2â
+java.util.Collection.isEmpty()CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java ("2Å
+java.util.Queue.poll()CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (2±
+Fjava.util.PriorityQueue.PriorityQueue(java.util.Comparator<? super E>)CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java' (62Œ
+calgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])!milestonesCALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java! (+2’
+jalgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])?queue@14.27:14.32CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (2Ÿ
+nalgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])?milestone@15.21:15.30CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (#2’
+jalgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])?queue@14.27:14.32CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (2’
+jalgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])?queue@14.27:14.32CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (2”
+halgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])?ans@18.17:18.20CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (2’
+jalgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])?queue@14.27:14.32CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (2’
+jalgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])?queue@14.27:14.32CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (2”
+halgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])?ans@18.17:18.20CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (2”
+calgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])!milestones	PARAMETERa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java( (22‹
+jalgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])?queue@14.27:14.32DECLARATIONa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java ( 2‡
+nalgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])?milestone@15.21:15.30DECLARATIONa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (2⁄
+halgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])?ans@18.17:18.20DECLARATIONa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (2ÿ
+falgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])?a@20.20:20.21DECLARATIONa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (2v
+longRETURN_TYPEa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (¬
+jalgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])?queue@14.27:14.32VARIABLEa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java ( "
+type Queue<Integer>*queue2z
+java.util.QueueTYPEa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (2Ö
+java.lang.IntegerTYPE_ARGUMENTa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (2é
+#java.util.Comparator.reverseOrder()CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.javaB (N2±
+Fjava.util.PriorityQueue.PriorityQueue(java.util.Comparator<? super E>)CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java' (6Ê
+nalgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])?milestone@15.21:15.30VARIABLEa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java ("
+type int*	milestone2n
+intTYPEa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (‹
+halgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])?ans@18.17:18.20VARIABLEa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java ("
+type long*ans2o
+longTYPEa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (≤
+falgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])?a@20.20:20.21VARIABLEa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java ("
+type int*a2n
+intTYPEa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (2Å
+java.util.Queue.poll()CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java ("2’
+jalgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])?queue@14.27:14.32CALLa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java (—
+calgorithme.heap.MaximumNumberOfWeeksForWhichYouCanWork1953.Solution.numberOfWeeks(int[])!milestones	PARAMETERa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java( (2*
+milestones2p
+int[]TYPEa
+Walgorithm/src/main/java/algorithme/heap/MaximumNumberOfWeeksForWhichYouCanWork1953.java" ('

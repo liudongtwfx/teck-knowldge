@@ -1,0 +1,433 @@
+
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.javaß
+1algorithme.string.SplitArrayIntoFibonacciSequenceCLASSX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (,"
+inner classfalse*SplitArrayIntoFibonacciSequence2≥
+Jalgorithme.string.SplitArrayIntoFibonacciSequence.main(java.lang.String[])DECLARATIONX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (2£
+:algorithme.string.SplitArrayIntoFibonacciSequence.SolutionDECLARATIONX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java1
+ 1(¶
+Jalgorithme.string.SplitArrayIntoFibonacciSequence.main(java.lang.String[])METHODX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2∂
+Oalgorithme.string.SplitArrayIntoFibonacciSequence.main(java.lang.String[])!args	PARAMETERX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java% ()2m
+voidRETURN_TYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (≤
+Oalgorithme.string.SplitArrayIntoFibonacciSequence.main(java.lang.String[])!args	PARAMETERX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java% ()*args2t
+java.lang.String[]TYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java ($ˆ
+;algorithme.string.SplitArrayIntoFibonacciSequence.Solution1CLASSX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (""
+inner classfalse*	Solution12…
+`algorithme.string.SplitArrayIntoFibonacciSequence.Solution1.splitIntoFibonacci(java.lang.String)DECLARATIONX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (/2Ë
+algorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)DECLARATIONX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (!µ
+`algorithme.string.SplitArrayIntoFibonacciSequence.Solution1.splitIntoFibonacci(java.lang.String)METHODX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (/"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type List<Integer>*splitIntoFibonacci2·
+algorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (2Å
+java.util.ArrayList.ArrayList()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java' (22ƒ
+balgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.splitIntoFibonacci(java.lang.String)!SCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (2’
+salgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.splitIntoFibonacci(java.lang.String)?result@19.26:19.32CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (2’
+salgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.splitIntoFibonacci(java.lang.String)?result@19.26:19.32CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (2…
+balgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.splitIntoFibonacci(java.lang.String)!S	PARAMETERX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java7 (82‹
+salgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.splitIntoFibonacci(java.lang.String)?result@19.26:19.32DECLARATIONX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java ( 2w
+java.util.ListRETURN_TYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (2É
+java.lang.IntegerRETURN_TYPE_ARGUMENTX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (Ì
+salgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.splitIntoFibonacci(java.lang.String)?result@19.26:19.32VARIABLEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java ( "
+type List<Integer>*result2p
+java.util.ListTYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (2|
+java.lang.IntegerTYPE_ARGUMENTX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (2Å
+java.util.ArrayList.ArrayList()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java' (2¿
+balgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.splitIntoFibonacci(java.lang.String)!S	PARAMETERX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java7 (8*S2r
+java.lang.StringTYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java0 (6´S
+algorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)METHODX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (!"
+staticfalse"
+finalfalse"
+access modifierprivate"
+type boolean*	backtrace2{
+java.lang.String.length()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (!2w
+java.util.List.size()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java ("2{
+java.lang.String.length()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java& (,2~
+java.lang.String.charAt(int)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java$ (*2ã
+)java.lang.String.equals(java.lang.Object)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java") "(/2
+java.lang.String.valueOf(int)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java" "(#2Ü
+$java.lang.String.substring(int, int)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java"2 "(;2w
+java.util.List.size()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java% %(2y
+java.util.List.get(int)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java%0 %(32w
+java.util.List.size()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java%; %(?2y
+java.util.List.get(int)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java%P %(S2w
+java.util.List.size()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java%[ %(_2w
+java.util.List.add(E)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java& &(2·
+algorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java' '(!2|
+java.util.List.remove(int)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java* *(!2w
+java.util.List.size()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java*) *(-2Ë
+Öalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!startCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (2‰
+Åalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!sCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (2È
+Üalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!resultCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (2Ë
+Öalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!startCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (2
+çalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)?i@29.21:29.22CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java  (!2‰
+Åalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!sCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java$ (%2
+çalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)?i@29.21:29.22CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java0 (12Ú
+èalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)?num@28.16:28.19CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (2Ú
+èalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)?num@28.16:28.19CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (2‰
+Åalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!sCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java" (#2
+çalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)?i@29.21:29.22CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java+ (,2Ú
+èalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)?num@28.16:28.19CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (2Ú
+èalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)?num@28.16:28.19CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java"$ "('2‰
+Åalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!sCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java"0 "(12Ë
+Öalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!startCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java"< "(A2
+çalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)?i@29.21:29.22CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java"C "(D2È
+Üalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!resultCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java% %(2È
+Üalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!resultCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java%) %(/2È
+Üalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!resultCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java%4 %(:2È
+Üalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!resultCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java%I %(O2È
+Üalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!resultCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java%T %(Z2Ú
+èalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)?num@28.16:28.19CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java%j %(m2È
+Üalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!resultCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java& &(2Ú
+èalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)?num@28.16:28.19CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java& &("2‰
+Åalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!sCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java'" '(#2È
+Üalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!resultCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java'% '(+2
+çalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)?i@29.21:29.22CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java'- '(.2È
+Üalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!resultCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java* *(2È
+Üalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!resultCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java*" *((2È
+Åalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!s	PARAMETERX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java) (*2Ó
+Üalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!result	PARAMETERX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java: (@2Ì
+Öalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!start	PARAMETERX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.javaF (K2˘
+èalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)?num@28.16:28.19DECLARATIONX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (2˜
+çalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)?i@29.21:29.22DECLARATIONX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (2p
+booleanRETURN_TYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (
+èalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)?num@28.16:28.19VARIABLEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java ("
+type int*num2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (◊
+çalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)?i@29.21:29.22VARIABLEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java ("
+type int*i2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (2Ë
+Öalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!startCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java (‡
+Åalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!s	PARAMETERX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java) (**s2r
+java.lang.StringTYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java" ((Ê
+Üalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!result	PARAMETERX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java: (@*result2p
+java.util.ListTYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java, (02|
+java.lang.IntegerTYPE_ARGUMENTX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java1 (8€
+Öalgorithme.string.SplitArrayIntoFibonacciSequence.Solution1.backtrace(java.lang.String, java.util.List<java.lang.Integer>, int)!start	PARAMETERX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.javaF (K*start2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.javaB (Eá
+:algorithme.string.SplitArrayIntoFibonacciSequence.SolutionCLASSX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java1
+ 1("
+inner classtrue*Solution2»
+_algorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)DECLARATIONX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java2 2(/ä]
+_algorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)METHODX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java2 2(/"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type List<Integer>*splitIntoFibonacci2{
+java.lang.String.length()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java3" 3((2{
+java.lang.String.length()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java4* 4(02é
+,java.lang.Integer.parseInt(java.lang.String)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java7. 7(62Ü
+$java.lang.String.substring(int, int)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java79 7(B2é
+,java.lang.Integer.parseInt(java.lang.String)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java8. 8(62Ü
+$java.lang.String.substring(int, int)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java89 8(B2w
+java.util.List.add(E)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java9 9("2w
+java.util.List.add(E)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java: :("2å
+*java.lang.String.valueOf(java.lang.Object)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java;L ;(S2ä
+(java.lang.AbstractStringBuilder.length()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java<$ <(*2{
+java.lang.String.length()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java<1 <(72y
+java.util.List.get(int)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java=, =(/2w
+java.util.List.size()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java=7 =(;2y
+java.util.List.get(int)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java=L =(O2w
+java.util.List.size()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java=W =([2w
+java.util.List.add(E)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java># >(&2Ö
+#java.lang.StringBuilder.append(int)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java?! ?('2ã
+)java.lang.String.equals(java.lang.Object)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.javaA, A(22Ñ
+"java.lang.StringBuilder.toString()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.javaA! A()2É
+!java.util.Collections.emptyList()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.javaI I((2Å
+java.util.ArrayList.ArrayList()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java5/ 5(:2ô
+7java.lang.StringBuilder.StringBuilder(java.lang.String)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java;1 ;(>2œ
+malgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?i@51.21:51.22CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java3 3(2√
+aalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)!sCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java3  3(!2œ
+malgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?i@51.21:51.22CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java3, 3(-2œ
+malgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?i@51.21:51.22CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java4 4(2œ
+malgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?j@52.25:52.26CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java4$ 4(%2√
+aalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)!sCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java4( 4()2œ
+malgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?j@52.25:52.26CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java44 4(52√
+aalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)!sCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java77 7(82œ
+malgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?i@51.21:51.22CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java7F 7(G2√
+aalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)!sCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java87 8(82œ
+malgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?i@51.21:51.22CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java8C 8(D2œ
+malgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?j@52.25:52.26CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java8J 8(K2‘
+ralgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?result@53.34:53.40CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java9 9(2—
+oalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?one@55.32:55.35CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java9# 9(&2‘
+ralgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?result@53.34:53.40CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java: :(2—
+oalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?two@56.32:56.35CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java:# :(&2—
+oalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?one@55.32:55.35CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java;? ;(B2—
+oalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?two@56.32:56.35CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java;T ;(W2“
+palgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?mock@59.38:59.42CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java< <(#2√
+aalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)!sCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java</ <(02‘
+ralgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?result@53.34:53.40CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java=% =(+2‘
+ralgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?result@53.34:53.40CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java=0 =(62‘
+ralgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?result@53.34:53.40CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java=E =(K2‘
+ralgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?result@53.34:53.40CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java=P =(V2‘
+ralgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?result@53.34:53.40CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java> >("2–
+nalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?i1@61.32:61.34CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java>' >()2“
+palgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?mock@59.38:59.42CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java? ?( 2–
+nalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?i1@61.32:61.34CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java?( ?(*2“
+palgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?mock@59.38:59.42CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.javaA A( 2√
+aalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)!sCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.javaA3 A(42‘
+ralgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?result@53.34:53.40CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.javaB# B()2»
+aalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)!s	PARAMETERX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java27 2(82÷
+malgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?i@51.21:51.22DECLARATIONX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java3 3(2÷
+malgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?j@52.25:52.26DECLARATIONX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java4 4(2€
+ralgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?result@53.34:53.40DECLARATIONX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java5" 5((2ÿ
+oalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?one@55.32:55.35DECLARATIONX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java7  7(#2ÿ
+oalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?two@56.32:56.35DECLARATIONX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java8  8(#2Ÿ
+palgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?mock@59.38:59.42DECLARATIONX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java;& ;(*2◊
+nalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?i1@61.32:61.34DECLARATIONX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java=  =("2ÿ
+oalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?nfe@68.51:68.54DECLARATIONX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.javaD3 D(62w
+java.util.ListRETURN_TYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java2 2(2É
+java.lang.IntegerRETURN_TYPE_ARGUMENTX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java2 2(À
+malgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?i@51.21:51.22VARIABLEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java3 3("
+type int*i2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java3 3(ù
+malgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?j@52.25:52.26VARIABLEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java4 4("
+type int*j2e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java4 4(2œ
+malgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?i@51.21:51.22CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java4 4(Ï
+ralgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?result@53.34:53.40VARIABLEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java5" 5(("
+type List<Integer>*result2p
+java.util.ListTYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java5 5(2|
+java.lang.IntegerTYPE_ARGUMENTX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java5 5( 2Å
+java.util.ArrayList.ArrayList()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java5/ 5(:ì
+oalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?one@55.32:55.35VARIABLEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java7  7(#"
+type Integer*one2s
+java.lang.IntegerTYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java7 7(2é
+,java.lang.Integer.parseInt(java.lang.String)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java7. 7(62Ü
+$java.lang.String.substring(int, int)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java79 7(B2√
+aalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)!sCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java77 7(82œ
+malgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?i@51.21:51.22CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java7F 7(GÂ	
+oalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?two@56.32:56.35VARIABLEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java8  8(#"
+type Integer*two2s
+java.lang.IntegerTYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java8 8(2é
+,java.lang.Integer.parseInt(java.lang.String)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java8. 8(62Ü
+$java.lang.String.substring(int, int)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java89 8(B2√
+aalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)!sCALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java87 8(82œ
+malgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?i@51.21:51.22CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java8C 8(D2œ
+malgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?j@52.25:52.26CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java8J 8(K¬
+palgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?mock@59.38:59.42VARIABLEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java;& ;(*"
+type StringBuilder*mock2y
+java.lang.StringBuilderTYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java; ;(%2å
+*java.lang.String.valueOf(java.lang.Object)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java;L ;(S2ô
+7java.lang.StringBuilder.StringBuilder(java.lang.String)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java;1 ;(>2—
+oalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?one@55.32:55.35CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java;? ;(B2—
+oalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?two@56.32:56.35CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java;T ;(Wë
+nalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?i1@61.32:61.34VARIABLEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java=  =(""
+type int*i12e
+intTYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java= =(2y
+java.util.List.get(int)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java=, =(/2w
+java.util.List.size()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java=7 =(;2y
+java.util.List.get(int)CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java=L =(O2w
+java.util.List.size()CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java=W =([2‘
+ralgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?result@53.34:53.40CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java=% =(+2‘
+ralgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?result@53.34:53.40CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java=0 =(62‘
+ralgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?result@53.34:53.40CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java=E =(K2‘
+ralgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?result@53.34:53.40CALLX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java=P =(Vø
+aalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)!s	PARAMETERX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java27 2(8*s2r
+java.lang.StringTYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.java20 2(6ﬁ
+oalgorithme.string.SplitArrayIntoFibonacciSequence.Solution.splitIntoFibonacci(java.lang.String)?nfe@68.51:68.54VARIABLEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.javaD3 D(6*nfe2Å
+java.lang.NumberFormatExceptionTYPEX
+Nalgorithm/src/main/java/algorithme/string/SplitArrayIntoFibonacciSequence.javaD D(2

@@ -1,0 +1,702 @@
+
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaπ
++algorithme.MinimumNumberOfPeopleToTeach1733CLASSR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (-"
+inner classfalse* MinimumNumberOfPeopleToTeach17332ß
+Dalgorithme.MinimumNumberOfPeopleToTeach1733.main(java.util.String[])DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2ó
+4algorithme.MinimumNumberOfPeopleToTeach1733.bridge()DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java
+ 
+(2ó
+4algorithme.MinimumNumberOfPeopleToTeach1733.SolutionDECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java
+ (2ò
+5algorithme.MinimumNumberOfPeopleToTeach1733.Solution1DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaM
+ M(»
+Dalgorithme.MinimumNumberOfPeopleToTeach1733.main(java.util.String[])METHODR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2ê
+4algorithme.MinimumNumberOfPeopleToTeach1733.bridge()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java/ (52™
+Nalgorithme.MinimumNumberOfPeopleToTeach1733.MinimumNumberOfPeopleToTeach1733()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (,2™
+Ialgorithme.MinimumNumberOfPeopleToTeach1733.main(java.util.String[])!args	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java% ()2g
+voidRETURN_TYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (†
+Ialgorithme.MinimumNumberOfPeopleToTeach1733.main(java.util.String[])!args	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java% ()*args2n
+java.util.String[]TYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java ($ß
+4algorithme.MinimumNumberOfPeopleToTeach1733.bridge()METHODR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java
+ 
+("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2∏
+\algorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java* (:2õ
+?algorithme.MinimumNumberOfPeopleToTeach1733.Solution.Solution()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java ('2û
+Balgorithme.MinimumNumberOfPeopleToTeach1733.bridge()?n@11.12:11.13CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java; (<2¶
+Jalgorithme.MinimumNumberOfPeopleToTeach1733.bridge()?languages@12.16:12.25CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java> (G2®
+Lalgorithme.MinimumNumberOfPeopleToTeach1733.bridge()?friendShips@13.16:13.27CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaI (T2•
+Balgorithme.MinimumNumberOfPeopleToTeach1733.bridge()?n@11.12:11.13DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2≠
+Jalgorithme.MinimumNumberOfPeopleToTeach1733.bridge()?languages@12.16:12.25DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2Ø
+Lalgorithme.MinimumNumberOfPeopleToTeach1733.bridge()?friendShips@13.16:13.27DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2g
+voidRETURN_TYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java
+ 
+(î
+Balgorithme.MinimumNumberOfPeopleToTeach1733.bridge()?n@11.12:11.13VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java ("
+type int*n2_
+intTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (¨
+Jalgorithme.MinimumNumberOfPeopleToTeach1733.bridge()?languages@12.16:12.25VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java ("
+type int[][]*	languages2c
+int[][]TYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (∞
+Lalgorithme.MinimumNumberOfPeopleToTeach1733.bridge()?friendShips@13.16:13.27VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java ("
+type int[][]*friendShips2c
+int[][]TYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (Ù
+4algorithme.MinimumNumberOfPeopleToTeach1733.SolutionCLASSR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java
+ ("
+inner classtrue*Solution2ø
+\algorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (#2˘
+ïalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java1 1('2É
+üalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java7 7( ®x
+\algorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])METHODR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (#"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minimumTeachings2®
+Ljava.util.stream.Stream.collect(java.util.stream.Collector<? super T, A, R>)CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaO (V2~
+"java.util.stream.IntStream.boxed()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaG (L2z
+java.util.Arrays.stream(int[])CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java2 (82
+#java.util.stream.Collectors.toSet()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javab (g2Ú
+ïalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java ("2Ú
+ïalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java ("2w
+java.util.HashMap.HashMap()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java7 (@2w
+java.util.HashMap.HashMap()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java9 (B2w
+java.util.HashMap.HashMap()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java @  (I2w
+java.util.HashSet.HashSet()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java%I %(R2{
+java.util.ArrayList.ArrayList()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java&: &(E2∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@21.21:21.22CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2¬
+falgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])!languagesCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java  ()2∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@21.21:21.22CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java2 (32¬
+falgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])!languagesCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java9 (B2∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@21.21:21.22CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaC (D2–
+talgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?languageMap@20.39:20.50CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@21.21:21.22CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java  (!2–
+talgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?languageSet@22.29:22.40CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java' (22∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@25.21:25.22CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2ƒ
+halgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])!friendshipsCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java  (+2∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@25.21:25.22CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java4 (52ƒ
+halgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])!friendshipsCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java# (.2∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@25.21:25.22CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java/ (02ƒ
+halgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])!friendshipsCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java6 (A2∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@25.21:25.22CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaB (C2Œ
+ralgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?friendMap@19.39:19.48CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaI (R2ƒ
+halgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])!friendshipsCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java# (.2∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@25.21:25.22CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java/ (02ƒ
+halgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])!friendshipsCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java6 (A2∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@25.21:25.22CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaB (C2Œ
+ralgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?friendMap@19.39:19.48CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaI (R2¬
+falgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])!languagesCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@30.21:30.22CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2∫
+^algorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])!nCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java! ("2∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@30.21:30.22CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java$ (%2–
+talgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?languageMap@20.39:20.50CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java!H !(S2”
+walgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?tmpLanguageMap@32.43:32.57CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java" "("2‘
+xalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?integerSetEntry@33.54:33.69CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java"' "(62‘
+xalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?integerSetEntry@33.54:33.69CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java"O "(^2∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?j@36.25:36.26CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java$  $(!2¬
+falgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])!languagesCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java$% $(.2∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?j@36.25:36.26CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java$7 $(82Œ
+ralgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?friendMap@19.39:19.48CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java%+ %(42∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?j@36.25:36.26CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java%B %(C2Ã
+palgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?friends@37.33:37.40CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java'* '(12—
+ualgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?languageList@38.39:38.51CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java( (($2”
+walgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?tmpLanguageMap@32.43:32.57CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java() ((72À
+oalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?friend@39.33:39.39CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java(< ((B2»
+lalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?ans@31.20:31.23CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java* *(2—
+ualgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?languageList@38.39:38.51CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java*( *(42”
+walgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?tmpLanguageMap@32.43:32.57CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java*6 *(D2∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?j@36.25:36.26CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java*I *(J2∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?j@36.25:36.26CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java*M *(N2∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@30.21:30.22CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java*P *(Q2»
+lalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?min@29.16:29.19CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java, ,(2»
+lalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?min@29.16:29.19CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java, ,("2»
+lalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?ans@31.20:31.23CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java,$ ,('2»
+lalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?min@29.16:29.19CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java. .(2ø
+^algorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])!n	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java( ()2«
+falgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])!languages	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java3 (<2…
+halgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])!friendships	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaF (Q2’
+ralgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?friendMap@19.39:19.48DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java' (02◊
+talgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?languageMap@20.39:20.50DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java' (22Õ
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@21.21:21.22DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2◊
+talgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?languageSet@22.29:22.40DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java ((2Õ
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@25.21:25.22DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2œ
+lalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?min@29.16:29.19DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2Õ
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@30.21:30.22DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2œ
+lalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?ans@31.20:31.23DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2⁄
+walgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?tmpLanguageMap@32.43:32.57DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java +  (92€
+xalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?integerSetEntry@33.54:33.69DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java!6 !(E2Õ
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?j@36.25:36.26DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java$ $(2”
+palgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?friends@37.33:37.40DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java%! %((2ÿ
+ualgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?languageList@38.39:38.51DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java&' &(32“
+oalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?friend@39.33:39.39DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java'! '('2f
+intRETURN_TYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (…
+ralgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?friendMap@19.39:19.48VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java' (0""
+type Map<Integer,Set<Integer>>*	friendMap2i
+java.util.MapTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2v
+java.util.IntegerTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2r
+java.util.SetTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2v
+java.util.IntegerTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java ($2w
+java.util.HashMap.HashMap()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java7 (@Õ
+talgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?languageMap@20.39:20.50VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java' (2""
+type Map<Integer,Set<Integer>>*languageMap2i
+java.util.MapTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2v
+java.util.IntegerTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2r
+java.util.SetTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2v
+java.util.IntegerTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java ($2w
+java.util.HashMap.HashMap()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java9 (Bº
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@21.21:21.22VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java ("
+type int*i2_
+intTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (ë
+talgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?languageSet@22.29:22.40VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (("
+type Set<Integer>*languageSet2i
+java.util.SetTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2v
+java.util.IntegerTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2®
+Ljava.util.stream.Stream.collect(java.util.stream.Collector<? super T, A, R>)CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaO (V2~
+"java.util.stream.IntStream.boxed()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaG (L2z
+java.util.Arrays.stream(int[])CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java2 (82
+#java.util.stream.Collectors.toSet()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javab (g2¬
+falgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])!languagesCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java9 (B2∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@21.21:21.22CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaC (Dº
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@25.21:25.22VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java ("
+type int*i2_
+intTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (Ö
+lalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?min@29.16:29.19VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java ("
+type int*min2_
+intTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (2¬
+falgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])!languagesCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (º
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?i@30.21:30.22VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java ("
+type int*i2_
+intTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (¿
+lalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?ans@31.20:31.23VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java ("
+type int*ans2_
+intTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java (”
+walgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?tmpLanguageMap@32.43:32.57VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java +  (9""
+type Map<Integer,Set<Integer>>*tmpLanguageMap2i
+java.util.MapTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java   (2v
+java.util.IntegerTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java   (2r
+java.util.SetTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java   ( 2v
+java.util.IntegerTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java !  ((2w
+java.util.HashMap.HashMap()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java @  (IË
+xalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?integerSetEntry@33.54:33.69VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java!6 !(E"(
+type Map.Entry<Integer,Set<Integer>>*integerSetEntry2o
+java.util.Map.EntryTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java! !(2v
+java.util.IntegerTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java! !(2r
+java.util.SetTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java! !(&2v
+java.util.IntegerTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java!( !(+º
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?j@36.25:36.26VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java$ $("
+type int*j2_
+intTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java$ $(Ê
+palgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?friends@37.33:37.40VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java%! %(("
+type Set<Integer>*friends2i
+java.util.SetTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java% %(2v
+java.util.IntegerTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java% %(2w
+java.util.HashSet.HashSet()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java%I %(R2Œ
+ralgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?friendMap@19.39:19.48CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java%+ %(42∆
+jalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?j@36.25:36.26CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java%B %(C’
+ualgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?languageList@38.39:38.51VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java&' &(3"
+type List<Set<Integer>>*languageList2j
+java.util.ListTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java& &(2r
+java.util.SetTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java& &(2v
+java.util.IntegerTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java& &($2{
+java.util.ArrayList.ArrayList()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java&: &(Eÿ
+oalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])?friend@39.33:39.39VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java'! '('"
+type Integer*friend2m
+java.util.IntegerTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java' '( £
+^algorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])!n	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java( ()*n2_
+intTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java$ ('∑
+falgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])!languages	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java3 (<*	languages2c
+int[][]TYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java+ (0ª
+halgorithme.MinimumNumberOfPeopleToTeach1733.Solution.minimumTeachings(int, int[][], int[][])!friendships	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaF (Q*friendships2c
+int[][]TYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java> (C⁄
+ïalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)METHODR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java1 1('"
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*addRelationShipMap2w
+java.util.HashSet.HashSet()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java2J 2(S2Ä
+£algorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)!friendShipMapCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java2% 2(22˜
+öalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)!leftCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java2@ 2(D2à
+´algorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)?friendSet@50.25:50.34CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java3 3(2¯
+õalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)!rightCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java3 3(2Ä
+£algorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)!friendShipMapCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java4 4(2˜
+öalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)!leftCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java4 4("2à
+´algorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)?friendSet@50.25:50.34CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java4$ 4(-2¸
+öalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)!left	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java1, 1(02˝
+õalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)!right	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java16 1(;2Ö
+£algorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)!friendShipMap	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java1X 1(e2è
+´algorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)?friendSet@50.25:50.34DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java2 2("2g
+voidRETURN_TYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java1 1(á	
+´algorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)?friendSet@50.25:50.34VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java2 2(""
+type Set<Integer>*	friendSet2i
+java.util.SetTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java2 2(2v
+java.util.IntegerTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java2 2(2w
+java.util.HashSet.HashSet()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java2J 2(S2Ä
+£algorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)!friendShipMapCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java2% 2(22˜
+öalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)!leftCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java2@ 2(D„
+öalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)!left	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java1, 1(0*left2_
+intTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java1( 1(+Â
+õalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)!right	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java16 1(;*right2_
+intTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java12 1(5„
+£algorithme.MinimumNumberOfPeopleToTeach1733.Solution.addRelationShipMap(int, int, java.util.Map<java.util.Integer, java.util.Set<java.util.Integer>>)!friendShipMap	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java1X 1(e*friendShipMap2i
+java.util.MapTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java1= 1(@2v
+java.util.IntegerTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java1A 1(H2r
+java.util.SetTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java1J 1(M2v
+java.util.IntegerTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java1N 1(Uï(
+üalgorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)METHODR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java7 7( "
+staticfalse"
+finalfalse"
+access modifierprivate"
+type int*deduceAndAdd2ê
+≥algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)!currentUserLanguageCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java8 8(#2ä
+≠algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)!languageIndexCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java8- 8(:2è
+≤algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)!friendListLanguageCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java;) ;(;2ë
+¥algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)?integers@59.30:59.38CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java=' =(/2ê
+≥algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)!currentUserLanguageCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java> >(+2ê
+≥algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)?integer@61.29:61.36CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java>5 >(<2ë
+¥algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)?contains@60.24:60.32CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java? ?( 2ë
+¥algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)?contains@60.24:60.32CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaC C(2ê
+≥algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)!currentUserLanguageCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaD D('2ä
+≠algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)!languageIndexCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaD, D(92î
+≤algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)!friendListLanguage	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java74 7(F2ï
+≥algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)!currentUserLanguage	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java7U 7(h2ç
+´algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)!currentUser	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java7n 7(y2ê
+≠algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)!languageIndex	PARAMETERS
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java7 7(å2ò
+¥algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)?integers@59.30:59.38DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java; ;(&2ò
+¥algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)?contains@60.24:60.32DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java< <( 2ó
+≥algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)?integer@61.29:61.36DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java= =($2f
+intRETURN_TYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java7 7(ô
+¥algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)?integers@59.30:59.38VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java; ;(&"
+type Set<Integer>*integers2i
+java.util.SetTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java; ;(2v
+java.util.IntegerTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java; ;(ñ
+¥algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)?contains@60.24:60.32VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java< <( "
+type boolean*contains2c
+booleanTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java< <(û
+≥algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)?integer@61.29:61.36VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java= =($"
+type Integer*integer2m
+java.util.IntegerTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java= =(Ä
+≤algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)!friendListLanguage	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java74 7(F*friendListLanguage2j
+java.util.ListTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java7! 7(%2r
+java.util.SetTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java7& 7()2v
+java.util.IntegerTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java7* 7(1ç
+≥algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)!currentUserLanguage	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java7U 7(h*currentUserLanguage2i
+java.util.SetTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java7H 7(K2v
+java.util.IntegerTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java7L 7(S˚
+´algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)!currentUser	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java7n 7(y*currentUser2_
+intTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java7j 7(mÄ
+≠algorithme.MinimumNumberOfPeopleToTeach1733.Solution.deduceAndAdd(java.util.List<java.util.Set<java.util.Integer>>, java.util.Set<java.util.Integer>, int, int)!languageIndex	PARAMETERS
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java7 7(å*languageIndex2_
+intTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java7{ 7(~ı
+5algorithme.MinimumNumberOfPeopleToTeach1733.Solution1CLASSR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaM
+ M("
+inner classtrue*	Solution12¿
+]algorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaN N(#ÂE
+]algorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])METHODR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaN N(#"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minimumTeachings2w
+java.util.HashSet.HashSet()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaO' O(02≈
+ialgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])!friendshipsCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaP! P(,2ª
+_algorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])!nCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaQ& Q('2√
+galgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])!languagesCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaR  R()2Õ
+qalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?friends@80.23:80.30CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaR* R(12À
+oalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?langs@81.22:81.27CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaS S(2 
+nalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?lang@82.25:82.29CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaS S(2√
+galgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])!languagesCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaW W(&2Õ
+qalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?friends@80.23:80.30CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaW' W(.2À
+oalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?langs@81.22:81.27CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaX X(2«
+kalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?l@87.25:87.26CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaX X(2À
+oalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?found@86.24:86.29CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaY Y(2À
+oalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?found@86.24:86.29CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java] ](2…
+malgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?set@79.29:79.32CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java^ ^(2Õ
+qalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?friends@80.23:80.30CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java^ ^(#2…
+malgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?set@79.29:79.32CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java_ _(2Õ
+qalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?friends@80.23:80.30CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.java_ _(#2ª
+_algorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])!nCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javab# b($2…
+malgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?set@79.29:79.32CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javad d(2√
+galgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])!languagesCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javae  e()2Ã
+palgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?user@100.21:100.25CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javae* e(.2Ã
+palgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?counts@98.16:98.24CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaf f(2Ã
+palgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?lang@101.25:101.29CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaf f(2…
+malgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?max@99.16:99.19CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javag g(2…
+malgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?max@99.16:99.19CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javag# g(&2Ã
+palgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?counts@98.16:98.24CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javag( g(.2Ã
+palgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?lang@101.25:101.29CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javag/ g(32…
+malgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?set@79.29:79.32CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaj j(2…
+malgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?max@99.16:99.19CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaj  j(#2¿
+_algorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])!n	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaN( N()2»
+galgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])!languages	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaN3 N(<2 
+ialgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])!friendships	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaNF N(Q2–
+malgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?set@79.29:79.32DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaO O( 2‘
+qalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?friends@80.23:80.30DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaP P(2“
+oalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?langs@81.22:81.27DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaQ Q(2—
+nalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?lang@82.25:82.29DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaR R(2“
+oalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?found@86.24:86.29DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaV V(2Œ
+kalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?l@87.25:87.26DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaW W(2”
+palgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?counts@98.16:98.24DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javab b(2–
+malgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?max@99.16:99.19DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javac c(2”
+palgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?user@100.21:100.25DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javad d(2”
+palgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?lang@101.25:101.29DECLARATIONR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javae e(2f
+intRETURN_TYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaN N(Õ
+malgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?set@79.29:79.32VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaO O( "
+type HashSet<Integer>*set2m
+java.util.HashSetTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaO O(2v
+java.util.IntegerTYPE_ARGUMENTR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaO O(2w
+java.util.HashSet.HashSet()CALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaO' O(0Õ
+qalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?friends@80.23:80.30VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaP P("
+type int[]*friends2a
+int[]TYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaP P(á
+oalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?langs@81.22:81.27VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaQ Q("
+type int[]*langs2a
+int[]TYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaQ Q(2ª
+_algorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])!nCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaQ& Q('√
+nalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?lang@82.25:82.29VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaR R("
+type int*lang2_
+intTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaR R(Õ
+oalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?found@86.24:86.29VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaV V("
+type boolean*found2c
+booleanTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaV V(Ω
+kalgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?l@87.25:87.26VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaW W("
+type int*l2_
+intTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaW W(â
+palgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?counts@98.16:98.24VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javab b("
+type int[]*counts2a
+int[]TYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javab b(2ª
+_algorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])!nCALLR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javab# b($¡
+malgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?max@99.16:99.19VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javac c("
+type int*max2_
+intTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javac c(≈
+palgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?user@100.21:100.25VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javad d("
+type int*user2_
+intTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javad d(≈
+palgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])?lang@101.25:101.29VARIABLER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javae e("
+type int*lang2_
+intTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javae e(§
+_algorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])!n	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaN( N()*n2_
+intTYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaN$ N('∏
+galgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])!languages	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaN3 N(<*	languages2c
+int[][]TYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaN+ N(0º
+ialgorithme.MinimumNumberOfPeopleToTeach1733.Solution1.minimumTeachings(int, int[][], int[][])!friendships	PARAMETERR
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaNF N(Q*friendships2c
+int[][]TYPER
+Halgorithm/src/main/java/algorithme/MinimumNumberOfPeopleToTeach1733.javaN> N(C

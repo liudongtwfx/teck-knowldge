@@ -1,0 +1,217 @@
+
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.javaÅ
+"algorithme.ArithmeticSubArrays1630CLASSI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java ($"
+inner classfalse*ArithmeticSubArrays16302•
+;algorithme.ArithmeticSubArrays1630.main(java.lang.String[])DECLARATIONI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java
+ 
+(2…
++algorithme.ArithmeticSubArrays1630.SolutionDECLARATIONI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java
+ (©
+
+;algorithme.ArithmeticSubArrays1630.main(java.lang.String[])METHODI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java
+ 
+("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2£
+Palgorithme.ArithmeticSubArrays1630.main(java.lang.String[])?jsonTest@11.15:11.23CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java> (F2¢
+Oalgorithme.ArithmeticSubArrays1630.main(java.lang.String[])?factory@16.28:16.35CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java ( 2˜
+@algorithme.ArithmeticSubArrays1630.main(java.lang.String[])!args	PARAMETERI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java
+% 
+()2ª
+Palgorithme.ArithmeticSubArrays1630.main(java.lang.String[])?jsonTest@11.15:11.23DECLARATIONI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (2©
+Oalgorithme.ArithmeticSubArrays1630.main(java.lang.String[])?factory@16.28:16.35DECLARATIONI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (#2§
+Malgorithme.ArithmeticSubArrays1630.main(java.lang.String[])?hello@17.17:17.22DECLARATIONI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (2^
+voidRETURN_TYPEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java
+ 
+(§
+Palgorithme.ArithmeticSubArrays1630.main(java.lang.String[])?jsonTest@11.15:11.23VARIABLEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java ("
+type String*jsonTest2c
+java.lang.StringTYPEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (
+Oalgorithme.ArithmeticSubArrays1630.main(java.lang.String[])?factory@16.28:16.35VARIABLEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (#"
+type GroovyScriptFactory*factory2‹
+8org.springframework.scripting.groovy.GroovyScriptFactoryTYPEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (2£
+Palgorithme.ArithmeticSubArrays1630.main(java.lang.String[])?jsonTest@11.15:11.23CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java> (FÇ
+Malgorithme.ArithmeticSubArrays1630.main(java.lang.String[])?hello@17.17:17.22VARIABLEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java ("
+type Class<?>*hello2b
+java.lang.ClassTYPEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (2¢
+Oalgorithme.ArithmeticSubArrays1630.main(java.lang.String[])?factory@16.28:16.35CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java ( …
+@algorithme.ArithmeticSubArrays1630.main(java.lang.String[])!args	PARAMETERI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java
+% 
+()*args2e
+java.lang.String[]TYPEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java
+ 
+($Ô
++algorithme.ArithmeticSubArrays1630.SolutionCLASSI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java
+ ("
+inner classtrue*Solution2³
+Yalgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])DECLARATIONI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (5µ7
+Yalgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])METHODI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (5"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type List<Boolean>*checkArithmeticSubarrays2€
+-java.util.Arrays.copyOfRange(int[], int, int)CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java( (32o
+java.util.Arrays.sort(int[])CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (2h
+java.util.List.add(E)CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java" "(2r
+java.util.ArrayList.ArrayList()CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java$ (/2º
+galgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?i@23.21:23.22CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (2®
+[algorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])!lCALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java  (!2º
+galgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?i@23.21:23.22CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java* (+2±
+^algorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])!numsCALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java4 (82®
+[algorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])!lCALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java: (;2º
+galgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?i@23.21:23.22CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java< (=2®
+[algorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])!rCALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java@ (A2º
+galgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?i@23.21:23.22CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.javaB (C2Á
+nalgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?tmpArray@25.22:25.30CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java ($2Á
+nalgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?tmpArray@25.22:25.30CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java ("2Á
+nalgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?tmpArray@25.22:25.30CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java( (02º
+galgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?j@28.25:28.26CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java  (!2Á
+nalgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?tmpArray@25.22:25.30CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java$ (,2º
+galgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?j@28.25:28.26CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java9 (:2Á
+nalgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?tmpArray@25.22:25.30CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java ( 2º
+galgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?j@28.25:28.26CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java! ("2Á
+nalgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?tmpArray@25.22:25.30CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java* (22º
+galgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?j@28.25:28.26CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java3 (42¼
+ialgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?tmp@27.20:27.23CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java9 (<2Å
+ralgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?isArithmetic@24.24:24.36CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java ($2¼
+ialgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?ans@22.26:22.29CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java" "(2Å
+ralgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?isArithmetic@24.24:24.36CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java" "($2¼
+ialgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?ans@22.26:22.29CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java$ $(2¶
+^algorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])!nums	PARAMETERI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java< (@2³
+[algorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])!l	PARAMETERI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.javaH (I2³
+[algorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])!r	PARAMETERI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.javaQ (R2Ã
+ialgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?ans@22.26:22.29DECLARATIONI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (2Á
+galgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?i@23.21:23.22DECLARATIONI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (2Ì
+ralgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?isArithmetic@24.24:24.36DECLARATIONI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java ($2È
+nalgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?tmpArray@25.22:25.30DECLARATIONI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (2Ã
+ialgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?tmp@27.20:27.23DECLARATIONI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (2Á
+galgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?j@28.25:28.26DECLARATIONI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (2h
+java.util.ListRETURN_TYPEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (2t
+java.lang.BooleanRETURN_TYPE_ARGUMENTI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (£
+ialgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?ans@22.26:22.29VARIABLEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java ("
+type List<Boolean>*ans2a
+java.util.ListTYPEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (2m
+java.lang.BooleanTYPE_ARGUMENTI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (2r
+java.util.ArrayList.ArrayList()CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java$ (/§
+galgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?i@23.21:23.22VARIABLEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java ("
+type int*i2V
+intTYPEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (Å
+ralgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?isArithmetic@24.24:24.36VARIABLEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java ($"
+type boolean*isArithmetic2Z
+booleanTYPEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (Ì
+
+nalgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?tmpArray@25.22:25.30VARIABLEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java ("
+type int[]*tmpArray2X
+int[]TYPEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (2€
+-java.util.Arrays.copyOfRange(int[], int, int)CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java( (32±
+^algorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])!numsCALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java4 (82®
+[algorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])!lCALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java: (;2º
+galgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?i@23.21:23.22CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java< (=2®
+[algorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])!rCALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java@ (A2º
+galgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?i@23.21:23.22CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.javaB (C³
+ialgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?tmp@27.20:27.23VARIABLEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java ("
+type int*tmp2V
+intTYPEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (2Á
+nalgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?tmpArray@25.22:25.30CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java ("2Á
+nalgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?tmpArray@25.22:25.30CALLI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java( (0§
+galgorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])?j@28.25:28.26VARIABLEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java ("
+type int*j2V
+intTYPEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java (–
+^algorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])!nums	PARAMETERI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java< (@*nums2X
+int[]TYPEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.java6 (;
+[algorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])!l	PARAMETERI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.javaH (I*l2X
+int[]TYPEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.javaB (G
+[algorithme.ArithmeticSubArrays1630.Solution.checkArithmeticSubarrays(int[], int[], int[])!r	PARAMETERI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.javaQ (R*r2X
+int[]TYPEI
+?algorithm/src/main/java/algorithme/ArithmeticSubArrays1630.javaK (P

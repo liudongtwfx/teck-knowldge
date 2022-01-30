@@ -44,7 +44,7 @@ public class Singleton {
     }
 
     static class DoubleCheckLockSingleton {
-        private static DoubleCheckLockSingleton INSTANCE;
+        private static volatile DoubleCheckLockSingleton INSTANCE;
         private String name;
 
         private DoubleCheckLockSingleton() {

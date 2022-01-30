@@ -1,0 +1,293 @@
+
+4knowledge/src/main/java/redis/cachestratege/App.javaì
+redis.cachestratege.AppCLASS>
+4knowledge/src/main/java/redis/cachestratege/App.java ("
+inner classfalse*App2o
+ redis.cachestratege.App.SolutionDECLARATION>
+4knowledge/src/main/java/redis/cachestratege/App.java
+ (§
+ redis.cachestratege.App.SolutionCLASS>
+4knowledge/src/main/java/redis/cachestratege/App.java
+ ("
+inner classtrue*Solution2œ
+Mredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)DECLARATION>
+4knowledge/src/main/java/redis/cachestratege/App.java	 	(àg
+Mredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)METHOD>
+4knowledge/src/main/java/redis/cachestratege/App.java	 	("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*multiply2„
+<java.util.Objects.equals(java.lang.Object, java.lang.Object)CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java
+ 
+(2„
+<java.util.Objects.equals(java.lang.Object, java.lang.Object)CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java
+5 
+(;2a
+java.lang.String.length()CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java ($2a
+java.lang.String.length()CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java" ((2a
+java.lang.String.length()CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java? (E2d
+java.lang.String.charAt(int)CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java( (.2d
+java.lang.String.charAt(int)CALL>
+4knowledge/src/main/java/redis/cachestratege/App.javaA (G2p
+(java.lang.AbstractStringBuilder.length()CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java! ('2k
+#java.lang.StringBuilder.append(int)CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java  (&2k
+#java.lang.StringBuilder.append(int)CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java  (&2k
+#java.lang.StringBuilder.append(int)CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java  (&2s
++java.lang.AbstractStringBuilder.charAt(int)CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java' (-2|
+4java.lang.AbstractStringBuilder.setCharAt(int, char)CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java (%2p
+(java.lang.AbstractStringBuilder.length()CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java )  (/2k
+#java.lang.StringBuilder.append(int)CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java!$ !(*2s
++java.lang.AbstractStringBuilder.charAt(int)CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java$+ $(12|
+4java.lang.AbstractStringBuilder.setCharAt(int, char)CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java%$ %(-2j
+"java.lang.StringBuilder.toString()CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java-! -()2i
+!java.lang.StringBuilder.reverse()CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java- -(2o
+'java.lang.StringBuilder.StringBuilder()CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java$ (12š
+Rredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)!num1CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java
+ 
+(#2š
+Rredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)!num2CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java
+< 
+(@2š
+Rredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)!num1CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java (2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?i@14.21:14.22CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java, (-2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?i@14.21:14.22CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java4 (52š
+Rredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)!num1CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java (!2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?i@14.21:14.22CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java1 (22š
+Rredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)!num2CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java: (>2¥
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?cnt@15.52:15.55CALL>
+4knowledge/src/main/java/redis/cachestratege/App.javaM (P2¥
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?cnt@15.52:15.55CALL>
+4knowledge/src/main/java/redis/cachestratege/App.javaW (Z2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?j@15.25:15.26CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java^ (_2š
+Rredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)!num1CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java# ('2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?i@14.21:14.22CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java/ (02š
+Rredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)!num2CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java< (@2¥
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?cnt@15.52:15.55CALL>
+4knowledge/src/main/java/redis/cachestratege/App.javaH (K2©
+aredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?resTemp@16.24:16.31CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java (#2©
+aredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?resTemp@16.24:16.31CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java (#2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?j@15.25:15.26CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java (2¥
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?res@13.26:13.29CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java ( 2©
+aredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?resTemp@16.24:16.31CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java (#2¥
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?res@13.26:13.29CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java (2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?b@18.24:18.25CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java' ((2¥
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?res@13.26:13.29CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java (2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?a@17.24:17.25CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java' ((2¥
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?res@13.26:13.29CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java (2©
+aredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?resTemp@16.24:16.31CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java' (.2¥
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?res@13.26:13.29CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java# (&2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?j@15.25:15.26CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java. (/2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?b@18.24:18.25CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java9 (:2¥
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?res@13.26:13.29CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java (2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?j@15.25:15.26CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java& ('2¦
+^redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?temp@27.28:27.32CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java1 (52£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?a@17.24:17.25CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java (2¦
+^redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?temp@27.28:27.32CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java (!2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?j@15.25:15.26CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java  (!2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?a@17.24:17.25CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java ( 2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?x@30.28:30.29CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java    (!2¥
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?res@13.26:13.29CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java %  ((2¥
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?res@13.26:13.29CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java!  !(#2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?a@17.24:17.25CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java!+ !(,2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?a@17.24:17.25CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java"  "(!2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?a@17.24:17.25CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java"$ "(%2¦
+^redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?temp@27.28:27.32CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java$  $($2¥
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?res@13.26:13.29CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java$' $(*2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?x@30.28:30.29CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java$2 $(32£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?a@17.24:17.25CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java$= $(>2¥
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?res@13.26:13.29CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java%  %(#2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?x@30.28:30.29CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java%. %(/2¦
+^redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?temp@27.28:27.32CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java%9 %(=2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?a@17.24:17.25CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java&  &(!2¦
+^redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?temp@27.28:27.32CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java&$ &((2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?x@30.28:30.29CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java( ((2¥
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?res@13.26:13.29CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java- -(2Ÿ
+Rredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)!num1	PARAMETER>
+4knowledge/src/main/java/redis/cachestratege/App.java	& 	(*2Ÿ
+Rredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)!num2	PARAMETER>
+4knowledge/src/main/java/redis/cachestratege/App.java	3 	(72¬
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?res@13.26:13.29DECLARATION>
+4knowledge/src/main/java/redis/cachestratege/App.java (2ª
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?i@14.21:14.22DECLARATION>
+4knowledge/src/main/java/redis/cachestratege/App.java (2ª
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?j@15.25:15.26DECLARATION>
+4knowledge/src/main/java/redis/cachestratege/App.java (2¬
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?cnt@15.52:15.55DECLARATION>
+4knowledge/src/main/java/redis/cachestratege/App.java4 (72°
+aredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?resTemp@16.24:16.31DECLARATION>
+4knowledge/src/main/java/redis/cachestratege/App.java (2ª
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?a@17.24:17.25DECLARATION>
+4knowledge/src/main/java/redis/cachestratege/App.java (2ª
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?b@18.24:18.25DECLARATION>
+4knowledge/src/main/java/redis/cachestratege/App.java (2­
+^redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?temp@27.28:27.32DECLARATION>
+4knowledge/src/main/java/redis/cachestratege/App.java ( 2ª
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?x@30.28:30.29DECLARATION>
+4knowledge/src/main/java/redis/cachestratege/App.java (2_
+java.lang.StringRETURN_TYPE>
+4knowledge/src/main/java/redis/cachestratege/App.java	 	(˜
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?res@13.26:13.29VARIABLE>
+4knowledge/src/main/java/redis/cachestratege/App.java ("
+type StringBuilder*res2_
+java.lang.StringBuilderTYPE>
+4knowledge/src/main/java/redis/cachestratege/App.java (2o
+'java.lang.StringBuilder.StringBuilder()CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java$ (1…
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?i@14.21:14.22VARIABLE>
+4knowledge/src/main/java/redis/cachestratege/App.java ("
+type int*i2K
+intTYPE>
+4knowledge/src/main/java/redis/cachestratege/App.java (2a
+java.lang.String.length()CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java ($2š
+Rredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)!num1CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java («
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?j@15.25:15.26VARIABLE>
+4knowledge/src/main/java/redis/cachestratege/App.java ("
+type int*j2K
+intTYPE>
+4knowledge/src/main/java/redis/cachestratege/App.java (2a
+java.lang.String.length()CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java" ((2š
+Rredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)!num1CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java (!2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?i@14.21:14.22CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java1 (2‰
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?cnt@15.52:15.55VARIABLE>
+4knowledge/src/main/java/redis/cachestratege/App.java4 (7"
+type int*cnt2K
+intTYPE>
+4knowledge/src/main/java/redis/cachestratege/App.java (2a
+java.lang.String.length()CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java? (E2š
+Rredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)!num2CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java: (>å
+aredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?resTemp@16.24:16.31VARIABLE>
+4knowledge/src/main/java/redis/cachestratege/App.java ("
+type int*resTemp2K
+intTYPE>
+4knowledge/src/main/java/redis/cachestratege/App.java (2d
+java.lang.String.charAt(int)CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java( (.2d
+java.lang.String.charAt(int)CALL>
+4knowledge/src/main/java/redis/cachestratege/App.javaA (G2š
+Rredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)!num1CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java# ('2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?i@14.21:14.22CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java/ (02š
+Rredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)!num2CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java< (@2¥
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?cnt@15.52:15.55CALL>
+4knowledge/src/main/java/redis/cachestratege/App.javaH (K±
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?a@17.24:17.25VARIABLE>
+4knowledge/src/main/java/redis/cachestratege/App.java ("
+type int*a2K
+intTYPE>
+4knowledge/src/main/java/redis/cachestratege/App.java (2©
+aredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?resTemp@16.24:16.31CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java (#±
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?b@18.24:18.25VARIABLE>
+4knowledge/src/main/java/redis/cachestratege/App.java ("
+type int*b2K
+intTYPE>
+4knowledge/src/main/java/redis/cachestratege/App.java (2©
+aredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?resTemp@16.24:16.31CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java (#ô
+^redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?temp@27.28:27.32VARIABLE>
+4knowledge/src/main/java/redis/cachestratege/App.java ( "
+type int*temp2K
+intTYPE>
+4knowledge/src/main/java/redis/cachestratege/App.java (2s
++java.lang.AbstractStringBuilder.charAt(int)CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java' (-2¥
+]redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?res@13.26:13.29CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java# (&2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?j@15.25:15.26CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java. (/2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?b@18.24:18.25CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java9 (:«
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?x@30.28:30.29VARIABLE>
+4knowledge/src/main/java/redis/cachestratege/App.java ("
+type int*x2K
+intTYPE>
+4knowledge/src/main/java/redis/cachestratege/App.java (2£
+[redis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)?j@15.25:15.26CALL>
+4knowledge/src/main/java/redis/cachestratege/App.java  (!ÿ
+Rredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)!num1	PARAMETER>
+4knowledge/src/main/java/redis/cachestratege/App.java	& 	(**num12X
+java.lang.StringTYPE>
+4knowledge/src/main/java/redis/cachestratege/App.java	 	(%ÿ
+Rredis.cachestratege.App.Solution.multiply(java.lang.String, java.lang.String)!num2	PARAMETER>
+4knowledge/src/main/java/redis/cachestratege/App.java	3 	(7*num22X
+java.lang.StringTYPE>
+4knowledge/src/main/java/redis/cachestratege/App.java	, 	(2

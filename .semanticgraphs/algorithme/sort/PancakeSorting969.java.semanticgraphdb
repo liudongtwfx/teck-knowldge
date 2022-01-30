@@ -1,0 +1,285 @@
+
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.javaø
+!algorithme.sort.PancakeSorting969CLASSH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java ("
+inner classfalse*PancakeSorting9692ì
+:algorithme.sort.PancakeSorting969.main(java.lang.String[])DECLARATIONH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (2É
+*algorithme.sort.PancakeSorting969.bridge()DECLARATIONH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (2É
+*algorithme.sort.PancakeSorting969.SolutionDECLARATIONH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java
+ (ﬁ
+:algorithme.sort.PancakeSorting969.main(java.lang.String[])METHODH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2|
+*algorithme.sort.PancakeSorting969.bridge()CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java  (&2á
+5algorithme.sort.PancakeSorting969.PancakeSorting969()CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (2ñ
+?algorithme.sort.PancakeSorting969.main(java.lang.String[])!args	PARAMETERH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java% ()2]
+voidRETURN_TYPEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (Ç
+?algorithme.sort.PancakeSorting969.main(java.lang.String[])!args	PARAMETERH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java% ()*args2d
+java.lang.String[]TYPEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java ($Ö
+*algorithme.sort.PancakeSorting969.bridge()METHODH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2î
+Bjava.lang.Iterable.forEach(java.util.function.Consumer<? super T>)CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java& (-2è
+=algorithme.sort.PancakeSorting969.Solution.pancakeSort(int[])CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java ("2á
+5algorithme.sort.PancakeSorting969.Solution.Solution()CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (2ä
+8algorithme.sort.PancakeSorting969.bridge()?A@20.14:20.15CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java# ($2ë
+8algorithme.sort.PancakeSorting969.bridge()?A@20.14:20.15DECLARATIONH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (2]
+voidRETURN_TYPEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (˙
+8algorithme.sort.PancakeSorting969.bridge()?A@20.14:20.15VARIABLEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java ("
+type int[]*A2W
+int[]TYPEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (Ó
+*algorithme.sort.PancakeSorting969.SolutionCLASSH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java
+ ("
+inner classtrue*Solution2ñ
+=algorithme.sort.PancakeSorting969.Solution.pancakeSort(int[])DECLARATIONH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java ((2∂
+]algorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)DECLARATIONH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (¨
+=algorithme.sort.PancakeSorting969.Solution.pancakeSort(int[])METHODH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type List<Integer>*pancakeSort2Ø
+]algorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (2q
+java.util.ArrayList.ArrayList()CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java% (02ì
+Aalgorithme.sort.PancakeSorting969.Solution.pancakeSort(int[])!arrCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (2ì
+Aalgorithme.sort.PancakeSorting969.Solution.pancakeSort(int[])!arrCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (2†
+Nalgorithme.sort.PancakeSorting969.Solution.pancakeSort(int[])?nums@26.26:26.30CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java% ()2†
+Nalgorithme.sort.PancakeSorting969.Solution.pancakeSort(int[])?nums@26.26:26.30CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (2ò
+Aalgorithme.sort.PancakeSorting969.Solution.pancakeSort(int[])!arr	PARAMETERH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java/ (22ß
+Nalgorithme.sort.PancakeSorting969.Solution.pancakeSort(int[])?nums@26.26:26.30DECLARATIONH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (2g
+java.util.ListRETURN_TYPEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (2s
+java.lang.IntegerRETURN_TYPE_ARGUMENTH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (Ö
+Nalgorithme.sort.PancakeSorting969.Solution.pancakeSort(int[])?nums@26.26:26.30VARIABLEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java ("
+type List<Integer>*nums2`
+java.util.ListTYPEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (2l
+java.lang.IntegerTYPE_ARGUMENTH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (2q
+java.util.ArrayList.ArrayList()CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java% (0ˆ
+Aalgorithme.sort.PancakeSorting969.Solution.pancakeSort(int[])!arr	PARAMETERH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java/ (2*arr2W
+int[]TYPEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java) (.¯X
+]algorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)METHODH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*dfs2g
+java.util.List.add(E)CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java% %(2g
+java.util.List.add(E)CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java, ,(2Ø
+]algorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java2 2(2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!endCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java   (2Ω
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@34.21:34.22CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java" "(2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!endCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java"! "($2Ω
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@34.21:34.22CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java"& "('2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!arrCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java# #(2Ω
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@34.21:34.22CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java# #(2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!arrCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java# #( 2ƒ
+ralgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?maxIndex@33.16:33.24CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java#! #()2ƒ
+ralgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?maxIndex@33.16:33.24CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java#, #(42Ω
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@34.21:34.22CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java#7 #(82¥
+balgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!numsCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java% %(2ƒ
+ralgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?maxIndex@33.16:33.24CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java% %(2Ω
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@38.21:38.22CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java& &(2ƒ
+ralgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?maxIndex@33.16:33.24CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java&% &(-2Ω
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@38.21:38.22CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java&/ &(02≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!arrCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java' '(2Ω
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@38.21:38.22CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java' '(2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!arrCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java( ((2Ω
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@38.21:38.22CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java( ((2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!arrCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java( ((2ƒ
+ralgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?maxIndex@33.16:33.24CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java( ((%2Ω
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@38.21:38.22CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java(( (()2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!arrCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java) )(2ƒ
+ralgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?maxIndex@33.16:33.24CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java) )(2Ω
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@38.21:38.22CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java) )( 2ø
+malgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?tmp@39.20:39.23CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java)$ )('2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!arrCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java+ +(2¥
+balgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!numsCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java, ,(2¿
+nalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?next@43.16:43.20CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java, ,(2Ω
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@45.21:45.22CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java- -(2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!endCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java-% -((2Ω
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@45.21:45.22CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java-* -(+2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!arrCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java. .(2Ω
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@45.21:45.22CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java. .(2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!arrCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java/ /(2Ω
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@45.21:45.22CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java/ /(2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!arrCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java/ /(2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!endCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java/ /( 2Ω
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@45.21:45.22CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java/# /($2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!arrCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java0 0(2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!endCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java0 0(2Ω
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@45.21:45.22CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java0 0(2ø
+malgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?tmp@46.20:46.23CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java0 0("2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!arrCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java2 2(2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!endCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java2 2(2¥
+balgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!numsCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java2 2("2∏
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!arr	PARAMETERH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java ("2∏
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!end	PARAMETERH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java( (+2π
+balgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!nums	PARAMETERH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java; (?2À
+ralgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?maxIndex@33.16:33.24DECLARATIONH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java! !(2ƒ
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@34.21:34.22DECLARATIONH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java" "(2ƒ
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@38.21:38.22DECLARATIONH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java& &(2∆
+malgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?tmp@39.20:39.23DECLARATIONH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java' '(2«
+nalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?next@43.16:43.20DECLARATIONH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java+ +(2ƒ
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@45.21:45.22DECLARATIONH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java- -(2∆
+malgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?tmp@46.20:46.23DECLARATIONH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java. .(2]
+voidRETURN_TYPEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (∑
+ralgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?maxIndex@33.16:33.24VARIABLEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java! !("
+type int*maxIndex2U
+intTYPEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java! !(©
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@34.21:34.22VARIABLEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java" "("
+type int*i2U
+intTYPEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java" "(©
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@38.21:38.22VARIABLEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java& &("
+type int*i2U
+intTYPEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java& &(£
+malgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?tmp@39.20:39.23VARIABLEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java' '("
+type int*tmp2U
+intTYPEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java' '(2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!arrCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java' '(2Ω
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@38.21:38.22CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java' '(Â
+nalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?next@43.16:43.20VARIABLEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java+ +("
+type int*next2U
+intTYPEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java+ +(2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!arrCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java+ +(©
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@45.21:45.22VARIABLEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java- -("
+type int*i2U
+intTYPEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java- -(£
+malgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?tmp@46.20:46.23VARIABLEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java. .("
+type int*tmp2U
+intTYPEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java. .(2≥
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!arrCALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java. .(2Ω
+kalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)?i@45.21:45.22CALLH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java. .(ñ
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!arr	PARAMETERH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java ("*arr2W
+int[]TYPEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java (î
+aalgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!end	PARAMETERH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java( (+*end2U
+intTYPEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java$ ('è
+balgorithme.sort.PancakeSorting969.Solution.dfs(int[], int, java.util.List<java.lang.Integer>)!nums	PARAMETERH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java; (?*nums2`
+java.util.ListTYPEH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java- (12l
+java.lang.IntegerTYPE_ARGUMENTH
+>algorithm/src/main/java/algorithme/sort/PancakeSorting969.java2 (9

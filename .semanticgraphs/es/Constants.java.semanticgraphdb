@@ -1,0 +1,31 @@
+
+)knowledge/src/main/java/es/Constants.java¢
+es.ConstantsCLASS3
+)knowledge/src/main/java/es/Constants.java ("
+inner classfalse*	Constants2\
+es.Constants.Constants()DECLARATION3
+)knowledge/src/main/java/es/Constants.java (2k
+'es.Constants?LOCALHOST_CLIENT@8.44:8.60DECLARATION3
+)knowledge/src/main/java/es/Constants.java, (<2j
+&es.Constants?OBJECT_MAPPER@10.37:10.50DECLARATION3
+)knowledge/src/main/java/es/Constants.java
+% 
+(2¹
+es.Constants.Constants()CONSTRUCTOR3
+)knowledge/src/main/java/es/Constants.java (*	Constants2P
+es.ConstantsRETURN_TYPE3
+)knowledge/src/main/java/es/Constants.java (ç
+'es.Constants?LOCALHOST_CLIENT@8.44:8.60VALUE3
+)knowledge/src/main/java/es/Constants.java, (<"
+type RestHighLevelClient*LOCALHOST_CLIENT2P
+RestHighLevelClientTYPE3
+)knowledge/src/main/java/es/Constants.java (+ô
+&es.Constants?OBJECT_MAPPER@10.37:10.50VALUE3
+)knowledge/src/main/java/es/Constants.java
+% 
+(2"
+type ObjectMapper*OBJECT_MAPPER2h
++com.fasterxml.jackson.databind.ObjectMapperTYPE3
+)knowledge/src/main/java/es/Constants.java
+ 
+($

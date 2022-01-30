@@ -1,0 +1,229 @@
+
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.javaÂ
+%algorithme.dp.MinimumSidewayJumps1824CLASSL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java ($"
+inner classfalse*MinimumSidewayJumps18242õ
+>algorithme.dp.MinimumSidewayJumps1824.main(java.lang.String[])DECLARATIONL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (2ã
+.algorithme.dp.MinimumSidewayJumps1824.bridge()DECLARATIONL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java	 	(2ã
+.algorithme.dp.MinimumSidewayJumps1824.SolutionDECLARATIONL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java
+ (â
+>algorithme.dp.MinimumSidewayJumps1824.main(java.lang.String[])METHODL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2Ñ
+.algorithme.dp.MinimumSidewayJumps1824.bridge()CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java& (,2ï
+?algorithme.dp.MinimumSidewayJumps1824.MinimumSidewayJumps1824()CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (#2û
+Calgorithme.dp.MinimumSidewayJumps1824.main(java.lang.String[])!args	PARAMETERL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java% ()2a
+voidRETURN_TYPEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (é
+Calgorithme.dp.MinimumSidewayJumps1824.main(java.lang.String[])!args	PARAMETERL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java% ()*args2h
+java.lang.String[]TYPEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java ($ÿ
+
+.algorithme.dp.MinimumSidewayJumps1824.bridge()METHODL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java	 	("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2ò
+Balgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java! (-2v
+ java.io.PrintStream.println(int)CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (2è
+9algorithme.dp.MinimumSidewayJumps1824.Solution.Solution()CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (2ö
+Dalgorithme.dp.MinimumSidewayJumps1824.bridge()?obstacles@10.14:10.23CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java. (72î
+>algorithme.dp.MinimumSidewayJumps1824.bridge()?ans@11.12:11.15CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (2°
+Dalgorithme.dp.MinimumSidewayJumps1824.bridge()?obstacles@10.14:10.23DECLARATIONL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java
+ 
+(2õ
+>algorithme.dp.MinimumSidewayJumps1824.bridge()?ans@11.12:11.15DECLARATIONL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (2a
+voidRETURN_TYPEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java	 	(ñ
+Dalgorithme.dp.MinimumSidewayJumps1824.bridge()?obstacles@10.14:10.23VARIABLEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java
+ 
+("
+type int[]*	obstacles2[
+int[]TYPEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java
+ 
+(–
+>algorithme.dp.MinimumSidewayJumps1824.bridge()?ans@11.12:11.15VARIABLEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java ("
+type int*ans2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (2ò
+Balgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java! (-2è
+9algorithme.dp.MinimumSidewayJumps1824.Solution.Solution()CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (2ö
+Dalgorithme.dp.MinimumSidewayJumps1824.bridge()?obstacles@10.14:10.23CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java. (7∆
+.algorithme.dp.MinimumSidewayJumps1824.SolutionCLASSL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java
+ ("
+inner classtrue*Solution2ü
+Balgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])DECLARATIONL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (†B
+Balgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])METHODL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minSideJumps2y
+#java.util.Arrays.copyOf(int[], int)CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java$ (*2É
+-java.io.PrintStream.println(java.lang.String)CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java ("2v
+ java.util.Arrays.toString(int[])CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java* (22r
+java.lang.Math.min(int, int)CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java#- #(02É
+-java.io.PrintStream.println(java.lang.String)CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java+ +(2v
+ java.util.Arrays.toString(int[])CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java+& +(.2r
+java.lang.Math.min(int, int)CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java, ,(2r
+java.lang.Math.min(int, int)CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java,! ,($2¢
+Lalgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])!obstaclesCALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java ("2¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?i@27.21:27.22CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (2´
+Ualgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?length@25.16:25.22CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java  (&2¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?i@27.21:27.22CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java( ()2ß
+Qalgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?dp@26.18:26.20CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java+ (-2©
+Salgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?last@28.22:28.26CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java3 (72¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?j@30.25:30.26CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java  (!2¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?j@30.25:30.26CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java( ()2¢
+Lalgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])!obstaclesCALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (!2¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?i@27.21:27.22CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java" (#2¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?j@30.25:30.26CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java( ()2ß
+Qalgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?dp@26.18:26.20CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java   (2¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?j@30.25:30.26CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java   (2©
+Salgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?last@28.22:28.26CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java    ($2¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?j@30.25:30.26CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java %  (&2¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?k@33.33:33.34CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java!( !()2¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?k@33.33:33.34CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java!0 !(12¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?k@33.33:33.34CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java"  "(!2¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?j@30.25:30.26CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java"% "(&2ß
+Qalgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?dp@26.18:26.20CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java#  #("2¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?j@30.25:30.26CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java## #($2ß
+Qalgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?dp@26.18:26.20CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java#1 #(32¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?j@30.25:30.26CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java#4 #(52©
+Salgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?last@28.22:28.26CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java#8 #(<2¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?k@33.33:33.34CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java#= #(>2¢
+Lalgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])!obstaclesCALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java#C #(L2¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?i@27.21:27.22CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java#M #(N2¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?k@33.33:33.34CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java#S #(T2ß
+Qalgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?dp@26.18:26.20CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java' '(2¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?j@30.25:30.26CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java' '(2¶
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?i@27.21:27.22CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java'  '(!2ß
+Qalgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?dp@26.18:26.20CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java+/ +(12ß
+Qalgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?dp@26.18:26.20CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java,% ,('2ß
+Qalgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?dp@26.18:26.20CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java,, ,(.2ß
+Qalgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?dp@26.18:26.20CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java,4 ,(62ß
+Lalgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])!obstacles	PARAMETERL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java& (/2≤
+Ualgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?length@25.16:25.22DECLARATIONL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (2Æ
+Qalgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?dp@26.18:26.20DECLARATIONL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (2≠
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?i@27.21:27.22DECLARATIONL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (2∞
+Salgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?last@28.22:28.26DECLARATIONL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (2≠
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?j@30.25:30.26DECLARATIONL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (2≠
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?k@33.33:33.34DECLARATIONL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java!! !("2`
+intRETURN_TYPEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (≈
+Ualgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?length@25.16:25.22VARIABLEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java ("
+type int*length2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (2¢
+Lalgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])!obstaclesCALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java ("ú
+Qalgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?dp@26.18:26.20VARIABLEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java ("
+type int[]*dp2[
+int[]TYPEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (ñ
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?i@27.21:27.22VARIABLEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java ("
+type int*i2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (≈
+Salgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?last@28.22:28.26VARIABLEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java ("
+type int[]*last2[
+int[]TYPEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (2y
+#java.util.Arrays.copyOf(int[], int)CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java$ (*2ß
+Qalgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?dp@26.18:26.20CALLL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java+ (-ñ
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?j@30.25:30.26VARIABLEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java ("
+type int*j2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java (ñ
+Palgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])?k@33.33:33.34VARIABLEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java!! !(""
+type int*k2Y
+intTYPEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java! !( è
+Lalgorithme.dp.MinimumSidewayJumps1824.Solution.minSideJumps(int[])!obstacles	PARAMETERL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java& (/*	obstacles2[
+int[]TYPEL
+Balgorithm/src/main/java/algorithme/dp/MinimumSidewayJumps1824.java  (%

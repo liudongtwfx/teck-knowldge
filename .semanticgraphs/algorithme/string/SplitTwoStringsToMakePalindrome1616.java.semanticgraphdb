@@ -1,0 +1,260 @@
+
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.javañ
+5algorithme.string.SplitTwoStringsToMakePalindrome1616CLASS\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (0"
+inner classfalse*#SplitTwoStringsToMakePalindrome16162»
+Nalgorithme.string.SplitTwoStringsToMakePalindrome1616.main(java.lang.String[])DECLARATION\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (2«
+>algorithme.string.SplitTwoStringsToMakePalindrome1616.bridge()DECLARATION\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (2«
+>algorithme.string.SplitTwoStringsToMakePalindrome1616.SolutionDECLARATION\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java
+ (¥
+Nalgorithme.string.SplitTwoStringsToMakePalindrome1616.main(java.lang.String[])METHOD\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2¤
+>algorithme.string.SplitTwoStringsToMakePalindrome1616.bridge()CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java2 (82Á
+[algorithme.string.SplitTwoStringsToMakePalindrome1616.SplitTwoStringsToMakePalindrome1616()CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (/2¾
+Salgorithme.string.SplitTwoStringsToMakePalindrome1616.main(java.lang.String[])!args	PARAMETER\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java% ()2q
+voidRETURN_TYPE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (¾
+Salgorithme.string.SplitTwoStringsToMakePalindrome1616.main(java.lang.String[])!args	PARAMETER\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java% ()*args2x
+java.lang.String[]TYPE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java ($é
+>algorithme.string.SplitTwoStringsToMakePalindrome1616.bridge()METHOD\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2Š
+$java.io.PrintStream.println(boolean)CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (2á
+{algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.checkPalindromeFormation(java.lang.String, java.lang.String)CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java$ (<2¯
+Ialgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.Solution()CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java  ((2·
+Qalgorithme.string.SplitTwoStringsToMakePalindrome1616.bridge()?solution@8.17:8.25CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (#2°
+Jalgorithme.string.SplitTwoStringsToMakePalindrome1616.bridge()?a@9.15:9.16CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java= (>2²
+Lalgorithme.string.SplitTwoStringsToMakePalindrome1616.bridge()?b@10.15:10.16CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java@ (A2¾
+Qalgorithme.string.SplitTwoStringsToMakePalindrome1616.bridge()?solution@8.17:8.25DECLARATION\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (2·
+Jalgorithme.string.SplitTwoStringsToMakePalindrome1616.bridge()?a@9.15:9.16DECLARATION\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java	 	(2¹
+Lalgorithme.string.SplitTwoStringsToMakePalindrome1616.bridge()?b@10.15:10.16DECLARATION\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java
+ 
+(2q
+voidRETURN_TYPE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (±
+Qalgorithme.string.SplitTwoStringsToMakePalindrome1616.bridge()?solution@8.17:8.25VARIABLE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java ("
+type Solution*solution2¤
+>algorithme.string.SplitTwoStringsToMakePalindrome1616.SolutionTYPE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (2¯
+Ialgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.Solution()CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java  ((À
+Jalgorithme.string.SplitTwoStringsToMakePalindrome1616.bridge()?a@9.15:9.16VARIABLE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java	 	("
+type String*a2v
+java.lang.StringTYPE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java	 	(Â
+Lalgorithme.string.SplitTwoStringsToMakePalindrome1616.bridge()?b@10.15:10.16VARIABLE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java
+ 
+("
+type String*b2v
+java.lang.StringTYPE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java
+ 
+(Ù
+>algorithme.string.SplitTwoStringsToMakePalindrome1616.SolutionCLASS\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java
+ ("
+inner classtrue*Solution2è
+{algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.checkPalindromeFormation(java.lang.String, java.lang.String)DECLARATION\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (/2Ú
+malgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)DECLARATION\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java ("2Ê
+]algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)DECLARATION\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java" "($Û
+{algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.checkPalindromeFormation(java.lang.String, java.lang.String)METHOD\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (/"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type boolean*checkPalindromeFormation2Ó
+malgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (2Ó
+malgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java' (12ã
+}algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.checkPalindromeFormation(java.lang.String, java.lang.String)!aCALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (2ã
+}algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.checkPalindromeFormation(java.lang.String, java.lang.String)!bCALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java! ("2ã
+}algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.checkPalindromeFormation(java.lang.String, java.lang.String)!bCALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java2 (32ã
+}algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.checkPalindromeFormation(java.lang.String, java.lang.String)!aCALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java5 (62è
+}algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.checkPalindromeFormation(java.lang.String, java.lang.String)!a	PARAMETER\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java7 (82è
+}algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.checkPalindromeFormation(java.lang.String, java.lang.String)!b	PARAMETER\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.javaA (B2t
+booleanRETURN_TYPE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (ã
+}algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.checkPalindromeFormation(java.lang.String, java.lang.String)!a	PARAMETER\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java7 (8*a2v
+java.lang.StringTYPE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java0 (6ã
+}algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.checkPalindromeFormation(java.lang.String, java.lang.String)!b	PARAMETER\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.javaA (B*b2v
+java.lang.StringTYPE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java: (@Ã-
+malgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)METHOD\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (""
+staticfalse"
+finalfalse"
+access modifierprivate"
+type boolean*
+innerCheck2
+java.lang.String.length()CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (!2‚
+java.lang.String.charAt(int)CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (2‚
+java.lang.String.charAt(int)CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java0 (62Ã
+]algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (2Š
+$java.lang.String.substring(int, int)CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java% (.2Ã
+]algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.javaC (O2Š
+$java.lang.String.substring(int, int)CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.javaV (_2Ø
+ralgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)!leftCALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (2å
+algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)?start@23.16:23.21CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (2ã
+}algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)?end@22.16:22.19CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (2Ø
+ralgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)!leftCALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (2å
+algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)?start@23.16:23.21CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java  (%2Ù
+salgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)!rightCALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java* (/2ã
+}algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)?end@22.16:22.19CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java7 (:2å
+algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)?start@23.16:23.21CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (2ã
+}algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)?end@22.16:22.19CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (2Ø
+ralgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)!leftCALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java  ($2å
+algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)?start@23.16:23.21CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java/ (42ã
+}algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)?end@22.16:22.19CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java6 (92Ù
+salgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)!rightCALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.javaP (U2å
+algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)?start@23.16:23.21CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java` (e2ã
+}algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)?end@22.16:22.19CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.javag (j2Ý
+ralgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)!left	PARAMETER\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java* (.2Þ
+salgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)!right	PARAMETER\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java7 (<2ê
+}algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)?end@22.16:22.19DECLARATION\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (2ì
+algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)?start@23.16:23.21DECLARATION\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (2t
+booleanRETURN_TYPE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (Á
+}algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)?end@22.16:22.19VARIABLE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java ("
+type int*end2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (2
+java.lang.String.length()CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (!2Ø
+ralgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)!leftCALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (é
+algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)?start@23.16:23.21VARIABLE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java ("
+type int*start2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java (Û
+ralgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)!left	PARAMETER\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java* (.*left2v
+java.lang.StringTYPE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java# ()Ý
+salgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.innerCheck(java.lang.String, java.lang.String)!right	PARAMETER\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java7 (<*right2v
+java.lang.StringTYPE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java0 (6¾
+]algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)METHOD\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java" "($"
+staticfalse"
+finalfalse"
+access modifierprivate"
+type boolean*isPalindrome2“
+-java.io.PrintStream.println(java.lang.String)CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java# #(2
+java.lang.String.length()CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java% %(2‚
+java.lang.String.charAt(int)CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java' '(2‚
+java.lang.String.charAt(int)CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java'+ '(12Å
+_algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)!sCALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java# #( 2Å
+_algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)!sCALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java% %(2Õ
+oalgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)?start@36.16:36.21CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java& &(2Ó
+malgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)?end@37.16:37.19CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java& &(2Å
+_algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)!sCALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java' '(2Õ
+oalgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)?start@36.16:36.21CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java' '("2Å
+_algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)!sCALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java') '(*2Ó
+malgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)?end@37.16:37.19CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java'2 '(52Ê
+_algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)!s	PARAMETER\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java", "(-2Ü
+oalgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)?start@36.16:36.21DECLARATION\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java$ $(2Ú
+malgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)?end@37.16:37.19DECLARATION\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java% %(2t
+booleanRETURN_TYPE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java" "(Ù
+oalgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)?start@36.16:36.21VARIABLE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java$ $("
+type int*start2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java$ $(ž
+malgorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)?end@37.16:37.19VARIABLE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java% %("
+type int*end2i
+intTYPE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java% %(2
+java.lang.String.length()CALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java% %(2Å
+_algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)!sCALL\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java% %(Å
+_algorithme.string.SplitTwoStringsToMakePalindrome1616.Solution.isPalindrome(java.lang.String)!s	PARAMETER\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java", "(-*s2v
+java.lang.StringTYPE\
+Ralgorithm/src/main/java/algorithme/string/SplitTwoStringsToMakePalindrome1616.java"% "(+

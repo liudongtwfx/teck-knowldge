@@ -1,0 +1,137 @@
+
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.javaÂ
+Lalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMovesCLASSs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (H"
+inner classfalse*;MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves2È
+ealgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.main(java.lang.String[])DECLARATIONs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (2Ÿ
+Ualgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.bridge()DECLARATIONs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java	 	(é	
+ealgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.main(java.lang.String[])METHODs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2“
+Ualgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.bridge()CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.javaJ (P2à
+äalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves()CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (G2Ï
+jalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.main(java.lang.String[])!args	PARAMETERs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java% ()2à
+voidRETURN_TYPEs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (Ñ
+jalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.main(java.lang.String[])!args	PARAMETERs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java% ()*args2è
+java.lang.String[]TYPEs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java ($
+Ualgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.bridge()METHODs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java	 	("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2ù
+ java.io.PrintStream.println(int)CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (2Á
+jalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java* (72›
+`algorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.Solution()CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java ('2„
+falgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.bridge()?nums@10.14:10.18CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java8 (<2Í
+falgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.bridge()?nums@10.14:10.18DECLARATIONs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java
+ 
+(2à
+voidRETURN_TYPEs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java	 	(Ç
+falgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.bridge()?nums@10.14:10.18VARIABLEs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java
+ 
+("
+type int[]*nums2Ç
+int[]TYPEs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java
+ 
+(‰
+Ualgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.SolutionCLASSs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java ("
+inner classfalse*Solution2Ó
+jalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])DECLARATIONs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java ( Ï3
+jalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])METHODs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java ( "
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minDifference2ô
+java.util.Arrays.sort(int[])CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (2ô
+java.lang.Math.min(int, int)CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (2î
+java.lang.Math.abs(int)CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java) (,2ô
+java.lang.Math.min(int, int)CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (2î
+java.lang.Math.abs(int)CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java) (,2Ï
+oalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])!numsCALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (2Ï
+oalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])!numsCALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (2ı
+xalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])?i@21.21:21.22CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (2ı
+xalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])?i@21.21:21.22CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java# ($2˜
+zalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])?ans@20.16:20.19CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (2˜
+zalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])?ans@20.16:20.19CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java ("2Ï
+oalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])!numsCALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java- (12ı
+xalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])?i@21.21:21.22CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java2 (32Ï
+oalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])!numsCALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java7 (;2Ï
+oalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])!numsCALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java< (@2ı
+xalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])?i@21.21:21.22CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.javaN (O2˜
+zalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])?ans@20.16:20.19CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (2˜
+zalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])?ans@20.16:20.19CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java ("2Ï
+oalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])!numsCALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java- (12Ï
+oalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])!numsCALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java2 (62ı
+xalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])?i@21.21:21.22CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.javaD (E2Ï
+oalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])!numsCALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.javaI (M2ı
+xalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])?i@21.21:21.22CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.javaR (S2˜
+zalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])?ans@20.16:20.19CALLs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (2Ò
+oalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])!nums	PARAMETERs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java' (+2˛
+zalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])?ans@20.16:20.19DECLARATIONs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (2¸
+xalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])?i@21.21:21.22DECLARATIONs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (2á
+intRETURN_TYPEs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (ë
+zalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])?ans@20.16:20.19VARIABLEs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java ("
+type int*ans2Ä
+intTYPEs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (ç
+xalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])?i@21.21:21.22VARIABLEs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java ("
+type int*i2Ä
+intTYPEs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java (¸
+oalgorithme.array.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.Solution.minDifference(int[])!nums	PARAMETERs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java' (+*nums2Ç
+int[]TYPEs
+ialgorithm/src/main/java/algorithme/array/MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java! (&

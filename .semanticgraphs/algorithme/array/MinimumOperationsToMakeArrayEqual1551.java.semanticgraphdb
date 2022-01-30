@@ -1,0 +1,144 @@
+
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.javaË
+6algorithme.array.MinimumOperationsToMakeArrayEqual1551CLASS]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2"
+inner classfalse*%MinimumOperationsToMakeArrayEqual15512½
+Oalgorithme.array.MinimumOperationsToMakeArrayEqual1551.main(java.lang.String[])DECLARATION]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2­
+?algorithme.array.MinimumOperationsToMakeArrayEqual1551.bridge()DECLARATION]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (°
+Oalgorithme.array.MinimumOperationsToMakeArrayEqual1551.main(java.lang.String[])METHOD]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2¦
+?algorithme.array.MinimumOperationsToMakeArrayEqual1551.bridge()CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java4 (:2Å
+^algorithme.array.MinimumOperationsToMakeArrayEqual1551.MinimumOperationsToMakeArrayEqual1551()CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (12À
+Talgorithme.array.MinimumOperationsToMakeArrayEqual1551.main(java.lang.String[])!args	PARAMETER]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java% ()2r
+voidRETURN_TYPE]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (Á
+Talgorithme.array.MinimumOperationsToMakeArrayEqual1551.main(java.lang.String[])!args	PARAMETER]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java% ()*args2y
+java.lang.String[]TYPE]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java ($é	
+?algorithme.array.MinimumOperationsToMakeArrayEqual1551.bridge()METHOD]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2‡
+ java.io.PrintStream.println(int)CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java	 	(2¹
+Ralgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java	$ 	(12±
+Jalgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.Solution()CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java  ((2¹
+Ralgorithme.array.MinimumOperationsToMakeArrayEqual1551.bridge()?solution@8.17:8.25CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java	 	(#2À
+Ralgorithme.array.MinimumOperationsToMakeArrayEqual1551.bridge()?solution@8.17:8.25DECLARATION]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2r
+voidRETURN_TYPE]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (·
+Ralgorithme.array.MinimumOperationsToMakeArrayEqual1551.bridge()?solution@8.17:8.25VARIABLE]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java ("
+type Solution*solution2¦
+?algorithme.array.MinimumOperationsToMakeArrayEqual1551.SolutionTYPE]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2±
+Jalgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.Solution()CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java  ((Š
+?algorithme.array.MinimumOperationsToMakeArrayEqual1551.SolutionCLASS]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java ("
+inner classfalse*Solution2À
+Ralgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)DECLARATION]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java ( Â'
+Ralgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)METHOD]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java ( "
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minOperations2Ç
+`algorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?i@15.21:15.22CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2»
+Talgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)!nCALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java  (!2Ç
+`algorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?i@15.21:15.22CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java# ($2Ë
+dalgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?count@14.16:14.21CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2Ç
+`algorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?i@15.21:15.22CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2Ë
+dalgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?count@14.16:14.21CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2»
+Talgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)!nCALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java ( 2Ç
+`algorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?i@22.21:22.22CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2»
+Talgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)!nCALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java  (!2Ç
+`algorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?i@22.21:22.22CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java# ($2Ç
+`algorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?i@22.21:22.22CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2Ê
+calgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?each@20.16:20.20CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java" (&2É
+balgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?ans@21.16:21.19CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2Ê
+calgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?each@20.16:20.20CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java ( 2Ç
+`algorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?i@22.21:22.22CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java$ (%2É
+balgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?ans@21.16:21.19CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2É
+balgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?ans@21.16:21.19CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2À
+Talgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)!n	PARAMETER]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java% (&2Ò
+dalgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?count@14.16:14.21DECLARATION]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2Î
+`algorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?i@15.21:15.22DECLARATION]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2Ñ
+calgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?each@20.16:20.20DECLARATION]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2Ð
+balgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?ans@21.16:21.19DECLARATION]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2Î
+`algorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?i@22.21:22.22DECLARATION]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2q
+intRETURN_TYPE]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (Ð
+dalgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?count@14.16:14.21VARIABLE]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java ("
+type int*count2j
+intTYPE]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (È
+`algorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?i@15.21:15.22VARIABLE]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java ("
+type int*i2j
+intTYPE]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (Ú
+calgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?each@20.16:20.20VARIABLE]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java ("
+type int*each2j
+intTYPE]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2Ë
+dalgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?count@14.16:14.21CALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (2»
+Talgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)!nCALL]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java ( Ì
+balgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?ans@21.16:21.19VARIABLE]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java ("
+type int*ans2j
+intTYPE]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (È
+`algorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)?i@22.21:22.22VARIABLE]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java ("
+type int*i2j
+intTYPE]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java (¯
+Talgorithme.array.MinimumOperationsToMakeArrayEqual1551.Solution.minOperations(int)!n	PARAMETER]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java% (&*n2j
+intTYPE]
+Salgorithm/src/main/java/algorithme/array/MinimumOperationsToMakeArrayEqual1551.java! ($

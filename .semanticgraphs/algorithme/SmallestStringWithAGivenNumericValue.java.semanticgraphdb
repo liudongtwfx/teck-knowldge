@@ -1,0 +1,167 @@
+
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java†
+/algorithme.SmallestStringWithAGivenNumericValueCLASSV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (1"
+inner classfalse*$SmallestStringWithAGivenNumericValue2Ø
+Halgorithme.SmallestStringWithAGivenNumericValue.main(java.lang.String[])DECLARATIONV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2ü
+8algorithme.SmallestStringWithAGivenNumericValue.SolutionDECLARATIONV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java	
+ 	(ú
+Halgorithme.SmallestStringWithAGivenNumericValue.main(java.lang.String[])METHODV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2≤
+Malgorithme.SmallestStringWithAGivenNumericValue.main(java.lang.String[])!args	PARAMETERV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java% ()2k
+voidRETURN_TYPEV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (¨
+Malgorithme.SmallestStringWithAGivenNumericValue.main(java.lang.String[])!args	PARAMETERV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java% ()*args2r
+java.lang.String[]TYPEV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java ($ˆ
+8algorithme.SmallestStringWithAGivenNumericValue.SolutionCLASSV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java	
+ 	("
+inner classtrue*Solution2ª
+Talgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)DECLARATIONV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java
+ 
+('Ã0
+Talgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)METHODV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java
+ 
+('"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type String*getSmallestString2ç
+-java.util.Arrays.fill(char[], int, int, char)CALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2ç
+-java.util.Arrays.fill(char[], int, int, char)CALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2ç
+-java.util.Arrays.fill(char[], int, int, char)CALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2
+java.lang.String.String(char[])CALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2∂
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!kCALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2∂
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!nCALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java" (#2∂
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!kCALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java; (<2∂
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!nCALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java? (@2∂
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!kCALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2∂
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!nCALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2À
+kalgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?otherIndex@14.16:14.26CALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java! (+2∂
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!nCALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2¬
+balgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?z@15.16:15.17CALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2∂
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!nCALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java$ (%2∆
+falgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?chars@18.19:18.24CALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2¬
+balgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?a@16.16:16.17CALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java" (#2∆
+falgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?chars@18.19:18.24CALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2¬
+balgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?a@16.16:16.17CALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java ( 2¬
+balgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?a@16.16:16.17CALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java& ('2À
+kalgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?otherIndex@14.16:14.26CALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java; (E2∆
+falgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?chars@18.19:18.24CALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2∂
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!nCALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java ( 2¬
+balgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?z@15.16:15.17CALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java# ($2∂
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!nCALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java& ('2∆
+falgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?chars@18.19:18.24CALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (#2ª
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!n	PARAMETERV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java
+, 
+(-2ª
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!k	PARAMETERV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java
+3 
+(42“
+kalgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?otherIndex@14.16:14.26DECLARATIONV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2…
+balgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?z@15.16:15.17DECLARATIONV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2…
+balgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?a@16.16:16.17DECLARATIONV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2Õ
+falgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?chars@18.19:18.24DECLARATIONV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2w
+java.lang.StringRETURN_TYPEV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java
+ 
+(≤
+kalgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?otherIndex@14.16:14.26VARIABLEV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java ("
+type int*
+otherIndex2c
+intTYPEV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2∂
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!kCALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2∂
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!nCALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java" (#2∂
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!kCALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java; (<2∂
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!nCALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java? (@¸
+balgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?z@15.16:15.17VARIABLEV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java ("
+type int*z2c
+intTYPEV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2∂
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!kCALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2∂
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!nCALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2À
+kalgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?otherIndex@14.16:14.26CALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java! (+∫
+balgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?a@16.16:16.17VARIABLEV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java ("
+type int*a2c
+intTYPEV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2∂
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!nCALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2¬
+balgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?z@15.16:15.17CALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (É
+falgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)?chars@18.19:18.24VARIABLEV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java ("
+type char[]*chars2f
+char[]TYPEV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java (2∂
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!nCALLV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java$ (%£
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!n	PARAMETERV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java
+, 
+(-*n2c
+intTYPEV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java
+( 
+(+£
+Valgorithme.SmallestStringWithAGivenNumericValue.Solution.getSmallestString(int, int)!k	PARAMETERV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java
+3 
+(4*k2c
+intTYPEV
+Lalgorithm/src/main/java/algorithme/SmallestStringWithAGivenNumericValue.java
+/ 
+(2

@@ -1,0 +1,382 @@
+
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.javaå
+)algorithme.MinimumSpeedToArriveOnTime1870CLASSP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (+"
+inner classfalse*MinimumSpeedToArriveOnTime18702£
+Balgorithme.MinimumSpeedToArriveOnTime1870.main(java.lang.String[])DECLARATIONP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2ì
+2algorithme.MinimumSpeedToArriveOnTime1870.bridge()DECLARATIONP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java
+ 
+(2ì
+2algorithme.MinimumSpeedToArriveOnTime1870.SolutionDECLARATIONP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java
+ (¥
+Balgorithme.MinimumSpeedToArriveOnTime1870.main(java.lang.String[])METHODP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2å
+2algorithme.MinimumSpeedToArriveOnTime1870.bridge()CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java- (32§
+Jalgorithme.MinimumSpeedToArriveOnTime1870.MinimumSpeedToArriveOnTime1870()CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (*2¶
+Galgorithme.MinimumSpeedToArriveOnTime1870.main(java.lang.String[])!args	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java% ()2e
+voidRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (ö
+Galgorithme.MinimumSpeedToArriveOnTime1870.main(java.lang.String[])!args	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java% ()*args2l
+java.lang.String[]TYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java ($€
+2algorithme.MinimumSpeedToArriveOnTime1870.bridge()METHODP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java
+ 
+("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2™
+Palgorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (-2z
+ java.io.PrintStream.println(int)CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2ó
+=algorithme.MinimumSpeedToArriveOnTime1870.Solution.Solution()CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2ù
+Calgorithme.MinimumSpeedToArriveOnTime1870.bridge()?dist@11.14:11.18CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java. (22ù
+Calgorithme.MinimumSpeedToArriveOnTime1870.bridge()?hour@12.15:12.19CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java4 (82ö
+@algorithme.MinimumSpeedToArriveOnTime1870.bridge()?i@13.12:13.13CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2§
+Calgorithme.MinimumSpeedToArriveOnTime1870.bridge()?dist@11.14:11.18DECLARATIONP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2§
+Calgorithme.MinimumSpeedToArriveOnTime1870.bridge()?hour@12.15:12.19DECLARATIONP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2°
+@algorithme.MinimumSpeedToArriveOnTime1870.bridge()?i@13.12:13.13DECLARATIONP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2e
+voidRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java
+ 
+(ò
+Calgorithme.MinimumSpeedToArriveOnTime1870.bridge()?dist@11.14:11.18VARIABLEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java ("
+type int[]*dist2_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (ö
+Calgorithme.MinimumSpeedToArriveOnTime1870.bridge()?hour@12.15:12.19VARIABLEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java ("
+type double*hour2`
+doubleTYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (ï
+@algorithme.MinimumSpeedToArriveOnTime1870.bridge()?i@13.12:13.13VARIABLEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java ("
+type int*i2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2™
+Palgorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (-2ó
+=algorithme.MinimumSpeedToArriveOnTime1870.Solution.Solution()CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2ù
+Calgorithme.MinimumSpeedToArriveOnTime1870.bridge()?dist@11.14:11.18CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java. (22ù
+Calgorithme.MinimumSpeedToArriveOnTime1870.bridge()?hour@12.15:12.19CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java4 (8ˆ
+2algorithme.MinimumSpeedToArriveOnTime1870.SolutionCLASSP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java
+ ("
+inner classtrue*Solution2±
+Palgorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)DECLARATIONP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (!2≥
+Ralgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)DECLARATIONP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2∞
+Oalgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)DECLARATIONP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java1 1( 2™
+Ialgorithme.MinimumSpeedToArriveOnTime1870.Solution?canReached@18.35:18.45DECLARATIONP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java# (-Ã
+Palgorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)METHODP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (!"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minSpeedOnTime2¨
+Ralgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2v
+java.lang.Math.min(int, int)CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2Ø
+Ualgorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)!distCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2Ø
+Ualgorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)!hourCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2£
+Ialgorithme.MinimumSpeedToArriveOnTime1870.Solution?canReached@18.35:18.45CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java# (-2∫
+`algorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)?ans@22.16:22.19CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2∫
+`algorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)?ans@22.16:22.19CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java ("2æ
+dalgorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)?integer@23.25:23.32CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java$ (+2∫
+`algorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)?ans@22.16:22.19CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2∫
+`algorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)?ans@22.16:22.19CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java- (02¥
+Ualgorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)!dist	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java( (,2¥
+Ualgorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)!hour	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java5 (92¡
+`algorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)?ans@22.16:22.19DECLARATIONP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2≈
+dalgorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)?integer@23.25:23.32DECLARATIONP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java ( 2d
+intRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (∞
+`algorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)?ans@22.16:22.19VARIABLEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java ("
+type int*ans2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java ( 
+dalgorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)?integer@23.25:23.32VARIABLEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java ( "
+type Integer*integer2k
+java.lang.IntegerTYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (õ
+Ualgorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)!dist	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java( (,*dist2_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java" ('ú
+Ualgorithme.MinimumSpeedToArriveOnTime1870.Solution.minSpeedOnTime(int[], double)!hour	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java5 (9*hour2`
+doubleTYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java. (4“;
+Ralgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)METHODP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type int*binary2©
+Oalgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java   ( 2n
+java.util.Set.add(E)CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java!# !(&2Ç
+(java.util.Set.contains(java.lang.Object)CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java' '(#2©
+Oalgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java* *(2n
+java.util.Set.add(E)CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java+ +(2¨
+Ralgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java, ,(2¨
+Ralgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java. .(2∞
+Valgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!maxCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2∞
+Valgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!minCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2∞
+Valgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!minCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java ( 2∫
+`algorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)?i@31.25:31.26CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java" (#2∞
+Valgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!maxCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java' (*2∫
+`algorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)?i@31.25:31.26CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java, (-2±
+Walgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!distCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java !  (%2≤
+Xalgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!hoursCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java '  (,2∫
+`algorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)?i@31.25:31.26CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java .  (/2£
+Ialgorithme.MinimumSpeedToArriveOnTime1870.Solution?canReached@18.35:18.45CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java! !("2∫
+`algorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)?i@31.25:31.26CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java!' !((2∞
+Valgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!minCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java& &(2∞
+Valgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!maxCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java& &(!2£
+Ialgorithme.MinimumSpeedToArriveOnTime1870.Solution?canReached@18.35:18.45CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java' '(2Ω
+calgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)?half@38.16:38.20CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java'$ '((2±
+Walgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!distCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java* *(2≤
+Xalgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!hoursCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java* *($2Ω
+calgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)?half@38.16:38.20CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java*& *(*2£
+Ialgorithme.MinimumSpeedToArriveOnTime1870.Solution?canReached@18.35:18.45CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java+ +(2Ω
+calgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)?half@38.16:38.20CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java+ +(#2±
+Walgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!distCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java, ,("2≤
+Xalgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!hoursCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java,$ ,()2∞
+Valgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!minCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java,+ ,(.2Ω
+calgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)?half@38.16:38.20CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java,0 ,(42±
+Walgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!distCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java. .(2≤
+Xalgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!hoursCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java.  .(%2Ω
+calgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)?half@38.16:38.20CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java.' .(+2∞
+Valgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!maxCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java.1 .(42∂
+Walgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!dist	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java! (%2∑
+Xalgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!hours	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java. (32µ
+Valgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!min	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java9 (<2µ
+Valgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!max	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.javaB (E2¡
+`algorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)?i@31.25:31.26DECLARATIONP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2ƒ
+calgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)?half@38.16:38.20DECLARATIONP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java& &(2d
+intRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (·
+`algorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)?i@31.25:31.26VARIABLEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java ("
+type int*i2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2∞
+Valgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!minCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java ( ö
+calgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)?half@38.16:38.20VARIABLEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java& &("
+type int*half2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java& &(2∞
+Valgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!minCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java& &(2∞
+Valgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!maxCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java& &(!ù
+Walgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!dist	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java! (%*dist2_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java ( †
+Xalgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!hours	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java. (3*hours2`
+doubleTYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java' (-ô
+Valgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!min	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java9 (<*min2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java5 (8ô
+Valgorithme.MinimumSpeedToArriveOnTime1870.Solution.binary(int[], double, int, int)!max	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.javaB (E*max2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java> (AÔ-
+Oalgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)METHODP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java1 1( "
+staticfalse"
+finalfalse"
+access modifierprivate"
+type boolean*canReach2á
+-java.io.PrintStream.println(java.lang.String)CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java> >(2∑
+]algorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)?i@51.21:51.22CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java3 3(2Æ
+Talgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!distCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java3  3($2∑
+]algorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)?i@51.21:51.22CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java31 3(22Æ
+Talgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!distCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java4 4(2∑
+]algorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)?i@51.21:51.22CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java4 4(2∑
+]algorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)?v@52.20:52.21CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java5 5(2∂
+\algorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!currentSpeedCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java5 5($2ª
+aalgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)?total@50.19:50.24CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java6 6(2∑
+]algorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)?v@52.20:52.21CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java6' 6((2∂
+\algorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!currentSpeedCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java6+ 6(72ª
+aalgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)?total@50.19:50.24CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java8 8(2∑
+]algorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)?v@52.20:52.21CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java8( 8()2∂
+\algorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!currentSpeedCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java8, 8(82ª
+aalgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)?total@50.19:50.24CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java: :(2Æ
+Talgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!hourCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java: :( 2∂
+\algorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!currentSpeedCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java>1 >(=2ª
+aalgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)?total@50.19:50.24CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java>G >(L2Æ
+Talgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!hourCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java>P >(T2ª
+aalgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)?total@50.19:50.24CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java? ?(2Æ
+Talgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!distCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java?$ ?((2Æ
+Talgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!distCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java?) ?(-2∂
+\algorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!currentSpeedCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java?< ?(H2Æ
+Talgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!hourCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java?L ?(P2≥
+Talgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!dist	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java1' 1(+2≥
+Talgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!hour	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java14 1(82ª
+\algorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!currentSpeed	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java1> 1(J2¬
+aalgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)?total@50.19:50.24DECLARATIONP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java2 2(2æ
+]algorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)?i@51.21:51.22DECLARATIONP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java3 3(2æ
+]algorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)?v@52.20:52.21DECLARATIONP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java4 4(2h
+booleanRETURN_TYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java1 1(π
+aalgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)?total@50.19:50.24VARIABLEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java2 2("
+type double*total2`
+doubleTYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java2 2(´
+]algorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)?i@51.21:51.22VARIABLEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java3 3("
+type int*i2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java3 3(ñ
+]algorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)?v@52.20:52.21VARIABLEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java4 4("
+type int*v2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java4 4(2Æ
+Talgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!distCALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java4 4(2∑
+]algorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)?i@51.21:51.22CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java4 4(ö
+Talgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!dist	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java1' 1(+*dist2_
+int[]TYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java1! 1(&õ
+Talgorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!hour	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java14 1(8*hour2`
+doubleTYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java1- 1(3®
+\algorithme.MinimumSpeedToArriveOnTime1870.Solution.canReach(int[], double, int)!currentSpeed	PARAMETERP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java1> 1(J*currentSpeed2]
+intTYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java1: 1(=ù
+Ialgorithme.MinimumSpeedToArriveOnTime1870.Solution?canReached@18.35:18.45VALUEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java# (-"
+type Set<Integer>*
+canReached2g
+java.util.SetTYPEP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (2t
+java.lang.IntegerTYPE_ARGUMENTP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java (!2u
+java.util.HashSet.HashSet()CALLP
+Falgorithm/src/main/java/algorithme/MinimumSpeedToArriveOnTime1870.java4 (=

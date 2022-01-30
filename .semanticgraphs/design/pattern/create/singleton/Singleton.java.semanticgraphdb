@@ -1,0 +1,198 @@
+
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java‡
+)design.pattern.create.singleton.SingletonCLASSU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java ("
+inner classfalse*	Singleton2≥
+Mdesign.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])DECLARATIONU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (˛.
+Mdesign.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])METHODU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2t
+java.util.List.add(E)CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (2°
+Bjava.lang.Iterable.forEach(java.util.function.Consumer<? super T>)CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (2Å
+°java.util.concurrent.ThreadPoolExecutor.ThreadPoolExecutor(int, int, long, java.util.concurrent.TimeUnit, java.util.concurrent.BlockingQueue<java.lang.Runnable>)CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java' (92û
+?java.util.concurrent.ArrayBlockingQueue.ArrayBlockingQueue(int)CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java` (t2z
+java.util.HashSet.HashSet()CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.javaF (O2~
+java.util.ArrayList.ArrayList()CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java= (H2ò
+9design.pattern.create.singleton.Singleton.Runner.Runner()CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.javaJ (P2Ω
+^design.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?stop@16.18:16.22CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (2∫
+[design.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?i@19.17:19.18CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (2∫
+[design.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?i@19.17:19.18CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java" (#2¡
+bdesign.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?executor@13.24:13.32CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java6 (>2¿
+adesign.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?futures@15.47:15.54CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (2ø
+`design.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?submit@20.45:20.51CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (2¿
+adesign.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?futures@15.47:15.54CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (2“
+sdesign.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?doubleCheckLockSingletons@14.38:14.63CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java ()2ø
+`design.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?future@24.24:24.30CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java. (42∫
+[design.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?e@27.63:27.64CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (2“
+sdesign.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?doubleCheckLockSingletons@14.38:14.63CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (42Ω
+^design.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?stop@16.18:16.22CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java   (2Ω
+^design.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?stop@16.18:16.22CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java! !(2¡
+bdesign.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?executor@13.24:13.32CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java" "(2∂
+Rdesign.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])!args	PARAMETERU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java% ()2»
+bdesign.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?executor@13.24:13.32DECLARATIONU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java ( 2Ÿ
+sdesign.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?doubleCheckLockSingletons@14.38:14.63DECLARATIONU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java& (?2«
+adesign.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?futures@15.47:15.54DECLARATIONU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java/ (62ƒ
+^design.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?stop@16.18:16.22DECLARATIONU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (2¡
+[design.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?i@19.17:19.18DECLARATIONU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (2∆
+`design.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?submit@20.45:20.51DECLARATIONU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java- (32∆
+`design.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?future@24.24:24.30DECLARATIONU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (2¡
+[design.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?e@27.63:27.64DECLARATIONU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java? (@2j
+voidRETURN_TYPEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (î
+bdesign.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?executor@13.24:13.32VARIABLEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java ( "
+type ExecutorService*executor2É
+$java.util.concurrent.ExecutorServiceTYPEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (2Å
+°java.util.concurrent.ThreadPoolExecutor.ThreadPoolExecutor(int, int, long, java.util.concurrent.TimeUnit, java.util.concurrent.BlockingQueue<java.lang.Runnable>)CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java' (92û
+?java.util.concurrent.ArrayBlockingQueue.ArrayBlockingQueue(int)CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java` (t∞
+sdesign.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?doubleCheckLockSingletons@14.38:14.63VARIABLEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java& (?"&
+type Set<DoubleCheckLockSingleton>*doubleCheckLockSingletons2l
+java.util.SetTYPEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (2™
+Bdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingletonTYPE_ARGUMENTU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java ($2z
+java.util.HashSet.HashSet()CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.javaF (O†
+adesign.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?futures@15.47:15.54VARIABLEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java/ (6"/
+type &List<Future<DoubleCheckLockSingleton>>*futures2m
+java.util.ListTYPEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (2É
+java.util.concurrent.FutureTYPE_ARGUMENTU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (2™
+Bdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingletonTYPE_ARGUMENTU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (,2~
+java.util.ArrayList.ArrayList()CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java= (Hﬂ
+^design.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?stop@16.18:16.22VARIABLEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java ("
+type 	StopWatch*stop2Å
+"org.elasticsearch.common.StopWatchTYPEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (≥
+[design.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?i@19.17:19.18VARIABLEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java ("
+type int*i2b
+intTYPEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (˛
+`design.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?submit@20.45:20.51VARIABLEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java- (3")
+type  Future<DoubleCheckLockSingleton>*submit2z
+java.util.concurrent.FutureTYPEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (2™
+Bdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingletonTYPE_ARGUMENTU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (+2ò
+9design.pattern.create.singleton.Singleton.Runner.Runner()CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.javaJ (P2¡
+bdesign.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?executor@13.24:13.32CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java6 (>∫
+Rdesign.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])!args	PARAMETERU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java% ()*args2|
+java.util.concurrent.String[]TYPEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java ($”
+`design.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?future@24.24:24.30VARIABLEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (*future2TYPEˆ
+[design.pattern.create.singleton.Singleton.main(java.util.concurrent.String[])?e@27.63:27.64VARIABLEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java? (@*e2≤
+Sjava.util.concurrent.InterruptedException | java.util.concurrent.ExecutionExceptionTYPEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java (>Ç
+0design.pattern.create.singleton.Singleton.RunnerCLASSU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java& &("
+inner classfalse*Runner2ù
+7design.pattern.create.singleton.Singleton.Runner.call()DECLARATIONU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java(( ((,2~
+java.util.concurrent.CallableEXTENDU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java&+ &(32±
+Bdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingletonEXTEND_TYPE_ARGUMENTU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java&4 &(L⁄
+7design.pattern.create.singleton.Singleton.Runner.call()METHODU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java(( ((,"
+staticfalse"
+finalfalse"
+access modifierpublic"!
+type DoubleCheckLockSingleton*call2Ø
+Pdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingleton.getInstance()CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java), )(72®
+Bdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingletonRETURN_TYPEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java( (('Õ
+Bdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingletonCLASSU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java- -()"
+inner classfalse*DoubleCheckLockSingleton2√
+]design.pattern.create.singleton.Singleton.DoubleCheckLockSingleton.DoubleCheckLockSingleton()DECLARATIONU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java1 1((2∂
+Pdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingleton.getInstance()DECLARATIONU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java4/ 4(:2Ω
+Wdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingleton?INSTANCE@46.57:46.65DECLARATIONU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java.9 .(A2π
+Sdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingleton?name@47.23:47.27DECLARATIONU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java/ /(à
+]design.pattern.create.singleton.Singleton.DoubleCheckLockSingleton.DoubleCheckLockSingleton()CONSTRUCTORU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java1 1((*DoubleCheckLockSingleton2®
+Bdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingletonRETURN_TYPEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java1 1((Í
+
+Pdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingleton.getInstance()METHODU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java4/ 4(:"
+statictrue"
+finalfalse"
+access modifierpublic"!
+type DoubleCheckLockSingleton*getInstance2º
+]design.pattern.create.singleton.Singleton.DoubleCheckLockSingleton.DoubleCheckLockSingleton()CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java8' 8(?2∂
+Wdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingleton?INSTANCE@46.57:46.65CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java5 5(2∂
+Wdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingleton?INSTANCE@46.57:46.65CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java7 7( 2∂
+Wdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingleton?INSTANCE@46.57:46.65CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java8 8( 2∂
+Wdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingleton?INSTANCE@46.57:46.65CALLU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java< <(2®
+Bdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingletonRETURN_TYPEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java4 4(.ã
+Wdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingleton?INSTANCE@46.57:46.65VARIABLEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java.9 .(A"!
+type DoubleCheckLockSingleton*INSTANCE2°
+Bdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingletonTYPEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java.  .(8…
+Sdesign.pattern.create.singleton.Singleton.DoubleCheckLockSingleton?name@47.23:47.27VARIABLEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java/ /("
+type String*name2z
+java.util.concurrent.StringTYPEU
+Kdesign-pattern/src/main/java/design/pattern/create/singleton/Singleton.java/ /(

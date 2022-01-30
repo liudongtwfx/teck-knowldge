@@ -1,0 +1,73 @@
+
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java·
+&statemachine.SpringStateMachineExampleCLASSM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java (&"
+inner classfalse*SpringStateMachineExample2ù
+?statemachine.SpringStateMachineExample.main(java.lang.String[])DECLARATIONM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java (2è
+1statemachine.SpringStateMachineExample.getState()DECLARATIONM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java0 (8†
+?statemachine.SpringStateMachineExample.main(java.lang.String[])METHODM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2à
+1statemachine.SpringStateMachineExample.getState()CALLM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java- (52¶
+Ostatemachine.SpringStateMachineExample.main(java.lang.String[])?state@8.37:8.42CALLM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java	 	(2¶
+Ostatemachine.SpringStateMachineExample.main(java.lang.String[])?state@8.37:8.42CALLM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java
+ 
+( 2¶
+Ostatemachine.SpringStateMachineExample.main(java.lang.String[])?state@8.37:8.42CALLM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java (2¶
+Ostatemachine.SpringStateMachineExample.main(java.lang.String[])?state@8.37:8.42CALLM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java ( 2¶
+Ostatemachine.SpringStateMachineExample.main(java.lang.String[])?state@8.37:8.42CALLM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java (2¶
+Ostatemachine.SpringStateMachineExample.main(java.lang.String[])?state@8.37:8.42CALLM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java ( 2†
+Dstatemachine.SpringStateMachineExample.main(java.lang.String[])!args	PARAMETERM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java% ()2≠
+Ostatemachine.SpringStateMachineExample.main(java.lang.String[])?state@8.37:8.42DECLARATIONM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java% (*2b
+voidRETURN_TYPEM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java («
+Ostatemachine.SpringStateMachineExample.main(java.lang.String[])?state@8.37:8.42VARIABLEM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java% (*"$
+type StateMachine<String,String>*state2c
+StateMachineTYPEM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java (2à
+1statemachine.SpringStateMachineExample.getState()CALLM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java- (5ë
+Dstatemachine.SpringStateMachineExample.main(java.lang.String[])!args	PARAMETERM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java% ()*args2i
+java.lang.String[]TYPEM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java ($Ê
+1statemachine.SpringStateMachineExample.getState()METHODM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java0 (8"
+statictrue"
+finalfalse"
+access modifierprivate"%
+type StateMachine<String, String>*getState2ú
+Estatemachine.SpringStateMachineExample.getState()?builder@18.52:18.59CALLM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java (2ú
+Estatemachine.SpringStateMachineExample.getState()?builder@18.52:18.59CALLM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java (2ú
+Estatemachine.SpringStateMachineExample.getState()?builder@18.52:18.59CALLM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java (2£
+Estatemachine.SpringStateMachineExample.getState()?builder@18.52:18.59DECLARATIONM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java4 (;2j
+StateMachineRETURN_TYPEM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java (∂
+Estatemachine.SpringStateMachineExample.getState()?builder@18.52:18.59VARIABLEM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java4 (;"3
+type *StateMachineBuilder.Builder<String,String>*builder2r
+StateMachineBuilder.BuilderTYPEM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java (#2p
+java.lang.StringTYPE_ARGUMENTM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java (2p
+java.lang.StringTYPE_ARGUMENTM
+Cknowledge/src/main/java/statemachine/SpringStateMachineExample.java$ (*

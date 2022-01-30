@@ -1,0 +1,366 @@
+
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.javaË
+4algorithme.search.WaysToSplitArrayIntoThreeSubarraysCLASS[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (/"
+inner classfalse*"WaysToSplitArrayIntoThreeSubarrays2π
+Malgorithme.search.WaysToSplitArrayIntoThreeSubarrays.main(java.lang.String[])DECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2©
+=algorithme.search.WaysToSplitArrayIntoThreeSubarrays.bridge()DECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2©
+=algorithme.search.WaysToSplitArrayIntoThreeSubarrays.SolutionDECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java
+ (˛
+Malgorithme.search.WaysToSplitArrayIntoThreeSubarrays.main(java.lang.String[])METHOD[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2Ö
+ java.io.PrintStream.println(int)CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2¢
+=algorithme.search.WaysToSplitArrayIntoThreeSubarrays.bridge()CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java1 (72æ
+Yalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.WaysToSplitArrayIntoThreeSubarrays()CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (.2æ
+Yalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.main(java.lang.String[])?i@9.17:9.18CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java	 	(2æ
+Yalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.main(java.lang.String[])?i@9.17:9.18CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java	# 	($2¿
+[algorithme.search.WaysToSplitArrayIntoThreeSubarrays.main(java.lang.String[])?sum@8.12:8.15CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java
+ 
+(2æ
+Yalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.main(java.lang.String[])?i@9.17:9.18CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java
+ 
+(2¿
+[algorithme.search.WaysToSplitArrayIntoThreeSubarrays.main(java.lang.String[])?sum@8.12:8.15CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2º
+Ralgorithme.search.WaysToSplitArrayIntoThreeSubarrays.main(java.lang.String[])!args	PARAMETER[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java% ()2«
+[algorithme.search.WaysToSplitArrayIntoThreeSubarrays.main(java.lang.String[])?sum@8.12:8.15DECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2≈
+Yalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.main(java.lang.String[])?i@9.17:9.18DECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java	 	(2p
+voidRETURN_TYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (¡
+[algorithme.search.WaysToSplitArrayIntoThreeSubarrays.main(java.lang.String[])?sum@8.12:8.15VARIABLE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java ("
+type int*sum2h
+intTYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (Ω
+Yalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.main(java.lang.String[])?i@9.17:9.18VARIABLE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java	 	("
+type int*i2h
+intTYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java	 	(ª
+Ralgorithme.search.WaysToSplitArrayIntoThreeSubarrays.main(java.lang.String[])!args	PARAMETER[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java% ()*args2w
+java.lang.String[]TYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java ($∫
+=algorithme.search.WaysToSplitArrayIntoThreeSubarrays.bridge()METHOD[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2µ
+Palgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (*2Ö
+ java.io.PrintStream.println(int)CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2≠
+Halgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.Solution()CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2≥
+Nalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.bridge()?nums@17.14:17.18CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java+ (/2∞
+Kalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.bridge()?i@18.12:18.13CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2∫
+Nalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.bridge()?nums@17.14:17.18DECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2∑
+Kalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.bridge()?i@18.12:18.13DECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2p
+voidRETURN_TYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (π
+Nalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.bridge()?nums@17.14:17.18VARIABLE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java ("
+type int[]*nums2j
+int[]TYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (Õ
+Kalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.bridge()?i@18.12:18.13VARIABLE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java ("
+type int*i2h
+intTYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2µ
+Palgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (*2≠
+Halgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.Solution()CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2≥
+Nalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.bridge()?nums@17.14:17.18CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java+ (/Å
+=algorithme.search.WaysToSplitArrayIntoThreeSubarrays.SolutionCLASS[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java
+ ("
+inner classtrue*Solution2º
+Palgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])DECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (˝o
+Palgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])METHOD[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*waysToSplit2|
+java.util.Map.put(K, V)CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java# #(2ã
+&java.util.NavigableMap.ceilingEntry(K)CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java*H *(T2É
+java.util.Map.Entry.getValue()CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java+[ +(c2É
+java.lang.Math.max(long, long)CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java,  ,(#2â
+$java.util.NavigableMap.floorEntry(K)CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java0H 0(R2É
+java.util.Map.Entry.getValue()CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java1J 1(R2É
+java.lang.Math.min(long, long)CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java2  2(#2Ü
+!java.io.PrintStream.println(long)CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java4 4(&2Ä
+java.util.TreeMap.TreeMap()CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java; (D2∫
+Ualgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])!numsCALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java# ('2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?i@26.25:26.26CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2∫
+Ualgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])!numsCALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2≈
+`algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sum@26.16:26.19CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2∫
+Ualgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])!numsCALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?i@26.25:26.26CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2»
+calgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sumArr@25.18:25.24CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?i@26.25:26.26CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2≈
+`algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sum@26.16:26.19CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?i@26.25:26.26CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?j@30.20:30.21CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2∫
+Ualgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])!numsCALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2∫
+Ualgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])!numsCALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java* (.2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?j@30.20:30.21CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java/ (02√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?j@30.20:30.21CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java   (2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?i@26.25:26.26CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java". "(/2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?j@30.20:30.21CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java"5 "(62Õ
+halgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sumIndexMap@24.41:24.52CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java# #(2≈
+`algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sum@26.16:26.19CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java#  #(#2Õ
+halgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?startAndEnd@34.22:34.33CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java#% #(02√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?i@26.25:26.26CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java$ $(2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?j@30.20:30.21CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java$ $(2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?i@26.25:26.26CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java' '(2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?i@26.25:26.26CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java' '(2∫
+Ualgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])!numsCALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java' '( 2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?i@26.25:26.26CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java') '(*2Õ
+halgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sumIndexMap@24.41:24.52CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java*< *(G2»
+calgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sumArr@25.18:25.24CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java*U *([2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?i@26.25:26.26CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java*\ *(]2—
+lalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midStartWrapper@42.42:42.57CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java+  +(/2—
+lalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midStartWrapper@42.42:42.57CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java+K +(Z2 
+ealgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midStart@43.21:43.29CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java, ,(2 
+ealgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midStart@43.21:43.29CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java,$ ,(,2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?i@26.25:26.26CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java,. ,(/2Õ
+halgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sumIndexMap@24.41:24.52CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java0< 0(G2»
+calgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sumArr@25.18:25.24CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java0T 0(Z2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?i@26.25:26.26CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java0[ 0(\2≈
+`algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sum@26.16:26.19CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java0` 0(c2—
+lalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midRightWrapper@48.42:48.57CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java1  1(/2—
+lalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midRightWrapper@48.42:48.57CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java1: 1(I2 
+ealgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midRight@49.21:49.29CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java2 2(2 
+ealgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midRight@49.21:49.29CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java2$ 2(,2∫
+Ualgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])!numsCALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java2. 2(22 
+ealgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midRight@49.21:49.29CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java3 3(2 
+ealgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midStart@43.21:43.29CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java3 3('2≈
+`algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?ans@38.17:38.20CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java4' 4(*2≈
+`algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?ans@38.17:38.20CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java5 5(2≈
+`algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?ans@38.17:38.20CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java5 5(2 
+ealgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midRight@49.21:49.29CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java5! 5()2 
+ealgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midStart@43.21:43.29CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java5, 5(42≈
+`algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?ans@38.17:38.20CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java8 8(2ø
+Ualgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])!nums	PARAMETER[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java% ()2‘
+halgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sumIndexMap@24.41:24.52DECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java) (42œ
+calgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sumArr@25.18:25.24DECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2Ã
+`algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sum@26.16:26.19DECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2 
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?i@26.25:26.26DECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2 
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?j@30.20:30.21DECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2‘
+halgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?startAndEnd@34.22:34.33DECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java" "(!2Ã
+`algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?ans@38.17:38.20DECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java& &(2ÿ
+lalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midStartWrapper@42.42:42.57DECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java** *(92—
+ealgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midStart@43.21:43.29DECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java+ +(2ÿ
+lalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midRightWrapper@48.42:48.57DECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java0* 0(92—
+ealgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midRight@49.21:49.29DECLARATION[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java1 1(2o
+intRETURN_TYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (˘
+halgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sumIndexMap@24.41:24.52VARIABLE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java) (4"$
+type NavigableMap<Integer,int[]>*sumIndexMap2{
+java.util.NavigableMapTYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2s
+int[]TYPE_ARGUMENT[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java ( 2Ä
+java.util.TreeMap.TreeMap()CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java; (Dç
+calgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sumArr@25.18:25.24VARIABLE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java ("
+type int[]*sumArr2j
+int[]TYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2∫
+Ualgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])!numsCALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java# ('∆
+`algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sum@26.16:26.19VARIABLE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java ("
+type int*sum2h
+intTYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (¬
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?i@26.25:26.26VARIABLE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java ("
+type int*i2h
+intTYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (à
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?j@30.20:30.21VARIABLE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java ("
+type int*j2h
+intTYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?i@26.25:26.26CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java (Ê
+halgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?startAndEnd@34.22:34.33VARIABLE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java" "(!"
+type int[]*startAndEnd2j
+int[]TYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java" "(2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?i@26.25:26.26CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java". "(/2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?j@30.20:30.21CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java"5 "(6»
+`algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?ans@38.17:38.20VARIABLE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java& &("
+type long*ans2i
+longTYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java& &(Ë
+
+lalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midStartWrapper@42.42:42.57VARIABLE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java** *(9"!
+type Map.Entry<Integer,int[]>*midStartWrapper2x
+java.util.Map.EntryTYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java* *(2
+java.lang.IntegerTYPE_ARGUMENT[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java* *(2s
+int[]TYPE_ARGUMENT[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java* *(!2ã
+&java.util.NavigableMap.ceilingEntry(K)CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java*H *(T2Õ
+halgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sumIndexMap@24.41:24.52CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java*< *(G2»
+calgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sumArr@25.18:25.24CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java*U *([2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?i@26.25:26.26CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java*\ *(]Ä
+ealgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midStart@43.21:43.29VARIABLE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java+ +("
+type long*midStart2i
+longTYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java+ +(2É
+java.util.Map.Entry.getValue()CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java+[ +(c2—
+lalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midStartWrapper@42.42:42.57CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java+  +(/2—
+lalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midStartWrapper@42.42:42.57CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java+K +(ZÆ
+lalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midRightWrapper@48.42:48.57VARIABLE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java0* 0(9"!
+type Map.Entry<Integer,int[]>*midRightWrapper2x
+java.util.Map.EntryTYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java0 0(2
+java.lang.IntegerTYPE_ARGUMENT[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java0 0(2s
+int[]TYPE_ARGUMENT[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java0 0(!2â
+$java.util.NavigableMap.floorEntry(K)CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java0H 0(R2Õ
+halgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sumIndexMap@24.41:24.52CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java0< 0(G2»
+calgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sumArr@25.18:25.24CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java0T 0(Z2√
+^algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?i@26.25:26.26CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java0[ 0(\2≈
+`algorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?sum@26.16:26.19CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java0` 0(cÄ
+ealgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midRight@49.21:49.29VARIABLE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java1 1("
+type long*midRight2i
+longTYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java1 1(2É
+java.util.Map.Entry.getValue()CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java1J 1(R2—
+lalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midRightWrapper@48.42:48.57CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java1  1(/2—
+lalgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])?midRightWrapper@48.42:48.57CALL[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java1: 1(I±
+Ualgorithme.search.WaysToSplitArrayIntoThreeSubarrays.Solution.waysToSplit(int[])!nums	PARAMETER[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java% ()*nums2j
+int[]TYPE[
+Qalgorithm/src/main/java/algorithme/search/WaysToSplitArrayIntoThreeSubarrays.java ($

@@ -1,0 +1,354 @@
+
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.javaÇ
+=algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986CLASSd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (<"
+inner classfalse*/MinimumNumberOfWorkSessionsToFinishTheTasks19862À
+Valgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.main(java.lang.String[])DECLARATIONd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java
+ 
+(2ª
+Falgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()DECLARATIONd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2¬
+Malgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986?input@5.32:5.37DECLARATIONd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java  (%2ª
+Falgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.SolutionDECLARATIONd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java
+ (≠
+
+Valgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.main(java.lang.String[])METHODd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java
+ 
+("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2õ
+-java.io.PrintStream.println(java.lang.String)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2ì
+%java.lang.Integer.toBinaryString(int)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java# (12¥
+Falgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java> (D2›
+oalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.MinimumNumberOfWorkSessionsToFinishTheTasks1986()CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (;2Œ
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.main(java.lang.String[])!args	PARAMETERd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java
+% 
+()2y
+voidRETURN_TYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java
+ 
+(◊
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.main(java.lang.String[])!args	PARAMETERd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java
+% 
+()*args2Ä
+java.lang.String[]TYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java
+ 
+($°0
+Falgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()METHODd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java ("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*bridge2ñ
+(java.lang.String.split(java.lang.String)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (#2ñ
+(java.lang.String.split(java.lang.String)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java ($2≤
+Djava.util.stream.Stream.toArray(java.util.function.IntFunction<A[]>)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java+ (22æ
+Pjava.util.stream.Stream.map(java.util.function.Function<? super T, ? extends R>)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2æ
+Pjava.util.stream.Stream.map(java.util.function.Function<? super T, ? extends R>)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2ä
+java.util.Arrays.stream(T[])CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java+ (12ñ
+(java.lang.String.split(java.lang.String)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.javaH (M2ç
+java.lang.String.substring(int)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java; (D2é
+ java.io.PrintStream.println(int)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2Ã
+^algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.minSessions(int[], int)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java. (92ö
+,java.lang.Integer.parseInt(java.lang.String)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.javaI (Q2Ö
+java.lang.String.trim()CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java[ (_2ø
+Qalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.Solution()CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java# (+2ª
+Malgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986?input@5.32:5.37CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2¬
+Talgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?s@16.20:16.21CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2∆
+Xalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?split@17.21:17.26CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java2 (72Ã
+^algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?taskInteger@18.22:18.33CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java" (-2¬
+Talgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?i@22.21:22.22CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2Ã
+^algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?taskInteger@18.22:18.33CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java  (+2¬
+Talgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?i@22.21:22.22CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java4 (52∆
+Xalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?tasks@21.18:21.23CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2¬
+Talgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?i@22.21:22.22CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2Ã
+^algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?taskInteger@18.22:18.33CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (&2¬
+Talgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?i@22.21:22.22CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java' ((2∆
+Xalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?tasks@21.18:21.23CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java: (?2∆
+Xalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?split@17.21:17.26CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.javaR (W2…
+Talgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?s@16.20:16.21DECLARATIONd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2Õ
+Xalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?split@17.21:17.26DECLARATIONd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2”
+^algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?taskInteger@18.22:18.33DECLARATIONd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (!2Õ
+Xalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?tasks@21.18:21.23DECLARATIONd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2…
+Talgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?i@22.21:22.22DECLARATIONd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2y
+voidRETURN_TYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (⁄
+Talgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?s@16.20:16.21VARIABLEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java ("
+type String*s2~
+java.lang.StringTYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (≈
+Xalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?split@17.21:17.26VARIABLEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java ("
+type String[]*split2Ä
+java.lang.String[]TYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2ñ
+(java.lang.String.split(java.lang.String)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java ($2¬
+Talgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?s@16.20:16.21CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (´
+^algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?taskInteger@18.22:18.33VARIABLEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (!"
+type 	Integer[]*taskInteger2Å
+java.lang.Integer[]TYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2≤
+Djava.util.stream.Stream.toArray(java.util.function.IntFunction<A[]>)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java+ (22æ
+Pjava.util.stream.Stream.map(java.util.function.Function<? super T, ? extends R>)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2æ
+Pjava.util.stream.Stream.map(java.util.function.Function<? super T, ? extends R>)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2ä
+java.util.Arrays.stream(T[])CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java+ (12ñ
+(java.lang.String.split(java.lang.String)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.javaH (M2ç
+java.lang.String.substring(int)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java; (D2∆
+Xalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?split@17.21:17.26CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java2 (7•
+Xalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?tasks@21.18:21.23VARIABLEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java ("
+type int[]*tasks2s
+int[]TYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2Ã
+^algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?taskInteger@18.22:18.33CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java" (- 
+Talgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.bridge()?i@22.21:22.22VARIABLEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java ("
+type int*i2q
+intTYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (‘
+Malgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986?input@5.32:5.37VALUEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java  (%"
+type String*input2~
+java.lang.StringTYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (¿
+Falgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.SolutionCLASSd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java
+ ("
+inner classtrue*Solution2”
+^algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.minSessions(int[], int)DECLARATIONd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java$ $(2…
+Talgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)DECLARATIONd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java. .(2À
+Valgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?res@31.12:31.15DECLARATIONd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (2÷
+aalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?maxSessionTime@32.12:32.26DECLARATIONd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java   (2Õ
+Xalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?tasks@33.14:33.19DECLARATIONd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java! !(2–
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?sessions@34.14:34.22DECLARATIONd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java" "(§
+^algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.minSessions(int[], int)METHODd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java$ $("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*minSessions2ä
+java.util.Arrays.sort(int[])CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java% %(2¬
+Talgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java* *(2“
+dalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.minSessions(int[], int)!tasksCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java% %(2“
+dalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.minSessions(int[], int)!tasksCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java& &(2ÿ
+jalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.minSessions(int[], int)!sessionTimeCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java'" '(-2“
+dalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.minSessions(int[], int)!tasksCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java( ((2“
+dalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.minSessions(int[], int)!tasksCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java)$ )()2“
+dalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.minSessions(int[], int)!tasksCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java* *(2ƒ
+Valgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?res@31.12:31.15CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java+ +(2ƒ
+Valgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?res@31.12:31.15CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java& &(2œ
+aalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?maxSessionTime@32.12:32.26CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java' '(2∆
+Xalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?tasks@33.14:33.19CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java( ((2…
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?sessions@34.14:34.22CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java) )(2◊
+dalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.minSessions(int[], int)!tasks	PARAMETERd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java$% $(*2›
+jalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.minSessions(int[], int)!sessionTime	PARAMETERd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java$0 $(;2x
+intRETURN_TYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java$ $(”
+dalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.minSessions(int[], int)!tasks	PARAMETERd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java$% $(**tasks2s
+int[]TYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java$ $($›
+jalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.minSessions(int[], int)!sessionTime	PARAMETERd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java$0 $(;*sessionTime2q
+intTYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java$, $(/øD
+Talgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)METHODd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java. .("
+staticfalse"
+finalfalse"
+access modifierprivate"
+type void*dfs2ä
+java.lang.Math.min(int, int)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java1 1(2¬
+Talgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java7 7(2¬
+Talgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java; ;(2œ
+aalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!sessionCountCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java/ /(2ƒ
+Valgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?res@31.12:31.15CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java/ /("2…
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!taskIDCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java0 0(2∆
+Xalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?tasks@33.14:33.19CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java0 0(2ƒ
+Valgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?res@31.12:31.15CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java1 1(2ƒ
+Valgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?res@31.12:31.15CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java1 1("2œ
+aalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!sessionCountCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java1$ 1(02–
+balgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)?i@52.21:52.22CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java4 4(2œ
+aalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!sessionCountCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java4  4(,2–
+balgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)?i@52.21:52.22CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java4. 4(/2…
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?sessions@34.14:34.22CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java5 5(2–
+balgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)?i@52.21:52.22CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java5 5(2∆
+Xalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?tasks@33.14:33.19CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java5" 5('2…
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!taskIDCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java5( 5(.2œ
+aalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?maxSessionTime@32.12:32.26CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java53 5(A2…
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?sessions@34.14:34.22CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java6 6(2–
+balgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)?i@52.21:52.22CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java6 6(2∆
+Xalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?tasks@33.14:33.19CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java6# 6((2…
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!taskIDCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java6) 6(/2…
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!taskIDCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java7 7(2œ
+aalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!sessionCountCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java7$ 7(02…
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?sessions@34.14:34.22CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java8 8(2–
+balgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)?i@52.21:52.22CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java8 8(2∆
+Xalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?tasks@33.14:33.19CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java8# 8((2…
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!taskIDCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java8) 8(/2…
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?sessions@34.14:34.22CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java: :(2œ
+aalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!sessionCountCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java: :(!2∆
+Xalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?tasks@33.14:33.19CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java:& :(+2…
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!taskIDCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java:, :(22…
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!taskIDCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java; ;(2œ
+aalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!sessionCountCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java; ;((2…
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?sessions@34.14:34.22CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java< <(2œ
+aalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!sessionCountCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java< <(!2∆
+Xalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?tasks@33.14:33.19CALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java<& <(+2…
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!taskIDCALLd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java<, <(22Œ
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!taskID	PARAMETERd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java. .(#2‘
+aalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!sessionCount	PARAMETERd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java.) .(52◊
+balgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)?i@52.21:52.22DECLARATIONd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java4 4(2y
+voidRETURN_TYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java. .(ÿ
+balgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)?i@52.21:52.22VARIABLEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java4 4("
+type int*i2q
+intTYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java4 4(…
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!taskID	PARAMETERd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java. .(#*taskID2q
+intTYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java. .(’
+aalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution.dfs(int, int)!sessionCount	PARAMETERd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java.) .(5*sessionCount2q
+intTYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java.% .((Œ
+Valgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?res@31.12:31.15VARIABLEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java ("
+type int*res2q
+intTYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java (‰
+aalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?maxSessionTime@32.12:32.26VARIABLEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java   ("
+type int*maxSessionTime2q
+intTYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java   (÷
+Xalgorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?tasks@33.14:33.19VARIABLEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java! !("
+type int[]*tasks2s
+int[]TYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java! !(‹
+[algorithme.dp.MinimumNumberOfWorkSessionsToFinishTheTasks1986.Solution?sessions@34.14:34.22VARIABLEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java" "("
+type int[]*sessions2s
+int[]TYPEd
+Zalgorithm/src/main/java/algorithme/dp/MinimumNumberOfWorkSessionsToFinishTheTasks1986.java" "(

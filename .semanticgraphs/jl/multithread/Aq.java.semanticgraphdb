@@ -1,0 +1,316 @@
+
+.knowledge/src/main/java/jl/multithread/Aq.javaÅ
+jl.multithread.AqCLASS8
+.knowledge/src/main/java/jl/multithread/Aq.java	 	("
+inner classfalse*Aq2s
+*jl.multithread.Aq.main(java.lang.String[])DECLARATION8
+.knowledge/src/main/java/jl/multithread/Aq.java (2c
+jl.multithread.Aq.method()DECLARATION8
+.knowledge/src/main/java/jl/multithread/Aq.java$ $(2e
+jl.multithread.Aq.testSync()DECLARATION8
+.knowledge/src/main/java/jl/multithread/Aq.java5 5(%2a
+jl.multithread.Aq.test()DECLARATION8
+.knowledge/src/main/java/jl/multithread/Aq.java9 9(2m
+$jl.multithread.Aq?object@10.26:10.32DECLARATION8
+.knowledge/src/main/java/jl/multithread/Aq.java
+ 
+( ¡
+*jl.multithread.Aq.main(java.lang.String[])METHOD8
+.knowledge/src/main/java/jl/multithread/Aq.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2t
+2java.lang.Class.getDeclaredField(java.lang.String)CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java5 (E2o
+-java.lang.reflect.Field.get(java.lang.Object)CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaU (X2é
+Ljava.util.concurrent.locks.AbstractQueuedSynchronizer.getFirstQueuedThread()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java1 (E2o
+-java.io.PrintStream.println(java.lang.String)CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java# (*2\
+java.lang.Thread.getName()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java= (D2^
+java.lang.Thread.interrupt()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java* (32g
+%java.lang.Throwable.printStackTrace()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java (%2Z
+java.lang.Thread.start()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java (2Z
+java.lang.Thread.start()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java %  (*2m
++java.lang.Thread.Thread(java.lang.Runnable)CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java (!2m
++java.lang.Thread.Thread(java.lang.Runnable)CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java   (2c
+!jl.multithread.Aq.Runner.Runner()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java   (!2}
+;jl.multithread.Aq.main(java.lang.String[])?sync@16.26:16.30CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java3 (72}
+;jl.multithread.Aq.main(java.lang.String[])?sync@16.26:16.30CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaP (T2z
+8jl.multithread.Aq.main(java.lang.String[])?o@18.47:18.48CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java/ (02ä
+Hjl.multithread.Aq.main(java.lang.String[])?firstQueuedThread@19.27:19.44CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java ()2ä
+Hjl.multithread.Aq.main(java.lang.String[])?firstQueuedThread@19.27:19.44CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java+ (<2ä
+Hjl.multithread.Aq.main(java.lang.String[])?firstQueuedThread@19.27:19.44CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java ()2z
+8jl.multithread.Aq.main(java.lang.String[])?e@25.35:25.36CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java (2~
+<jl.multithread.Aq.main(java.lang.String[])?sync1@13.15:13.20CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java (2z
+8jl.multithread.Aq.main(java.lang.String[])?i@31.17:31.18CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java (2z
+8jl.multithread.Aq.main(java.lang.String[])?i@31.17:31.18CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java  (!2k
+)jl.multithread.Aq.Runner?lock@78.43:78.47CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java` (d2v
+/jl.multithread.Aq.main(java.lang.String[])!args	PARAMETER8
+.knowledge/src/main/java/jl/multithread/Aq.java% ()2Ö
+<jl.multithread.Aq.main(java.lang.String[])?sync1@13.15:13.20DECLARATION8
+.knowledge/src/main/java/jl/multithread/Aq.java (2Ñ
+;jl.multithread.Aq.main(java.lang.String[])?sync@16.26:16.30DECLARATION8
+.knowledge/src/main/java/jl/multithread/Aq.java (2Å
+8jl.multithread.Aq.main(java.lang.String[])?o@18.47:18.48DECLARATION8
+.knowledge/src/main/java/jl/multithread/Aq.java/ (02ë
+Hjl.multithread.Aq.main(java.lang.String[])?firstQueuedThread@19.27:19.44DECLARATION8
+.knowledge/src/main/java/jl/multithread/Aq.java (,2Å
+8jl.multithread.Aq.main(java.lang.String[])?i@31.17:31.18DECLARATION8
+.knowledge/src/main/java/jl/multithread/Aq.java (2Å
+8jl.multithread.Aq.main(java.lang.String[])?e@25.35:25.36DECLARATION8
+.knowledge/src/main/java/jl/multithread/Aq.java# ($2M
+voidRETURN_TYPE8
+.knowledge/src/main/java/jl/multithread/Aq.java (˜
+<jl.multithread.Aq.main(java.lang.String[])?sync1@13.15:13.20VARIABLE8
+.knowledge/src/main/java/jl/multithread/Aq.java ("
+type Thread*sync12R
+java.lang.ThreadTYPE8
+.knowledge/src/main/java/jl/multithread/Aq.java (2t
+2java.lang.Class.getDeclaredField(java.lang.String)CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java5 (E2o
+-java.lang.reflect.Field.get(java.lang.Object)CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaU (X2é
+Ljava.util.concurrent.locks.AbstractQueuedSynchronizer.getFirstQueuedThread()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java1 (E2o
+-java.io.PrintStream.println(java.lang.String)CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java# (*2\
+java.lang.Thread.getName()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java= (D2^
+java.lang.Thread.interrupt()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java* (32g
+%java.lang.Throwable.printStackTrace()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java (%2m
++java.lang.Thread.Thread(java.lang.Runnable)CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java (!2}
+;jl.multithread.Aq.main(java.lang.String[])?sync@16.26:16.30CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java3 (72}
+;jl.multithread.Aq.main(java.lang.String[])?sync@16.26:16.30CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaP (T2z
+8jl.multithread.Aq.main(java.lang.String[])?o@18.47:18.48CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java/ (02ä
+Hjl.multithread.Aq.main(java.lang.String[])?firstQueuedThread@19.27:19.44CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java ()2ä
+Hjl.multithread.Aq.main(java.lang.String[])?firstQueuedThread@19.27:19.44CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java+ (<2ä
+Hjl.multithread.Aq.main(java.lang.String[])?firstQueuedThread@19.27:19.44CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java ()2z
+8jl.multithread.Aq.main(java.lang.String[])?e@25.35:25.36CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java (2k
+)jl.multithread.Aq.Runner?lock@78.43:78.47CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java` (dË
+;jl.multithread.Aq.main(java.lang.String[])?sync@16.26:16.30VARIABLE8
+.knowledge/src/main/java/jl/multithread/Aq.java ("
+type Field*sync2Y
+java.lang.reflect.FieldTYPE8
+.knowledge/src/main/java/jl/multithread/Aq.java (2t
+2java.lang.Class.getDeclaredField(java.lang.String)CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java5 (E¸
+8jl.multithread.Aq.main(java.lang.String[])?o@18.47:18.48VARIABLE8
+.knowledge/src/main/java/jl/multithread/Aq.java/ (0"#
+type AbstractQueuedSynchronizer*o2w
+5java.util.concurrent.locks.AbstractQueuedSynchronizerTYPE8
+.knowledge/src/main/java/jl/multithread/Aq.java (.2o
+-java.lang.reflect.Field.get(java.lang.Object)CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaU (X2}
+;jl.multithread.Aq.main(java.lang.String[])?sync@16.26:16.30CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaP (T2k
+)jl.multithread.Aq.Runner?lock@78.43:78.47CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java` (dì
+Hjl.multithread.Aq.main(java.lang.String[])?firstQueuedThread@19.27:19.44VARIABLE8
+.knowledge/src/main/java/jl/multithread/Aq.java (,"
+type Thread*firstQueuedThread2R
+java.lang.ThreadTYPE8
+.knowledge/src/main/java/jl/multithread/Aq.java (2é
+Ljava.util.concurrent.locks.AbstractQueuedSynchronizer.getFirstQueuedThread()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java1 (E2z
+8jl.multithread.Aq.main(java.lang.String[])?o@18.47:18.48CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java/ (0÷
+8jl.multithread.Aq.main(java.lang.String[])?i@31.17:31.18VARIABLE8
+.knowledge/src/main/java/jl/multithread/Aq.java ("
+type int*i2E
+intTYPE8
+.knowledge/src/main/java/jl/multithread/Aq.java (“
+/jl.multithread.Aq.main(java.lang.String[])!args	PARAMETER8
+.knowledge/src/main/java/jl/multithread/Aq.java% ()*args2T
+java.lang.String[]TYPE8
+.knowledge/src/main/java/jl/multithread/Aq.java ($ÿ
+8jl.multithread.Aq.main(java.lang.String[])?e@25.35:25.36VARIABLE8
+.knowledge/src/main/java/jl/multithread/Aq.java# ($*e2U
+java.lang.ExceptionTYPE8
+.knowledge/src/main/java/jl/multithread/Aq.java ("≥
+jl.multithread.Aq.method()METHOD8
+.knowledge/src/main/java/jl/multithread/Aq.java$ $("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*method2f
+$jl.multithread.Aq?object@10.26:10.32CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java* *(2j
+(jl.multithread.Aq.method()?i@46.17:46.18CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java. .(2j
+(jl.multithread.Aq.method()?i@46.17:46.18CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java.! .("2q
+(jl.multithread.Aq.method()?i@46.17:46.18DECLARATION8
+.knowledge/src/main/java/jl/multithread/Aq.java. .(2M
+voidRETURN_TYPE8
+.knowledge/src/main/java/jl/multithread/Aq.java$ $(∆
+(jl.multithread.Aq.method()?i@46.17:46.18VARIABLE8
+.knowledge/src/main/java/jl/multithread/Aq.java. .("
+type int*i2E
+intTYPE8
+.knowledge/src/main/java/jl/multithread/Aq.java. .(Ñ
+jl.multithread.Aq.testSync()METHOD8
+.knowledge/src/main/java/jl/multithread/Aq.java5 5(%"
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*testSync2M
+voidRETURN_TYPE8
+.knowledge/src/main/java/jl/multithread/Aq.java5 5(ü
+jl.multithread.Aq.test()METHOD8
+.knowledge/src/main/java/jl/multithread/Aq.java9 9("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*test2q
+/java.util.concurrent.locks.ReentrantLock.lock()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java= =(2ó
+Ujava.util.concurrent.locks.ReentrantLock.tryLock(long, java.util.concurrent.TimeUnit)CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaA A( 2s
+1java.util.concurrent.locks.ReentrantLock.unlock()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaE E(2s
+1java.util.concurrent.locks.ReentrantLock.unlock()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaH H(2Å
+?java.util.concurrent.locks.ReentrantLock.ReentrantLock(boolean)CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java;! ;(.2k
+)jl.multithread.Aq.test()?lock@59.22:59.26CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java= =(2k
+)jl.multithread.Aq.test()?lock@59.22:59.26CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaA A(2k
+)jl.multithread.Aq.test()?lock@59.22:59.26CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaE E(2k
+)jl.multithread.Aq.test()?lock@59.22:59.26CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaH H(2r
+)jl.multithread.Aq.test()?lock@59.22:59.26DECLARATION8
+.knowledge/src/main/java/jl/multithread/Aq.java; ;(2M
+voidRETURN_TYPE8
+.knowledge/src/main/java/jl/multithread/Aq.java9 9(˝
+)jl.multithread.Aq.test()?lock@59.22:59.26VARIABLE8
+.knowledge/src/main/java/jl/multithread/Aq.java; ;("
+type ReentrantLock*lock2j
+(java.util.concurrent.locks.ReentrantLockTYPE8
+.knowledge/src/main/java/jl/multithread/Aq.java; ;(2Å
+?java.util.concurrent.locks.ReentrantLock.ReentrantLock(boolean)CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java;! ;(.¥
+$jl.multithread.Aq?object@10.26:10.32VARIABLE8
+.knowledge/src/main/java/jl/multithread/Aq.java
+ 
+( "
+type Object*object2R
+java.lang.ObjectTYPE8
+.knowledge/src/main/java/jl/multithread/Aq.java
+ 
+(2[
+java.lang.Object.Object()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java
+' 
+(-û
+jl.multithread.Aq.RunnerCLASS8
+.knowledge/src/main/java/jl/multithread/Aq.javaL L("
+inner classfalse*Runner2g
+jl.multithread.Aq.Runner.run()DECLARATION8
+.knowledge/src/main/java/jl/multithread/Aq.javaR R(2s
+*jl.multithread.Aq.Runner?myAqs@77.35:77.40DECLARATION8
+.knowledge/src/main/java/jl/multithread/Aq.javaM# M((2r
+)jl.multithread.Aq.Runner?lock@78.43:78.47DECLARATION8
+.knowledge/src/main/java/jl/multithread/Aq.javaN+ N(/2y
+0jl.multithread.Aq.Runner?executeTime@79.27:79.38DECLARATION8
+.knowledge/src/main/java/jl/multithread/Aq.javaO O(&2V
+java.lang.RunnableEXTEND8
+.knowledge/src/main/java/jl/multithread/Aq.javaL+ L(3ì
+jl.multithread.Aq.Runner.run()METHOD8
+.knowledge/src/main/java/jl/multithread/Aq.javaR R("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*run2o
+-java.io.PrintStream.println(java.lang.String)CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaS S(2f
+$java.lang.System.currentTimeMillis()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaT T(+2q
+/java.util.concurrent.locks.ReentrantLock.lock()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaW W(2o
+-java.io.PrintStream.println(java.lang.String)CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaY Y("2\
+java.lang.Thread.getName()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaYG Y(N2b
+ java.lang.Thread.currentThread()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaY7 Y(D2g
+%java.lang.Throwable.printStackTrace()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java[ [(!2s
+1java.util.concurrent.locks.ReentrantLock.unlock()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java] ](2r
+0jl.multithread.Aq.Runner?executeTime@79.27:79.38CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaT0 T(;2k
+)jl.multithread.Aq.Runner?lock@78.43:78.47CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaW W(2n
+,jl.multithread.Aq.Runner.run()?e@90.31:90.32CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java[ [(2k
+)jl.multithread.Aq.Runner?lock@78.43:78.47CALL8
+.knowledge/src/main/java/jl/multithread/Aq.java] ](2u
+,jl.multithread.Aq.Runner.run()?e@90.31:90.32DECLARATION8
+.knowledge/src/main/java/jl/multithread/Aq.javaZ Z( 2M
+voidRETURN_TYPE8
+.knowledge/src/main/java/jl/multithread/Aq.javaR R(Ã
+,jl.multithread.Aq.Runner.run()?e@90.31:90.32VARIABLE8
+.knowledge/src/main/java/jl/multithread/Aq.javaZ Z( *e2U
+java.lang.ExceptionTYPE8
+.knowledge/src/main/java/jl/multithread/Aq.javaZ Z(¬
+*jl.multithread.Aq.Runner?myAqs@77.35:77.40VALUE8
+.knowledge/src/main/java/jl/multithread/Aq.javaM# M(("
+type MyAqs*myAqs2Y
+jl.multithread.Aq.MyAqsTYPE8
+.knowledge/src/main/java/jl/multithread/Aq.javaM M("2a
+jl.multithread.Aq.MyAqs.MyAqs()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaM/ M(4˙
+)jl.multithread.Aq.Runner?lock@78.43:78.47VALUE8
+.knowledge/src/main/java/jl/multithread/Aq.javaN+ N(/"
+type ReentrantLock*lock2j
+(java.util.concurrent.locks.ReentrantLockTYPE8
+.knowledge/src/main/java/jl/multithread/Aq.javaN N(*2Å
+?java.util.concurrent.locks.ReentrantLock.ReentrantLock(boolean)CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaN6 N(Cø
+0jl.multithread.Aq.Runner?executeTime@79.27:79.38VALUE8
+.knowledge/src/main/java/jl/multithread/Aq.javaO O(&"
+type long*executeTime2F
+longTYPE8
+.knowledge/src/main/java/jl/multithread/Aq.javaO O(2f
+$java.lang.System.currentTimeMillis()CALL8
+.knowledge/src/main/java/jl/multithread/Aq.javaO0 O(AÂ
+jl.multithread.Aq.MyAqsCLASS8
+.knowledge/src/main/java/jl/multithread/Aq.javab b("
+inner classfalse*MyAqs2l
+(java.util.concurrent.locks.ReentrantLockEXTEND8
+.knowledge/src/main/java/jl/multithread/Aq.javab' b(4
