@@ -6,6 +6,8 @@ import java.util.*;
  * @author liudong17
  */
 public class MinimizeDeviationInArray1675 {
+    private Solution s = new Solution();
+
     public static void main(String[] args) {
         new MinimizeDeviationInArray1675().bridge();
     }

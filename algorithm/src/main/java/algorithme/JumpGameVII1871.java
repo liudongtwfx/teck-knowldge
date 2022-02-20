@@ -1,5 +1,7 @@
 package algorithme;
 
+import org.apache.commons.lang3.time.StopWatch;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -9,9 +11,12 @@ public class JumpGameVII1871 {
     }
 
     private void bridge() {
-        String s = "011010";
-        boolean canReach = new Solution().canReach(s, 2, 3);
-        System.out.println(canReach);
+//        String s = "011010";
+//        boolean canReach = new Solution().canReach(s, 2, 3);
+//        System.out.println(canReach);
+        int ans = new Solution1().removeDuplicates(new int[]{1, 1, 1, 2, 2, 2, 2, 3, 3, 5});
+        System.out.println(ans);
+        System.out.println("hello world");
     }
 
     class Solution {
@@ -31,6 +36,22 @@ public class JumpGameVII1871 {
                 }
             }
             return canJumped.get(canJumped.size() - 1) == s.length() - 1;
+        }
+    }
+
+    class Solution1 {
+        public int removeDuplicates(int[] nums) {
+            StopWatch stopWatch = new StopWatch();
+            stopWatch.start();
+            int i = 0;
+            for (int n : nums) {
+                if (i < 2 || n > nums[i - 2]) {
+                    nums[i++] = n;
+                }
+            }
+            stopWatch.stop();
+            System.out.println(stopWatch.formatTime());
+            return i;
         }
     }
 }

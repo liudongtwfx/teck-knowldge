@@ -7,10 +7,16 @@ import java.util.concurrent.locks.ReentrantLock;
 public class ThreadState {
     public static void main(String[] args) {
         // new Thread(new NumberPrinter()).start();
-        new Thread(new LocalThread(), "localThread1").start();
-        new Thread(new LocalThread(), "localThread2").start();
-        new Thread(new WaitThread(), "localThread3").start();
-        new Thread(new SleepThread(), "localThread4").start();
+//        new Thread(new LocalThread(), "localThread1").start();
+//        new Thread(new LocalThread(), "localThread2").start();
+//        new Thread(new WaitThread(), "localThread3").start();
+//        new Thread(new SleepThread(), "localThread4").start();
+        System.getProperties().forEach((k, v) -> {
+            String kStr = (String) k;
+            if (kStr.contains("thread")) {
+            }
+            System.out.println("key:" + k + ",value:" + v);
+        });
     }
 
     private static class NumberPrinter implements Runnable {

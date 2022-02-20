@@ -3,7 +3,7 @@ package redis;
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
 import redis.clients.jedis.JedisPoolConfig;
-import redis.clients.jedis.ScanResult;
+import redis.clients.jedis.resps.ScanResult;
 
 public class RedisDemo {
     private static final JedisPoolConfig config = new JedisPoolConfig();
