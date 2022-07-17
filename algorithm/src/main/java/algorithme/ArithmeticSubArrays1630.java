@@ -9,7 +9,7 @@ import java.util.List;
 public class ArithmeticSubArrays1630 {
 
     public static void main(String[] args) throws Exception {
-        String jsonTest = "class KClosestPointsToOrigin973 {\n" +
+        String jsonTest = "class Hello {\n" +
                 "    public static void main(String[] args) {\n" +
                 "        System.out.println(\"hello world\");\n" +
                 "    }\n" +
