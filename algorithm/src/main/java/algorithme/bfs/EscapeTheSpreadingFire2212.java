@@ -31,6 +31,7 @@ public class EscapeTheSpreadingFire2212 {
             int[] dir = new int[]{-1, 0, 1, 0, -1};
 
             // Queue for running BFS
+
             Deque<int[]> fires = new ArrayDeque<>();
 
             for(int row = 0; row < m; row++) {
