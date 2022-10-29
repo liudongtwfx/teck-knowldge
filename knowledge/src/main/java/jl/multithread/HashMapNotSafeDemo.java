@@ -11,8 +11,12 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
 public class HashMapNotSafeDemo {
-    public static void main(String[] args) throws InterruptedException {
-        sameInfoDemo();
+    public static void main(String[] args) throws Exception {
+        System.out.println(-20 >> 2);
+        int a = -20 >>> 2;
+        System.out.println(a);
+        System.out.println(Integer.toBinaryString(a));
+        System.out.println(Integer.toBinaryString(-4));
     }
 
     private static void sameInfoDemo() throws InterruptedException {
@@ -78,7 +82,7 @@ public class HashMapNotSafeDemo {
         @Override
         public int hashCode() {
             return 1;
-}
+        }
 
         @Override
         public boolean equals(Object o) {
