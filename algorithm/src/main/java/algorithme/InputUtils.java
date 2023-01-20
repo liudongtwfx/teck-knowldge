@@ -8,4 +8,9 @@ public class InputUtils {
         return new Gson().fromJson(input, new TypeToken<int[][]>() {
         }.getType());
     }
+
+    public static int[] convertToArrayNum(String input) {
+        return new Gson().fromJson(input, new TypeToken<int[][]>() {
+        }.getType());
+    }
 }
