@@ -13,6 +13,7 @@
         <module>design-pattern</module>
         <module>knowledge</module>
         <module>big-data</module>
+        <module>spring-cloud</module>
     </modules>
 
     <parent>
