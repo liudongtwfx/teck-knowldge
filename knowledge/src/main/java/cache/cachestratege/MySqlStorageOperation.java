@@ -1,4 +1,4 @@
-package redis.cachestratege;
+package cache.cachestratege;
 
 public class MySqlStorageOperation implements StorageOperate<String> {
 

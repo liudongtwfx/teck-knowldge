@@ -8,7 +8,7 @@ import java.util.Queue;
 public class Codec {
 
     // Encodes a tree to a single string.
-    public String serialize(TreeNode root) {
+    public static String serialize(TreeNode root) {
         List<String> str = new ArrayList<>();
         Queue<TreeNode> nodeQueue = new LinkedList<>();
         nodeQueue.offer(root);
@@ -26,7 +26,7 @@ public class Codec {
     }
 
     // Decodes your encoded data to tree.
-    public TreeNode deserialize(String data) {
+    public static TreeNode deserialize(String data) {
         String[] numStrs = data.substring(1, data.length() - 1).split(",");
         if (numStrs[0].equals("null")) {
             return null;

@@ -1,4 +1,4 @@
-package redis.cachestratege;
+package cache.cachestratege;
 
 /**
  * Write-Behind和Write-Through在“程序只和缓存交互且只能通过缓存写数据”这一点上很相似。

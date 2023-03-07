@@ -1,10 +1,9 @@
-package redis.usage;
+package cache.redis.usage;
 
+import cache.redis.Config;
+import cache.redis.Executor;
 import lombok.extern.slf4j.Slf4j;
-import redis.Config;
-import redis.Executor;
 import redis.clients.jedis.Jedis;
-import redis.clients.jedis.JedisPool;
 import redis.clients.jedis.args.ListDirection;
 import redis.clients.jedis.args.ListPosition;
 import redis.clients.jedis.commands.ListCommands;
@@ -16,14 +15,9 @@ import java.util.List;
 
 @Slf4j
 public class ListApi implements ListCommands {
-    private JedisPool jedisPool;
-
-    public ListApi(JedisPool jedisPool) {
-        this.jedisPool = jedisPool;
-    }
 
     public static void main(String[] args) {
-        ListApi listApi = new ListApi(Config.JEDIS);
+        ListApi listApi = new ListApi();
         // long pushResult = listApi.rpush("key", "I", "am", "a", "student");
         // System.out.println(pushResult);
         List<String> key = listApi.lrange("key", 0, -1);
@@ -31,7 +25,7 @@ public class ListApi implements ListCommands {
     }
 
     private <T> T execute(Executor<T> executor) {
-        try (Jedis jedis = jedisPool.getResource()) {
+        try (Jedis jedis = Config.getInstance()) {
             return executor.execute(jedis);
         } catch (Exception e) {
             log.error("get redis exception", e);

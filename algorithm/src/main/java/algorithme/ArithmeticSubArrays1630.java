@@ -2,9 +2,7 @@ package algorithme;
 
 import org.springframework.scripting.groovy.GroovyScriptFactory;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 public class ArithmeticSubArrays1630 {
 
@@ -36,5 +34,22 @@ public class ArithmeticSubArrays1630 {
             }
             return ans;
         }
+    }
+
+    public int[][] mergeArrays(int[][] nums1, int[][] nums2) {
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int[] num : nums1) {
+            map.put(num[0], num[1]);
+        }
+        for (int[] n : nums2) {
+            map.merge(n[0], n[1], Integer::sum);
+        }
+        List<Integer> keys = new ArrayList<>(map.keySet());
+        Collections.sort(keys);
+        int[][] res = new int[keys.size()][2];
+        for (int i = 0; i < keys.size(); i++) {
+            res[i] = new int[]{keys.get(i), map.get(keys.get(i))};
+        }
+        return res;
     }
 }

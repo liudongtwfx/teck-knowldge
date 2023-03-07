@@ -10,7 +10,9 @@ import java.nio.channels.Selector;
 import java.nio.channels.ServerSocketChannel;
 import java.nio.channels.SocketChannel;
 import java.nio.charset.Charset;
+import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.List;
 import java.util.Set;
 
 public class NioServer {
@@ -139,8 +141,32 @@ public class NioServer {
             }
         }
 
-        private void doWrite(SocketChannel channel) {
+        private void doWrite(SocketChannel channel) throws Exception {
+            try {
+                List<Integer> list = new ArrayList<>();
+                System.out.println(list.get(1));
+            } catch (Exception exception) {
+                exception.printStackTrace();
+            }
+            String content = "Hello world";
             log.info("channel {} 向客户端回写", channel.getClass().getName());
+            ByteBuffer byteBuffer = ByteBuffer.wrap(content.getBytes(), 0, content.length());
+            int flag = channel.write(byteBuffer);
+            byteBuffer.flip();
+            log.info("flag:{},{}", flag, Charset.defaultCharset().newDecoder().decode(byteBuffer));
+            if (flag == -1) {
+                System.out.println("客户端写关闭");
+                return;
+            }
+            // 如果flag=0,表示已读完数据
+            if (flag == 0) {
+                System.out.println("写数据完成");
+                return;
+            }
+            byteBuffer.flip();
+            Thread.sleep(1);
+            byteBuffer.clear();
+            channel.register(workerSelector, SelectionKey.OP_WRITE);
         }
 
         private void doReadOrClose(SocketChannel readChannel, SelectionKey key) throws Exception {

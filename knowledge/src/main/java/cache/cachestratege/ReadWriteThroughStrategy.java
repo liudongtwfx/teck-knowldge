@@ -1,4 +1,4 @@
-package redis.cachestratege;
+package cache.cachestratege;
 
 /**
  * 以缓存为操作为主,数据存先存在于缓存,缓存的数据是不会过期的.<br>

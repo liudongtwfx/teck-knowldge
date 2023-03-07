@@ -1,4 +1,4 @@
-package redis.cachestratege;
+package cache.cachestratege;
 
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;

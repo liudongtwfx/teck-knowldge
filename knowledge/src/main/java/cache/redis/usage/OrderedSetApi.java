@@ -1,4 +1,4 @@
-package redis.usage;
+package cache.redis.usage;
 
 public class OrderedSetApi {
 

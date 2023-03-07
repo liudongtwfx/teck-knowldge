@@ -1,4 +1,4 @@
-package redis.cachestratege;
+package cache.cachestratege;
 
 public interface StorageOperate<T> {
     void save(String key, T value);

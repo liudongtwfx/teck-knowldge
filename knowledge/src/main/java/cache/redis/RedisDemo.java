@@ -1,4 +1,4 @@
-package redis;
+package cache.redis;
 
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
@@ -16,7 +16,7 @@ public class RedisDemo {
     }
 
     public static void main(String[] args) throws Exception {
-        for (int i = 0; i < 1000; i++) {
+        for (int i = 0; i < 1; i++) {
             new Thread(new SortedSetRunner(String.valueOf(i), i)).start();
         }
 

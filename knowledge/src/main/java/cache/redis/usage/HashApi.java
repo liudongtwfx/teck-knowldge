@@ -1,4 +1,4 @@
-package redis.usage;
+package cache.redis.usage;
 
 import redis.clients.jedis.commands.HashCommands;
 import redis.clients.jedis.params.ScanParams;

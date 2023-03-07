@@ -14,6 +14,7 @@
         <module>knowledge</module>
         <module>big-data</module>
         <module>spring-cloud</module>
+        <module>sankuai-project</module>
     </modules>
 
     <parent>
@@ -53,6 +54,12 @@
             <groupId>org.apache.kafka</groupId>
             <artifactId>kafka-clients</artifactId>
             <version>3.2.3</version>
+            <exclusions>
+                <exclusion>
+                    <artifactId>slf4j-api</artifactId>
+                    <groupId>org.slf4j</groupId>
+                </exclusion>
+            </exclusions>
         </dependency>
 
 

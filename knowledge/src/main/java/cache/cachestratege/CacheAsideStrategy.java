@@ -1,4 +1,4 @@
-package redis.cachestratege;
+package cache.cachestratege;
 
 import lombok.AllArgsConstructor;
 import org.apache.commons.lang3.tuple.Pair;

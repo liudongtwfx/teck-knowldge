@@ -1,4 +1,4 @@
-package redis.cachestratege;
+package cache.cachestratege;
 
 /***
  * <a href='https://www.cnblogs.com/mrcharleshu/p/13193505.html'>参考文档 </a>

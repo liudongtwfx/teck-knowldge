@@ -1,7 +1,7 @@
 package design.pattern.create.singleton;
 
 
-import org.elasticsearch.common.StopWatch;
+import org.springframework.util.StopWatch;
 
 import java.util.ArrayList;
 import java.util.HashSet;
