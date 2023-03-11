@@ -3,8 +3,6 @@ package net.nio;
 
 import lombok.extern.slf4j.Slf4j;
 
-import java.io.File;
-import java.io.FileOutputStream;
 import java.io.IOException;
 import java.net.InetSocketAddress;
 import java.nio.ByteBuffer;
@@ -15,12 +13,11 @@ import java.nio.charset.Charset;
 
 @Slf4j
 public class NioClient {
-    private static final String HOST = "127.0.0.1";
+    private static final String HOST = "192.168.0.102";
 
     private static final int PORT = 8080;
 
     public static void main(String[] args) throws Exception {
-        new FileOutputStream("").getChannel();
         for (int i = 0; i < 1; i++) {
             final int index = i;
             new Thread(() -> {

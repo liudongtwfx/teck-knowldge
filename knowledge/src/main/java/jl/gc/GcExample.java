@@ -38,27 +38,29 @@ public class GcExample {
         Map<Integer, WeakReference<BigArray>> integerWeakReferenceMap = demoWithWeakReferenced();
         for (int i = 0; i < 10; i++) {
             //functionWithStack();
-            List<LargeExample> largeExamples = functionWithReturn();
+            new Thread(() -> {
+                while (true) {
+                    functionWithReturn();
+                }
+            }).start();
         }
-        //demoWithSoftReferenced();
     }
-
     private static void alloc() {
-        int[] nums = new int[1024 * 1024];
+        int[] nums = new int[1024 * 10];
 
     }
 
     private static void functionWithStack() {
         List<LargeExample> largeExamples = new ArrayList<>();
         for (int i = 0; i < 100000; i++) {
-            largeExamples.add(new LargeExample(i, String.valueOf(i)));
+            largeExamples.add(new LargeExample(i, String.valueOf(i), new String(new char[1024 * 10])));
         }
     }
 
     private static List<LargeExample> functionWithReturn() {
         List<LargeExample> largeExample = new ArrayList<>();
         for (int i = 0; i < 10000; i++) {
-            largeExample.add(new LargeExample(i, String.valueOf(i)));
+            largeExample.add(new LargeExample(i, String.valueOf(i), new String(new char[1024 * 10])));
         }
         return largeExample;
     }
@@ -94,6 +96,7 @@ public class GcExample {
     private static class LargeExample {
         private Integer a;
         private String name;
+        private String value;
     }
 
 
