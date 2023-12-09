@@ -1,14 +1,12 @@
 package spring.controller;
 
 import com.google.gson.Gson;
+import jakarta.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
+import spring.DynamicThreadPool;
 
-import javax.servlet.http.HttpServletRequest;
 
 @RestController
 @Slf4j
@@ -22,10 +20,16 @@ public class UserController {
         log.info("post mapping {}", request);
         return "hello world";
     }
+
     @GetMapping("/users")
     public String getUser(HttpServletRequest request) {
         log.info("{}", request);
         return "hello world";
     }
 
+    @GetMapping("/setCore/{core}")
+    public String runThread(@PathVariable("core") int core) {
+        DynamicThreadPool.setCore(core);
+        return "hello world";
+    }
 }

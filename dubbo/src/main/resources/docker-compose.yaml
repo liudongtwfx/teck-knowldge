@@ -1,0 +1,6 @@
+version: '3'
+services:
+  zookeeper:
+    image: zookeeper:3.7.1-temurin
+    ports:
+      - "2181:2181"

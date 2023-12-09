@@ -6,17 +6,14 @@ import java.util.concurrent.locks.ReentrantLock;
 
 public class ThreadState {
     public static void main(String[] args) {
-        // new Thread(new NumberPrinter()).start();
-//        new Thread(new LocalThread(), "localThread1").start();
-//        new Thread(new LocalThread(), "localThread2").start();
-//        new Thread(new WaitThread(), "localThread3").start();
-//        new Thread(new SleepThread(), "localThread4").start();
-        System.getProperties().forEach((k, v) -> {
-            String kStr = (String) k;
-            if (kStr.contains("thread")) {
-            }
-            System.out.println("key:" + k + ",value:" + v);
-        });
+        new Thread(new NumberPrinter()).start();
+        new Thread(new LocalThread(), "localThread1").start();
+        new Thread(new LocalThread(), "localThread2").start();
+        new Thread(new WaitThread(), "localThread3").start();
+        new Thread(new WaitThread(), "localThread4").start();
+        new Thread(new SleepThread(), "localThread5").start();
+        new Thread(new BlockThread(), "localThread6").start();
+        new Thread(new BlockThread(), "localThread7").start();
     }
 
     private static class NumberPrinter implements Runnable {
@@ -47,13 +44,15 @@ public class ThreadState {
     }
 
     private static class WaitThread implements Runnable {
-        private static final Object lock = new Object();
+        private static final Object LOCK = new Object();
 
         @SneakyThrows
         @Override
         public void run() {
-            synchronized (lock) {
-                lock.wait();
+            synchronized (LOCK) {
+                System.out.println(LOCK.hashCode());
+                LOCK.wait();
+                System.out.println("hello world");
             }
         }
     }
@@ -63,6 +62,19 @@ public class ThreadState {
         @Override
         public void run() {
             Thread.sleep(10000000);
+        }
+    }
+
+    private static class BlockThread implements Runnable {
+        private static final Object LOCK = new Object();
+
+        @SneakyThrows
+        @Override
+        public void run() {
+            synchronized (LOCK) {
+                System.out.println(Thread.currentThread().getName());
+                Thread.sleep(10000000);
+            }
         }
     }
 }

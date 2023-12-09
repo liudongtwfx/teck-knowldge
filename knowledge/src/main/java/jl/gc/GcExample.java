@@ -40,11 +40,12 @@ public class GcExample {
             //functionWithStack();
             new Thread(() -> {
                 while (true) {
-                    functionWithReturn();
+                    demoWithWeakReferenced();
                 }
             }).start();
         }
     }
+
     private static void alloc() {
         int[] nums = new int[1024 * 10];
 
@@ -66,13 +67,14 @@ public class GcExample {
     }
 
     /**
+     * 弱引用也是用来描述非必需对象的，当JVM进行垃圾回收时，无论内存是否充足，都会回收被弱引用关联的对象。
      * 一般在弱引用的同时，这个对象可能也被强引用了。如果这个强引用消失了，系统就开始回收弱引用。
      *
      * @return
      */
     private static Map<Integer, WeakReference<BigArray>> demoWithWeakReferenced() {
         Map<Integer, WeakReference<BigArray>> map = new HashMap<>();
-        for (int i = 0; i < 100000; i++) {
+        for (int i = 0; i < 1000000000; i++) {
             map.put(i, new WeakReference<>(new BigArray(i)));
         }
         return map;

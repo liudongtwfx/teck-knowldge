@@ -1,0 +1,7 @@
+spring:
+  redis:
+    blockWhenExhausted: true
+    host: ${SCAFFOLD_REDIS_HOST:localhost}
+    maxIdle: 100
+    maxTotal: 1000
+    port: 6379

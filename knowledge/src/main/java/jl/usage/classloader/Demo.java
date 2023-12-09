@@ -14,9 +14,23 @@ import java.util.ArrayList;
  * 这三个 ClassLoader 之间形成了级联的父子关系，每个 ClassLoader 都很懒，尽量把工作交给父亲做，父亲干不了了自己才会干。每个 ClassLoader 对象内部都会有一个 parent 属性指向它的父加载器。
  */
 public class Demo {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
+
+        Thread.sleep(2000);
+
         System.out.println(ArrayList.class.getClassLoader());
         System.out.println(MirroredTypesException.class.getClassLoader());
         System.out.println(Demo.class.getClassLoader());
+
+        for (int i = 0; i < 1; i++) {
+            testClassLoadTime();
+            System.gc();
+        }
+    }
+
+    private static void testClassLoadTime() {
+        System.out.println("before new MyObject");
+        MyObject myObject = new MyObject();
+        System.out.println("after new MyObject");
     }
 }
